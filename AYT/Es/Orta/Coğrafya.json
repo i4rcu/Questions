@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi, Türkiye'nin dört bölgesel kalkınma projesinden biri değildir?",
+    "options": [
+      {
+        "text": "Doğu Anadolu Projesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneydoğu Anadolu Projesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kırsal Kalkınma Projesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Batı Karadeniz Bölgesi Kalkınma Projesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kırsal Kalkınma Projesi, Türkiye'nin dört ana bölgesel kalkınma projesinden biri değildir. Diğer üç proje, Türkiye'nin belirli bölgelerinde kalkınmayı hedeflemektedir.",
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "keywords": [
+      "Bölgesel Kalkınma Projeleri",
+      "Türkiye"
+    ],
+    "learningObjective": "Öğrencinin Türkiye'nin ana bölgesel kalkınma projelerini anlaması ve ayırt etmesi beklenmektedir.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisinin nüfus yoğunluğu en yüksektir?",
+    "options": [
+      {
+        "text": "Kanada",
+        "isCorrect": false
+      },
+      {
+        "text": "Rusya",
+        "isCorrect": false
+      },
+      {
+        "text": "Bangladeş",
+        "isCorrect": true
+      },
+      {
+        "text": "Avustralya",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bangladeş, km² başına düşen nüfusu ile dünyanın en yoğun nüfuslu ülkelerinden biridir. Diğer üç seçenek geniş topraklara sahip olup nüfus yoğunlukları düşüktür.",
+    "topic": "Ülkeler Coğrafyası",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "keywords": [
+      "Nüfus Yoğunluğu",
+      "Ülkeler"
+    ],
+    "learningObjective": "Öğrencinin dünya üzerindeki farklı ülkelerin nüfus yoğunluklarını anlaması ve karşılaştırabilmesi beklenmektedir.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir doğal afet türüdür?",
+    "options": [
+      {
+        "text": "Sel",
+        "isCorrect": true
+      },
+      {
+        "text": "Yangın",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıtlık",
+        "isCorrect": false
+      },
+      {
+        "text": "Epidemi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sel, doğal bir afet türüdür. Yangınlar, kıtlıklar ve epidemi gibi durumlar genellikle insan eylemleri veya hastalıklar sonucunda oluşur ve doğal afetler olarak kabul edilmez.",
+    "topic": "Doğal Afetler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "keywords": [
+      "Doğal Afetler",
+      "Sel"
+    ],
+    "learningObjective": "Öğrencinin doğal afet türlerini tanımlaması ve anlaması beklenmektedir.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki bölgelerden hangisi, dünyanın en yüksek dağlarına ev sahipliği yapmaktadır?",
+    "options": [
+      {
+        "text": "And Dağları",
+        "isCorrect": false
+      },
+      {
+        "text": "Himalaya Dağları",
+        "isCorrect": true
+      },
+      {
+        "text": "Alpler",
+        "isCorrect": false
+      },
+      {
+        "text": "Rocky Dağları",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Himalaya Dağları, dünyanın en yüksek zirvelerine ev sahipliği yapar. Everest Dağı, bu dağlarda yer alır ve dünyanın en yüksek zirvesidir.",
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "keywords": [
+      "Himalaya Dağları",
+      "Dünya Bölgeleri"
+    ],
+    "learningObjective": "Öğrencinin dünyanın önemli coğrafi özelliklerini anlaması ve tanımlaması beklenmektedir.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir madde döngüsü türü değildir?",
+    "options": [
+      {
+        "text": "Su Döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbon Döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Azot Döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji Döngüsü",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Enerji döngüsü, bir madde döngüsü değildir. Bu terim genellikle enerji akışını ve dönüşümünü ifade eder. Diğer üç seçenek, maddelerin ekosistemlerde nasıl dolaştığını anlatan doğal döngülerdir.",
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "keywords": [
+      "Madde Döngüleri",
+      "Ekosistem"
+    ],
+    "learningObjective": "Öğrencinin doğadaki ana madde döngülerini anlaması ve tanımlaması beklenmektedir.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi beşeri sistemlerin bir özelliği değildir?",
+    "options": [
+      {
+        "text": "Nüfus dağılımı ve yoğunluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel çeşitlilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomik aktiviteler",
+        "isCorrect": false
+      },
+      {
+        "text": "İklim değişiklikleri",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "İklim değişiklikleri, beşeri sistemlerin bir özelliği değildir. Bunun yerine, bu fenomen genellikle fiziki coğrafyanın bir parçası olarak kabul edilir. Diğer seçenekler, beşeri sistemlerin ana özelliklerinden bazılarıdır.",
+    "topic": "Beşeri Sistemler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "keywords": [
+      "Beşeri Sistemler",
+      "İklim Değişiklikleri"
+    ],
+    "learningObjective": "Öğrencinin beşeri sistemlerin ana özelliklerini anlaması ve ayırt etmesi beklenmektedir.",
+    "subject": "Coğrafya"
+  }
+]
