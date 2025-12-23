@@ -1,0 +1,172 @@
+[
+  {
+    "text": "Fotosentez süreci nedir?",
+    "options": [
+      {
+        "text": "Bitkilerin ışık enerjisi ile besin üretmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bitkilerin su ve karbondioksit kullanarak oksijen üretmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitkilerin güneş ışığı ile büyümesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitkilerin hücresel solunum yapması",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fotosentez, bitkilerin ışık enerjisi ile besin üretme sürecidir. Diğer seçenekler bu süreci tam olarak açıklamamaktadır.",
+    "topic": "Fotosentez ve Kemosentez",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "keywords": [
+      "fotosentez",
+      "bitki",
+      "enerji"
+    ],
+    "learningObjective": "Fotosentez sürecini doğru bir şekilde tanımlama",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi DNA'nın yapı taşı olan nükleotidin bileşenlerinden biri değildir?",
+    "options": [
+      {
+        "text": "Amino asit",
+        "isCorrect": true
+      },
+      {
+        "text": "Fosfat",
+        "isCorrect": false
+      },
+      {
+        "text": "Deoksiriboz şeker",
+        "isCorrect": false
+      },
+      {
+        "text": "Azotlu baz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nükleotid, fosfat, deoksiriboz şeker ve azotlu bazdan oluşur. Amino asitler proteinlerin yapı taşıdır, DNA'nın değil.",
+    "topic": "Nükleik Asitler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "keywords": [
+      "DNA",
+      "nükleotid",
+      "amino asit"
+    ],
+    "learningObjective": "DNA'nın yapı taşının bileşenlerini doğru bir şekilde tanımlama",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, bir sinapsın işlevini tamamlaması için gereken adımlardan biri değildir?",
+    "options": [
+      {
+        "text": "Sinir impulslarının sinaps boşluğuna ulaşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Nörotransmitterin sinaps boşluğundan alınması",
+        "isCorrect": false
+      },
+      {
+        "text": "Nörotransmitterin hedef hücreye bağlanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Nörotransmitterin sinaps boşluğuna geri alınması",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Sinaps işlevini tamamladıktan sonra, nörotransmitter sinaps boşluğunda kalmaz, hedef hücre tarafından alınır. Bu nedenle, nörotransmitterin sinaps boşluğuna geri alınması gerekli bir adım değildir.",
+    "topic": "Sinir Sistemi",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "keywords": [
+      "sinaps",
+      "nörotransmitter",
+      "sinir sistemi"
+    ],
+    "learningObjective": "Sinaps işlev sürecini doğru bir şekilde tanımlama",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hücresel solunum sürecinde hangi molekül, hücreye enerji sağlar?",
+    "options": [
+      {
+        "text": "ATP",
+        "isCorrect": true
+      },
+      {
+        "text": "Glukoz",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbonhidrat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hücresel solunum sürecinde, glukoz ve oksijen kullanılarak ATP molekülleri üretilir. ATP, hücreye enerji sağlayan moleküldür.",
+    "topic": "Hücresel Solunum",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "keywords": [
+      "hücresel solunum",
+      "ATP",
+      "enerji"
+    ],
+    "learningObjective": "Hücresel solunum sürecini ve enerji üretimini doğru bir şekilde tanımlama",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, bitkinin suyunu taşıyan dokusudur?",
+    "options": [
+      {
+        "text": "Xilem",
+        "isCorrect": true
+      },
+      {
+        "text": "Floem",
+        "isCorrect": false
+      },
+      {
+        "text": "Kambiyum",
+        "isCorrect": false
+      },
+      {
+        "text": "Epidermis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bitkide su ve mineralleri kökten yapraklara taşıyan doku xilemdir. Floem ise fotosentez sonucu oluşan besinlerin taşınmasını sağlar.",
+    "topic": "Bitki Biyolojisi",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "keywords": [
+      "bitki biyolojisi",
+      "xilem",
+      "su taşıma"
+    ],
+    "learningObjective": "Bitkinin su taşıma sisteminin işleyişini doğru bir şekilde tanımlama",
+    "subject": "Biyoloji"
+  }
+]
