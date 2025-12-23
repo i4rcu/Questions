@@ -1,0 +1,139 @@
+[
+  {
+    "text": "Bir dikdörtgenin bir kenarının uzunluğu 5 cm ve diğer kenarının uzunluğu 7 cm'dir. Bu dikdörtgenin çevresini bulunuz.",
+    "options": [
+      {
+        "text": "24 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "12 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "36 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "48 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dikdörtgenin çevresi, 2*(a+b) formülü ile bulunur. Burada a ve b dikdörtgenin kenarlarıdır. Dolayısıyla, 2*(5+7) = 24 cm bulunur.",
+    "topic": "Dikdörtgen",
+    "formula": "2*(a+b)",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "keywords": [
+      "dikdörtgen",
+      "çevre",
+      "matematik"
+    ],
+    "learningObjective": "Dikdörtgenin çevresini hesaplama",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir üçgenin bir kenarı 6 cm ve bu kenara ait kenarortayın uzunluğu 8 cm'dir. Bu üçgenin çevresini bulunuz.",
+    "options": [
+      {
+        "text": "24 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "28 cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir üçgenin kenarına ait kenarortay, o kenarı ikiye böler. Dolayısıyla, bu üçgenin çevresi 6+8+6=20 cm olacaktır.",
+    "topic": "Üçgende Kenarortay Bağıntıları",
+    "formula": "a+b+c",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "keywords": [
+      "üçgen",
+      "kenarortay",
+      "çevre",
+      "matematik"
+    ],
+    "learningObjective": "Kenarortay bağıntılarını kullanarak üçgenin çevresini hesaplama",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir çemberin yarıçapı 5 cm'dir. Bu çemberin çevresini bulunuz.",
+    "options": [
+      {
+        "text": "10π cm",
+        "isCorrect": true
+      },
+      {
+        "text": "20π cm",
+        "isCorrect": false
+      },
+      {
+        "text": "15π cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25π cm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir çemberin çevresi 2*pi*r formülü ile bulunur. Burada r çemberin yarıçapıdır. Dolayısıyla, 2*pi*5 = 10π cm bulunur.",
+    "topic": "Çemberin Analitiği",
+    "formula": "2*pi*r",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "keywords": [
+      "çember",
+      "çevre",
+      "matematik"
+    ],
+    "learningObjective": "Yarıçapı verilen bir çemberin çevresini hesaplama",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir yamuğun alt tabanı 6 cm ve üst tabanı 4 cm'dir. Yamuğun yüksekliği 5 cm'dir. Bu yamuğun alanını bulunuz.",
+    "options": [
+      {
+        "text": "25 cm²",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm²",
+        "isCorrect": false
+      },
+      {
+        "text": "20 cm²",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm²",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Bir yamuğun alanı (a+b)/2*h formülü ile bulunur. Burada a ve b yamuğun tabanları, h ise yüksekliktir. Dolayısıyla, (6+4)/2*5 = 25 cm² bulunur.",
+    "topic": "Yamuk",
+    "formula": "(a+b)/2*h",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "keywords": [
+      "yamuk",
+      "alan",
+      "matematik"
+    ],
+    "learningObjective": "Yamuğun alanını hesaplama",
+    "subject": "Kimya"
+  }
+]
