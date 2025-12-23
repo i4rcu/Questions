@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Hititlerin başkenti Hattuşaş'ta yapılan kazılarda, MÖ 13. yüzyıla tarihlenen bir tablette, 'Kadeş Antlaşması' metninin yanı sıra, bir 'demir hançer' ve 'altın kaplama bir boğa heykelciği' bulunmuştur. Bu buluntular, Hititlerle ilgili aşağıdaki yargılardan hangisini doğrular niteliktedir?",
+    "options": [
+      {
+        "text": "Anadolu'da demir işlemeciliğini geliştirdikleri ve dini törenlerde hayvan figürlerine önem verdikleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Yazıyı icat ettikleri ve tek tanrılı bir inanca sahip oldukları",
+        "isCorrect": false
+      },
+      {
+        "text": "Deniz ticaretiyle uğraştıkları ve para kullanımını yaygınlaştırdıkları",
+        "isCorrect": false
+      },
+      {
+        "text": "Mimari eserlerinde sütun kullanımını başlattıkları ve piramit inşa ettikleri",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğru cevap A'dır. Demir hançer, Hititlerin demir işlemeciliğindeki ustalığını; altın kaplama boğa heykelciği ise dini törenlerde ve sembollerde boğa gibi hayvan figürlerine verdikleri önemi gösterir. B seçeneği yanlıştur çünkü yazıyı icat etmemişler, çivi yazısını kullanmışlardır ve çok tanrılı bir inanca sahiptirler. C ve D seçenekleri, Hititlerin özellikleriyle örtüşmemektedir.",
+    "topic": "Uygarlığın Doğuşu ve İlk Uygarlıklar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "Hititler",
+      "Hattuşaş",
+      "Demir Çağı",
+      "Arkeolojik Buluntu",
+      "Kadeş Antlaşması"
+    ],
+    "learningObjective": "Öğrencinin, arkeolojik buluntuları yorumlayarak bir uygarlığın sosyal, ekonomik ve dini özellikleri hakkında çıkarım yapabilme becerisini ölçmek.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Kurtuluş Savaşı'nın Doğu Cephesi'nde, 15. Kolordu Komutanı Kazım Karabekir Paşa'nın 'Tam bağımsızlık ilkesi, Misak-ı Milli sınırları içinde bir Ermeni devletine izin vermez' sözü ve takip eden askeri harekât, aşağıdaki antlaşmalardan hangisinin imzalanmasıyla sonuçlanmıştır?",
+    "options": [
+      {
+        "text": "Gümrü Antlaşması (2-3 Aralık 1920)",
+        "isCorrect": true
+      },
+      {
+        "text": "Ankara Antlaşması (20 Ekim 1921)",
+        "isCorrect": false
+      },
+      {
+        "text": "Kars Antlaşması (13 Ekim 1921)",
+        "isCorrect": false
+      },
+      {
+        "text": "Moskova Antlaşması (16 Mart 1921)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğru cevap A'dır. Kazım Karabekir Paşa komutasındaki Türk ordusunun Doğu Cephesi'ndeki başarılı harekâtı sonucu, Ermenistan ile Gümrü Antlaşması imzalanmıştır. B seçeneği, Fransa ile; C seçeneği, Sovyet Rusya öncülüğünde Kafkas cumhuriyetleri ile; D seçeneği ise Sovyet Rusya ile imzalanan antlaşmalardır ve Doğu Cephesi'nin doğrudan sonucu değildir.",
+    "topic": "Kurtuluş Savaşında Cepheler",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "Doğu Cephesi",
+      "Kazım Karabekir",
+      "Gümrü Antlaşması",
+      "Misak-ı Milli",
+      "Ermeni Meselesi"
+    ],
+    "learningObjective": "Öğrencinin, Kurtuluş Savaşı cephelerindeki askeri ve diplomatik gelişmeleri, önemli şahsiyetlerin söylemleri ve antlaşmalar bağlamında eşleştirebilme bilgisini ölçmek.",
+    "subject": "Tarih"
+  }
+]
