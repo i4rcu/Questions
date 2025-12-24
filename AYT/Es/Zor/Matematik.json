@@ -1,0 +1,993 @@
+[
+  {
+    "text": "Aşağıdaki polinomlardan hangisi x = 2 için 0 değerini alır?",
+    "options": [
+      {
+        "text": "x^2 - 4",
+        "isCorrect": true
+      },
+      {
+        "text": "x^2 + 2x + 1",
+        "isCorrect": false
+      },
+      {
+        "text": "x^2 - 2x + 1",
+        "isCorrect": false
+      },
+      {
+        "text": "x^2 + 4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "x = 2 için x^2 - 4 polinomunu değerlendirdiğimizde, (2^2 - 4) = 0 sonucu elde ederiz.",
+    "topic": "Polinomlar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "polinom",
+      "denklemler",
+      "x=2"
+    ],
+    "learningObjective": "Polinomların köklerini bulmak"
+  },
+  {
+    "text": "Bir sayının yüzler basamağı 7, onlar basamağı 3 ve birler basamağı 5 olduğuna göre bu sayı nedir?",
+    "options": [
+      {
+        "text": "735",
+        "isCorrect": true
+      },
+      {
+        "text": "753",
+        "isCorrect": false
+      },
+      {
+        "text": "573",
+        "isCorrect": false
+      },
+      {
+        "text": "375",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Yüzler, onlar ve birler basamakları sırasıyla 7, 3 ve 5 olduğuna göre sayı 735 olarak yazılır.",
+    "topic": "Sayı Basamakları",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "sayı basamakları",
+      "yüzler",
+      "onlar",
+      "birler"
+    ],
+    "learningObjective": "Sayıların basamak değerlerini anlamak"
+  },
+  {
+    "text": "3x + 5 = 20 denkleminin çözümü nedir?",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Denklemi çözmek için önce 5'i her iki taraftan çıkarırız: 3x = 15. Sonra her iki tarafı 3'e böleriz: x = 5.",
+    "topic": "Denklem Çözme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "denklem",
+      "çözüm",
+      "x"
+    ],
+    "learningObjective": "Denklem çözme becerisini geliştirmek"
+  },
+  {
+    "text": "Bir sınıftaki öğrencilerin matematik notlarının aritmetik ortalaması 70, standart sapması ise 10'dur. Bu sınıftaki öğrencilerin notları için aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Öğrencilerin notları 60 ile 80 arasında yoğunlaşmıştır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Öğrencilerin notları 50 ile 90 arasında yoğunlaşmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Öğrencilerin notları 70 ile 100 arasında yoğunlaşmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Öğrencilerin notları 40 ile 80 arasında yoğunlaşmıştır.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aritmetik ortalama 70 ve standart sapma 10 olduğuna göre, notlar genellikle 60 ile 80 arasında yoğunlaşır.",
+    "topic": "İstatistik",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "istatistik",
+      "ortalama",
+      "standart sapma"
+    ],
+    "learningObjective": "İstatistiksel verileri yorumlayabilmek"
+  },
+  {
+    "text": "A kümesi {1, 2, 3, 4} ve B kümesi {3, 4, 5, 6} olarak verildiğinde, A ∩ B kümesinin elemanları toplamı nedir?",
+    "options": [
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A ∩ B = {3, 4} olduğundan, elemanlar toplamı 3 + 4 = 7'dir.",
+    "topic": "Kümeler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "kümeler",
+      "kesişim",
+      "toplam"
+    ],
+    "learningObjective": "Küme işlemlerini anlayabilmek."
+  },
+  {
+    "text": "f(x) = 2x^2 - 4x + 1 fonksiyonunun türevini alarak, x = 1 noktasındaki eğimini bulun.",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "f'(x) = 4x - 4, x = 1 için f'(1) = 4(1) - 4 = 0'dır.",
+    "topic": "Türev",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "türev",
+      "fonksiyon",
+      "eğim"
+    ],
+    "learningObjective": "Türev hesaplamalarını uygulayabilmek."
+  },
+  {
+    "text": "Bir sayının 12 ile tam bölünebilmesi için, bu sayının son iki basamağının toplamı hangi değere eşit olmalıdır?",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir sayının 12 ile tam bölünebilmesi için hem 3 ile hem de 4 ile tam bölünebilmesi gerekir. Son iki basamağın toplamı 3 ile 4'e tam bölünmelidir.",
+    "topic": "Bölme ve Bölünebilme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "bölünebilme",
+      "bölme",
+      "toplam"
+    ],
+    "learningObjective": "Bölünebilme kurallarını anlayabilmek."
+  },
+  {
+    "text": "f(x) = x^2 - 6x + 8 parabolünün tepe noktasının koordinatları nedir?",
+    "options": [
+      {
+        "text": "(3, -1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(3, -4)",
+        "isCorrect": true
+      },
+      {
+        "text": "(2, -2)",
+        "isCorrect": false
+      },
+      {
+        "text": "(4, -4)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tepe noktası x = -b/2a formülü ile bulunur. Burada a = 1, b = -6, tepe noktası (3, -4) olur.",
+    "topic": "Parabol",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "parabol",
+      "tepe noktası",
+      "koordinatlar"
+    ],
+    "learningObjective": "Parabolün tepe noktasını bulabilmek."
+  },
+  {
+    "text": "Aşağıdaki logaritmik denklemin çözüm kümesi nedir? log2(x) + log2(x - 3) = 3",
+    "options": [
+      {
+        "text": "{7}",
+        "isCorrect": true
+      },
+      {
+        "text": "{5}",
+        "isCorrect": false
+      },
+      {
+        "text": "{3}",
+        "isCorrect": false
+      },
+      {
+        "text": "{1}",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Denklemi logaritma kurallarını kullanarak çözdüğümüzde x'in 7 olduğu sonucuna ulaşırız.",
+    "topic": "Logaritma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "logaritma",
+      "denklem",
+      "çözüm"
+    ],
+    "learningObjective": "Logaritmik denklemleri çözebilme yeteneği."
+  },
+  {
+    "text": "Aşağıdaki parabolün tepe noktası hangi noktadır? f(x) = -2x^2 + 4x + 1",
+    "options": [
+      {
+        "text": "(1, 3)",
+        "isCorrect": true
+      },
+      {
+        "text": "(2, 5)",
+        "isCorrect": false
+      },
+      {
+        "text": "(0, 1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(3, 0)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Parabolün tepe noktası, x = -b/2a formülü ile bulunur. Burada a = -2 ve b = 4 olduğundan tepe noktası (1, 3) bulunur.",
+    "topic": "Parabol",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "parabol",
+      "tepe noktası",
+      "denklem"
+    ],
+    "learningObjective": "Parabolün tepe noktasını bulabilme yeteneği."
+  },
+  {
+    "text": "Aşağıdaki eşitsizliğin çözüm kümesi nedir? 3x - 5 < 2x + 4",
+    "options": [
+      {
+        "text": "(x < 9)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x > 9)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x ≤ 9)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x ≥ 9)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Eşitsizliği çözdüğümüzde x'in 9'dan küçük olduğu sonucuna ulaşırız.",
+    "topic": "Basit Eşitsizlikler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşitsizlik",
+      "çözüm",
+      "denklem"
+    ],
+    "learningObjective": "Basit eşitsizlikleri çözebilme yeteneği."
+  },
+  {
+    "text": "Aşağıdaki logaritmik ifadeyi sadeleştiriniz: log3(27) - log3(9)",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "log3(27) = 3 ve log3(9) = 2 olduğundan, 3 - 2 = 1 sonucu elde edilir.",
+    "topic": "Logaritma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "logaritma",
+      "sadeleştirme",
+      "denklem"
+    ],
+    "learningObjective": "Logaritmik ifadeleri sadeleştirebilme yeteneği."
+  },
+  {
+    "text": "Z = 3 + 4i karmaşık sayısının mutlak değeri nedir?",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karmaşık sayının mutlak değeri, sayının reel ve sanal kısmının karelerinin toplamının kareköküdür. Yani |Z| = √(3² + 4²) = √(9 + 16) = √25 = 5.",
+    "topic": "Karmaşık Sayılar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "karmaşık sayı",
+      "mutlak değer",
+      "reel kısım"
+    ],
+    "learningObjective": "Karmaşık sayıların mutlak değerini hesaplayabilme."
+  },
+  {
+    "text": "2^x = 16 denkleminin çözümü nedir?",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "16, 2'nin 4. kuvvetidir. Yani 2^x = 2^4 olduğundan x = 4 olur.",
+    "topic": "Üslü Sayılar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "üslü denklemler",
+      "kuvvet",
+      "çözüm"
+    ],
+    "learningObjective": "Üslü denklemleri çözebilme."
+  },
+  {
+    "text": "x² - 5x + 6 ifadesinin çarpanlarına ayrılması sonucu nedir?",
+    "options": [
+      {
+        "text": "(x - 2)(x - 3)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x + 2)(x + 3)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x - 1)(x - 6)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x + 1)(x + 6)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Verilen ifade, x² - 5x + 6 = 0 denkleminin kökleri x = 2 ve x = 3 olduğundan çarpanlarına ayrılması (x - 2)(x - 3) şeklindedir.",
+    "topic": "Çarpanlara Ayırma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "çarpanlara ayırma",
+      "polinom",
+      "kökler"
+    ],
+    "learningObjective": "Polinomların çarpanlarına ayrılmasını gerçekleştirebilme."
+  },
+  {
+    "text": "log₂(32) ifadesinin sonucu nedir?",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "32, 2'nin 5. kuvvetidir (2^5 = 32). Bu nedenle log₂(32) = 5 olur.",
+    "topic": "Logaritma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "logaritma",
+      "taban",
+      "kuvvet"
+    ],
+    "learningObjective": "Logaritma hesaplamalarını yapabilme."
+  },
+  {
+    "text": "A sayısı 12 ile tam bölünebilen en küçük pozitif tam sayıdır. A sayısının 3 ile tam bölünebilmesi için A'nın alabileceği en küçük değer nedir?",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "12 sayısı hem 12'ye hem de 3'e tam bölünebilen en küçük pozitif tam sayıdır.",
+    "topic": "Bölme ve Bölünebilme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "bölme",
+      "tam sayı",
+      "bölünebilme"
+    ],
+    "learningObjective": "Bölme ve bölünebilme kavramlarını anlamak"
+  },
+  {
+    "text": "Bir üçgende, bir açının sinüsü 0.5 olduğuna göre, bu açı hangi değerlerden birine eşittir?",
+    "options": [
+      {
+        "text": "30°",
+        "isCorrect": true
+      },
+      {
+        "text": "45°",
+        "isCorrect": false
+      },
+      {
+        "text": "60°",
+        "isCorrect": false
+      },
+      {
+        "text": "90°",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sinüs değeri 0.5 olan açı 30°'dir. Bu açı, bir üçgenin iç açısı olarak da geçerlidir.",
+    "topic": "Trigonometri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "sinüs",
+      "açı",
+      "üçgen"
+    ],
+    "learningObjective": "Trigonometri ile açı hesaplamalarını öğrenmek"
+  },
+  {
+    "text": "x^2 - 4x + 3 < 0 eşitsizliğinin çözüm kümesi nedir?",
+    "options": [
+      {
+        "text": "(1, 3)",
+        "isCorrect": true
+      },
+      {
+        "text": "(0, 4)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, 5)",
+        "isCorrect": false
+      },
+      {
+        "text": "(3, 5)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Eşitsizliği çözmek için denklemin köklerini bulup, aralarındaki aralıkları kontrol etmeliyiz. Kökler 1 ve 3'tür, bu nedenle çözüm kümesi (1, 3) aralığıdır.",
+    "topic": "2.Dereceden Eşitsizlikler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşitsizlik",
+      "kök",
+      "çözüm kümesi"
+    ],
+    "learningObjective": "2. dereceden eşitsizlikleri çözmeyi öğrenmek"
+  },
+  {
+    "text": "Z = 3 + 4i karmaşık sayısının modülü nedir?",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karmaşık sayının modülü, √(3^2 + 4^2) = √(9 + 16) = √25 = 5 olarak hesaplanır.",
+    "topic": "Karmaşık Sayılar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "karmaşık sayı",
+      "modül",
+      "hesaplama"
+    ],
+    "learningObjective": "Karmaşık sayıların modülünü hesaplamayı öğrenmek"
+  },
+  {
+    "text": "A, B, C ve D harflerinden oluşan kelimelerin kaç farklı permütasyonu vardır?",
+    "options": [
+      {
+        "text": "24",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "4 farklı harfin permütasyonu 4! = 24 şeklinde hesaplanır.",
+    "topic": "Permütasyon",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "permütasyon",
+      "kombinasyon",
+      "matematik"
+    ],
+    "learningObjective": "Permütasyon hesaplamalarını öğrenmek"
+  },
+  {
+    "text": "Bir sınıfta 30 öğrencinin not ortalaması 75'tir. Sınıftaki en yüksek not 90, en düşük not ise 60'dır. Sınıfın notlarının varyansı nedir?",
+    "options": [
+      {
+        "text": "100",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "75",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Varyans, notların ortalamasından ne kadar uzaklaştığını gösterir. Bu durumda varyans 100 olarak hesaplanır.",
+    "topic": "İstatistik",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "istatistik",
+      "varyans",
+      "not ortalaması"
+    ],
+    "learningObjective": "İstatistiksel hesaplamaları anlamak"
+  },
+  {
+    "text": "3/4 ile 2/3 kesirlerinin toplamı nedir?",
+    "options": [
+      {
+        "text": "17/12",
+        "isCorrect": true
+      },
+      {
+        "text": "5/12",
+        "isCorrect": false
+      },
+      {
+        "text": "1/2",
+        "isCorrect": false
+      },
+      {
+        "text": "3/2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kesirlerin toplamı, ortak payda ile hesaplanarak 17/12 bulunur.",
+    "topic": "Rasyonel Sayılar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "rasyonel sayılar",
+      "kesirler",
+      "toplama"
+    ],
+    "learningObjective": "Rasyonel sayılarla işlemleri öğrenmek"
+  },
+  {
+    "text": "Bir sayının rakamları toplamı 18 ve sayının en büyük basamağı 9 ise, bu sayının en küçük değeri nedir?",
+    "options": [
+      {
+        "text": "189",
+        "isCorrect": true
+      },
+      {
+        "text": "198",
+        "isCorrect": false
+      },
+      {
+        "text": "279",
+        "isCorrect": false
+      },
+      {
+        "text": "2790",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rakamları toplamı 18 olan ve en büyük basamağı 9 olan en küçük sayı 189'dur.",
+    "topic": "Sayı Basamakları",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "sayı basamakları",
+      "rakamlar",
+      "en küçük sayı"
+    ],
+    "learningObjective": "Sayı basamakları ile ilgili problemleri çözmek"
+  },
+  {
+    "text": "a ve b pozitif tam sayıları için a/b ifadesinin tam sayı olması için hangi koşul sağlanmalıdır?",
+    "options": [
+      {
+        "text": "a, b'ye tam bölünmelidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "a, b'den büyük olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "a, b'ye eşit olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "a ve b birbirine asal olmalıdır.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir tam sayının başka bir tam sayıya bölünmesi için, payın paydadan tam olarak bölünebilmesi gerekir.",
+    "topic": "Bölme ve Bölünebilme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "bölme",
+      "tam sayı",
+      "bölünebilme"
+    ],
+    "learningObjective": "Bölme ve bölünebilme kavramlarını anlamak."
+  },
+  {
+    "text": "f(x) = x^2 - 4x + 3 parabolünün tepe noktasının koordinatları nedir?",
+    "options": [
+      {
+        "text": "(2, -1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, -1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, -1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, -1)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Parabolün tepe noktası, x = -b/2a formülü ile bulunur. Burada a = 1 ve b = -4 olduğundan, x = 2 bulunur. f(2) = -1 olduğu için tepe noktası (2, -1)'dir.",
+    "topic": "Parabol",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "parabol",
+      "tepe noktası",
+      "fonksiyon"
+    ],
+    "learningObjective": "Parabolün tepe noktasını bulmak."
+  },
+  {
+    "text": "x^2 - 5x + 6 ifadesini çarpanlarına ayırdığımızda hangi sonucu elde ederiz?",
+    "options": [
+      {
+        "text": "(x - 2)(x - 3)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x + 2)(x + 3)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x - 1)(x - 6)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x + 1)(x + 6)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Verilen ifadeyi çarpanlarına ayırmak için, iki sayının toplamı -5 ve çarpımı 6 olan sayıları bulmalıyız. Bu sayılar 2 ve 3'tür.",
+    "topic": "Çarpanlara Ayırma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "çarpanlara ayırma",
+      "polinom",
+      "denklem"
+    ],
+    "learningObjective": "Polinomları çarpanlarına ayırmayı öğrenmek."
+  },
+  {
+    "text": "x + 3 < 5 eşitsizliğinin çözüm kümesi nedir?",
+    "options": [
+      {
+        "text": "x < 2",
+        "isCorrect": true
+      },
+      {
+        "text": "x < 3",
+        "isCorrect": false
+      },
+      {
+        "text": "x > 2",
+        "isCorrect": false
+      },
+      {
+        "text": "x > 3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Eşitsizliği çözmek için her iki taraftan 3 çıkarırız. Bu durumda x < 2 sonucuna ulaşırız.",
+    "topic": "Basit Eşitsizlikler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşitsizlik",
+      "çözüm kümesi",
+      "matematik"
+    ],
+    "learningObjective": "Basit eşitsizlikleri çözmeyi öğrenmek."
+  },
+  {
+    "text": "Aşağıdaki eşitsizliklerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "x > 3 ise x + 2 > 5",
+        "isCorrect": true
+      },
+      {
+        "text": "x < 1 ise x + 3 < 2",
+        "isCorrect": false
+      },
+      {
+        "text": "x = 0 ise x - 5 < -5",
+        "isCorrect": false
+      },
+      {
+        "text": "x > 4 ise x - 2 < 2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Eğer x > 3 ise, x + 2 işlemi 5'ten büyük olacaktır. Bu nedenle doğru cevap birinci seçenektir.",
+    "topic": "Basit Eşitsizlikler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşitsizlik",
+      "doğru",
+      "matematik"
+    ],
+    "learningObjective": "Basit eşitsizlikleri çözme ve yorumlama."
+  },
+  {
+    "text": "Aşağıdaki denklemi çözdüğümüzde hangi sonuç elde edilir?",
+    "options": [
+      {
+        "text": "x = 4",
+        "isCorrect": false
+      },
+      {
+        "text": "x = 2",
+        "isCorrect": true
+      },
+      {
+        "text": "x = 1",
+        "isCorrect": false
+      },
+      {
+        "text": "x = 3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Denklem x + 2 = 4 şeklindedir. Bu denklemi çözdüğümüzde x = 2 sonucuna ulaşırız.",
+    "topic": "Denklem Çözme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "denklem",
+      "çözme",
+      "matematik"
+    ],
+    "learningObjective": "Denklemleri çözme yeteneğini geliştirmek."
+  }
+]
