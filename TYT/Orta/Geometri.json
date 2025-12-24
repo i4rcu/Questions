@@ -1,0 +1,332 @@
+[
+  {
+    "text": "Bir dikdörtgenin bir kenarı 6 cm ise, bu dikdörtgenin alanı kaç cm² olur?",
+    "options": [
+      {
+        "text": "24",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dikdörtgenin alanı, bir kenar uzunluğu ile diğer kenar uzunluğunun çarpımına eşittir. Dolayısıyla, 6 cm kenar uzunluğuna sahip bir dikdörtgenin alanı 6 * 4 = 24 cm² olur.",
+    "topic": "Dikdörtgen Alanı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Dikdörtgen",
+      "Alan",
+      "Çarpma"
+    ],
+    "learningObjective": "Dikdörtgenin alanını hesaplama",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir üçgenin iki kenarı eşit olduğunda, bu üçgenin hangi tür üçgen olduğu aşağıdakilerden hangisinde doğru belirtilmiştir?",
+    "options": [
+      {
+        "text": "İkizkenar Üçgen",
+        "isCorrect": true
+      },
+      {
+        "text": "Çeşitkenar Üçgen",
+        "isCorrect": false
+      },
+      {
+        "text": "Eşkenar Üçgen",
+        "isCorrect": false
+      },
+      {
+        "text": "Dik Üçgen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İki kenarı eşit olan üçgenlere ikizkenar üçgen denir.",
+    "topic": "İkizkenar Üçgen",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Üçgen",
+      "Kenar",
+      "Eşitlik"
+    ],
+    "learningObjective": "İkizkenar üçgen tanımını bilmek",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir karenin çevresi 20 cm ise, bu karenin bir kenarının uzunluğu kaç cm'dir?",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karenin kenar uzunluğu, çevrenin dört kenarın toplamına bölünmesiyle bulunur. Dolayısıyla, çevresi 20 cm olan bir karenin kenar uzunluğu 20 / 4 = 5 cm olur.",
+    "topic": "Karenin Kenar Uzunluğu",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Karenin Çevresi",
+      "Kenar Uzunluğu",
+      "Bölme"
+    ],
+    "learningObjective": "Karenin kenar uzunluğunu hesaplama",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Üçgenin iç açıları toplamı kaç derecedir?",
+    "options": [
+      {
+        "text": "180",
+        "isCorrect": true
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      },
+      {
+        "text": "270",
+        "isCorrect": false
+      },
+      {
+        "text": "360",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Üçgenin iç açıları toplamı her zaman 180 derecedir.",
+    "topic": "Üçgenin İç Açıları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Üçgen",
+      "İç Açılar",
+      "Toplam"
+    ],
+    "learningObjective": "Üçgenin iç açıları toplamını bilmek",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir çemberin çapı 10 cm ise, çemberin çevresi kaç cm'dir?",
+    "options": [
+      {
+        "text": "20π",
+        "isCorrect": true
+      },
+      {
+        "text": "25π",
+        "isCorrect": false
+      },
+      {
+        "text": "10π",
+        "isCorrect": false
+      },
+      {
+        "text": "5π",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Çemberin çevresi çapın π ile çarpılmasıyla bulunur, yani 10π = 31,42 cm olur.",
+    "topic": "Çemberde Uzunluk",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Çember",
+      "Çap",
+      "Çevre"
+    ],
+    "learningObjective": "Çemberin çevresini hesaplama",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir karenin kenar uzunluğu 5 cm ise, karenin çevresi kaç cm'dir?",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karenin çevresi kenar uzunluklarının toplamıdır, yani 5 + 5 + 5 + 5 = 20 cm olur.",
+    "topic": "Kare",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Karenin Çevresi",
+      "Kenar Uzunluğu",
+      "Kare"
+    ],
+    "learningObjective": "Karenin çevresini hesaplama",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir çemberde merkez açı ölçüsü 120° ise, bu çemberde yer alan bir yayın açı ölçüsü kaç derecedir?",
+    "options": [
+      {
+        "text": "60°",
+        "isCorrect": true
+      },
+      {
+        "text": "120°",
+        "isCorrect": false
+      },
+      {
+        "text": "90°",
+        "isCorrect": false
+      },
+      {
+        "text": "45°",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Merkez açı ile yayın açısı aynı büyüklüktedir, dolayısıyla 120° olan merkez açısının yarısı olan 60° yay açısı olur.",
+    "topic": "Çemberde Açı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Merkez Açı",
+      "Yay Açısı",
+      "Çember"
+    ],
+    "learningObjective": "Çemberde yay açısını hesaplama",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir üçgenin iç açıları sırasıyla 40°, 60° ve x° ise, x açısının ölçüsü kaç derecedir?",
+    "options": [
+      {
+        "text": "80°",
+        "isCorrect": true
+      },
+      {
+        "text": "90°",
+        "isCorrect": false
+      },
+      {
+        "text": "100°",
+        "isCorrect": false
+      },
+      {
+        "text": "70°",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir üçgenin iç açılarının toplamı 180° olduğuna göre, x° açısının ölçüsü 180° - (40° + 60°) = 80° olur.",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Üçgen",
+      "İç Açılar",
+      "Toplam Açı"
+    ],
+    "learningObjective": "Üçgenin iç açılarını hesaplama",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir eşkenar üçgenin iç açıları toplamı kaç derecedir?",
+    "options": [
+      {
+        "text": "180°",
+        "isCorrect": false
+      },
+      {
+        "text": "270°",
+        "isCorrect": false
+      },
+      {
+        "text": "360°",
+        "isCorrect": true
+      },
+      {
+        "text": "120°",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir üçgenin iç açıları toplamı her zaman 180° olduğu için eşkenar üçgenin iç açıları toplamı da 180° olur. Çünkü eşkenar üçgen, üç kenarının eşit olduğu üçgendir.",
+    "topic": "Eşkenar Üçgen",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Eşkenar Üçgen",
+      "İç Açılar",
+      "Toplam"
+    ],
+    "learningObjective": "Eşkenar üçgenin iç açılarını hesaplama",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Hangi katı cisim köşegenleri uzunluğu en fazla olan şekildedir?",
+    "options": [
+      {
+        "text": "Küp",
+        "isCorrect": false
+      },
+      {
+        "text": "Dikdörtgen Prizma",
+        "isCorrect": false
+      },
+      {
+        "text": "Silindir",
+        "isCorrect": true
+      },
+      {
+        "text": "Koni",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Katı cisimler arasında köşegenleri en uzun olan şekil silindirdir. Silindirin iki tabanı arasındaki köşegen uzunluğu en fazla olan şekildir.",
+    "topic": "Katı Cisimler",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Katı Cisimler",
+      "Köşegen",
+      "Uzunluk"
+    ],
+    "learningObjective": "Katı cisimlerde köşegen uzunluklarını karşılaştırma",
+    "subject": "Geometri"
+  }
+]
