@@ -1373,5 +1373,672 @@
     ],
     "learningObjective": "Öğrencinin, karmaşık yapılı bir cümleyi (içinde mastar ve zarf-fiil bulunan) tam olarak çözümleyerek öğelerine ayırabilmesi ve bu öğelerin diziliş sırasını doğru belirleyebilmesi.",
     "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, mecaz anlamda kullanılmıştır?\n\nA) Bu kitabın *sayfaları* çok eski.\nB) Gözlerin *deniz* gibi mavi.\nC) Bu işin *ucunu* bırakma.\nD) Sıcak yaz günlerinde *göl* ararız.",
+    "options": [
+      {
+        "text": "A) Bu kitabın sayfaları çok eski.",
+        "isCorrect": false
+      },
+      {
+        "text": "B) Gözlerin deniz gibi mavi.",
+        "isCorrect": true
+      },
+      {
+        "text": "C) Bu işin ucunu bırakma.",
+        "isCorrect": false
+      },
+      {
+        "text": "D) Sıcak yaz günlerinde göl ararız.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "B seçeneğindeki 'deniz' kelimesi, gözlerin rengini tanımlarken mecaz anlamda kullanılmıştır. Gözlerin mavi rengi, denizle karşılaştırılarak ifade edilmiştir. Diğer seçeneklerdeki kelimeler ise gerçek anlamda kullanılmıştır.",
+    "topic": "Sözcükte Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "mecaz anlam",
+      "gerçek anlam",
+      "anlam ilişkisi"
+    ],
+    "learningObjective": "Öğrenci, mecaz ve gerçek anlam arasındaki farkı ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, çok anlamlı bir şekilde kullanılmıştır?\n\nA) *Baş*ım ağrıyor.\nB) Projenin *baş*langıcı çok heyecan vericiydi.\nC) Kalemimin *uçu* kırıldı.\nD) Bu işin *baş*ında sen varsın.",
+    "options": [
+      {
+        "text": "A) Başım ağrıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "B) Projenin başlangıcı çok heyecan vericiydi.",
+        "isCorrect": false
+      },
+      {
+        "text": "C) Kalemimin ucu kırıldı.",
+        "isCorrect": false
+      },
+      {
+        "text": "D) Bu işin başında sen varsın.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "D seçeneğindeki 'baş' kelimesi, bir şeyin yönetimi veya liderliği anlamında kullanılmıştır. Diğer seçeneklerdeki 'baş' kelimesi ise somut bir nesne veya durumla ilgili gerçek anlamda kullanılmıştır.",
+    "topic": "Sözcükte Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "çok anlamlılık",
+      "anlam kayması",
+      "mecaz anlam"
+    ],
+    "learningObjective": "Öğrenci, çok anlamlı kelimelerin bağlam içinde nasıl kullanıldığını değerlendirir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde, altı çizili kelimenin anlamı diğerlerinden farklıdır?\n\nA) Bu yaz tatilinde çok *yüzdüm*.\nB) Projeyi *yüzdü* ve başarılı oldu.\nC) Yüzme havuzunda *yüzdüm*.\nD) O da bu durumu *yüzdü*.",
+    "options": [
+      {
+        "text": "A",
+        "isCorrect": false
+      },
+      {
+        "text": "B",
+        "isCorrect": true
+      },
+      {
+        "text": "C",
+        "isCorrect": false
+      },
+      {
+        "text": "D",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Soruda 'yüzdüm' kelimesinin cümlelerdeki anlamı sorgulanmaktadır. A ve C seçeneklerinde 'yüzme' eylemi anlamında kullanılırken, D seçeneğinde ise mecazi bir anlamda kullanılmıştır. B seçeneği ise 'yüzdü' kelimesini bir başarı olarak ifade etmekte, bu da anlamı diğerlerinden farklı kılmaktadır.",
+    "topic": "Cümlede Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "çok anlamlılık",
+      "anlam ayırt etme",
+      "bağlam"
+    ],
+    "learningObjective": "Öğrenci, çok anlamlı bir kelimenin bağlama göre kazandığı anlamı ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'ama' bağlacının kullanımı, cümledeki anlamı olumsuz yönde değiştirmiştir?\n\nA) Çok çalıştı, *ama* sınavı geçemedi.\nB) Hava güzel, *ama* dışarı çıkmak istemiyorum.\nC) Kitap okumayı seviyorum, *ama* zaman bulamıyorum.\nD) Yüzme bilirim, *ama* denizde yüzmekten korkarım.",
+    "options": [
+      {
+        "text": "A",
+        "isCorrect": true
+      },
+      {
+        "text": "B",
+        "isCorrect": false
+      },
+      {
+        "text": "C",
+        "isCorrect": false
+      },
+      {
+        "text": "D",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "'Ama' bağlacı, cümledeki iki yargı arasında zıtlık veya olumsuz bir durum oluşturur. A seçeneğinde çalışmanın olumlu sonucu beklenirken, sınavı geçememek olumsuz bir durumu ifade eder. Diğer seçeneklerde ise 'ama' bağlacının kullanımı, cümledeki anlamı olumsuz yönde değiştirmemektedir.",
+    "topic": "Cümlede Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "bağlaçlar",
+      "anlam ilişkileri",
+      "karşıtlık"
+    ],
+    "learningObjective": "Öğrenci, bağlaçların cümledeki anlam ilişkilerini belirler ve uygun örneği seçer.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki paragrafta yazarın ana fikri nedir?\n\n“Birçok insan, bir metni okurken yalnızca kelimelere odaklanır. Oysa metinlerin gerçek anlamı, cümleler arasındaki bağlantılarda gizlidir. Anlamı tam olarak kavrayabilmek için, okurun metni derinlemesine incelemesi ve yazarın vermek istediği mesajı anlaması gerekir.”",
+    "options": [
+      {
+        "text": "Okuma işlemi, yalnızca kelimeleri hızlıca geçmekten ibarettir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir metni anlamak için kelimelere odaklanmak yeterlidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Metinlerin anlamı, cümleler arasındaki bağlantılarda bulunur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Okuma eylemi, sadece sayfa sayısı ile ölçülmelidir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Paragrafta yazar, metinlerin gerçek anlamının cümleler arasındaki bağlantılarda olduğunu vurgular. Bu nedenle, metni anlamak için derinlemesine inceleme yapılması gerektiği ifade edilmektedir. Doğru seçenek C’dir.",
+    "topic": "Paragrafta Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ana fikir",
+      "anlam",
+      "bağlantı"
+    ],
+    "learningObjective": "Bir paragrafta ana fikri belirleyebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki paragrafta hangi cümle çıkarıldığında metnin anlamı bozulur?\n\n“İnsanlar, bazen yalnızlık hissi içinde bulunduklarında, çevrelerindeki kalabalıklar bile onlara yeterince anlam veremez. Bu durum, kişinin içsel huzurunu bulması için bir fırsat olabilir. Yalnızlık, düşünceleri derinleştirmek için bir zemin sağlar. Ancak bu zemin, doğru değerlendirilmediğinde bireyi karamsarlığa sürükleyebilir.”",
+    "options": [
+      {
+        "text": "Birinci cümle",
+        "isCorrect": false
+      },
+      {
+        "text": "İkinci cümle",
+        "isCorrect": false
+      },
+      {
+        "text": "Üçüncü cümle",
+        "isCorrect": true
+      },
+      {
+        "text": "Dördüncü cümle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Paragraf, yalnızlığın hem fırsatlar hem de riskler barındırdığını anlatmaktadır. Üçüncü cümle, yalnızlığın düşünceleri derinleştirme işlevini vurguladığı için çıkarıldığında metnin anlamı bozulur. Doğru seçenek C’dir.",
+    "topic": "Paragrafta Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "anlam bozulması",
+      "cümle çıkarma",
+      "yalnızlık"
+    ],
+    "learningObjective": "Paragrafta cümlelerin anlam ilişkilerini değerlendirerek, metnin bütünlüğünü koruyan cümleyi belirleyebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki metinde anlatım biçimi hangisidir?\n\n\"Bir gün, ormanda yürüyüş yaparken, ağaçların arasında kaybolmuş bir kuş sesi duydum. Ses o kadar güzeldi ki, yürüyüşümü durdurup dinlemeye başladım. Kuş, dalın ucunda neşeyle şarkı söylüyordu; etrafındaki doğa, bu melodiyle canlanmış gibiydi.\"",
+    "options": [
+      {
+        "text": "Betimleme (tasvir)",
+        "isCorrect": true
+      },
+      {
+        "text": "Öyküleme (olay anlatımı)",
+        "isCorrect": false
+      },
+      {
+        "text": "Açıklama (bilgilendirme)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tartışma (kanıtlama/ikna)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Metinde, doğanın ve kuş sesinin ayrıntılı bir şekilde tasvir edilmesi, betimleme anlatım biçiminin kullanıldığını gösterir. Olay veya tartışma yoktur; sadece duyusal bir deneyim aktarılmaktadır.",
+    "topic": "Anlatım Biçimleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "betimleme",
+      "doğa",
+      "duyusal deneyim"
+    ],
+    "learningObjective": "Bir metinde betimleme anlatım biçimini tanıyabilme ve örneklerini ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümledeki ses olaylarını doğru şekilde belirleyin:\n\n\"Kedim <u>miyavladı</u> ve <u>yavru</u> <u>kediler</u> <u>uyudu</u>.\"",
+    "options": [
+      {
+        "text": "miyavladı: ünlü düşmesi — yavru: ünsüz yumuşaması — kediler: ünlü daralması — uyudu: ünlü düşmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "miyavladı: ünlü yumuşaması — yavru: ses olayı yok — kediler: ünlü düşmesi — uyudu: ünlü daralması",
+        "isCorrect": false
+      },
+      {
+        "text": "miyavladı: ünlü daralması — yavru: ünlü düşmesi — kediler: ünlü yumuşaması — uyudu: ünlü düşmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "miyavladı: ünlü türemesi — yavru: ses olayı yok — kediler: ünlü düşmesi — uyudu: ünlü yumuşaması",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Doğru cevap D seçeneğidir.\n\n- \"miyavladı\": Bu kelimede ünlü türemesi vardır; kök ve ek arasındaki ünlü değişimi ile oluşur.\n- \"yavru\": Bu kelimede herhangi bir ses olayı yoktur.\n- \"kediler\": Burada ünlü düşmesi vardır; 'kedi' kelimesine '-ler' eki eklenince ikinci hecedeki dar ünlü düşer.\n- \"uyudu\": Bu kelimede ünlü yumuşaması vardır; ünlüyle başlayan ek aldığında ses değişimi yaşanır.",
+    "topic": "Ses Bilgisi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ünlü düşmesi",
+      "ünsüz yumuşaması",
+      "ünlü türemesi"
+    ],
+    "learningObjective": "Cümledeki kelimelerde gerçekleşen ses olaylarını tanımlamak ve doğru sınıflandırmak.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde yazım yanlışı bulunmaktadır?",
+    "options": [
+      {
+        "text": "Kütüphanede, kitap okumak için sessiz olunmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ali, \"Bu akşam sinemaya gideceğiz.\" dedi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dışarıda ki hava çok soğuk.",
+        "isCorrect": true
+      },
+      {
+        "text": "Öğretmen, öğrencilerin ödevlerini kontrol etti.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğru seçenek C'dir. \"Dışarıdaki\" kelimesi bitişik yazılmalıdır; ayrı yazımı yanlıştır. Doğru yazım \"Dışarıdaki hava çok soğuk.\" şeklindedir. Diğer seçeneklerdeki yazımlar kurala uygundur.",
+    "topic": "Yazım Kuralları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "yazım yanlışı",
+      "bitişik yazım",
+      "ayrı yazım"
+    ],
+    "learningObjective": "Öğrenci, yazım kurallarını kullanarak cümlelerdeki yazım yanlışlarını tespit eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlede hangi noktalama işareti yanlış kullanılmıştır?\n\n\"Bugün hava çok güzel, dışarı çıkmak istiyorum; ama önce biraz çalışmalıyım.\"",
+    "options": [
+      {
+        "text": "Noktalı virgül (;) doğru kullanılmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Virgül (,) doğru kullanılmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cümle sonunda nokta (.) kullanılmalıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bağlaç olan 'ama' öncesinde virgül (,) kullanılmalıdır.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cümlede 'ama' bağlacından önce virgül kullanımı doğrudur. Ancak cümle sonunda nokta kullanılmadığı için bu kullanım yanlıştır. Cümle tamamlandığında nokta ile bitirilmelidir.",
+    "topic": "Noktalama İşaretleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "noktalı virgül",
+      "virgül",
+      "bağlaç",
+      "nokta"
+    ],
+    "learningObjective": "Cümle içindeki noktalama işaretlerinin doğru kullanımını analiz ederek yanlış kullanımları tespit edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlede altı çizili sözcüğün yapısı (kök + yapım/çekim ekleri) hangi seçenekte doğru verilmiştir?\n\n\"Bu kitabı <u>okumak</u> istiyorum.\"",
+    "options": [
+      {
+        "text": "oku- (fiil kökü) + -mak (fiil yapım eki)",
+        "isCorrect": true
+      },
+      {
+        "text": "oku- (fiil kökü) + -ma (olumsuzluk eki)",
+        "isCorrect": false
+      },
+      {
+        "text": "oku- (fiil kökü) + -muş (geçmiş zaman eki)",
+        "isCorrect": false
+      },
+      {
+        "text": "oku- (isim kökü) + -mak (fiil yapım eki)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "\"Okumak\" sözcüğünde kök \"oku-\" fiil köküdür. Burada \"-mak\" ise fiil yapım eki olarak kullanılmıştır. Doğru çözümleme: oku- + -mak şeklindedir. Diğer seçeneklerde ya eklerin türü yanlış adlandırılmış ya da kök yanlış tanımlanmıştır.",
+    "topic": "Sözcükte Yapı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "kök",
+      "yapım eki",
+      "fiil",
+      "ek",
+      "sözcük"
+    ],
+    "learningObjective": "Bir fiilin kökünü ve yapım ekini ayırt ederek sözcüğün yapısını doğru çözümleyebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük “sıfat” olarak kullanılmıştır?\n\nA) Bu elma <u>kırmızı</u> ve tatlıdır.\nB) <u>Kırmızı</u> bir araba almak istiyorum.\nC) Bu <u>kırmızı</u> elma çok lezzetli.\nD) <u>Kırmızı</u> bir elma gördüm, çok güzeldi.",
+    "options": [
+      {
+        "text": "A",
+        "isCorrect": false
+      },
+      {
+        "text": "B",
+        "isCorrect": true
+      },
+      {
+        "text": "C",
+        "isCorrect": false
+      },
+      {
+        "text": "D",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "B seçeneğinde 'kırmızı' sözcüğü, 'bir araba' ifadesini nitelendirerek sıfat görevindedir. Diğer seçeneklerde ise 'kırmızı' sözcüğü ya isim tamlaması içinde ya da cümle içinde farklı işlevlerde kullanılmıştır.",
+    "topic": "Sözcük Türleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "sıfat",
+      "kırmızı",
+      "sözcük türü"
+    ],
+    "learningObjective": "Sıfatların cümledeki işlevini belirleyerek hangi sözcüğün sıfat olduğunu ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, diğerlerinden farklı bir işlevde kullanılmıştır?\n\nA) <u>Ah</u>, ne güzel bir gün!\nB) Bu kitabı <u>ve</u> dergiyi almayı unuttum.\nC) Sen <u>ama</u> ben gelmeyeceğim.\nD) <u>İçin</u> buradayım.",
+    "options": [
+      {
+        "text": "A",
+        "isCorrect": false
+      },
+      {
+        "text": "B",
+        "isCorrect": false
+      },
+      {
+        "text": "C",
+        "isCorrect": true
+      },
+      {
+        "text": "D",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cümledeki 'ama' bağlaç olarak kullanılırken, diğer seçeneklerdeki 'ah' ünlem, 've' bağlaç, 'için' ise edat olarak görev yapmaktadır. Bu nedenle doğru cevap C seçeneğidir.",
+    "topic": "Edat-Bağlaç-Ünlem",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ah",
+      "ama",
+      "ve",
+      "için"
+    ],
+    "learningObjective": "Cümle içinde edat, bağlaç ve ünlemi işlevlerine göre ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ek fiil, isim soylu bir sözcüğü yüklem yaparak cümleye geçmiş zaman anlamı katmıştır?",
+    "options": [
+      {
+        "text": "Bu kitap benimdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "O, çok çalışkandı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hava çok sıcak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Arkadaşım burada.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ek fiil, isim soylu sözcükleri yüklem yaparak cümleye zaman anlamı katar. B seçeneğindeki \"çalışkandı\" ifadesinde \"çalışkan\" (sıfat) + ek fiilin görülen geçmiş zaman biçimi \"-dı\" ile kurulmuştur. Bu kullanım geçmiş zaman anlamı verir. Diğer seçeneklerde ek fiil kullanımı yoktur veya zaman anlamı katmamaktadır.",
+    "topic": "Fill-Ek Fiil",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ek fiil",
+      "geçmiş zaman",
+      "isim cümlesi",
+      "yüklem"
+    ],
+    "learningObjective": "Ek fiilin isim soylu sözcükleri yüklem yapma işlevini ve zaman anlamı katma işlevini ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerden hangisinde fiilimsi doğru bir şekilde kullanılmıştır?",
+    "options": [
+      {
+        "text": "Yüzme, sağlıklı bir yaşam için önemlidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Koşmak, beni çok yorar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yüzmek, çok eğlenceli bir aktivitedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Okumak, kitapları severim.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğru seçenek A'dır. 'Yüzme' kelimesi burada fiilimsi olarak kullanılmış ve cümlede özne olarak görev yapmaktadır. Diğer seçeneklerde fiilimsi kullanımı ya yanlış ya da cümlenin anlamını bozmaktadır.",
+    "topic": "Fiilimsa",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "fiilimsi",
+      "özne",
+      "cümle",
+      "anlam"
+    ],
+    "learningObjective": "Öğrenci, fiilimsi kullanımını ve cümledeki işlevini ayırt edebilmelidir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde çatı özelliği bakımından (özne-yüklem ilişkisi) dönüşlü bir kullanım vardır?",
+    "options": [
+      {
+        "text": "Ali, kitabı okudu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ayşe, saçını taradı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Öğrenciler, sınavdan sonra rahatladı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Müzisyen, konserden önce prova yaptı.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dönüşlü çatıda özne, yaptığı işten etkilenir. 'Taradı' fiilinde Ayşe, kendi saçını taradığı için dönüşlü çatı özelliği gösterir. Diğer seçeneklerde özne, başkasına yönelik bir eylem gerçekleştirmektedir.",
+    "topic": "Filde Çatı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "dönüşlü çatı",
+      "özne-yüklem ilişkisi",
+      "etken-edilgen"
+    ],
+    "learningObjective": "Öğrenci, dönüşlü çatıyı diğer çatı türlerinden ayırarak öznenin eylemden etkilenme durumunu belirleyebilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde kullanılan atasözü, durumu en iyi şekilde ifade etmektedir? \"Ayağını yorganına göre uzat.\"",
+    "options": [
+      {
+        "text": "Bir kişi, bütçesini aşarak lüks bir araba satın aldı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir öğrenci, harçlıklarını iyi yöneterek birikim yapmaya başladı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bir iş insanı, gereksiz harcamalar yaparak iflas etti.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir aile, ihtiyaçlarını göz ardı ederek borçlandı.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "\"Ayağını yorganına göre uzat\" atasözü, kişinin maddi durumuna göre harcama yapması gerektiğini ifade eder. İkinci seçenek, harçlıklarını iyi yönetip birikim yapan öğrenciyi örnek vererek bu atasözünün anlamını en iyi şekilde yansıtmaktadır. Diğer seçenekler ise bu öğüdü ihlal eden durumları temsil etmektedir.",
+    "topic": "Deyim ve Atasözü",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "atasözü",
+      "maddi durum",
+      "harcama",
+      "birikim"
+    ],
+    "learningObjective": "Öğrenci, bir atasözünün öğüdünü analiz ederek farklı durumlarla en uygun biçimde eşleştirebilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlede özne ve yüklem arasındaki ilişkiyi belirleyiniz:\n\n\"Ali, sınavdan yüksek not aldı.\"",
+    "options": [
+      {
+        "text": "Özne yüklem ilişkisi doğrudur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Özne yüklem ilişkisi yanlıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cümlede özne yoktur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yüklem geçişsizdir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cümlede \"Ali\" özne, \"not aldı\" ise yüklemdir. Özne yüklem ilişkisi doğrudur çünkü özne, yüklemin kim tarafından gerçekleştirildiğini belirtir. Bu nedenle doğru cevap 'Özne yüklem ilişkisi doğrudur.' seçeneğidir.",
+    "topic": "Cümlenin Öğeleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "özne",
+      "yüklem",
+      "cümle yapısı"
+    ],
+    "learningObjective": "Öğrenci, cümlede özne ve yüklem arasındaki ilişkiyi doğru bir şekilde belirleyebilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisi, yüklemin türüne göre “fiil cümlesi” olup aynı zamanda anlamına göre “olumlu”dur?",
+    "options": [
+      {
+        "text": "Ali evde değil.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ali evde kalacak.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ali evde kalmıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ali evde kalmadı.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğru seçenek B’dir. Fiil cümlesinde yüklem bir fiil olup olumlu bir anlam taşır. B seçeneğinde 'kalacak' fiili olumlu bir durumu ifade ederken, diğer seçeneklerdeki yüklemler olumsuzdur.",
+    "topic": "Cümle Türleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "fiil cümlesi",
+      "olumlu cümle",
+      "yüklem"
+    ],
+    "learningObjective": "Öğrenci, yüklemin türüne göre cümleleri ayırt ederken anlamına göre de olumlu ve olumsuz cümleleri belirleyebilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu, özne yüklem uyumsuzluğundan kaynaklanmaktadır?",
+    "options": [
+      {
+        "text": "Ali ve Ayşe sinemaya gitti, çok eğlendi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kitap okumayı seviyorum ve ders çalışmayı da.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hava çok sıcak olduğu için denize girmeyi düşündüm.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınıf arkadaşlarım bu projeyi çok beğendi.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğru seçenek A’dır. Cümlede 'Ali ve Ayşe' birleşik özne olarak 3. çoğul kişi anlamı taşır; bu nedenle yüklem 'eğlendi' değil 'eğlendiler' olmalıdır. Cümle doğru biçimiyle: 'Ali ve Ayşe sinemaya gitti, çok eğlendiler.' B seçeneğinde yüklem 'seviyorum' özne ile uyumludur. C seçeneğinde özne ve yüklem arasında uyum vardır. D seçeneğinde de özne-yüklem uyumu doğrudur.",
+    "topic": "Anlatım Bozuklukları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "özne-yüklem uyumu",
+      "anlatım bozukluğu",
+      "kişi uyumsuzluğu"
+    ],
+    "learningObjective": "Öğrenci, cümlede özne-yüklem uyumsuzluğundan kaynaklanan anlatım bozukluğunu tespit eder ve doğru biçimi önerir.",
+    "subject": "Türkçe"
   }
 ]
