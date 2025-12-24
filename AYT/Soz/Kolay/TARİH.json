@@ -1,0 +1,715 @@
+[
+  {
+    "text": "Orta Çağ'da Avrupa'da feodal sistemin temel unsuru aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "Senyor-Vassal ilişkisi",
+        "isCorrect": true
+      },
+      {
+        "text": "Sanayi Devrimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Parlamenter sistem",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokratik yönetim",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Orta Çağ'da Avrupa'da feodal sistem, senyor ve vassal arasındaki toprak ilişkisine dayanıyordu.",
+    "topic": "Orta Çağ'da Avrupa",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "feodal sistem",
+      "senyor",
+      "vassal"
+    ],
+    "learningObjective": "Feodal sistemin temel unsurlarını tanımlamak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı İmparatorluğu'nun 'En Uzun Yüzyıl' olarak adlandırılan dönemi hangi yüzyıldır?",
+    "options": [
+      {
+        "text": "19. yüzyıl",
+        "isCorrect": true
+      },
+      {
+        "text": "17. yüzyıl",
+        "isCorrect": false
+      },
+      {
+        "text": "18. yüzyıl",
+        "isCorrect": false
+      },
+      {
+        "text": "20. yüzyıl",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Osmanlı İmparatorluğu'nun 19. yüzyılı, birçok reform ve değişim nedeniyle 'En Uzun Yüzyıl' olarak adlandırılır.",
+    "topic": "En Uzun Yüzyıl",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Osmanlı",
+      "19. yüzyıl",
+      "reform"
+    ],
+    "learningObjective": "Osmanlı İmparatorluğu'nun 19. yüzyıldaki değişimlerini anlamak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İkinci Dünya Savaşı'nın başladığı tarih aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "1 Eylül 1939",
+        "isCorrect": true
+      },
+      {
+        "text": "7 Aralık 1941",
+        "isCorrect": false
+      },
+      {
+        "text": "6 Haziran 1944",
+        "isCorrect": false
+      },
+      {
+        "text": "8 Mayıs 1945",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İkinci Dünya Savaşı, Almanya'nın Polonya'yı işgal ettiği 1 Eylül 1939 tarihinde başladı.",
+    "topic": "İkinci Dünya Savaşı",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "İkinci Dünya Savaşı",
+      "başlangıç",
+      "1939"
+    ],
+    "learningObjective": "İkinci Dünya Savaşı'nın başlangıç tarihini bilmek",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki devletlerden hangisi İlk Türk İslam Devletleri arasında yer alır?",
+    "options": [
+      {
+        "text": "Karahanlılar",
+        "isCorrect": true
+      },
+      {
+        "text": "Osmanlı İmparatorluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Selçuklu Devleti",
+        "isCorrect": false
+      },
+      {
+        "text": "Memlükler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karahanlılar, Türklerin İslamiyet'i kabul ettikten sonra kurdukları ilk devletlerden biridir.",
+    "topic": "İlk Türk İslam Devletleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Karahanlılar",
+      "Türk İslam Devletleri",
+      "ilk"
+    ],
+    "learningObjective": "İlk Türk İslam Devletlerini tanımak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Küreselleşen dünyada ekonomik ilişkilerin artmasıyla birlikte hangi kavram öne çıkmıştır?",
+    "options": [
+      {
+        "text": "Serbest ticaret",
+        "isCorrect": true
+      },
+      {
+        "text": "Feodalizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Kolonicilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Kölelik",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Küreselleşme, ülkeler arası ekonomik ilişkilerin artmasına ve serbest ticaretin yaygınlaşmasına neden olmuştur.",
+    "topic": "Küreselleşen Dünya",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "küreselleşme",
+      "ekonomi",
+      "ticaret"
+    ],
+    "learningObjective": "Küreselleşmenin ekonomik etkilerini açıklayabilmek.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İslam Tarihi'nde, Hz. Muhammed'in Mekke'den Medine'ye göç etmesine ne ad verilir?",
+    "options": [
+      {
+        "text": "Hicret",
+        "isCorrect": true
+      },
+      {
+        "text": "İsra",
+        "isCorrect": false
+      },
+      {
+        "text": "Mirac",
+        "isCorrect": false
+      },
+      {
+        "text": "Cihad",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hz. Muhammed'in Mekke'den Medine'ye göç etmesi olayına 'Hicret' denir ve bu olay İslam takviminin başlangıcı kabul edilir.",
+    "topic": "İslam Tarihi ve Medeniyeti",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "İslam",
+      "Hicret",
+      "Medine"
+    ],
+    "learningObjective": "İslam tarihindeki önemli olayları tanıyabilmek.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı İmparatorluğu'nun 'En Uzun Yüzyıl' olarak adlandırılan dönemi hangi yüzyıldır?",
+    "options": [
+      {
+        "text": "19. yüzyıl",
+        "isCorrect": true
+      },
+      {
+        "text": "17. yüzyıl",
+        "isCorrect": false
+      },
+      {
+        "text": "18. yüzyıl",
+        "isCorrect": false
+      },
+      {
+        "text": "20. yüzyıl",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Osmanlı İmparatorluğu'nun 19. yüzyılı, siyasi ve sosyal değişimlerin yoğun yaşandığı bir dönem olduğu için 'En Uzun Yüzyıl' olarak adlandırılır.",
+    "topic": "En Uzun Yüzyıl",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Osmanlı",
+      "19. yüzyıl",
+      "tarih"
+    ],
+    "learningObjective": "Osmanlı İmparatorluğu'nun 19. yüzyıldaki gelişmelerini kavrayabilmek.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Devleti'nin 'Arayış Yılları' olarak bilinen dönemi hangi padişahın saltanatı ile başlamıştır?",
+    "options": [
+      {
+        "text": "II. Osman",
+        "isCorrect": true
+      },
+      {
+        "text": "I. Süleyman",
+        "isCorrect": false
+      },
+      {
+        "text": "III. Selim",
+        "isCorrect": false
+      },
+      {
+        "text": "IV. Murad",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Osmanlı Devleti'nin 'Arayış Yılları', II. Osman döneminde başlamış ve devletin çeşitli reform arayışlarına girdiği bir dönemdir.",
+    "topic": "Arayış Yılları",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Osmanlı",
+      "reform",
+      "II. Osman"
+    ],
+    "learningObjective": "Osmanlı Devleti'nin reform arayışlarını ve bu dönemin başlangıcını öğrenmek.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Lozan Antlaşması hangi yıl imzalanmıştır?",
+    "options": [
+      {
+        "text": "1923",
+        "isCorrect": true
+      },
+      {
+        "text": "1919",
+        "isCorrect": false
+      },
+      {
+        "text": "1920",
+        "isCorrect": false
+      },
+      {
+        "text": "1922",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lozan Antlaşması, Türkiye Cumhuriyeti'nin uluslararası alanda tanınmasını sağlayan ve 24 Temmuz 1923 tarihinde imzalanan bir antlaşmadır.",
+    "topic": "İnkılap Tarihi Tüm Konular",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Lozan Antlaşması",
+      "1923",
+      "Türkiye Cumhuriyeti"
+    ],
+    "learningObjective": "Lozan Antlaşması'nın tarihini bilmek",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İkinci Dünya Savaşı sırasında Türkiye'nin izlediği politika aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "Tarafsızlık",
+        "isCorrect": true
+      },
+      {
+        "text": "Müttefiklere katılma",
+        "isCorrect": false
+      },
+      {
+        "text": "Almanya ile ittifak",
+        "isCorrect": false
+      },
+      {
+        "text": "Savaş ilan etme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Türkiye, İkinci Dünya Savaşı boyunca tarafsız kalmış ve savaşa doğrudan katılmamıştır.",
+    "topic": "İkinci Dünya Savaşı",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "İkinci Dünya Savaşı",
+      "Türkiye",
+      "Tarafsızlık"
+    ],
+    "learningObjective": "Türkiye'nin İkinci Dünya Savaşı'ndaki politikasını anlamak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Devleti'nin son döneminde imzalanan Mondros Ateşkes Antlaşması'nın tarihi nedir?",
+    "options": [
+      {
+        "text": "30 Ekim 1918",
+        "isCorrect": true
+      },
+      {
+        "text": "11 Kasım 1918",
+        "isCorrect": false
+      },
+      {
+        "text": "29 Ekim 1918",
+        "isCorrect": false
+      },
+      {
+        "text": "1 Kasım 1918",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mondros Ateşkes Antlaşması, Osmanlı Devleti'nin I. Dünya Savaşı'ndan çekildiğini ilan eden ve 30 Ekim 1918'de imzalanan bir antlaşmadır.",
+    "topic": "İnkılap Tarihi Tüm Konular",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Mondros Ateşkes Antlaşması",
+      "1918",
+      "Osmanlı Devleti"
+    ],
+    "learningObjective": "Mondros Ateşkes Antlaşması'nın tarihini bilmek",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?",
+    "options": [
+      {
+        "text": "Mustafa Kemal Atatürk",
+        "isCorrect": true
+      },
+      {
+        "text": "İsmet İnönü",
+        "isCorrect": false
+      },
+      {
+        "text": "Celal Bayar",
+        "isCorrect": false
+      },
+      {
+        "text": "Fevzi Çakmak",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mustafa Kemal Atatürk, Türkiye Cumhuriyeti'nin kurucusu ve ilk cumhurbaşkanıdır.",
+    "topic": "Türkiye Tarihi",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Mustafa Kemal Atatürk",
+      "cumhurbaşkanı",
+      "Türkiye Cumhuriyeti"
+    ],
+    "learningObjective": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanını tanımak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Soğuk Savaş Dönemi'nde Doğu Bloku ülkeleri arasında yer alan devletlerden biri hangisidir?",
+    "options": [
+      {
+        "text": "Sovyetler Birliği",
+        "isCorrect": true
+      },
+      {
+        "text": "Fransa",
+        "isCorrect": false
+      },
+      {
+        "text": "İngiltere",
+        "isCorrect": false
+      },
+      {
+        "text": "İtalya",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Soğuk Savaş Dönemi'nde Doğu Bloku, Sovyetler Birliği liderliğinde sosyalist ülkelerden oluşmaktaydı.",
+    "topic": "Soğuk Savaş Dönemi",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Soğuk Savaş",
+      "Doğu Bloku",
+      "Sovyetler Birliği"
+    ],
+    "learningObjective": "Soğuk Savaş Dönemi'nde bloklar arası ayrımı kavramak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İslam Tarihi'nde Hz. Muhammed'in Mekke'den Medine'ye hicreti hangi yıl gerçekleşmiştir?",
+    "options": [
+      {
+        "text": "622",
+        "isCorrect": true
+      },
+      {
+        "text": "610",
+        "isCorrect": false
+      },
+      {
+        "text": "632",
+        "isCorrect": false
+      },
+      {
+        "text": "650",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hz. Muhammed'in Mekke'den Medine'ye hicreti 622 yılında gerçekleşmiş ve bu olay İslam takviminin başlangıcı olarak kabul edilmiştir.",
+    "topic": "İslam Tarihi ve Medeniyeti",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Hicret",
+      "Hz. Muhammed",
+      "İslam Tarihi"
+    ],
+    "learningObjective": "İslam Tarihi'nde önemli olayların tarihlerini öğrenmek",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İkinci Dünya Savaşı sırasında Almanya'nın lideri kimdi?",
+    "options": [
+      {
+        "text": "Adolf Hitler",
+        "isCorrect": true
+      },
+      {
+        "text": "Winston Churchill",
+        "isCorrect": false
+      },
+      {
+        "text": "Joseph Stalin",
+        "isCorrect": false
+      },
+      {
+        "text": "Franklin D. Roosevelt",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İkinci Dünya Savaşı sırasında Almanya'nın lideri Adolf Hitler'di ve Nazi Partisi'nin başında bulunuyordu.",
+    "topic": "İkinci Dünya Savaşı",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "İkinci Dünya Savaşı",
+      "Adolf Hitler",
+      "Almanya"
+    ],
+    "learningObjective": "İkinci Dünya Savaşı liderlerini tanımak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İlk Çağ Medeniyetleri'nden biri olan Sümerler hangi bölgede yaşamıştır?",
+    "options": [
+      {
+        "text": "Mezopotamya",
+        "isCorrect": true
+      },
+      {
+        "text": "Mısır",
+        "isCorrect": false
+      },
+      {
+        "text": "Anadolu",
+        "isCorrect": false
+      },
+      {
+        "text": "İber Yarımadası",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sümerler, Mezopotamya bölgesinde yaşamış ve tarihte bilinen ilk yazılı belgeleri bırakmışlardır.",
+    "topic": "İlk Çağ Medeniyetleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Sümerler",
+      "Mezopotamya",
+      "İlk Çağ"
+    ],
+    "learningObjective": "İlk Çağ Medeniyetleri'nin coğrafi konumlarını öğrenmek",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki devletlerden hangisi İlk Türk İslam Devletleri arasında yer alır?",
+    "options": [
+      {
+        "text": "Karahanlılar",
+        "isCorrect": true
+      },
+      {
+        "text": "Hunlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Göktürkler",
+        "isCorrect": false
+      },
+      {
+        "text": "Uygurlar",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karahanlılar, İslamiyet'i kabul eden ilk Türk devletlerinden biridir ve bu nedenle İlk Türk İslam Devletleri arasında yer alır.",
+    "topic": "İlk Türk İslam Devletleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Karahanlılar",
+      "Türk İslam Devletleri",
+      "İslamiyet"
+    ],
+    "learningObjective": "İlk Türk İslam Devletlerini tanımak.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi İslam öncesi Türk devletlerinden biridir?",
+    "options": [
+      {
+        "text": "Göktürkler",
+        "isCorrect": true
+      },
+      {
+        "text": "Selçuklular",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmanlılar",
+        "isCorrect": false
+      },
+      {
+        "text": "Karahanlılar",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Göktürkler, İslamiyet öncesi dönemde kurulmuş bir Türk devletidir ve bu dönemin önemli temsilcilerindendir.",
+    "topic": "İslam Öncesi Türk Tarihi",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Göktürkler",
+      "Türk Devletleri",
+      "İslam Öncesi"
+    ],
+    "learningObjective": "İslam öncesi Türk devletlerini tanımak.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Yumuşama Dönemi hangi iki süper güç arasında yaşanmıştır?",
+    "options": [
+      {
+        "text": "ABD ve SSCB",
+        "isCorrect": true
+      },
+      {
+        "text": "ABD ve Almanya",
+        "isCorrect": false
+      },
+      {
+        "text": "SSCB ve Çin",
+        "isCorrect": false
+      },
+      {
+        "text": "İngiltere ve Fransa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Yumuşama Dönemi, Soğuk Savaş sırasında ABD ve SSCB arasında yaşanan gerilimin azaltılması amacıyla gerçekleştirilen bir süreçtir.",
+    "topic": "Yumuşama Dönemi",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Yumuşama Dönemi",
+      "ABD",
+      "SSCB"
+    ],
+    "learningObjective": "Yumuşama Dönemi'nin hangi ülkeler arasında yaşandığını öğrenmek.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Atatürk'ün gerçekleştirdiği inkılaplardan hangisi kadınlara seçme ve seçilme hakkı tanımıştır?",
+    "options": [
+      {
+        "text": "Medeni Kanun'un kabulü",
+        "isCorrect": true
+      },
+      {
+        "text": "Harf Devrimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Takvim, Saat ve Ölçülerde Değişiklik",
+        "isCorrect": false
+      },
+      {
+        "text": "Tevhid-i Tedrisat Kanunu",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Medeni Kanun'un kabulü ile kadınlara birçok sosyal hak tanınmış ve bu kapsamda seçme ve seçilme hakkı da verilmiştir.",
+    "topic": "İnkılap Tarihi Tüm Konular",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Medeni Kanun",
+      "Kadın Hakları",
+      "Atatürk İnkılapları"
+    ],
+    "learningObjective": "Atatürk'ün inkılapları arasında kadınlara seçme ve seçilme hakkı tanıyan düzenlemeyi öğrenmek.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İslam tarihinin ilk halifesi kimdir?",
+    "options": [
+      {
+        "text": "Hz. Ebubekir",
+        "isCorrect": true
+      },
+      {
+        "text": "Hz. Ömer",
+        "isCorrect": false
+      },
+      {
+        "text": "Hz. Osman",
+        "isCorrect": false
+      },
+      {
+        "text": "Hz. Ali",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hz. Ebubekir, İslam tarihinin ilk halifesi olarak bilinir ve Peygamber Efendimizin vefatından sonra Müslüman toplumu yönetmiştir.",
+    "topic": "İslam Tarihi ve Medeniyeti",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "İslam",
+      "halife",
+      "tarih"
+    ],
+    "learningObjective": "İslam tarihindeki önemli şahsiyetleri tanımak."
+  }
+]
