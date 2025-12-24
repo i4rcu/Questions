@@ -1,0 +1,342 @@
+[
+  {
+    "text": "AB || CD olan ABCD yamukunda kısa taban AB = 10, uzun taban CD = 22 olsun. Köşegenler AC ve BD kesişerek E noktasını oluşturuyor. AE:EC oranı kaçtır?",
+    "options": [
+      {
+        "text": "5/11",
+        "isCorrect": true
+      },
+      {
+        "text": "2/3",
+        "isCorrect": false
+      },
+      {
+        "text": "1/2",
+        "isCorrect": false
+      },
+      {
+        "text": "11/5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Yamukta köşegenlerin birbirini bölme oranı paralel tabanların uzunluklarıyla aynıdır; yani AE:EC = AB:CD = 10:22 = 5:11.",
+    "topic": "Yamuk",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "yamuk",
+      "köşegen",
+      "oran"
+    ],
+    "learningObjective": "Yamuklarda köşegenlerin paralel tabanlarla orantısını kullanma",
+    "subject": "Geometri"
+  },
+  {
+    "text": "O merkezli ve yarıçapı 13 bir çemberde bir kirişin uzunluğu 10'dur. Kiriş ile çember merkezinin arasındaki uzaklık kaçtır?",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "√119",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kirişin yarısı dik uzaklıkla bir dik üçgen oluşturur: r^2 = d^2 + (kiriş/2)^2 ⇒ 13^2 = d^2 +5^2, dolayısıyla d = √(169-25)=√144=12.",
+    "topic": "Daire",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "çember",
+      "kiriş",
+      "uzaklık"
+    ],
+    "learningObjective": "Çemberde kiriş ve merkez arasındaki dik uzaklığı hesaplama",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir üçgende kenarlar karşısındaki açıların ilişkisi verilmiştir: Kenar uzunlukları 7, x ve 13 olsun; 13 kenarına karşılık gelen açı 120° ise x kaçtır?",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kosinus kanununu uygulayarak: 13^2 = 7^2 + x^2 -2·7·x·cos120° ve cos120° = -1/2 olduğundan denklem x^2 +7x -120=0 olur; pozitif çözüm x=8'dir.",
+    "topic": "Üçgende Açı-Kenar Bağıntıları",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "üçgen",
+      "kosinus kanunu",
+      "açı"
+    ],
+    "learningObjective": "Kosinus kanunu ile bilinmeyen kenarı bulma",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Merkezi (0,0) ve yarıçapı 5 olan çember x^2 + y^2 = 25'e dışarıdan (7,1) noktasından çizilebilen teğet doğrulardan biri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "4x - 3y - 25 = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "4x - 3y + 25 = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "4x + 3y - 25 = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "3x - 4y - 25 = 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Teğet doğruların eğimleri m için |1-7m|/√(m^2+1)=5 denklemi; çözüm m = 4/3 veya m = -3/4 verir. (7,1) üzerinden eğim 4/3 ile geçen doğrunun denklemi 4x - 3y -25 = 0 şeklindedir.",
+    "topic": "Doğrunun Analitiği",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "doğru",
+      "teğet",
+      "çember"
+    ],
+    "learningObjective": "Analitik düzlemde çembere dışarıdan çizilen teğet doğrularını bulma",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC dik üçgeninde ∠C = 90° ve C'den hipotenüs AB'ye indirilen dikmenin ayırdığı nokta D için CD = 6, AD = 9 ise AB kaçtır?",
+    "options": [
+      {
+        "text": "13",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "17",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dik üçgende yükseklik ile hipotenüsün bölümleri arasında CD^2 = AD·DB bağıntısı vardır. CD^2 = 36 = 9·(AB-9) ⇒ AB = 13 bulunur.",
+    "topic": "Üçgende Eşlik ve Benzerlik",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "dik üçgen",
+      "yükseklik",
+      "benzerlik"
+    ],
+    "learningObjective": "Hipotenüse indirilen yükseklik ile hipotenüsü parçalayan uzunluklar arasındaki benzerlik bağıntısını uygulayabilme",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Eşkenar dörtgende bir kenar uzunluğu 13 ve bir köşegenin uzunluğu 10 ise bu dörtgenin alanı kaçtır?",
+    "options": [
+      {
+        "text": "120",
+        "isCorrect": true
+      },
+      {
+        "text": "156",
+        "isCorrect": false
+      },
+      {
+        "text": "130",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Eşkenar dörtgende köşegenler birbirini dik keser ve p^2+q^2=4s^2 olur. 10^2+q^2=4·13^2⇒q=24, alan=(10·24)/2=120 bulunur.",
+    "topic": "Dörtgenler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşkenar dörtgen",
+      "köşegen",
+      "alan"
+    ],
+    "learningObjective": "Eşkenar dörtgenlerde köşegenlerle kenar uzunlukları arasındaki ilişkiyi kullanarak alan hesaplayabilme",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC dik üçgeninde ∠C = 90°, sin A = 3/5 ve AB = 25 ise C'den hipotenüse indirilen yükseklik CD kaçtır?",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "sin A = BC/AB ⇒ BC = 25·3/5 =15, AC = 25·4/5 =20. Hipotenüse indirilen yükseklik CD = (AC·BC)/AB = (20·15)/25 =12'dir.",
+    "topic": "Dik Üçgende Trigonometrik Bağıntılar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "dik üçgen",
+      "trigonometrik oran",
+      "yükseklik"
+    ],
+    "learningObjective": "Trigonometrik oranları kullanıp dik üçgende kenar uzunluklarını ve hipotenüse indirilen yüksekliği hesaplayabilme",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Doğru 2x - 3y + 6 = 0 ile dik olan ve (3, -1) noktasından geçen doğrunun denklemi hangisidir?",
+    "options": [
+      {
+        "text": "3x + 2y - 7 = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "2x - 3y - 7 = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "4x - 6y + 1 = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "3x - 2y + 1 = 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Verilen doğrunun eğimi 2/3 olduğundan dik eğim -3/2'dir. (3,-1) için y+1 = -3/2(x-3) ⇒ 3x+2y-7=0 elde edilir.",
+    "topic": "Doğrunun Analitiği",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "doğru denklemi",
+      "eğim",
+      "analitik geometri"
+    ],
+    "learningObjective": "İki doğrunun diklik koşulunu ve nokta-eğim formülünü kullanarak doğru denklemi yazabilme",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir kürenin yarıçapı 13 birimdir. Bu küreyi merkezinden 5 birim uzaklıkta bir düzlemle kestiğimizde oluşan çember içine çizilen düzgün altıgenin bir kenarının uzunluğu kaç birimdir?",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kesit çemberinin yarıçapı r = sqrt(13^2 - 5^2) = 12'dir. Düzgün altıgende çevre yarıçapı kenar uzunluğuna eşit olduğundan kenar = 12 birimdir.",
+    "topic": "Küre ve Çokgenler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "küre",
+      "düzlem kesiti",
+      "düzgün altıgen"
+    ],
+    "learningObjective": "Kürenin düzlem kesitinden elde edilen çemberin yarıçapını hesaplayıp düzenli çokgenin kenarını belirleyebilme.",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Yarıçapı 13 birim olan bir küreyi merkezinden 5 birim uzaklıkta bir düzlemle kestiğimizde oluşan çember içine çizilen eşkenar üçgenin alanı kaç birim²'dir?",
+    "options": [
+      {
+        "text": "108√3",
+        "isCorrect": true
+      },
+      {
+        "text": "72√3",
+        "isCorrect": false
+      },
+      {
+        "text": "144√3",
+        "isCorrect": false
+      },
+      {
+        "text": "108",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kesit çemberinin yarıçapı r = sqrt(13^2 - 5^2) = 12'dir. Eşkenar üçgende kenar = r√3 = 12√3 ve alan = (√3/4)(12√3)^2 = 108√3 birim²'dir.",
+    "topic": "Küre ve Çokgenler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "küre",
+      "çember kesiti",
+      "eşkenar üçgen"
+    ],
+    "learningObjective": "Kürenin düzlem kesitinden elde edilen çemberin yarıçapını kullanarak eşkenar üçgenin alanını hesaplayabilme.",
+    "subject": "Geometri"
+  }
+]
