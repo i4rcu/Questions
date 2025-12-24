@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Aşağıdaki ülkelerden hangisi, ekvator ikliminin etkisi altında bulunan bir ülke değildir?",
+    "options": [
+      {
+        "text": "Kongo Cumhuriyeti",
+        "isCorrect": false
+      },
+      {
+        "text": "Brezilya",
+        "isCorrect": false
+      },
+      {
+        "text": "Endonezya",
+        "isCorrect": false
+      },
+      {
+        "text": "Meksika",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Meksika, ekvator ikliminin etkisi altında olmayan, daha çok yarı kurak ve tropikal iklim özellikleri gösteren bir ülkedir.",
+    "topic": "Ülkeler Coğrafyası",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "ekvator iklimi",
+      "Meksika",
+      "iklim"
+    ],
+    "learningObjective": "Ülkelerin iklim özelliklerini tanımak."
+  },
+  {
+    "text": "Aşağıdaki madde döngülerinden hangisi, su döngüsünün bir parçası değildir?",
+    "options": [
+      {
+        "text": "Buharlaşma",
+        "isCorrect": false
+      },
+      {
+        "text": "Yağış",
+        "isCorrect": false
+      },
+      {
+        "text": "Süblimleşme",
+        "isCorrect": true
+      },
+      {
+        "text": "Yer altı suyu akışı",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Süblimleşme, katı bir maddenin doğrudan gaz haline geçmesi sürecidir ve su döngüsünde yer almaz.",
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "su döngüsü",
+      "süblimleşme",
+      "madde döngüleri"
+    ],
+    "learningObjective": "Madde döngülerini anlamak."
+  },
+  {
+    "text": "Türkiye'nin hangi bölgesi, tarımsal üretim açısından en verimli alanlardan biridir?",
+    "options": [
+      {
+        "text": "Ege Bölgesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Karadeniz Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneydoğu Anadolu Bölgesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ege Bölgesi, iklimi ve toprak yapısı nedeniyle tarımsal üretim açısından Türkiye'nin en verimli bölgelerinden biridir.",
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "Ege Bölgesi",
+      "tarım",
+      "verimlilik"
+    ],
+    "learningObjective": "Türkiye'nin bölgelerinin ekonomik özelliklerini tanımak."
+  },
+  {
+    "text": "Aşağıdaki projelerden hangisi, Türkiye'nin bölgesel kalkınma projeleri arasında yer almaz?",
+    "options": [
+      {
+        "text": "GAP",
+        "isCorrect": false
+      },
+      {
+        "text": "KOP",
+        "isCorrect": false
+      },
+      {
+        "text": "DAP",
+        "isCorrect": false
+      },
+      {
+        "text": "Marmaray",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Marmaray, ulaşım projeleri arasında yer alırken, GAP, KOP ve DAP bölgesel kalkınma projeleri olarak tanımlanır.",
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "bölgesel kalkınma",
+      "projeler",
+      "Marmaray"
+    ],
+    "learningObjective": "Bölgesel kalkınma projelerini tanımak."
+  },
+  {
+    "text": "Aşağıdaki doğal afetlerden hangisi, beşeri sistemler üzerinde en hızlı ve yıkıcı etkiye sahip olabilir?",
+    "options": [
+      {
+        "text": "Deprem",
+        "isCorrect": true
+      },
+      {
+        "text": "Sel",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuraklık",
+        "isCorrect": false
+      },
+      {
+        "text": "Fırtına",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Depremler, aniden meydana gelmeleri ve büyük yıkımlara yol açmaları nedeniyle beşeri sistemler üzerinde en hızlı ve yıkıcı etkiye sahip doğal afetlerdir.",
+    "topic": "Beşeri Sistemler ve Doğal Afetler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "doğal afetler",
+      "deprem",
+      "beşeri sistemler"
+    ],
+    "learningObjective": "Doğal afetlerin beşeri sistemler üzerindeki etkilerini analiz etmek."
+  },
+  {
+    "text": "Hangi doğal afet, tarımsal üretimi en çok olumsuz etkileyen olaylardan biridir?",
+    "options": [
+      {
+        "text": "Kuraklık",
+        "isCorrect": true
+      },
+      {
+        "text": "Volkanik patlama",
+        "isCorrect": false
+      },
+      {
+        "text": "Tsunami",
+        "isCorrect": false
+      },
+      {
+        "text": "Buzul erimesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kuraklık, su kaynaklarının azalmasına neden olarak tarımsal üretimi ciddi şekilde olumsuz etkileyen bir doğal afettir.",
+    "topic": "Beşeri Sistemler ve Doğal Afetler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "doğal afetler",
+      "kuraklık",
+      "tarımsal üretim"
+    ],
+    "learningObjective": "Doğal afetlerin tarımsal üretim üzerindeki etkilerini anlamak."
+  }
+]
