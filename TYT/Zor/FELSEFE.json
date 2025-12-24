@@ -1,0 +1,169 @@
+[
+  {
+    "text": "Felsefenin alanı ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "text": "Felsefe, varlık, bilgi, değer ve anlam gibi temel kavramları sorgular.",
+        "isCorrect": false
+      },
+      {
+        "text": "Felsefe, yalnızca bilimsel bilgiyi kabul eder ve diğer bilgi türlerini reddeder.",
+        "isCorrect": true
+      },
+      {
+        "text": "Felsefe, düşünme ve sorgulama eylemiyle insanın anlam arayışını destekler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Felsefe, etik, estetik ve mantık gibi alt alanlara sahiptir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Felsefe, varlık, bilgi, değer ve anlam gibi temel kavramları sorgulayan bir disiplindir. Bilimsel bilgi dışında, etik ve estetik gibi diğer bilgi türlerini de inceler. Dolayısıyla, felsefenin yalnızca bilimsel bilgiyi kabul ettiği ifadesi yanlıştır.",
+    "topic": "Felsefe'nin Alanı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "varlık",
+      "bilgi",
+      "değer",
+      "anlam",
+      "felsefe"
+    ],
+    "learningObjective": "Öğrenci, felsefenin alanını ve kapsamını belirleyen temel kavramları ayırt eder ve felsefenin diğer bilgi türleriyle ilişkisini değerlendirir.",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi bilgi felsefesi bağlamında 'empirizm' anlayışını en iyi açıklar?\n\n1. Bilgi, deneyim yoluyla elde edilir.\n2. Akıl, bilgiyi elde etmenin en güvenilir yoludur.\n3. Duyular, yanıltıcı olabilir ve kesin bilgi vermez.\n4. Bilgi, yalnızca mantıksal çıkarımlarla elde edilebilir.",
+    "options": [
+      {
+        "text": "Bilgi, deneyim yoluyla elde edilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Akıl, bilgiyi elde etmenin en güvenilir yoludur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Duyular, yanıltıcı olabilir ve kesin bilgi vermez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilgi, yalnızca mantıksal çıkarımlarla elde edilebilir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Empirizm, bilginin kaynağını deneyim ve gözlemlere dayandıran bir yaklaşımı ifade eder. Bu anlayışa göre, bilgi duyular yoluyla elde edilir ve aklın rolü, deneyimden elde edilen verileri işlemekle sınırlıdır. Diğer ifadeler ise rasyonalizm veya başka felsefi yaklaşımlara işaret etmektedir.",
+    "topic": "Bilgi Felsefesi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "empirizm",
+      "deneyim",
+      "bilgi kaynağı"
+    ],
+    "learningObjective": "Öğrenci, bilgi felsefesi bağlamında empirizmin temel ilkelerini tanımlar ve diğer epistemolojik yaklaşımlarla karşılaştırır.",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi bilim felsefesinin temel sorunlarından biri olan 'bilimsel bilgi'nin doğasıyla ilgili en doğru açıklamayı sunmaktadır?",
+    "options": [
+      {
+        "text": "Bilimsel bilgi, yalnızca deneysel gözlemlerle elde edilen verilere dayanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilimsel bilgi, kesin ve değişmez gerçeklerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilimsel bilgi, sürekli olarak gözlemler ve kuramsal çerçevelerle yeniden değerlendirilen bir süreçtir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilimsel bilgi, yalnızca matematiksel formüllerle ifade edilebilir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bilim felsefesi, bilimsel bilginin dinamik ve değişken doğasını vurgular. Bilimsel bilgi, yeni gözlemler ve teorik gelişmeler ışığında sürekli olarak gözden geçirilir ve güncellenir. Bu nedenle, bilimsel bilgi statik değil, dinamik bir süreçtir.",
+    "topic": "Bilim Felsefesi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "bilimsel bilgi",
+      "dinamik süreç",
+      "teorik gelişmeler"
+    ],
+    "learningObjective": "Bilimsel bilginin doğası ve bilim felsefesinin temel sorunları hakkında bilgi sahibi olma.",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Varlık felsefesinde, 'varlık' kavramının en temel tanımını aşağıdakilerden hangisi en iyi şekilde ifade eder?",
+    "options": [
+      {
+        "text": "Varlık, yalnızca fiziksel nesnelerin toplamıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Varlık, düşüncenin bir yansımasıdır ve yalnızca zihinde mevcuttur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Varlık, var olan her şeyin toplamıdır ve varlıkların özünü anlamaya çalışır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Varlık, yalnızca insan deneyimi ile tanımlanabilen bir kavramdır.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Varlık felsefesi, varlığın ne olduğunu, nasıl var olduğunu ve varlıkların özünü inceleyen bir disiplindir. Üçüncü seçenek, varlık kavramını en kapsamlı ve doğru şekilde tanımlamaktadır. Diğer seçenekler, varlığın yalnızca belirli bir yönünü ele alarak dar bir çerçeve sunmaktadır.",
+    "topic": "Varlık Felsefesi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "varlık",
+      "ontoloji",
+      "felsefe"
+    ],
+    "learningObjective": "Öğrenci, varlık felsefesinin temel kavramlarını tanımlayarak varlığın kapsamını anlayabilir.",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Ahlak felsefesi açısından, bir eylemin ahlaki değerinin belirlenmesinde en önemli kriter aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "Eylemin sonuçları",
+        "isCorrect": false
+      },
+      {
+        "text": "Eylemin niyeti",
+        "isCorrect": false
+      },
+      {
+        "text": "Eylemi yöneten ilkenin evrenselliği",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumun gelenekleri",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ahlak felsefesinde, bir eylemin ahlaki değeri genellikle o eylemi yöneten ilkenin evrensel bir yasa olarak kabul edilip edilemeyeceği ile belirlenir. Bu, Kant'ın deontolojik etik anlayışının temel bir ilkesidir.",
+    "topic": "Ahlak Felsefesi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ahlak felsefesi",
+      "Kant",
+      "deontoloji"
+    ],
+    "learningObjective": "Öğrenci, ahlaki değerlendirmenin temel kriterlerini belirleyerek ahlak felsefesi ile ilgili kavramları ayırt eder.",
+    "subject": "Felsefe"
+  }
+]
