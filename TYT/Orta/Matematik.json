@@ -1,37 +1,5 @@
 [
   {
-    "text": "Mutlak değeri -3 olan sayı hangisidir?",
-    "options": [
-      {
-        "text": "3",
-        "isCorrect": true
-      },
-      {
-        "text": "-3",
-        "isCorrect": false
-      },
-      {
-        "text": "0",
-        "isCorrect": false
-      },
-      {
-        "text": "1",
-        "isCorrect": false
-      }
-    ],
-    "explanation": "Mutlak değer, bir sayının işaretsiz değerini verir. -3'ün mutlak değeri 3'tür.",
-    "topic": "Mutlak Değer",
-    "formula": null,
-    "exam": "TYT",
-    "difficulty": "Orta",
-    "keywords": [
-      "Mutlak Değer",
-      "Sayılar"
-    ],
-    "learningObjective": "Mutlak değer kavramını anlamak",
-    "subject": "Matematik"
-  },
-  {
     "text": "Veri analizi ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "options": [
       {
