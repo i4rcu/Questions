@@ -1,0 +1,580 @@
+[
+  {
+    "text": "Türkiye'de en fazla pamuk üretimi hangi bölgede yapılmaktadır?",
+    "options": [
+      {
+        "text": "Ege Bölgesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Karadeniz Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Marmara Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Bölgesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Türkiye'de pamuk üretimi en fazla Ege Bölgesi'nde yapılmaktadır. Bu bölgedeki iklim ve toprak koşulları pamuk tarımı için uygundur.",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "pamuk",
+      "tarım",
+      "Ege Bölgesi"
+    ],
+    "learningObjective": "Türkiye'deki tarım ürünlerinin bölgesel dağılımını bilmek.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Hangi bölge Türkiye'nin en fazla yağış alan bölgesidir?",
+    "options": [
+      {
+        "text": "Karadeniz Bölgesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Akdeniz Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "İç Anadolu Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneydoğu Anadolu Bölgesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karadeniz Bölgesi, Türkiye'nin en fazla yağış alan bölgesidir. Bu durum, bölgenin coğrafi konumu ve iklim özelliklerinden kaynaklanmaktadır.",
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "yağış",
+      "Karadeniz Bölgesi",
+      "iklim"
+    ],
+    "learningObjective": "Türkiye'nin iklim özelliklerini ve bölgesel farklılıklarını anlamak.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Ekosistemlerde enerji akışı hangi yolla gerçekleşir?",
+    "options": [
+      {
+        "text": "Besin zinciri",
+        "isCorrect": true
+      },
+      {
+        "text": "Fotosentez",
+        "isCorrect": false
+      },
+      {
+        "text": "Erozyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Su döngüsü",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ekosistemlerde enerji akışı, besin zinciri aracılığıyla gerçekleşir. Canlılar arasındaki beslenme ilişkileri enerji transferini sağlar.",
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "ekosistem",
+      "enerji akışı",
+      "besin zinciri"
+    ],
+    "learningObjective": "Ekosistemlerde enerji akışını ve madde döngülerini kavramak.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Sanayi faaliyetlerinin yoğun olduğu bölgelerde hangi çevresel sorun daha fazla görülür?",
+    "options": [
+      {
+        "text": "Hava kirliliği",
+        "isCorrect": true
+      },
+      {
+        "text": "Çölleşme",
+        "isCorrect": false
+      },
+      {
+        "text": "Erozyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyoçeşitlilik artışı",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sanayi faaliyetlerinin yoğun olduğu bölgelerde hava kirliliği daha fazla görülür. Fabrikaların bacalarından çıkan gazlar ve araç trafiği bu durumu artırır.",
+    "topic": "Çevre ve İnsan",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "sanayi",
+      "hava kirliliği",
+      "çevre"
+    ],
+    "learningObjective": "Sanayi faaliyetlerinin çevresel etkilerini değerlendirmek.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Ekosistemlerde madde döngülerinin devamlılığı için aşağıdakilerden hangisi gereklidir?",
+    "options": [
+      {
+        "text": "Enerji akışı",
+        "isCorrect": true
+      },
+      {
+        "text": "İnsan müdahalesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyolojik çeşitlilik azalması",
+        "isCorrect": false
+      },
+      {
+        "text": "Toprak erozyonu",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ekosistemlerde madde döngülerinin devamlılığı için enerji akışının sağlanması gereklidir. Bu enerji genellikle güneşten gelir ve besin zinciri aracılığıyla canlılar arasında aktarılır.",
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "ekosistem",
+      "madde döngüleri",
+      "enerji akışı"
+    ],
+    "learningObjective": "Ekosistemlerde madde döngülerinin nasıl işlediğini anlamak.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi nüfus yoğunluğu en fazla olan ülkeler arasında yer alır?",
+    "options": [
+      {
+        "text": "Bangladeş",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanada",
+        "isCorrect": false
+      },
+      {
+        "text": "Rusya",
+        "isCorrect": false
+      },
+      {
+        "text": "Brezilya",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bangladeş, dünya genelinde nüfus yoğunluğu en fazla olan ülkelerden biridir. Küçük yüzölçümüne rağmen yüksek nüfusu ile dikkat çeker.",
+    "topic": "Ülkeler Coğrafyası",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "nüfus yoğunluğu",
+      "ülkeler",
+      "Bangladeş"
+    ],
+    "learningObjective": "Dünyadaki ülkelerin nüfus yoğunluklarını karşılaştırmak.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi Türkiye'nin beşeri coğrafya özelliklerinden biri değildir?",
+    "options": [
+      {
+        "text": "Yüksek dağlık alanların fazlalığı",
+        "isCorrect": true
+      },
+      {
+        "text": "Çeşitli etnik grupların varlığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Kırsal alanlarda tarım faaliyetleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi bölgelerinin yoğunluğu",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Yüksek dağlık alanların fazlalığı, Türkiye'nin fiziki coğrafya özelliklerinden biridir, beşeri coğrafya özelliği değildir.",
+    "topic": "Beşeri Sistemler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Türkiye",
+      "beşeri coğrafya",
+      "özellikler"
+    ],
+    "learningObjective": "Türkiye'nin beşeri coğrafya özelliklerini tanımak.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'nin en fazla yağış alan bölgesi hangisidir?",
+    "options": [
+      {
+        "text": "Karadeniz Bölgesi",
+        "isCorrect": true
+      },
+      {
+        "text": "İç Anadolu Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ege Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Bölgesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karadeniz Bölgesi, Türkiye'nin en fazla yağış alan bölgesidir. Bu durum, bölgenin iklim özelliklerinden kaynaklanmaktadır.",
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Karadeniz",
+      "yağış",
+      "Türkiye"
+    ],
+    "learningObjective": "Türkiye'nin iklim bölgelerini ve yağış dağılımını öğrenmek.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de tarım faaliyetlerinin en yoğun olduğu bölge hangisidir?",
+    "options": [
+      {
+        "text": "Marmara Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ege Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Karadeniz Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Akdeniz Bölgesi",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Akdeniz Bölgesi, iklim koşulları ve verimli toprakları nedeniyle Türkiye'de tarım faaliyetlerinin en yoğun olduğu bölgedir.",
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "tarım",
+      "bölge",
+      "Akdeniz"
+    ],
+    "learningObjective": "Türkiye'de tarım faaliyetlerinin yoğunlaştığı bölgeleri tanımlamak.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de en sık görülen doğal afet türü hangisidir?",
+    "options": [
+      {
+        "text": "Sel",
+        "isCorrect": false
+      },
+      {
+        "text": "Deprem",
+        "isCorrect": true
+      },
+      {
+        "text": "Heyelan",
+        "isCorrect": false
+      },
+      {
+        "text": "Çığ",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Türkiye, aktif fay hatları üzerinde yer aldığı için en sık karşılaşılan doğal afet türü depremlerdir.",
+    "topic": "Doğal Afetler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "doğal afet",
+      "deprem",
+      "Türkiye"
+    ],
+    "learningObjective": "Türkiye'de en sık görülen doğal afet türlerini tanımlamak.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Fotosentez sürecinde bitkiler hangi gazı tüketir?",
+    "options": [
+      {
+        "text": "Oksijen",
+        "isCorrect": false
+      },
+      {
+        "text": "Azot",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbon dioksit",
+        "isCorrect": true
+      },
+      {
+        "text": "Hidrojen",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fotosentez sürecinde bitkiler, atmosferden karbon dioksit alarak oksijen üretirler.",
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "fotosentez",
+      "karbon dioksit",
+      "bitki"
+    ],
+    "learningObjective": "Fotosentez sürecinde bitkilerin kullandığı gazları açıklamak.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi Güney Amerika kıtasında yer alır?",
+    "options": [
+      {
+        "text": "Meksika",
+        "isCorrect": false
+      },
+      {
+        "text": "Brezilya",
+        "isCorrect": true
+      },
+      {
+        "text": "İspanya",
+        "isCorrect": false
+      },
+      {
+        "text": "Portekiz",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Brezilya, Güney Amerika kıtasında yer alan en büyük ülkedir.",
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Güney Amerika",
+      "Brezilya",
+      "ülke"
+    ],
+    "learningObjective": "Güney Amerika kıtasında yer alan ülkeleri tanımlamak.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi Avrupa kıtasında yer alır?",
+    "options": [
+      {
+        "text": "Fransa",
+        "isCorrect": true
+      },
+      {
+        "text": "Mısır",
+        "isCorrect": false
+      },
+      {
+        "text": "Brezilya",
+        "isCorrect": false
+      },
+      {
+        "text": "Hindistan",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fransa, Avrupa kıtasında yer alan bir ülkedir. Diğer seçeneklerdeki ülkeler ise farklı kıtalarda bulunmaktadır.",
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Avrupa",
+      "ülkeler",
+      "kıtalar"
+    ],
+    "learningObjective": "Öğrenciler, ülkelerin hangi kıtalarda yer aldığını öğrenir.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki şehirlerden hangisi Türkiye'nin Marmara Bölgesi'nde yer alır?",
+    "options": [
+      {
+        "text": "İstanbul",
+        "isCorrect": true
+      },
+      {
+        "text": "Antalya",
+        "isCorrect": false
+      },
+      {
+        "text": "Diyarbakır",
+        "isCorrect": false
+      },
+      {
+        "text": "Trabzon",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İstanbul, Türkiye'nin Marmara Bölgesi'nde yer alan en büyük şehirdir. Diğer şehirler farklı bölgelerde bulunmaktadır.",
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Türkiye",
+      "Marmara Bölgesi",
+      "şehirler"
+    ],
+    "learningObjective": "Öğrenciler, Türkiye'nin bölgelerini ve bu bölgelerdeki önemli şehirleri tanır.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi nüfus yoğunluğu en fazla olan ülkelerden biridir?",
+    "options": [
+      {
+        "text": "Bangladeş",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanada",
+        "isCorrect": false
+      },
+      {
+        "text": "Avustralya",
+        "isCorrect": false
+      },
+      {
+        "text": "Rusya",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bangladeş, dünya genelinde nüfus yoğunluğunun en fazla olduğu ülkelerden biridir. Diğer ülkeler geniş yüz ölçümlerine sahiptir ve nüfus yoğunlukları daha düşüktür.",
+    "topic": "Beşeri Sistemler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "nüfus yoğunluğu",
+      "ülkeler",
+      "beşeri coğrafya"
+    ],
+    "learningObjective": "Öğrenciler, nüfus yoğunluğu kavramını ve bu yoğunluğun yüksek olduğu ülkeleri öğrenir.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi Asya kıtasında yer almaz?",
+    "options": [
+      {
+        "text": "Meksika",
+        "isCorrect": true
+      },
+      {
+        "text": "Çin",
+        "isCorrect": false
+      },
+      {
+        "text": "Hindistan",
+        "isCorrect": false
+      },
+      {
+        "text": "Japonya",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Meksika, Kuzey Amerika kıtasında yer alır. Diğer seçeneklerdeki ülkeler Asya kıtasında bulunmaktadır.",
+    "topic": "Ülkeler Coğrafyası",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Asya",
+      "ülkeler",
+      "kıtalar"
+    ],
+    "learningObjective": "Öğrenciler, ülkelerin hangi kıtalarda yer aldığını öğrenir.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Ekosistemlerde enerji akışı ve madde döngüleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Enerji akışı tek yönlüdür ve geri dönüşü yoktur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Madde döngüleri enerji akışına bağlı değildir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji ve maddeler ekosistemden sürekli olarak dışarı çıkar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Madde döngüleri tek yönlüdür, enerji döngüleri ise sürekli döner.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ekosistemlerde enerji akışı, güneşten başlayarak tek yönlü bir şekilde gerçekleşir ve geri dönüşü yoktur. Ancak madde döngüleri, ekosistem içinde sürekli olarak döner.",
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "ekosistem",
+      "enerji akışı",
+      "madde döngüleri"
+    ],
+    "learningObjective": "Ekosistemlerdeki enerji akışı ve madde döngülerinin temel özelliklerini kavramak.",
+    "subject": "Coğrafya"
+  }
+]
