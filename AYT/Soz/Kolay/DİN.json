@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Kur'an-ı Kerim'de hangi surede sosyal adaletin önemi vurgulanmaktadır?",
+    "options": [
+      {
+        "text": "Nisa Suresi",
+        "isCorrect": true
+      },
+      {
+        "text": "Yasin Suresi",
+        "isCorrect": false
+      },
+      {
+        "text": "Meryem Suresi",
+        "isCorrect": false
+      },
+      {
+        "text": "Furkan Suresi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nisa Suresi, adalet, miras ve sosyal haklar gibi konulara değinerek sosyal adaletin önemini vurgular.",
+    "topic": "Kur'an'dan Mesajlar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Kur'an",
+      "sosyal adalet",
+      "Nisa Suresi"
+    ],
+    "learningObjective": "Öğrenciler, Kur'an'da sosyal adaletin önemini kavrayacak.",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam düşüncesinde tasavvufun temel amacı nedir?",
+    "options": [
+      {
+        "text": "Allah'a yakınlaşmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Dünyevi zenginlik elde etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Siyasi güç kazanmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilimsel çalışmalar yapmak",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tasavvuf, Allah'a yakınlaşmak ve manevi bir hayat sürmek amacıyla geliştirilmiş bir İslam düşüncesidir.",
+    "topic": "İslam Düşüncesinde Tasavvufi Yorumlar ve Mezhepler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "tasavvuf",
+      "Allah'a yakınlaşmak",
+      "maneviyat"
+    ],
+    "learningObjective": "Öğrenciler, tasavvufun temel amacını anlayacak.",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam ve bilim ilişkisi açısından İslam'ın bilimsel çalışmalara bakışı nasıldır?",
+    "options": [
+      {
+        "text": "Bilimi teşvik eder",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilimi yasaklar",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilimi küçümser",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilimle ilgilenmez",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İslam, bilimi teşvik eder ve ilim öğrenmeyi önemli bir ibadet olarak görür.",
+    "topic": "İslam ve Bilim",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "İslam",
+      "bilim",
+      "teşvik"
+    ],
+    "learningObjective": "Öğrenciler, İslam'ın bilimle olan ilişkisini öğrenecek.",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Güncel dini meseleler arasında yer alan çevre bilinci hangi İslami ilkeyle ilişkilidir?",
+    "options": [
+      {
+        "text": "Emanet",
+        "isCorrect": true
+      },
+      {
+        "text": "Cihad",
+        "isCorrect": false
+      },
+      {
+        "text": "Zekat",
+        "isCorrect": false
+      },
+      {
+        "text": "Hac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Çevre bilinci, İslam'da emanet kavramıyla ilişkilidir; doğa ve çevre, insanlara Allah tarafından emanet edilmiştir.",
+    "topic": "Güncel Dini Meseleler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "çevre bilinci",
+      "emanet",
+      "İslam"
+    ],
+    "learningObjective": "Öğrenciler, çevre bilincinin İslam'daki yerini kavrayacak.",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam inancına göre, ahiret hayatında insanların amellerine göre karşılık bulacakları iki ana yer neresidir?",
+    "options": [
+      {
+        "text": "Cennet ve Cehennem",
+        "isCorrect": true
+      },
+      {
+        "text": "Mekke ve Medine",
+        "isCorrect": false
+      },
+      {
+        "text": "Dünya ve Uzay",
+        "isCorrect": false
+      },
+      {
+        "text": "Kabe ve Mescid-i Aksa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İslam inancında ahiret hayatı, insanların dünya hayatındaki amellerine göre ya cennete ya da cehenneme gitmeleriyle sonuçlanır.",
+    "topic": "Dünya ve Ahiret",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Cennet",
+      "Cehennem",
+      "Ahiret"
+    ],
+    "learningObjective": "Ahiret inancını ve ahiret hayatını açıklayabilme",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Budizm inancına göre, insanın acıdan kurtulması ve aydınlanmaya ulaşması için izlenmesi gereken yol hangisidir?",
+    "options": [
+      {
+        "text": "Sekiz Aşamalı Yol",
+        "isCorrect": true
+      },
+      {
+        "text": "Beş Vakit Namaz",
+        "isCorrect": false
+      },
+      {
+        "text": "On Emir",
+        "isCorrect": false
+      },
+      {
+        "text": "Hac Yolculuğu",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Budizm'de, Sekiz Aşamalı Yol, insanın acıdan kurtulup aydınlanmaya ulaşması için izlenmesi gereken temel yoldur.",
+    "topic": "Yaşayan Dinler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Budizm",
+      "Sekiz Aşamalı Yol",
+      "Aydınlanma"
+    ],
+    "learningObjective": "Budizm inancının temel öğretilerini tanıyabilme",
+    "subject": "Din Kültürü"
+  }
+]
