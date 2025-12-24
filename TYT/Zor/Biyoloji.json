@@ -1,0 +1,204 @@
+[
+  {
+    "text": "Canlıların evrimsel süreçte nasıl çeşitlendiğini ve bu çeşitlenmenin doğal seçilim ile nasıl ilişkili olduğunu açıklayan en doğru ifade hangisidir?",
+    "options": [
+      {
+        "text": "Doğal seçilim, çevresel koşullara en iyi uyum sağlayan bireylerin hayatta kalmasını ve üremesini sağlar; bu süreçte genetik varyasyon önemlidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evrim, yalnızca genetik değişimlerin birikmesi ile gerçekleşir; doğal seçilim bu süreçte etkisizdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğal seçilim, tüm bireylerin eşit şansa sahip olduğu bir süreçtir; bu nedenle evrimsel değişim rastlantısaldır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Canlılar, ihtiyaç duydukları özellikleri kazanarak evrim geçirir; bu nedenle doğal seçilim gereksiz bir süreçtir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğal seçilim, çevresel koşullara en iyi uyum sağlayan bireylerin hayatta kalmasını ve üremesini sağlar. Bu süreçte genetik varyasyon, bireylerin farklı özellikler göstermesine olanak tanır ve bu varyasyonlar, doğal seçilim yoluyla popülasyonun evrimsel yönünü belirler. Diğer seçenekler, evrim ve doğal seçilim kavramlarını yanlış yorumlamaktadır.",
+    "topic": "Yaşam Bilimi Biyoloji",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "doğal seçilim",
+      "evrim",
+      "genetik varyasyon"
+    ],
+    "learningObjective": "Evrimsel süreçte doğal seçilimin rolünü ve genetik varyasyonun önemini anlamak.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hücre zarının yapısında bulunan fosfolipitlerin özellikleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Fosfolipitler, su ile sevmeyen (hidrofobik) kuyrukları ve su ile seven (hidrofilik) baş kısımları sayesinde iki katmanlı bir yapı oluşturur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fosfolipitler, yalnızca hidrofilik baş kısımları ile hücre zarının dış yüzeyinde yer alır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fosfolipitler, sadece hücre zarının iç yüzeyinde bulunur ve zarın yapısında rol oynamazlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fosfolipitler, zarın geçirgenliğini artırmak için yalnızca hidrofilik kısımları ile etkileşime girer.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fosfolipitler, hücre zarının temel bileşenleridir ve amfipatik özellikleri sayesinde iki katmanlı bir yapı oluştururlar. Hidrofobik kuyrukları su ile etkileşime girmezken, hidrofilik baş kısımları su ile etkileşime girer. Bu yapı, hücre zarının seçici geçirgenliğini sağlar.",
+    "topic": "Hücre",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "fosfolipit",
+      "hücre zarı",
+      "amfipatik"
+    ],
+    "learningObjective": "Öğrenci, fosfolipitlerin hücre zarındaki rolünü ve amfipatik özelliklerinin hücre zarının yapısına etkisini açıklayabilir.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlılardan hangisi, çok hücreli organizmalar arasında yer alır ve hücre duvarı kitin içeren bir yapıya sahiptir?",
+    "options": [
+      {
+        "text": "Mantarlar",
+        "isCorrect": true
+      },
+      {
+        "text": "Bakteriler",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitkiler",
+        "isCorrect": false
+      },
+      {
+        "text": "Protozoa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mantarlar, çok hücreli organizmalar arasında yer alır ve hücre duvarları kitin içerir. Bakteriler prokaryot ve tek hücreli, bitkiler ise selülozdan hücre duvarına sahiptir. Protozoa ise genellikle tek hücreli ökaryot canlılardır.",
+    "topic": "Canlılar Dünyası",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "mantarlar",
+      "hücre duvarı",
+      "kitin",
+      "çok hücreli",
+      "sınıflandırma"
+    ],
+    "learningObjective": "Öğrenci, canlıların hücre yapısı ve çok hücreli organizmalar arasındaki farklılıkları kullanarak doğru sınıflandırma yapar.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir hücrede mitoz bölünme sırasında kromozomların ayrılma süreci ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Kardeş kromatitler anafazda ayrılır ve zıt kutuplara çekilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kromozomlar metafazda ayrılır ve hücre döngüsü tamamlanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kromozomlar telofazda ayrılır ve yeni çekirdekler oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mitoz sırasında kromozom sayısı iki katına çıkar.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mitoz bölünme sırasında anafaz evresinde kardeş kromatitler ayrılır ve zıt kutuplara doğru çekilir. Bu süreç, hücre bölünmesinin temel aşamalarından biridir ve kromozom sayısının sabit kalmasını sağlar.",
+    "topic": "Hücre Bölünmeleri ve Üreme",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "mitoz",
+      "kromozom",
+      "anafaz"
+    ],
+    "learningObjective": "Öğrenci, mitoz bölünme sırasında kromozomların ayrılma mekanizmasını anlamalı ve açıklamalıdır.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki kalıtım ilkelerinden hangisi Mendel'in dominantlık ilkesini en iyi açıklar?",
+    "options": [
+      {
+        "text": "Bir allel çiftinin bir bireydeki etkisi, diğer allelin etkisini tamamen baskılar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Allellerin birbirine eşit oranda ifade edilmesi gerektiğini belirtir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kalıtım, sadece anne veya baba tarafından geçiş gösterir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tüm özellikler, genlerin birleşimi ile belirlenir ve her genin etkisi eşittir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mendel'in dominantlık ilkesine göre, bir allelin etkisi diğer allelin etkisini tamamen baskılama yeteneğine sahiptir. Bu durum, bireylerin fenotipinde gözlemlenen özelliklerin belirlenmesinde kritik bir rol oynar.",
+    "topic": "Kalıtım Genel İlkeleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "dominantlık",
+      "Mendel",
+      "allel",
+      "fenotip",
+      "kalıtım"
+    ],
+    "learningObjective": "Öğrenci, Mendel'in kalıtım ilkelerini anlayarak dominant ve resesif alleller arasındaki ilişkiyi açıklayabilir.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir ekosistemde, iklim değişikliği nedeniyle sıcaklık artışları ve yağış düzenindeki değişiklikler gözlemlenmektedir. Bu durum, ekosistemdeki bitki ve hayvan türlerinin dağılımını nasıl etkileyebilir? Aşağıdaki seçeneklerden hangisi bu etkiyi en iyi açıklar?",
+    "options": [
+      {
+        "text": "Tüm türler aynı hızda adaptasyon gösterir ve dağılım değişmez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıcaklık artışı, sadece sucul türlerin dağılımını etkiler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bazı türler yeni habitatlara göç ederken, diğerleri yok olabilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "İklim değişikliği, türler arası etkileşimleri azaltır ve ekosistem dengesi korunur.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İklim değişikliği, türlerin dağılımı üzerinde önemli etkilere sahiptir. Sıcaklık artışı ve yağış düzenindeki değişiklikler bazı türlerin yeni habitatlara göç etmesine neden olurken, diğer türler bu değişikliklere uyum sağlayamayarak yok olma tehlikesiyle karşı karşıya kalabilir. Bu durum, ekosistem dengelerini de etkileyebilir.",
+    "topic": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "iklim değişikliği",
+      "tür dağılımı",
+      "habitat kaybı"
+    ],
+    "learningObjective": "Öğrenci, iklim değişikliğinin ekosistem üzerindeki etkilerini analiz ederek türlerin dağılımındaki değişimleri değerlendirebilir.",
+    "subject": "Biyoloji"
+  }
+]
