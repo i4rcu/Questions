@@ -1,0 +1,464 @@
+[
+  {
+    "text": "Bir makaranın ipini çektiğimizde, ipte oluşan gerilme kuvveti, makarayı döndürmek için gerekli olan torku sağlar. Eğer makaraya uygulanan kuvvet 20 N ve makaradan uzaklık 0.5 m ise, makaraya uygulanan tork nedir?",
+    "options": [
+      {
+        "text": "10 Nm",
+        "isCorrect": false
+      },
+      {
+        "text": "20 Nm",
+        "isCorrect": false
+      },
+      {
+        "text": "5 Nm",
+        "isCorrect": false
+      },
+      {
+        "text": "10 Nm",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Tork, kuvvetin uygulandığı nokta ile döndürme ekseni arasındaki mesafe ile çarpılarak bulunur. Burada tork = kuvvet x mesafe = 20 N x 0.5 m = 10 Nm.",
+    "topic": "Basit Makineler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "makara",
+      "tork",
+      "kuvvet"
+    ],
+    "learningObjective": "Basit makinelerin tork hesaplamalarını yapabilmek."
+  },
+  {
+    "text": "Bir elektrik alanında, birim yük başına etki eden kuvvet 5 N/C ise, bu alanda 2 C'lik bir yükün maruz kalacağı kuvvet nedir?",
+    "options": [
+      {
+        "text": "10 N",
+        "isCorrect": false
+      },
+      {
+        "text": "5 N",
+        "isCorrect": false
+      },
+      {
+        "text": "15 N",
+        "isCorrect": true
+      },
+      {
+        "text": "2 N",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elektrik alanındaki kuvvet, alanın şiddeti ile yükün çarpımı ile bulunur. Burada kuvvet = elektrik alanı x yük = 5 N/C x 2 C = 10 N.",
+    "topic": "Elektrik Alan ve Potansiyel",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "elektrik alanı",
+      "kuvvet",
+      "yük"
+    ],
+    "learningObjective": "Elektrik alanı ve yük arasındaki ilişkiyi anlayabilmek."
+  },
+  {
+    "text": "Bir yayda 1 kg'lık bir kütle, 0.5 m'lik bir genlik ile basit harmonik hareket yapmaktadır. Yay sabiti k kaç N/m'dir?",
+    "options": [
+      {
+        "text": "20 N/m",
+        "isCorrect": true
+      },
+      {
+        "text": "10 N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "5 N/m",
+        "isCorrect": false
+      },
+      {
+        "text": "15 N/m",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Basit harmonik hareketin yay sabiti, k = m * ω² formülü ile bulunur. Burada ω = √(k/m) olduğundan, k = m * (2π/T)² ile hesaplanabilir.",
+    "topic": "Basit Harmonik Hareket",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "yay",
+      "basit harmonik hareket",
+      "genlik"
+    ],
+    "learningObjective": "Basit harmonik hareketin özelliklerini ve yay sabitini anlayabilmek."
+  },
+  {
+    "text": "Bir cisim, 2 m/s²'lik bir ivme ile hareket etmektedir. Cisim 4 saniye boyunca bu ivme ile hareket ederse, cismin son hızı nedir?",
+    "options": [
+      {
+        "text": "8 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Son hız, başlangıç hızı ile ivmenin çarpımı ve zamanın toplamına eşittir. Burada son hız = 0 + (2 m/s² * 4 s) = 8 m/s.",
+    "topic": "Modern Fizik",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "ivme",
+      "son hız",
+      "hareket"
+    ],
+    "learningObjective": "Hareketin temel denklemlerini uygulayabilmek."
+  },
+  {
+    "text": "Büyük Patlama teorisine göre evrenin başlangıcında hangi durum söz konusudur?",
+    "options": [
+      {
+        "text": "Sonsuz yoğunluk ve sıcaklık",
+        "isCorrect": true
+      },
+      {
+        "text": "Durağan bir evren",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece karanlık madde varlığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Evrenin genişlememesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Büyük Patlama teorisi, evrenin başlangıcında sonsuz yoğunluk ve sıcaklık koşullarının mevcut olduğunu öne sürer.",
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "Büyük Patlama",
+      "evren",
+      "yoğunluk"
+    ],
+    "learningObjective": "Büyük Patlama teorisinin temel kavramlarını anlamak."
+  },
+  {
+    "text": "Bir elektrik alanında, bir yükün potansiyeli nasıl tanımlanır?",
+    "options": [
+      {
+        "text": "Birim yük başına düşen enerji",
+        "isCorrect": true
+      },
+      {
+        "text": "Yükün büyüklüğü ile doğru orantılıdır",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece pozitif yükler için geçerlidir",
+        "isCorrect": false
+      },
+      {
+        "text": "Yükün hareketi ile ilgilidir",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Elektrik potansiyeli, birim yük başına düşen enerji olarak tanımlanır ve elektrik alanındaki yüklerin konumuna bağlıdır.",
+    "topic": "Elektrik Alan ve Potansiyel",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "elektrik alanı",
+      "potansiyel",
+      "yük"
+    ],
+    "learningObjective": "Elektrik alanı ve potansiyel kavramlarını anlamak."
+  },
+  {
+    "text": "Bir cisim, 30° açıyla atıldığında, yatayda ne kadar mesafe alır?",
+    "options": [
+      {
+        "text": "Dikey yüksekliği etkileyen bir faktör değildir",
+        "isCorrect": true
+      },
+      {
+        "text": "Yalnızca düşey hızla ilişkilidir",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca yatay hızla ilişkilidir",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece atış açısına bağlıdır",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atışlarda yatay mesafe, atış açısı ve yatay hız ile ilişkilidir; dikey yükseklik ise bu mesafeyi etkilemez.",
+    "topic": "Atışlar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "atış",
+      "yatay mesafe",
+      "açı"
+    ],
+    "learningObjective": "Atış hareketinin temel prensiplerini anlamak."
+  },
+  {
+    "text": "Bir kaldıraçta, yükün ve kuvvetin konumları arasındaki ilişki nedir?",
+    "options": [
+      {
+        "text": "Yükün konumu kuvvetin konumuna ters orantılıdır",
+        "isCorrect": true
+      },
+      {
+        "text": "Yük ve kuvvet aynı yönde etki eder",
+        "isCorrect": false
+      },
+      {
+        "text": "Yük her zaman daha ağırdır",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaldıraçta kuvvet her zaman yükten büyüktür",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kaldıraçta yükün konumu ile kuvvetin konumu ters orantılıdır; yük uzaklaştıkça, kuvvetin etkisi artar.",
+    "topic": "Basit Makineler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "kaldıraç",
+      "kuvvet",
+      "yük"
+    ],
+    "learningObjective": "Basit makinelerin çalışma prensiplerini anlamak."
+  },
+  {
+    "text": "Büyük Patlama teorisine göre evrenin başlangıcında hangi durum söz konusudur?",
+    "options": [
+      {
+        "text": "Evrenin sıcak ve yoğun bir noktadan genişlemesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Evrenin sabit bir hacme sahip olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Evrenin soğuk ve dağınık bir yapıdan oluşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Evrenin sonsuz bir boşlukta var olması",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Büyük Patlama teorisi, evrenin başlangıçta yoğun ve sıcak bir noktadan genişlemeye başladığını öne sürer.",
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "Büyük Patlama",
+      "evren",
+      "genişleme"
+    ],
+    "learningObjective": "Büyük Patlama teorisinin temel kavramlarını anlamak."
+  },
+  {
+    "text": "Bir cisme etki eden net kuvvet 0 ise cisim hangi durumda bulunur?",
+    "options": [
+      {
+        "text": "Dengede",
+        "isCorrect": true
+      },
+      {
+        "text": "Hızlanıyor",
+        "isCorrect": false
+      },
+      {
+        "text": "Yavaşlıyor",
+        "isCorrect": false
+      },
+      {
+        "text": "Dönme hareketi yapıyor",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Net kuvvet sıfır olduğunda, cisim ya dengede kalır ya da sabit hızla hareket eder.",
+    "topic": "Kuvvet",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "net kuvvet",
+      "denge",
+      "hareket"
+    ],
+    "learningObjective": "Kuvvet ve denge kavramlarını anlamak."
+  },
+  {
+    "text": "Bir cismin yaptığı iş, hangi durumlarda maksimum olur?",
+    "options": [
+      {
+        "text": "Kuvvetin hareket yönüyle aynı olduğu durumda",
+        "isCorrect": true
+      },
+      {
+        "text": "Kuvvetin hareket yönüne dik olduğu durumda",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin hızı sıfır olduğunda",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuvvetin yönü değiştiğinde",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir cismin yaptığı iş, kuvvetin hareket yönüyle aynı olduğu durumda maksimum olur.",
+    "topic": "İş, Güç ve Enerji II",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "iş",
+      "kuvvet",
+      "hareket"
+    ],
+    "learningObjective": "İş ve enerji ilişkisini kavramak."
+  },
+  {
+    "text": "Bir cisim, yerden h yüksekliğe atıldığında, yere düşerken hangi enerji dönüşümü gerçekleşir?",
+    "options": [
+      {
+        "text": "Potansiyel enerji kinetik enerjiye dönüşür",
+        "isCorrect": true
+      },
+      {
+        "text": "Kinetik enerji potansiyel enerjiye dönüşür",
+        "isCorrect": false
+      },
+      {
+        "text": "Isı enerjisi kinetik enerjiye dönüşür",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimyasal enerji potansiyel enerjiye dönüşür",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cisim yerden h yüksekliğe atıldığında potansiyel enerji kazanır ve yere düşerken bu enerji kinetik enerjiye dönüşür.",
+    "topic": "Atışlar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "potansiyel enerji",
+      "kinetik enerji",
+      "atış"
+    ],
+    "learningObjective": "Enerji dönüşümlerini anlamak."
+  },
+  {
+    "text": "Büyük Patlama teorisine göre, evrenin başlangıcında meydana gelen olayların en önemli özelliği nedir?",
+    "options": [
+      {
+        "text": "Evrenin genişlemesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Kütle çekim kuvvetinin artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Radyoaktif maddelerin oluşumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Dünya'nın sabit kalması",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Büyük Patlama teorisi, evrenin başlangıcında meydana gelen genişleme olayını açıklamaktadır. Bu genişleme, evrenin bugünkü haline gelmesinde temel bir rol oynamaktadır.",
+    "topic": "Büyük Patlama",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "Büyük Patlama",
+      "genişleme",
+      "evren"
+    ],
+    "learningObjective": "Büyük Patlama teorisinin temel özelliklerini anlamak."
+  },
+  {
+    "text": "Kepler'in üçüncü yasası, gezegenlerin yörüngeleri ile ilgili hangi durumu ifade eder?",
+    "options": [
+      {
+        "text": "Gezegenlerin yörüngelerinin karelerinin oranı, uzaklıklarının küplerinin oranına eşittir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gezegenlerin hızları, kütleleri ile ters orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gezegenlerin yörünge süreleri, kütle çekim kuvvetine bağlıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gezegenlerin yörüngeleri daima daireseldir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kepler'in üçüncü yasası, gezegenlerin yörüngelerinin karelerinin, güneşe olan uzaklıklarının küplerinin oranına eşit olduğunu belirtir. Bu yasa, gezegen hareketlerinin düzenini anlamak için kritik bir öneme sahiptir.",
+    "topic": "Kepler Yasaları",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "Kepler",
+      "yörünge",
+      "gezegen"
+    ],
+    "learningObjective": "Kepler yasalarının gezegen hareketleri üzerindeki etkilerini kavramak."
+  }
+]
