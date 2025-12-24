@@ -1,0 +1,167 @@
+[
+  {
+    "text": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "Marmara Bölgesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Karadeniz Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ege Bölgesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Türkiye'de nüfusun en yoğun olduğu bölge Marmara Bölgesi'dir. Bu bölge, ekonomik ve sosyal fırsatlar nedeniyle yoğun bir göç almaktadır.",
+    "topic": "Nüfus-Göç-Yerleşme",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "nüfus",
+      "göç",
+      "Marmara Bölgesi"
+    ],
+    "learningObjective": "Nüfus dağılımı ve göç konusunu anlamak",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de en sık görülen doğal afet aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "Deprem",
+        "isCorrect": true
+      },
+      {
+        "text": "Sel",
+        "isCorrect": false
+      },
+      {
+        "text": "Fırtına",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuraklık",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Türkiye'de en sık görülen doğal afet depremdir. Ülkemiz, aktif fay hatları üzerinde bulunduğu için sık sık depremlere maruz kalmaktadır.",
+    "topic": "Doğal Afetler",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "doğal afetler",
+      "deprem",
+      "Türkiye"
+    ],
+    "learningObjective": "Doğal afetlerin Türkiye'deki etkilerini anlamak",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Yeryüzündeki rüzgarlar hangi etkenlerden dolayı oluşur?",
+    "options": [
+      {
+        "text": "Basınç farkları",
+        "isCorrect": true
+      },
+      {
+        "text": "Yerçekimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kutup etkisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Volkanik patlamalar",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Yeryüzündeki rüzgarlar, atmosferdeki basınç farkları nedeniyle oluşur. Bu basınç farkları, rüzgarların yönünü ve hızını belirler.",
+    "topic": "Basınç ve Rüzgarlar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "rüzgarlar",
+      "basınç farkları",
+      "atmosfer"
+    ],
+    "learningObjective": "Rüzgar oluşumunu ve etkilerini kavramak",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "İnsan faaliyetlerinin çevre üzerindeki olumsuz etkilerine ne ad verilir?",
+    "options": [
+      {
+        "text": "Çevre kirliliği",
+        "isCorrect": true
+      },
+      {
+        "text": "Doğal afetler",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyoçeşitlilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Toprak erozyonu",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İnsan faaliyetlerinin çevre üzerindeki olumsuz etkilerine çevre kirliliği denir. Bu durum, doğal dengenin bozulmasına ve ekosistemlerin zarar görmesine neden olabilir.",
+    "topic": "İnsan ve Doğa",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "insan faaliyetleri",
+      "çevre kirliliği",
+      "ekosistem"
+    ],
+    "learningObjective": "İnsan etkisinin çevre üzerindeki sonuçlarını anlamak",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Tsunami doğal afeti aşağıdaki olaylardan hangisinin sonucudur?",
+    "options": [
+      {
+        "text": "Deprem",
+        "isCorrect": true
+      },
+      {
+        "text": "Fırtına",
+        "isCorrect": false
+      },
+      {
+        "text": "Volkanik Patlama",
+        "isCorrect": false
+      },
+      {
+        "text": "Küresel Isınma",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tsunami, genellikle depremlerin deniz tabanında oluşturduğu ani yer değiştirmeler sonucu ortaya çıkar.",
+    "topic": "Doğal Afetler",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Tsunami",
+      "Deprem",
+      "Doğal Afetler"
+    ],
+    "learningObjective": "Tsunami doğal afetinin nedenleri",
+    "subject": "Coğrafya"
+  }
+]
