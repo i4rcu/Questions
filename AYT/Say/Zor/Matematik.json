@@ -993,5 +993,511 @@
       "sayılar"
     ],
     "learningObjective": "Bölme ve bölünebilme kurallarını kavramak."
+  },
+  {
+    "text": "Aşağıdaki eşitsizliklerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "x + 3 > 5 ise x > 2",
+        "isCorrect": true
+      },
+      {
+        "text": "x - 2 < 1 ise x < 3",
+        "isCorrect": false
+      },
+      {
+        "text": "2x + 1 < 5 ise x < 2",
+        "isCorrect": false
+      },
+      {
+        "text": "x/2 > 4 ise x < 8",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Eşitsizlikte x + 3 > 5 olduğunda, x'in 2'den büyük olduğu sonucuna varılır.",
+    "topic": "Basit Eşitsizlikler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşitsizlik",
+      "doğru",
+      "x"
+    ],
+    "learningObjective": "Basit eşitsizlikleri çözebilme yeteneğini geliştirmek."
+  },
+  {
+    "text": "A ve B kümesi için A = {1, 2} ve B = {3, 4} olduğuna göre A x B kartezyen çarpımı nedir?",
+    "options": [
+      {
+        "text": "{(1,3), (1,4), (2,3), (2,4)}",
+        "isCorrect": true
+      },
+      {
+        "text": "{(1,3), (2,3)}",
+        "isCorrect": false
+      },
+      {
+        "text": "{(1,4), (2,4)}",
+        "isCorrect": false
+      },
+      {
+        "text": "{(1,3), (2,4), (1,2)}",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kartezyen çarpım, her bir A elemanının her bir B elemanı ile bir çift oluşturmasıdır.",
+    "topic": "Kartezyen Çarpım",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "kartezyen",
+      "çarpım",
+      "küme"
+    ],
+    "learningObjective": "Kartezyen çarpımın nasıl oluşturulacağını anlamak."
+  },
+  {
+    "text": "f(x) = 2x^2 - 3x + 1 fonksiyonunun x = 2 için değeri nedir?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fonksiyonu x = 2 için yerine koyduğumuzda, f(2) = 2(2^2) - 3(2) + 1 = 3 elde ederiz.",
+    "topic": "Fonksiyonlar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "fonksiyon",
+      "değer",
+      "x"
+    ],
+    "learningObjective": "Fonksiyonların belirli bir noktadaki değerini hesaplayabilme."
+  },
+  {
+    "text": "Aşağıdaki polinomlardan hangisi 2. dereceden bir polinomdur?",
+    "options": [
+      {
+        "text": "3x^2 - 5x + 4",
+        "isCorrect": true
+      },
+      {
+        "text": "x^3 + 2x + 1",
+        "isCorrect": false
+      },
+      {
+        "text": "5x + 3",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2. dereceden bir polinom, en yüksek derecesi 2 olan terim içermelidir. Burada 3x^2 terimi bu koşulu sağlar.",
+    "topic": "Polinomlar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "polinom",
+      "derece",
+      "terim"
+    ],
+    "learningObjective": "Polinomların derecelerini tanıyabilme."
+  },
+  {
+    "text": "Bir sayının rakamları toplamı 15 ve bu sayı 3 basamaklıdır. Sayının rakamları toplamı ile sayının kendisi arasındaki fark en az kaçtır?",
+    "options": [
+      {
+        "text": "891",
+        "isCorrect": true
+      },
+      {
+        "text": "900",
+        "isCorrect": false
+      },
+      {
+        "text": "885",
+        "isCorrect": false
+      },
+      {
+        "text": "870",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rakamları toplamı 15 olan en küçük 3 basamaklı sayı 159'dur. 159 ile 15 arasındaki fark 144'tür. Ancak, 159 yerine 951 alındığında fark 936 olur ve bu daha fazladır. Dolayısıyla en küçük fark 891 olur.",
+    "topic": "Sayı Basamakları",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "rakamlar toplamı",
+      "fark",
+      "3 basamaklı sayı"
+    ],
+    "learningObjective": "Öğrencilerden rakamları toplamı verilen bir sayının farklı kombinasyonlarını bulmaları ve bu sayılarla verilen koşulları sağlamaları beklenir.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir sayının logaritması, 2 tabanında 8'e eşittir. Bu sayı kaçtır?",
+    "options": [
+      {
+        "text": "64",
+        "isCorrect": true
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "isCorrect": false
+      },
+      {
+        "text": "128",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2 tabanında 8, 2^3'e eşittir. Dolayısıyla, logaritma sonucunun 3 olması için sayının 64 olması gerekir (2^6 = 64).",
+    "topic": "Logaritma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "logaritma",
+      "taban",
+      "üs"
+    ],
+    "learningObjective": "Öğrenciler logaritma tanımını ve özelliklerini kullanarak sayılarla ilişkisini kurmalıdır.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir A sayısı, B sayısının 3 katı ve C sayısının 4 katıdır. A, B ve C'nin toplamı 280 ise B sayısı kaçtır?",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": true
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A = 3B ve A = 4C olduğuna göre, 3B = 4C ve A + B + C = 280 denklemleri kurulur. Çözüm sonucunda B = 40 bulunur.",
+    "topic": "Oran Orantı",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "oran",
+      "orantı",
+      "toplam"
+    ],
+    "learningObjective": "Öğrencilerden oran orantı kavramlarını kullanarak verilen denklemleri çözmeleri beklenir.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir sayının 5 katının 2 eksiği, 3 katının 4 fazlasına eşittir. Bu sayı kaçtır?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "5x - 2 = 3x + 4 denklemi kurulur. Bu denklemi çözdüğümüzde x = 3 bulunur.",
+    "topic": "Temel Kavramlar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "denklem",
+      "çözüm",
+      "eşitlik"
+    ],
+    "learningObjective": "Öğrencilerden temel cebirsel denklemleri kurup çözmeleri beklenir.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "log_2(8) + log_4(16) - log_5(25) işleminin sonucu nedir?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "log_2(8) = 3, log_4(16) = 2 ve log_5(25) = 2 olduğundan, toplam 3 + 2 - 2 = 3 olur.",
+    "topic": "Logaritma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "logaritma",
+      "toplam",
+      "fark"
+    ],
+    "learningObjective": "Logaritma kurallarını kullanarak işlemleri çözmek.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Aşağıdaki önermelerden hangisi yanlıştır? (p: Doğru, q: Yanlış)",
+    "options": [
+      {
+        "text": "p ∧ q",
+        "isCorrect": true
+      },
+      {
+        "text": "p ∨ q",
+        "isCorrect": false
+      },
+      {
+        "text": "¬q",
+        "isCorrect": false
+      },
+      {
+        "text": "¬p ∨ q",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "p ∧ q önermesi, p doğru ve q yanlış olduğunda yanlış olur.",
+    "topic": "Mantık",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "mantık",
+      "önermeler",
+      "doğruluk"
+    ],
+    "learningObjective": "Mantık önermelerini analiz etmek ve doğruluk değerlerini belirlemek.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "2^x = 8^y ve 3^y = 9^z ise x/z oranı nedir?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2^x = (2^3)^y ve 3^y = (3^2)^z olduğundan, x = 3y ve y = 2z; bu durumda x/z = 3 olur.",
+    "topic": "Üslü Sayılar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "üslü sayılar",
+      "oran",
+      "eşitlik"
+    ],
+    "learningObjective": "Üslü ifadelerle oranlar arasında ilişki kurmak.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir karışımın %40'ı su, %60'ı tuz ise 100 gram karışıma kaç gram su eklenirse karışımın %50'si su olur?",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Başlangıçta 40 gram su vardır. 100 gram karışımın %50'sinin su olması için toplam 60 gram su olması gerekir. Bu nedenle 20 gram su eklenmelidir.",
+    "topic": "Oran Orantı",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "oran",
+      "karışım",
+      "su"
+    ],
+    "learningObjective": "Oran ve karışım problemlerini çözmek.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "log_2(8) + log_2(4) ifadesinin sonucu nedir?",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "logaritma toplama kuralına göre log_2(8) + log_2(4) = log_2(8*4) = log_2(32) olur. 32 sayısı 2'nin 5. kuvveti olduğundan sonuç 5'tir.",
+    "topic": "Logaritma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "logaritma",
+      "toplama",
+      "kuvvet"
+    ],
+    "learningObjective": "Logaritma kurallarını kullanarak ifadeleri çözebilme.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "log_3(x) = 4 denklemini sağlayan x değeri nedir?",
+    "options": [
+      {
+        "text": "81",
+        "isCorrect": true
+      },
+      {
+        "text": "27",
+        "isCorrect": false
+      },
+      {
+        "text": "64",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "log_3(x) = 4 denklemi, x = 3^4 ifadesine eşittir. 3^4 = 81 olduğundan x = 81'dir.",
+    "topic": "Denklem Çözme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "logaritma",
+      "denklem",
+      "kuvvet"
+    ],
+    "learningObjective": "Logaritma denklemlerini çözebilme.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "log_5(25) - log_5(1/5) ifadesinin sonucu nedir?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "logaritma çıkarma kuralına göre log_5(25) - log_5(1/5) = log_5(25/(1/5)) = log_5(125) olur. 125 sayısı 5'in 3. kuvveti olduğundan sonuç 3'tür.",
+    "topic": "Logaritma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "logaritma",
+      "çıkarma",
+      "kuvvet"
+    ],
+    "learningObjective": "Logaritma kurallarını kullanarak ifadeleri çözebilme.",
+    "subject": "Matematik"
   }
 ]
