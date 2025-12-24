@@ -1,0 +1,173 @@
+[
+  {
+    "text": "Küresel ısınma sonucu deniz seviyesinin yükselmesi, kıyı bölgelerinde hangi tür insan faaliyetlerini tehdit etmektedir?",
+    "options": [
+      {
+        "text": "Tarım arazilerinin sulanmasını artırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıyı yerleşim alanlarının su altında kalması",
+        "isCorrect": true
+      },
+      {
+        "text": "Deniz turizminin artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Balıkçılık faaliyetlerinin kolaylaşması",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Küresel ısınma, deniz seviyesinin yükselmesine neden olarak kıyı bölgelerinde yerleşim alanlarının su altında kalma riski taşımaktadır. Bu durum, insan faaliyetlerini doğrudan tehdit eden önemli bir çevresel sorundur.",
+    "topic": "İnsan ve Doğa",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "küresel ısınma",
+      "deniz seviyesi",
+      "kıyı yerleşimleri",
+      "çevresel tehdit"
+    ],
+    "learningObjective": "Küresel ısınmanın insan yerleşimleri üzerindeki etkilerini değerlendirebilme.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Dünya'nın şekli ile ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Dünya, tam olarak küresel bir şekle sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dünya'nın şekli, ekvator bölgesinde şişkin, kutuplarda ise basık bir elipsoid şeklindedir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dünya'nın şekli, yalnızca deniz seviyesindeki alanlarda geçerlidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dünya'nın şekli, yalnızca sıcaklık değişimlerine bağlı olarak değişir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dünya, dönme hareketi nedeniyle ekvator bölgesinde şişkin, kutuplarda ise basık bir elipsoid şeklindedir. Bu durum, Dünya'nın dönmesinin bir sonucudur ve 'geoid' olarak adlandırılan bir şekil oluşturur.",
+    "topic": "Dünya'nın Şekli ve Hareketleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "Dünya'nın şekli",
+      "geoid",
+      "elipsoid",
+      "ekvator",
+      "kutup"
+    ],
+    "learningObjective": "Dünya'nın şeklinin özelliklerini ve nedenlerini anlayarak, bu bilgileri coğrafi kavramlarla ilişkilendirebilme.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi, coğrafi konumu itibarıyla hem Asya hem de Avrupa kıtalarında yer almaktadır?",
+    "options": [
+      {
+        "text": "Türkiye",
+        "isCorrect": true
+      },
+      {
+        "text": "Mısır",
+        "isCorrect": false
+      },
+      {
+        "text": "Yunanistan",
+        "isCorrect": false
+      },
+      {
+        "text": "İran",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Türkiye, coğrafi konumu nedeniyle hem Asya hem de Avrupa kıtalarında yer alır. Bu durum, Türkiye'nin stratejik önemini artıran bir özelliktir. Mısır, Yunanistan ve İran ise sadece tek bir kıtada yer almaktadır.",
+    "topic": "Coğrafi Konum",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "coğrafi konum",
+      "Türkiye",
+      "kıtalar",
+      "jeopolitik",
+      "stratejik önem"
+    ],
+    "learningObjective": "Öğrenci, Türkiye'nin coğrafi konumunu ve bunun stratejik önemini değerlendirir.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Bir haritada ölçek 1/100.000 olarak verilmiştir. Harita üzerinde A ve B noktaları arasındaki mesafe 5 cm olarak ölçülmüştür. Bu durumda A ve B noktaları arasındaki gerçek mesafe nedir?",
+    "options": [
+      {
+        "text": "5 km",
+        "isCorrect": false
+      },
+      {
+        "text": "50 km",
+        "isCorrect": true
+      },
+      {
+        "text": "500 km",
+        "isCorrect": false
+      },
+      {
+        "text": "1 km",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Harita ölçeği 1/100.000 olduğuna göre, 1 cm haritada 100.000 cm'ye karşılık gelir. 5 cm'lik mesafe, 5 x 100.000 cm = 500.000 cm, bu da 5 km'ye eşittir. Ancak, burada 1 cm = 1 km olarak yanlış yorumlanmamalıdır. Doğru hesap 50 km'dir.",
+    "topic": "Harita Bilgisi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ölçek",
+      "gerçek mesafe",
+      "harita",
+      "uzaklık hesaplama"
+    ],
+    "learningObjective": "Harita ölçeğini kullanarak harita üzerindeki mesafeleri gerçeğe dönüştürmek.",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Atmosferdeki sıcaklık değişimlerini etkileyen faktörlerden hangisi, denizel ve karasal iklimler arasında belirgin farklılıklar yaratır?",
+    "options": [
+      {
+        "text": "Yükselti",
+        "isCorrect": false
+      },
+      {
+        "text": "Albedo",
+        "isCorrect": false
+      },
+      {
+        "text": "Denizellik",
+        "isCorrect": true
+      },
+      {
+        "text": "Nem oranı",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Denizellik, denizlerin ısıyı daha yavaş kaybetmesi ve kazanması nedeniyle karasal alanlara göre daha ılıman iklim koşulları oluşturur. Bu durum, denizel ve karasal iklimler arasındaki sıcaklık farklarını belirgin hale getirir.",
+    "topic": "Atmosfer ve Sıcaklık",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "denizellik",
+      "karasal iklim",
+      "sıcaklık farkı"
+    ],
+    "learningObjective": "Denizellik ve karasallığın sıcaklık üzerindeki etkilerini anlayarak iklim tipleri arasındaki farklılıkları açıklayabilme.",
+    "subject": "Coğrafya"
+  }
+]
