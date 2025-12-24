@@ -68,5 +68,105 @@
     ],
     "learningObjective": "Öğrencinin, Kurtuluş Savaşı cephelerindeki askeri ve diplomatik gelişmeleri, önemli şahsiyetlerin söylemleri ve antlaşmalar bağlamında eşleştirebilme bilgisini ölçmek.",
     "subject": "Tarih"
+  },
+  {
+    "text": "Tarih biliminin temel ilkelerinden biri olan nesnellik, tarihçinin geçmişi yorumlarken hangi yaklaşımı benimsemesi gerektiğini ifade eder? Aşağıdakilerden hangisi bu yaklaşımı en iyi tanımlar?",
+    "options": [
+      {
+        "text": "Tarihçi, kendi görüşlerini ve duygularını yansıtarak geçmişi anlatmalıdır; çünkü tarih öznel bir deneyimdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihçi, belgeleri olduğu gibi sunmalı ve yorum yapmaktan kaçınmalıdır; bu sayede nesnellik sağlanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihçi, geçmiş olayları değerlendirirken farklı kaynakları karşılaştırmalı, kanıtlara dayanarak yorum yapmalı ve dönemin bağlamını göz önünde bulundurmalıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarihçi, yalnızca en popüler kaynakları kullanarak geçmişi anlatmalı; bu, tarihsel anlatımın daha ilgi çekici olmasını sağlar.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nesnellik, tarihçinin geçmişi yorumlarken tarafsız kalmasını ve kanıtları dikkate alarak değerlendirme yapmasını gerektirir. Bu bağlamda, farklı kaynakların karşılaştırılması ve dönemin koşullarının göz önünde bulundurulması önemlidir. Aksi takdirde, tarihsel anlatım öznel bir hale gelir ve güvenilirliği azalır.",
+    "topic": "Tarih Bilimine Giriş",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "nesnellik",
+      "kaynak karşılaştırma",
+      "tarihsel yorum",
+      "belge analizi"
+    ],
+    "learningObjective": "Öğrenci, tarihsel bilgi üretiminde nesnellik ilkesini değerlendirerek kanıta dayalı yorum yapma becerisini geliştirir.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki uygarlıklardan hangisi, tarım devrimi sonrası oluşan toplumsal değişimlerin en belirgin örneğini sergilemiştir?",
+    "options": [
+      {
+        "text": "Mezopotamya",
+        "isCorrect": true
+      },
+      {
+        "text": "Mısır",
+        "isCorrect": false
+      },
+      {
+        "text": "Hint Uygarlığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Çin Uygarlığı",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mezopotamya, tarım devrimi ile birlikte yerleşik hayata geçişin en belirgin örneklerinden birini sunar. Bu dönemde tarımsal üretim artışı, toplumsal tabakalaşma ve merkezi yönetimlerin ortaya çıkmasına yol açmıştır. Mısır, Hint ve Çin uygarlıkları da tarımın etkilerini yaşamış olsa da, Mezopotamya'daki kadar belirgin değişimler gözlemlenmemiştir.",
+    "topic": "Uygarlığın Doğuşu ve İlk Uygarlıklar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "Mezopotamya",
+      "tarım devrimi",
+      "toplumsal değişim"
+    ],
+    "learningObjective": "Öğrenci, tarım devriminin uygarlıklar üzerindeki etkilerini değerlendirerek Mezopotamya'nın önemini anlayabilir.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki devletlerden hangisi, İlk Türk Devletleri arasında yer almaz?",
+    "options": [
+      {
+        "text": "Göktürkler",
+        "isCorrect": false
+      },
+      {
+        "text": "Uygurlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Avarlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Selçuklular",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Selçuklular, İlk Türk Devletleri döneminden sonra, özellikle 11. yüzyılda ortaya çıkan bir Türk devletidir. Göktürkler ve Uygurlar ise İlk Türk Devletleri arasında yer alır. Avarlar da Türk kökenli bir halktır ancak İlk Türk Devletleri kategorisinde değerlendirilmez.",
+    "topic": "İlk Türk Devletleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "Göktürkler",
+      "Uygurlar",
+      "Selçuklular"
+    ],
+    "learningObjective": "İlk Türk Devletleri ile sonraki Türk devletleri arasındaki farkları ve dönemleri ayırt edebilme yeteneğini geliştirir.",
+    "subject": "Tarih"
   }
 ]
