@@ -1,0 +1,167 @@
+[
+  {
+    "text": "Osmanlı Devleti'nde gerileme devri hangi tarihler arasında yaşanmıştır?",
+    "options": [
+      {
+        "text": "1699-1792",
+        "isCorrect": true
+      },
+      {
+        "text": "1453-1566",
+        "isCorrect": false
+      },
+      {
+        "text": "1876-1909",
+        "isCorrect": false
+      },
+      {
+        "text": "1923-1938",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Osmanlı Devleti'nde gerileme devri, 1699 ile 1792 yılları arasında yaşanmıştır. Bu dönemde devletin ekonomik, askeri ve siyasi alanda zayıflaması önemli bir etkendir.",
+    "topic": "Gerileme Devri (1699 – 1792)",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Osmanlı Devleti",
+      "gerileme devri",
+      "Türkiye Tarihi"
+    ],
+    "learningObjective": "Osmanlı Devleti'nin gerileme dönemi hakkında bilgi sahibi olmak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Türk İnkılabı'nın amacı nedir?",
+    "options": [
+      {
+        "text": "Türkiye'yi çağdaş medeniyetler seviyesine çıkarmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Osmanlı Devleti'ni yeniden kurmak",
+        "isCorrect": false
+      },
+      {
+        "text": "İslamiyet'i yaymak",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeni bir devlet kurmak",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Türk İnkılabı'nın amacı, Türkiye'yi çağdaş medeniyetler seviyesine çıkarmaktır. Bu süreçte birçok alanda reformlar gerçekleştirilmiştir.",
+    "topic": "Türk İnkılabı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Türk İnkılabı",
+      "Atatürkçülük ve Atatürk İlkeleri",
+      "Türkiye Tarihi"
+    ],
+    "learningObjective": "Türk İnkılabı'nın amacını anlamak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Atatürkçülük ilkesi neyi vurgular?",
+    "options": [
+      {
+        "text": "Atatürk'ün ilkeleri ve devrimleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Dini değerleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Yabancı kültürleri benimsemeyi",
+        "isCorrect": false
+      },
+      {
+        "text": "Savaşı desteklemeyi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Atatürkçülük ilkesi, Atatürk'ün ilkeleri ve devrimlerini vurgular. Bu ilke, Türkiye Cumhuriyeti'nin temel değerlerinden biridir.",
+    "topic": "Atatürkçülük ve Atatürk İlkeleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Atatürkçülük",
+      "Atatürk ilkeleri",
+      "Türkiye Tarihi"
+    ],
+    "learningObjective": "Atatürkçülük ilkesinin anlamını kavramak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Türkiye'de Tanzimat dönemi hangi yıllar arasında yaşanmıştır?",
+    "options": [
+      {
+        "text": "1839-1876",
+        "isCorrect": true
+      },
+      {
+        "text": "1453-1566",
+        "isCorrect": false
+      },
+      {
+        "text": "1923-1938",
+        "isCorrect": false
+      },
+      {
+        "text": "1919-1923",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tanzimat dönemi, 1839 ile 1876 yılları arasında Osmanlı Devleti'nde uygulanan reform hareketlerini ifade eder. Bu dönemde modernleşme ve batılılaşma çabaları ön plana çıkmıştır.",
+    "topic": "Türkiye Tarihi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Tanzimat dönemi",
+      "Osmanlı Devleti",
+      "Türkiye Tarihi"
+    ],
+    "learningObjective": "Tanzimat dönemi reformlarını anlamak",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Türkiye'nin NATO'ya üyeliği hangi yılda gerçekleşmiştir?",
+    "options": [
+      {
+        "text": "1952",
+        "isCorrect": true
+      },
+      {
+        "text": "1949",
+        "isCorrect": false
+      },
+      {
+        "text": "1955",
+        "isCorrect": false
+      },
+      {
+        "text": "1961",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Türkiye, 18 Şubat 1952 tarihinde NATO'ya üye olmuştur. Bu tarih, Türk dış politikasının önemli dönüm noktalarından biridir.",
+    "topic": "Türk Dış Politikası",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "NATO",
+      "Türk dış politikası",
+      "Türkiye"
+    ],
+    "learningObjective": "Türk Dış Politikası hakkında temel bilgi",
+    "subject": "Tarih"
+  }
+]
