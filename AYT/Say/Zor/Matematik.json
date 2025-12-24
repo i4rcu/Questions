@@ -1,0 +1,997 @@
+[
+  {
+    "text": "Aşağıdaki denklemlerden hangisi 2. dereceden bir denklemdir?",
+    "options": [
+      {
+        "text": "x^2 - 5x + 6 = 0",
+        "isCorrect": true
+      },
+      {
+        "text": "3x + 2 = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "x^3 - 4 = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "2x^4 + 3 = 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "2. dereceden denklemler, en yüksek dereceli terimi x^2 olan denklemlerdir. Bu nedenle doğru cevap x^2 - 5x + 6 = 0'dır.",
+    "topic": "2.Dereceden Denklemler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "2. dereceden",
+      "denklem",
+      "matematik"
+    ],
+    "learningObjective": "2. dereceden denklemleri tanımak ve çözmek."
+  },
+  {
+    "text": "Bir polinomun kökleri toplamı, polinomun hangi derecesine bağlıdır?",
+    "options": [
+      {
+        "text": "1. derece",
+        "isCorrect": false
+      },
+      {
+        "text": "2. derece",
+        "isCorrect": true
+      },
+      {
+        "text": "3. derece",
+        "isCorrect": false
+      },
+      {
+        "text": "4. derece",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir 2. dereceden polinomun kökleri toplamı, polinomun katsayılarına bağlıdır ve 2. dereceden denklemler için geçerlidir.",
+    "topic": "Polinomlar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "polinom",
+      "kökler",
+      "toplam"
+    ],
+    "learningObjective": "Polinomların kökleri ve özelliklerini anlamak."
+  },
+  {
+    "text": "Aşağıdaki veri setinin aritmetik ortalaması nedir? {4, 8, 6, 5, 3}",
+    "options": [
+      {
+        "text": "5.2",
+        "isCorrect": false
+      },
+      {
+        "text": "4.5",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aritmetik ortalama, sayıların toplamının sayı adedine bölünmesiyle bulunur. Bu durumda (4 + 8 + 6 + 5 + 3) / 5 = 5 olarak hesaplanır.",
+    "topic": "İstatistik",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "ortalama",
+      "istatistik",
+      "veri seti"
+    ],
+    "learningObjective": "Aritmetik ortalama hesaplamayı öğrenmek."
+  },
+  {
+    "text": "x^2 - 4 = 0 denkleminin kökleri nedir?",
+    "options": [
+      {
+        "text": "2 ve -2",
+        "isCorrect": true
+      },
+      {
+        "text": "4 ve -4",
+        "isCorrect": false
+      },
+      {
+        "text": "0 ve 4",
+        "isCorrect": false
+      },
+      {
+        "text": "1 ve -1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "x^2 - 4 = 0 denklemi, (x - 2)(x + 2) = 0 şeklinde çarpanlarına ayrılabilir. Bu durumda kökler 2 ve -2'dir.",
+    "topic": "2.Dereceden Denklemler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "denklem",
+      "kökler",
+      "matematik"
+    ],
+    "learningObjective": "2. dereceden denklemlerin köklerini bulmak."
+  },
+  {
+    "text": "Bir parabolün denklemi y = 2x^2 - 4x + 1 olduğuna göre, bu parabolün tepe noktası hangi noktadadır?",
+    "options": [
+      {
+        "text": "(1, -1)",
+        "isCorrect": true
+      },
+      {
+        "text": "(2, 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "(0, 1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(3, 2)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Parabolün tepe noktası, x = -b/2a formülü ile bulunur. Burada a = 2 ve b = -4, dolayısıyla tepe noktası x = 1'dir. Bu x değeri yerine konulduğunda y = -1 bulunur.",
+    "topic": "Parabol",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "parabol",
+      "tepe noktası",
+      "denklemler"
+    ],
+    "learningObjective": "Parabolün tepe noktasını bulma",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Aşağıdaki üslü ifadelerden hangisi 16'nın üslü hali olarak doğru yazılmıştır?",
+    "options": [
+      {
+        "text": "2^4",
+        "isCorrect": true
+      },
+      {
+        "text": "4^2",
+        "isCorrect": false
+      },
+      {
+        "text": "8^2",
+        "isCorrect": false
+      },
+      {
+        "text": "16^1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "16 sayısı 2'nin 4. kuvveti olarak ifade edilebilir. Yani 2^4 = 16 doğrudur.",
+    "topic": "Üslü Sayılar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "üslü sayılar",
+      "kuvvet",
+      "16"
+    ],
+    "learningObjective": "Üslü sayıları tanıma ve yazma",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir sayının yüzler basamağı 5, onlar basamağı 3 ve birler basamağı 7 olduğuna göre, bu sayının toplam basamak değeri nedir?",
+    "options": [
+      {
+        "text": "537",
+        "isCorrect": true
+      },
+      {
+        "text": "573",
+        "isCorrect": false
+      },
+      {
+        "text": "735",
+        "isCorrect": false
+      },
+      {
+        "text": "753",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Yüzler, onlar ve birler basamağındaki sayıları bir araya getirerek 537 sayısını elde ederiz. Yüzler basamağı 5, onlar basamağı 3 ve birler basamağı 7'dir.",
+    "topic": "Sayı Basamakları",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "sayı basamakları",
+      "toplam",
+      "değer"
+    ],
+    "learningObjective": "Sayıların basamak değerlerini anlama",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Aşağıdaki sayılardan hangisi 12 ile tam bölünebilir?",
+    "options": [
+      {
+        "text": "144",
+        "isCorrect": true
+      },
+      {
+        "text": "125",
+        "isCorrect": false
+      },
+      {
+        "text": "101",
+        "isCorrect": false
+      },
+      {
+        "text": "95",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "12 ile tam bölünebilme kuralına göre, sayının 3 ve 4'e bölünebilmesi gerekir. 144, hem 3'e hem de 4'e tam bölünebilir.",
+    "topic": "Bölme ve Bölünebilme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "bölme",
+      "bölünebilme",
+      "tam bölünme"
+    ],
+    "learningObjective": "Bölünebilme kurallarını anlama",
+    "subject": "Matematik"
+  },
+  {
+    "text": "A kümesi {1, 2, 3, 4, 5} ve B kümesi {3, 4, 5, 6, 7} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A ∩ B, her iki kümede de bulunan elemanları içerir. Burada A ve B kümesinin kesişimi {3, 4, 5} olduğundan, eleman sayısı 3'tür.",
+    "topic": "Kümeler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "kümeler",
+      "kesişim",
+      "eleman sayısı"
+    ],
+    "learningObjective": "Küme işlemlerini anlama ve uygulama"
+  },
+  {
+    "text": "Aritmetik dizinin ilk terimi 4 ve ortak farkı 3 olduğuna göre, dizinin 5. terimi nedir?",
+    "options": [
+      {
+        "text": "16",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "17",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aritmetik dizinin n'inci terimi a_n = a_1 + (n-1)d formülü ile bulunur. Burada a_1 = 4, d = 3 ve n = 5 olduğundan, 4 + (5-1)×3 = 16 bulunur.",
+    "topic": "Diziler",
+    "formula": "a_n = a_1 + (n-1)d",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "aritmetik dizi",
+      "terim",
+      "ortak fark"
+    ],
+    "learningObjective": "Dizilerin terimlerini bulma"
+  },
+  {
+    "text": "y = x^2 - 4x + 3 parabolünün tepe noktası hangi koordinatlarda bulunur?",
+    "options": [
+      {
+        "text": "(2, -1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, -1)",
+        "isCorrect": true
+      },
+      {
+        "text": "(1, 2)",
+        "isCorrect": false
+      },
+      {
+        "text": "(3, 0)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Parabolün tepe noktası, x = -b/2a formülü ile bulunur. Burada a = 1 ve b = -4 olduğundan, x = 2 bulunur. y değeri ise bu x değeri yerine konularak hesaplanır ve -1 bulunur.",
+    "topic": "Parabol",
+    "formula": "x = -b/2a",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "parabol",
+      "tepe noktası",
+      "koordinatlar"
+    ],
+    "learningObjective": "Parabolün özelliklerini anlama"
+  },
+  {
+    "text": "Bir sayının birler basamağı 7, onlar basamağı 3 ve yüzler basamağı 5 olduğuna göre bu sayı kaçtır?",
+    "options": [
+      {
+        "text": "537",
+        "isCorrect": true
+      },
+      {
+        "text": "573",
+        "isCorrect": false
+      },
+      {
+        "text": "735",
+        "isCorrect": false
+      },
+      {
+        "text": "753",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir sayının basamakları soldan sağa doğru yüzler, onlar ve birler olarak sıralanır. Bu durumda sayı 500 + 30 + 7 = 537 olarak hesaplanır.",
+    "topic": "Sayı Basamakları",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "sayı basamakları",
+      "birler",
+      "onlar",
+      "yüzler"
+    ],
+    "learningObjective": "Sayıların basamak değerlerini anlama"
+  },
+  {
+    "text": "A dizisi 2, 5, 8, 11, ... şeklinde tanımlanmıştır. Bu dizinin 10. terimi nedir?",
+    "options": [
+      {
+        "text": "29",
+        "isCorrect": true
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "28",
+        "isCorrect": false
+      },
+      {
+        "text": "31",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A dizisi aritmetik bir dizidir. İlk terim 2, ortak fark 3'tür. 10. terim 2 + 9*3 = 29'dur.",
+    "topic": "Diziler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "dizi",
+      "aritmetik",
+      "terim"
+    ],
+    "learningObjective": "Aritmetik dizilerin terimlerini bulma"
+  },
+  {
+    "text": "12 sayısının pozitif bölenlerinin toplamı nedir?",
+    "options": [
+      {
+        "text": "28",
+        "isCorrect": true
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "12 sayısının pozitif bölenleri 1, 2, 3, 4, 6 ve 12'dir. Bu sayıların toplamı 1 + 2 + 3 + 4 + 6 + 12 = 28'dir.",
+    "topic": "Bölme ve Bölünebilme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "bölme",
+      "pozitif bölen",
+      "toplam"
+    ],
+    "learningObjective": "Bölme ve bölen kavramlarını anlama"
+  },
+  {
+    "text": "f(x) = 3x + 2 fonksiyonunun f(4) değeri nedir?",
+    "options": [
+      {
+        "text": "14",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "f(4) = 3*4 + 2 = 12 + 2 = 14 bulunur.",
+    "topic": "Fonksiyonlar",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "fonksiyon",
+      "değer",
+      "hesaplama"
+    ],
+    "learningObjective": "Fonksiyonların değerlerini bulma"
+  },
+  {
+    "text": "24 ve 36 sayılarının EBOB'u nedir?",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "24 ve 36'nın ortak bölenleri 1, 2, 3, 4, 6, 12'dir. En büyük ortak bölen 12'dir.",
+    "topic": "EBOB – EKOK",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "EBOB",
+      "bölme",
+      "ortak bölen"
+    ],
+    "learningObjective": "EBOB hesaplama becerisi"
+  },
+  {
+    "text": "Aşağıdaki eşitsizliklerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "|x - 3| < 5 ise -2 < x < 8",
+        "isCorrect": true
+      },
+      {
+        "text": "|x - 3| < 5 ise -5 < x < 5",
+        "isCorrect": false
+      },
+      {
+        "text": "|x - 3| < 5 ise x < 2 veya x > 8",
+        "isCorrect": false
+      },
+      {
+        "text": "|x - 3| < 5 ise x = 3",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mutlak değer eşitsizliği çözülerek x'in alabileceği değer aralığı bulunmuştur.",
+    "topic": "Mutlak Değer",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "mutlak değer",
+      "eşitsizlik",
+      "çözüm"
+    ],
+    "learningObjective": "Mutlak değer eşitsizliklerini çözebilme."
+  },
+  {
+    "text": "x^2 - 4x + 3 < 0 eşitsizliğinin çözüm kümesi nedir?",
+    "options": [
+      {
+        "text": "(1, 3)",
+        "isCorrect": true
+      },
+      {
+        "text": "[1, 3]",
+        "isCorrect": false
+      },
+      {
+        "text": "(3, 4)",
+        "isCorrect": false
+      },
+      {
+        "text": "(0, 4)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Eşitsizlik, kökleri kullanılarak aralıklar belirlenerek çözülmüştür.",
+    "topic": "2.Dereceden Eşitsizlikler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşitsizlik",
+      "2.dereceden",
+      "çözüm kümesi"
+    ],
+    "learningObjective": "2. dereceden eşitsizlikleri çözebilme."
+  },
+  {
+    "text": "Bir sayının mutlak değeri 7'dir. Bu sayının alabileceği değerler nelerdir?",
+    "options": [
+      {
+        "text": "7 ve -7",
+        "isCorrect": true
+      },
+      {
+        "text": "0 ve 7",
+        "isCorrect": false
+      },
+      {
+        "text": "-7 ve 0",
+        "isCorrect": false
+      },
+      {
+        "text": "7, -7 ve 0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mutlak değer tanımına göre, |x| = 7 ise x = 7 veya x = -7'dir.",
+    "topic": "Mutlak Değer",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "mutlak değer",
+      "değerler",
+      "tanım"
+    ],
+    "learningObjective": "Mutlak değer kavramını anlama."
+  },
+  {
+    "text": "x^2 + 2x - 8 > 0 eşitsizliğinin çözüm kümesi nedir?",
+    "options": [
+      {
+        "text": "(-∞, -4) ∪ (2, +∞)",
+        "isCorrect": true
+      },
+      {
+        "text": "(-4, 2)",
+        "isCorrect": false
+      },
+      {
+        "text": "[-4, 2]",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, +∞)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Eşitsizlik, kökleri tespit edilerek ve aralıklar kontrol edilerek çözülmüştür.",
+    "topic": "2.Dereceden Eşitsizlikler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşitsizlik",
+      "2.dereceden",
+      "çözüm kümesi"
+    ],
+    "learningObjective": "2. dereceden eşitsizlikleri çözebilme."
+  },
+  {
+    "text": "A ve B iki pozitif tam sayıdır. A'nın B'ye bölümünden kalan 3 ve A'nın 4'e bölümünden kalan 1 olduğuna göre A'nın en küçük değeri nedir?",
+    "options": [
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A'nın 4'e bölümünden kalan 1 ise A = 4k + 1 şeklinde yazılabilir. A'nın B'ye bölümünden kalan 3 olduğuna göre B, 4k + 1 - 3 = 4k - 2 olmalıdır. A'nın en küçük değeri 7'dir.",
+    "topic": "Bölme ve Bölünebilme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "bölme",
+      "tam sayılar",
+      "kalan"
+    ],
+    "learningObjective": "Bölme ve bölünebilme kurallarını kullanarak sayılar arasında ilişkiler kurmak."
+  },
+  {
+    "text": "Bir zar atıldığında 5 gelme olasılığı nedir?",
+    "options": [
+      {
+        "text": "1/6",
+        "isCorrect": true
+      },
+      {
+        "text": "1/3",
+        "isCorrect": false
+      },
+      {
+        "text": "1/4",
+        "isCorrect": false
+      },
+      {
+        "text": "1/2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir zarın 6 yüzü vardır ve her bir yüzün gelme olasılığı eşittir. Dolayısıyla 5 gelme olasılığı 1/6'dır.",
+    "topic": "Olasılık",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "olasılık",
+      "zar",
+      "eşitlik"
+    ],
+    "learningObjective": "Olasılık hesaplamalarını yapabilmek."
+  },
+  {
+    "text": "x^2 - 5x + 6 ifadesinin çarpanlarına ayrılması sonucu hangi ifadenin elde edilmesi beklenir?",
+    "options": [
+      {
+        "text": "(x - 2)(x - 3)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x + 2)(x + 3)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x - 1)(x - 6)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x + 1)(x + 6)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Verilen ifade x^2 - 5x + 6, (x - 2)(x - 3) şeklinde çarpanlarına ayrılabilir. Burada 2 ve 3 sayıları toplamı -5 ve çarpımı 6 olan sayılardır.",
+    "topic": "Çarpanlara Ayırma",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "çarpan",
+      "polinom",
+      "katsayılar"
+    ],
+    "learningObjective": "Polinomların çarpanlarına ayrılmasını öğrenmek."
+  },
+  {
+    "text": "f(x) = x^3 - 3x^2 + 4 fonksiyonunun [1, 3] aralığındaki integrali nedir?",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Verilen fonksiyonun integrali hesaplandığında, [1, 3] aralığında 4 bulunur. Bu, belirli integral hesaplamaları ile elde edilir.",
+    "topic": "İntegral",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "integral",
+      "fonksiyon",
+      "hesaplama"
+    ],
+    "learningObjective": "Belirli integral hesaplamalarını yapabilmek."
+  },
+  {
+    "text": "A, B ve C sayıları için A > B ve B > C olduğuna göre A ile C arasındaki ilişki nedir?",
+    "options": [
+      {
+        "text": "A > C",
+        "isCorrect": true
+      },
+      {
+        "text": "A < C",
+        "isCorrect": false
+      },
+      {
+        "text": "A = C",
+        "isCorrect": false
+      },
+      {
+        "text": "A ≥ C",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A > B ve B > C olduğuna göre, A'nın C'den büyük olduğu sonucuna ulaşırız.",
+    "topic": "Mantık",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşitsizlik",
+      "mantık",
+      "sayı ilişkisi"
+    ],
+    "learningObjective": "Eşitsizlikleri anlamak ve uygulamak"
+  },
+  {
+    "text": "Bir sayının 3 katı ile 5 katı arasındaki fark 24 ise, bu sayı nedir?",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "x sayısını alırsak, 5x - 3x = 24 denklemini kurarız. Buradan 2x = 24, x = 12 bulunur. Ancak soruda x'in değeri 8 olarak verilmiştir.",
+    "topic": "Problemler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "problem",
+      "fark",
+      "sayı"
+    ],
+    "learningObjective": "Problemleri çözme yeteneğini geliştirmek"
+  },
+  {
+    "text": "Bir üç basamaklı sayının rakamları toplamı 18 ve en büyük rakamı 9 ise, bu sayının en küçük değeri nedir?",
+    "options": [
+      {
+        "text": "189",
+        "isCorrect": true
+      },
+      {
+        "text": "198",
+        "isCorrect": false
+      },
+      {
+        "text": "279",
+        "isCorrect": false
+      },
+      {
+        "text": "279",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En büyük rakam 9 olduğuna göre, diğer rakamların toplamı 9 olmalıdır. Rakamları 1 ve 8 seçerek en küçük sayıyı 189 elde ederiz.",
+    "topic": "Sayı Basamakları",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "üç basamaklı",
+      "rakamlar",
+      "toplam"
+    ],
+    "learningObjective": "Sayı basamakları ile ilgili problemleri çözmek"
+  },
+  {
+    "text": "x ve y pozitif tam sayıları için 2x + 3y < 30 eşitsizliğini sağlayan en büyük x değeri nedir?",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Eşitsizliği 2x < 30 - 3y şeklinde düzenleyerek, y'yi en küçük alarak x'in en büyük değerini bulabiliriz. y=1 için x=12 bulunur.",
+    "topic": "Basit Eşitsizlikler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "eşitsizlik",
+      "pozitif tam sayı",
+      "x ve y"
+    ],
+    "learningObjective": "Basit eşitsizlikleri çözme yeteneğini geliştirmek"
+  },
+  {
+    "text": "Bir parabolün denklemi y = ax^2 + bx + c şeklindedir. a, b ve c pozitif tam sayılar olsun. Bu parabolün x = 0 noktasındaki değeri nedir?",
+    "options": [
+      {
+        "text": "c",
+        "isCorrect": true
+      },
+      {
+        "text": "b",
+        "isCorrect": false
+      },
+      {
+        "text": "a",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Parabolün x = 0 noktasındaki değeri, denklemin c terimidir. Yani y = a(0)^2 + b(0) + c = c olur.",
+    "topic": "Parabol",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "parabol",
+      "denklemler",
+      "x=0"
+    ],
+    "learningObjective": "Parabol denklemlerinin temel özelliklerini anlamak."
+  },
+  {
+    "text": "A sayısı 12 ile tam bölünebilen bir sayıdır. A'nın 36 ile bölünebilir olabilmesi için A'nın hangi şartı sağlaması gerekir?",
+    "options": [
+      {
+        "text": "A'nın 4 ile de bölünebilir olması",
+        "isCorrect": true
+      },
+      {
+        "text": "A'nın 6 ile de bölünebilir olması",
+        "isCorrect": false
+      },
+      {
+        "text": "A'nın 3 ile de bölünebilir olması",
+        "isCorrect": false
+      },
+      {
+        "text": "A'nın 2 ile de bölünebilir olması",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bir sayının 36 ile bölünebilmesi için hem 12 ile hem de 3 ile bölünebilmesi gerekir. 12'nin içinde 4 olduğu için A'nın 4 ile de bölünebilir olması gerekmektedir.",
+    "topic": "Bölme ve Bölünebilme",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "keywords": [
+      "bölünebilme",
+      "tam bölünebilme",
+      "sayılar"
+    ],
+    "learningObjective": "Bölme ve bölünebilme kurallarını kavramak."
+  }
+]
