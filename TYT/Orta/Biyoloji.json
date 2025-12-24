@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Hücrelerin çoğalması sürecinde, hücre bölünmesinin gerçekleştiği evre hangisidir?",
+    "options": [
+      {
+        "text": "Çekirdek bölünmesi (Mitoz)",
+        "isCorrect": true
+      },
+      {
+        "text": "Sitoplazma bölünmesi (Sitokinez)",
+        "isCorrect": false
+      },
+      {
+        "text": "Çekirdek öncesi evre (Profaz)",
+        "isCorrect": false
+      },
+      {
+        "text": "Çekirdek bölünmesi öncesi evre (İnterfaz)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hücre bölünmesi, mitoz evresinde gerçekleşir. Bu evrede hücrenin çekirdeği bölünerek kromozomlar eşit olarak iki hücreye dağılır.",
+    "topic": "Hücre Bölünmeleri ve Üreme",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Hücre",
+      "Bölünme",
+      "Mitoz"
+    ],
+    "learningObjective": "Hücre bölünme süreçlerini anlamak",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Ekosistemde enerji akışını sağlayan birim hangisidir?",
+    "options": [
+      {
+        "text": "Tüketiciler",
+        "isCorrect": true
+      },
+      {
+        "text": "Üreticiler",
+        "isCorrect": false
+      },
+      {
+        "text": "Ayrıştırıcılar",
+        "isCorrect": false
+      },
+      {
+        "text": "Yapımcılar",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ekosistemde enerji akışını sağlayan birimler tüketicilerdir. Bu canlılar, üreticilerden (bitkilerden) enerjiyi alarak ekosistemde enerji döngüsünü devam ettirirler.",
+    "topic": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Ekosistem",
+      "Enerji akışı",
+      "Tüketiciler"
+    ],
+    "learningObjective": "Ekosistemdeki enerji akışını kavramak",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi yaşam bilimi biyolojinin konularından biri değildir?",
+    "options": [
+      {
+        "text": "Hücre",
+        "isCorrect": false
+      },
+      {
+        "text": "Hastalıklar",
+        "isCorrect": true
+      },
+      {
+        "text": "Ekosistem",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetik",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Yaşam bilimi biyolojinin konularından biri hastalıklar değildir. Biyoloji, canlı organizmaların yapıları, işlevleri, çeşitliliği ve etkileşimleri üzerine odaklanır.",
+    "topic": "Yaşam Bilimi Biyoloji",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Yaşam bilimi",
+      "Biyoloji",
+      "Konular"
+    ],
+    "learningObjective": "Biyolojinin temel konularını ayırt etmek",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki organel yapılarından hangisi hücre içerisinde enerji üretiminden sorumludur?",
+    "options": [
+      {
+        "text": "Mitokondri",
+        "isCorrect": true
+      },
+      {
+        "text": "Endoplazmik retikulum",
+        "isCorrect": false
+      },
+      {
+        "text": "Lizozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Hücre zarı",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hücre içerisinde enerji üretiminden sorumlu organel yapı mitokondridir. Bu yapı, hücredeki enerji üretim süreçlerinin gerçekleştiği önemli bir organeldir.",
+    "topic": "Hücre",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Hücre",
+      "Mitokondri",
+      "Enerji üretimi"
+    ],
+    "learningObjective": "Hücre içi organel yapılarını anlamak",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hücre zarından hücre içine madde alımını sağlayan yapı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "Sitoplazma",
+        "isCorrect": true
+      },
+      {
+        "text": "Lizozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Endoplazmik retikulum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sitoplazma, hücre zarından hücre içine madde alımını sağlayan yapıdır. Hücre içinde metabolizma faaliyetlerinin gerçekleştiği bölümdür.",
+    "topic": "Hücre",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Hücre",
+      "Sitoplazma",
+      "Madde Alımı"
+    ],
+    "learningObjective": "Hücrenin yapı ve işlevleri",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Canlıların ortak özellikleri üzerine bilgi veren bilim dalı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "Zooloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyojeokimya",
+        "isCorrect": true
+      },
+      {
+        "text": "Anatomi",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyoistatistik",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Biyojeokimya, canlıların ortak özellikleri üzerine bilgi veren bilim dalıdır. Canlıların kimyasal yapılarını inceleyen ve bu yapıların işlevlerini araştıran bir alandır.",
+    "topic": "Yaşam Bilimi Biyoloji",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Biyojeokimya",
+      "Canlılar",
+      "Ortak Özellikler"
+    ],
+    "learningObjective": "Yaşam bilimlerinde temel kavramlar",
+    "subject": "Biyoloji"
+  }
+]
