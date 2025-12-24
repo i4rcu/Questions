@@ -1,0 +1,344 @@
+[
+  {
+    "text": "Tarih bilimi bağlamında 'harfi eleştiri' (dışsal eleştiri) hangi yönü inceler?",
+    "options": [
+      {
+        "text": "Kaynağın yazılış zamanı, aslı olup olmadığı ve fiziksel özellikleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Metin içindeki anlamsal çelişkiler ve yazarın niyeti",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaynağın diğer kaynaklarla karşılaştırılması sonucu ortaya çıkan tutarlılık",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaynağın ekonomik ve sosyal bağlamı ile uygulanan politik etkileri",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Harfi (dışsal) eleştiri, belgenin asıllığını, yazılış zamanını, yazı ve materyal özelliklerini değerlendirerek kaynağın güvenilirliğini tespit etmeye çalışır; içerik analizleri mahiyeti eleştirisine girer.",
+    "topic": "Tarih Bilimine Giriş",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "harfi eleştiri",
+      "kaynak eleştirisi",
+      "tarih metodolojisi"
+    ],
+    "learningObjective": "Dışsal ve içsel kaynak eleştirisinin ayırt edilmesi",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İlk Çağ Mezopotamya'sında Sümer kent devletlerinin siyasal yapısını en doğru tanımlayan ifade hangisidir?",
+    "options": [
+      {
+        "text": "Tek merkezde toplanmış büyük bir imparatorluk yönetimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Her birinin bağımsız yöneticiye sahip olduğu özerk şehir devletlerinin varlığı ve aralarındaki rekabet",
+        "isCorrect": true
+      },
+      {
+        "text": "Feodal beylerin hakim olduğu dağıtılmış toprak sistemi",
+        "isCorrect": false
+      },
+      {
+        "text": "Loose konfederal bir yapı altında birleşik bir federasyon",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sümerlerde siyasi yapı genellikle bağımsız şehir-devletleri şeklindeydi; şehirler kendi yönetimleriyle özerk olarak var olmuş ve sık sık birbirleriyle rekabet etmişlerdir.",
+    "topic": "İlk Çağ Medeniyetleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "Sümer",
+      "kent devleti",
+      "Mezopotamya"
+    ],
+    "learningObjective": "İlk çağ kent-devleti yapılarının özelliklerini analiz etmek",
+    "subject": "Tarih"
+  },
+  {
+    "text": "11. yüzyılda Katolik Kilisesi ile Kutsal Roma İmparatorluğu arasında yaşanan Yatırım Kavgası (Investiture Controversy) aşağıdaki sonuçlardan hangisine yol açmamıştır?",
+    "options": [
+      {
+        "text": "Papanın dünyevi otoritesinin artması ve kilise reformlarının güçlenmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kilise ile imparatorluk arasında yetki ve atama konusunda sert çatışmaların yaşanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Batı Avrupa'da kilisenin siyasal hayatta etkinliğinin sınırlarının yeniden tartışılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Hıristiyan dünyasında tek bir merkezi imparatorluk otoritesinin kesin olarak kurulması",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Yatırım Kavgası sonucunda papalık otoritesi güçlenmiş ancak merkezi bir Hıristiyan imparatorluğu kurulmamış; aksine kilise ile dünyevi güçler arasında yetki paylaşımı sorunları belirginleşmiştir.",
+    "topic": "Orta Çağ'da Avrupa",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "Yatırım Kavgası",
+      "papa",
+      "Kutsal Roma İmparatorluğu"
+    ],
+    "learningObjective": "Investiture Controversy'nin siyasal sonuçlarını değerlendirebilmek",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İlk Türk İslam devletlerinden Karahanlılar hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Karahanlılar, devlet düzeyinde İslamiyeti kabul eden ilk Türk devleti olarak bilinir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Karahanlılar, Anadolu'da kurulan ilk büyük Türk-İslam devletidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karahanlılar, tamamen İran kültürünü benimseyip Türkçe kullanımını yasaklamıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karahanlılar Battal Gazi Destanı'nı yazan devlettir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karahanlılar, Orta Asya'da devlet düzeyinde İslamiyeti kabul eden ilk Türk topluluklarından biri olarak kabul edilir; Anadolu'da kurulmamışlardır ve Türkçe kullanımını kaldırmamışlardır.",
+    "topic": "İlk Türk İslam Devletleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "Karahanlılar",
+      "Türk-İslam",
+      "İslamiyetin kabulü"
+    ],
+    "learningObjective": "Erken Türk-İslam devletlerinin İslamlaşma sürecini açıklayabilmek",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Beylikten devlete geçiş sürecinde Osmanlıların merkezi otoriteyi güçlendirmede kullandığı uygulamalardan hangisi doğrudan toprak ile askeri hizmet arasında bağ kurarak merkezileşmeyi sağlamıştır?",
+    "options": [
+      {
+        "text": "Tımarlı sipahi sistemi",
+        "isCorrect": true
+      },
+      {
+        "text": "Uç beylerine geniş siyasi özerklik tanıma",
+        "isCorrect": false
+      },
+      {
+        "text": "Gaza ve cihat söylemini yaygınlaştırma",
+        "isCorrect": false
+      },
+      {
+        "text": "Ticaret yollarını tamamen serbestleştirme",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tımarlı sipahi sistemi, toprak gelirlerinin merkezi merkeze asker sağlamayı temel alan bir düzenle dağıtılmasını sağlayarak askeri ve mali açıdan merkezi otoritenin güçlenmesine katkı yapmıştır.",
+    "topic": "Beylikten Devlete",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "tımarlı sipahi",
+      "merkezi otorite",
+      "devletleşme"
+    ],
+    "learningObjective": "Öğrenci, beylikten devlete geçişte uygulanan toprak ve askerlik ilişkilerini açıklayabilmelidir.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İlk Türk-İslam devletlerinden Karahanlıların resmi olarak Müslüman olması hangi sonucu doğurmuştur?",
+    "options": [
+      {
+        "text": "Türkçenin devlet ve edebiyat dili olarak kullanılmasının teşvik edilmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Persçenin tamamen ortadan kalkması",
+        "isCorrect": false
+      },
+      {
+        "text": "Orta Asya'da Hristiyanlığın resmen kabul edilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Arapçanın günlük hayatta dışlanması",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Karahanlıların İslamiyeti resmi kabul etmesiyle Türkçe yazılı eserlerin ve devlet işlerinde Türkçenin kullanımının teşvik edilmesi hızlandı; ancak Farsça ve Arapça tamamen ortadan kalkmadı.",
+    "topic": "İlk Türk İslam Devletleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "Karahanlılar",
+      "Türkçe",
+      "İslamlaşma"
+    ],
+    "learningObjective": "Öğrenci, Karahanlılar döneminde din değişiminin kültürel ve dilsel sonuçlarını analiz edebilmelidir.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İkinci Dünya Savaşı'nda 6 Haziran 1944'te başlayan Normandiya Çıkarması (D-Day) stratejik olarak hangi önemli sonucu doğurmuştur?",
+    "options": [
+      {
+        "text": "Batı Avrupa'da ikinci cephe açılarak Almanya'nın iki cephede savaşmaya zorlanması",
+        "isCorrect": true
+      },
+      {
+        "text": "Sovyetler Birliği'nin Almanya ile müzakerelerde galip gelmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Japonya'nın Avrupa'da hızlı bir saldırı başlatması",
+        "isCorrect": false
+      },
+      {
+        "text": "Müttefiklerin Afrika kıtasından tamamen çekilmesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Normandiya Çıkarması, Müttefiklerin Batı Avrupa kıyılarından geniş çaplı bir ikinci cephe açmasını sağlayarak Almanya'yı Sovyetler karşısında iki cephede savaşmak zorunda bıraktı.",
+    "topic": "İkinci Dünya Savaşı",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "Normandiya",
+      "D-Day",
+      "ikinci cephe"
+    ],
+    "learningObjective": "Öğrenci, Normandiya Çıkarması'nın stratejik etkilerini neden-sonuç ilişkisi içinde değerlendirebilmelidir.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Yeni ve Yakın Çağ'da Avrupa'da 1815 Viyana Kongresi'nin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "Avrupa'da monarşik düzenin korunması ve güçler dengesinin sağlanması",
+        "isCorrect": true
+      },
+      {
+        "text": "Ulus-devlet ilkesini destekleyerek milliyetçiliği yaymak",
+        "isCorrect": false
+      },
+      {
+        "text": "Liberal anayasal yönetim biçimlerini tüm Avrupa'ya zorunlu kılmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi devriminin yayılmasını engellemek",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Viyana Kongresi, Napolyon sonrası Avrupa'da devrimsel değişiklikleri geri almak, monarşileri restore etmek ve ülke dengesiyle barışı sağlamak amacıyla toplanmıştır; milliyetçilik ve liberalizm yayma hedefi taşımıyordu.",
+    "topic": "Yeni ve Yakın Çağ'da Avrupa",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "Viyana Kongresi",
+      "restorasyon",
+      "güçler dengesi"
+    ],
+    "learningObjective": "Öğrenci, Viyana Kongresi'nin amaçlarını ve Avrupa siyasetindeki etkilerini açıklayabilmelidir.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki eşleştirmelerden hangisi İlk Türk İslam Devletleri'nin kültürel politika ve eğilimleri açısından doğrudur?",
+    "options": [
+      {
+        "text": "Gazneliler — İran/Pers kültürünü benimsedi; Karahanlılar — Türkçeyi resmi dil haline getirdi",
+        "isCorrect": true
+      },
+      {
+        "text": "Gazneliler — Türkçeyi devlet dili olarak resmileştirdi; Karahanlılar — Farsça edebiyatı himaye etti",
+        "isCorrect": false
+      },
+      {
+        "text": "Büyük Selçuklular — Türkçeyi resmi yazı dili olarak zorunlu kıldı; Gazneliler — yalnızca Arapçayı kullandı",
+        "isCorrect": false
+      },
+      {
+        "text": "Karahanlılar — Farsça eser üretimini yasakladı; Gazneliler — Türk halk kültürünü devlet politikası olarak benimsedi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gazneliler İran/Pers kültürünü ve Farsça edebiyatı himaye ederken (ör. Firdavsi'yi desteklemeleri), Karahanlılar Türkçeyi yazı ve siyaset alanında öne çıkararak Türk dilinin resmi kullanımını teşvik etmişlerdir.",
+    "topic": "İlk Türk İslam Devletleri",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "Gazneliler",
+      "Karahanlılar",
+      "kültürel politika",
+      "Türkçe"
+    ],
+    "learningObjective": "İlk Türk İslam devletlerinin kültürel eğilimlerini ve dil politikalarını analiz edebilme.",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı kültür ve medeniyetinde vakıf kurumunun kentsel yaşam ve sosyal hizmetler üzerindeki rolü ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Vakıflar medrese, imarethane, çeşme, hamam, hastane ve kütüphane gibi kurumları finanse ederek kentsel altyapı ve sosyal yardımı sürdürmüştür",
+        "isCorrect": true
+      },
+      {
+        "text": "Vakıflar sadece dini ayinlerin yerine getirilmesi için kurulmuş ve şehir hizmetlerinde rol almamıştır",
+        "isCorrect": false
+      },
+      {
+        "text": "Vakıfların gelirleri doğrudan padişah tarafından toplanır ve devlet bütçesine aktarılırdı",
+        "isCorrect": false
+      },
+      {
+        "text": "Vakıflar Osmanlı şehirlerinde yalnızca ticari faaliyetleri düzenlemek ve loncaları denetlemek amacıyla kurulmuştur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Osmanlılarda vakıflar, sosyal hizmetlerin ve kentsel altyapının sürekli finansmanını sağlayarak medrese, hastane, imarethane, çeşme gibi kurumları işletmiş; böylece kamu hizmetlerinin önemli bir kısmı vakıflar aracılığıyla yürütülmüştür.",
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "keywords": [
+      "vakıf",
+      "külliye",
+      "kentsel hizmet",
+      "Osmanlı"
+    ],
+    "learningObjective": "Osmanlı vakıf sisteminin toplumsal ve kentsel işlevlerini değerlendirebilme.",
+    "subject": "Tarih"
+  }
+]
