@@ -1,0 +1,172 @@
+[
+  {
+    "text": "Aşağıdaki ifadelerden hangisi, dinin insanın inanç ihtiyacını nasıl karşıladığına dair en kapsamlı açıklamayı sunar?",
+    "options": [
+      {
+        "text": "Din, insanın yalnızca sosyal ihtiyaçlarını karşılar; bireysel inançlar önemsizdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Din, insanın manevi boşluğunu doldurarak ona yaşamına anlam katar; toplumsal bağları güçlendirir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Din, bireyin düşünce özgürlüğünü kısıtlar; inançlar zorunlu olarak kabul edilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Din, yalnızca geleneksel değerleri korumak için vardır; bireysel inançlar değişime kapalıdır.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğru seçenek B’dir. Din, insanın varoluşsal sorularına yanıt arayışında ona manevi bir destek sunar ve bireyler arasında ortak değerler oluşturarak toplumsal dayanışmayı güçlendirir. A, C ve D seçenekleri dinin işlevlerini dar bir çerçevede ele alarak yanlış bir bakış açısı sunar.",
+    "topic": "İnsan ve Din (İnanç)",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "inanç ihtiyacı",
+      "manevi destek",
+      "toplumsal dayanışma"
+    ],
+    "learningObjective": "Öğrenci, dinin birey ve toplum üzerindeki etkilerini değerlendirerek inanç ihtiyacının nasıl karşılandığını analiz eder.",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdaki ibadetlerden hangisi, hem bireysel hem de toplumsal boyutlarıyla en çok dikkat çeken ibadet olarak öne çıkar?",
+    "options": [
+      {
+        "text": "Namaz",
+        "isCorrect": false
+      },
+      {
+        "text": "Oruç",
+        "isCorrect": false
+      },
+      {
+        "text": "Zekât",
+        "isCorrect": true
+      },
+      {
+        "text": "Hac",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zekât, bireysel olarak kişinin malî yükümlülüğünü yerine getirmesinin yanı sıra, toplumsal adaletin sağlanmasına katkıda bulunarak toplumda yardımlaşma ve dayanışma duygusunu pekiştirir. Bu nedenle zekât, hem bireysel hem de toplumsal boyutlarıyla önemli bir ibadettir.",
+    "topic": "İbadet",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "zekât",
+      "toplumsal adalet",
+      "bireysel sorumluluk"
+    ],
+    "learningObjective": "Öğrenci, zekâtın bireysel ve toplumsal işlevlerini değerlendirerek ibadetin toplumsal etkilerini yorumlar.",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Hz. Muhammed'in Mekke döneminde karşılaştığı en büyük zorluklardan biri hangisidir?",
+    "options": [
+      {
+        "text": "İslam'ın ilk yıllarında Müslümanların maruz kaldığı sosyal ve ekonomik baskılar",
+        "isCorrect": true
+      },
+      {
+        "text": "Mekke'deki ticari ilişkilerin artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Müslümanların sayısının hızla artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Hz. Muhammed'in eğitim alması",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hz. Muhammed, Mekke döneminde İslam'ı tebliğ ederken, özellikle Müslümanların sosyal ve ekonomik baskılara maruz kalması gibi ciddi zorluklarla karşılaşmıştır. Bu dönemde Müslümanlar, inançları nedeniyle toplumdan dışlanmış ve çeşitli zulümlere uğramışlardır.",
+    "topic": "Hz. Muhammed'in Hayatı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "Mekke",
+      "Hz. Muhammed",
+      "İslam",
+      "zulüm",
+      "Müslümanlar"
+    ],
+    "learningObjective": "Öğrenci, Hz. Muhammed'in Mekke dönemindeki zorluklarını ve bu zorlukların İslam'ın yayılmasına etkilerini analiz eder.",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, vahiy ve akıl ilişkisini en iyi şekilde açıklamaktadır?",
+    "options": [
+      {
+        "text": "Vahiy, insanın aklının sınırlarını aşan bilgileri sunarken, akıl bu bilgileri anlamak ve uygulamak için gereklidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Akıl, vahyin yerini alabilir ve dinî konularda tek başına yeterlidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahiy, aklın tamamen devre dışı bırakılmasını gerektirir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahiy ve akıl, birbirine zıt iki kavramdır ve bir arada kullanılamaz.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İslam düşüncesinde vahiy ve akıl, birbirini tamamlayan iki önemli kaynaktır. Vahiy, insanın aklının ulaşamayacağı metafizik bilgileri sunarken, akıl bu bilgilerin anlaşılması ve hayata geçirilmesi için gereklidir. Diğer seçenekler, ya aklı gereksiz kılarak vahyi önemsizleştiriyor ya da ikisi arasında bir çatışma yaratmaya çalışıyor.",
+    "topic": "Vahiy ve Akıl",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "vahiy",
+      "akıl",
+      "bilgi",
+      "İslam düşüncesi"
+    ],
+    "learningObjective": "Öğrenci, vahiy ve akıl arasındaki ilişkiyi değerlendirerek bu iki kavramın İslam düşüncesindeki önemini anlayacaktır.",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam düşüncesinde, bir ayetin veya hadisin yorumlanmasında hangi faktörler dikkate alınmalıdır?",
+    "options": [
+      {
+        "text": "Sadece metnin kendisi, başka hiçbir faktör dikkate alınmaz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dil özellikleri, bağlam, tarihsel arka plan ve hükmün amacı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yalnızca geçmişteki alimlerin görüşleri, modern yorumlar göz ardı edilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kur'an ve Sünnet dışında hiçbir kaynak kullanılmaz.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İslam düşüncesinde bir ayet veya hadisin yorumu, sadece metne dayanmakla kalmaz; dil özellikleri, bağlam, tarihsel arka plan ve hükmün amacı gibi faktörler de dikkate alınmalıdır. Bu, daha doğru ve kapsamlı bir anlayış sağlar.",
+    "topic": "İslam Düşüncesi ve Yorumu",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "yorum",
+      "bağlam",
+      "hüküm",
+      "amaç",
+      "dil"
+    ],
+    "learningObjective": "Öğrenci, İslam düşüncesinde bir ayetin veya hadisin yorumlanmasında dikkate alınması gereken faktörleri analiz eder.",
+    "subject": "Din Kültürü"
+  }
+]
