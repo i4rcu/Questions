@@ -1,0 +1,233 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi bir asit değildir?",
+    "options": [
+      {
+        "text": "Limon suyu",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodyum hidroksit",
+        "isCorrect": true
+      },
+      {
+        "text": "Sirke",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbonik asit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodyum hidroksit bir bazdır. Asitler sulu çözeltilerde H+ iyonu veren maddelerdir.",
+    "topic": "Asitler-Bazlar ve Tuzlar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "asit",
+      "baz",
+      "çözelti"
+    ],
+    "learningObjective": "Asitler ve bazlar arasındaki farkı anlamak",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Kimya biliminin temel amacı nedir?",
+    "options": [
+      {
+        "text": "Doğadaki elementleri keşfetmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddenin yapısını incelemek",
+        "isCorrect": true
+      },
+      {
+        "text": "Kimyasal reaksiyonları hızlandırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Günlük hayatta kimyasal deneyler yapmak",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Kimya biliminin temel amacı maddenin yapısını ve özelliklerini incelemek ve anlamaktır.",
+    "topic": "Kimya Bilimi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "kimya bilimi",
+      "madde",
+      "özellikler"
+    ],
+    "learningObjective": "Kimya biliminin amacını kavramak",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hangi kimyasal türler arası etkileşimde elektron alışverişi gerçekleşir?",
+    "options": [
+      {
+        "text": "İyonik bağ",
+        "isCorrect": true
+      },
+      {
+        "text": "Kovalent bağ",
+        "isCorrect": false
+      },
+      {
+        "text": "Metalik bağ",
+        "isCorrect": false
+      },
+      {
+        "text": "Hidrojen bağı",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İyonik bağda, elektronlar iki atom arasında transfer edilir. Bu tür bağda, iyonlar oluşur.",
+    "topic": "Kimyasal Türler Arası Etkileşimler",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "kimyasal bağlar",
+      "elektron alışverişi",
+      "iyonlar"
+    ],
+    "learningObjective": "Kimyasal türler arası etkileşim tiplerini ayırt etmek",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Doğada bulunan elementlerin kimyasal özellikleri nelerdir?",
+    "options": [
+      {
+        "text": "Çeşitli renklerde olmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğada tek halde bulunmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Periyodik tabloya göre sıralanabilir olmaları",
+        "isCorrect": true
+      },
+      {
+        "text": "Gaz hâlinde olmaları",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğada bulunan elementler periyodik tabloya göre sıralanabilir ve belirli kimyasal özelliklere sahiptir.",
+    "topic": "Doğa ve Kimya",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "elementler",
+      "kimyasal özellikler",
+      "periyodik tablo"
+    ],
+    "learningObjective": "Doğada bulunan elementlerin özelliklerini bilmek",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Sodyum hidroksit, hidroklorik asit ile nötralleştiğinde oluşan tuz hangisidir?",
+    "options": [
+      {
+        "text": "Sodyum klorür",
+        "isCorrect": true
+      },
+      {
+        "text": "Sodyum karbonat",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodyum sülfat",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodyum nitrat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sodyum hidroksit ve hidroklorik asidin nötralleşmesi sonucunda sodyum klorür oluşur.",
+    "topic": "Asitler-Bazlar ve Tuzlar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "nötralleşme",
+      "tuz",
+      "kimya"
+    ],
+    "learningObjective": "Asitler-Bazlar ve Tuzlar konusunu anlamak",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Maddenin katı, sıvı ve gaz olmak üzere kaç temel hali vardır?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Maddenin temel halleri katı, sıvı ve gaz olmak üzere toplamda 3 tanedir.",
+    "topic": "Maddenin Halleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "madde",
+      "hal değişimi",
+      "fiziksel özellik"
+    ],
+    "learningObjective": "Maddenin farklı hallerini tanımak",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Kimyanın temel kanunlarından biri olan 'Kütle Korunumu Kanunu' hangi durumu ifade eder?",
+    "options": [
+      {
+        "text": "Bir kimyasal tepkimenin başlangıçtaki ve sonraki kütleleri birbirine eşittir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bir gazın basıncı ve hacmi ters orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıcaklık arttıkça bir gazın hacmi azalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atom numarası, elementin kimyasal özelliklerini belirler.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "'Kütle Korunumu Kanunu'na göre bir kimyasal tepkimenin başlangıçtaki ve sonraki kütleleri birbirine eşittir.",
+    "topic": "Kimyanın Temel Kanunları ve Kimyasal Hesaplamalar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "kimya kanunu",
+      "kütle korunumu",
+      "kimyasal tepkime"
+    ],
+    "learningObjective": "Kimyanın temel kanunlarını anlamak",
+    "subject": "Kimya"
+  }
+]
