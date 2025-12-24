@@ -1,0 +1,171 @@
+[
+  {
+    "text": "Vahiy nedir?",
+    "options": [
+      {
+        "text": "Allah'ın insanlara gönderdiği ilahi mesajlar",
+        "isCorrect": true
+      },
+      {
+        "text": "İnsanların kendi aralarında iletişim kurmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğa olaylarının nedenleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilim alanında yapılan araştırmalar",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vahiy, Allah'ın insanlara gönderdiği ilahi mesajları ifade eder. İslam inancında vahiy kavramı oldukça önemlidir.",
+    "topic": "Vahiy ve Akıl",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Vahiy",
+      "İslam inancı",
+      "ilahi mesajlar"
+    ],
+    "learningObjective": "Vahiy kavramını anlamak",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam'a göre ibadet ne anlama gelir?",
+    "options": [
+      {
+        "text": "Allah'a kulluk etmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece Ramazan ayında oruç tutmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece cuma günleri camiye gitmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece hac ibadetini yerine getirmek",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İslam'a göre ibadet, Allah'a kulluk etmeyi ifade eder. Namaz kılmak, oruç tutmak, zekat vermek gibi ibadetler bu kapsamda değerlendirilir.",
+    "topic": "İbadet",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "İslam ibadetleri",
+      "Allah'a kulluk",
+      "namaz",
+      "oruç",
+      "zekat"
+    ],
+    "learningObjective": "İbadet kavramını anlamak",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam düşüncesi hangi temel ilkelere dayanır?",
+    "options": [
+      {
+        "text": "Vahiy ve akıl",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece akıl",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece duyular",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece deneyim",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İslam düşüncesi vahiy ve akıl ilkelerine dayanır. İnanç konularında vahiy ile akıl bir arada değerlendirilir.",
+    "topic": "İslam Düşüncesi ve Yorumu",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "İslam düşüncesi",
+      "vahiy",
+      "akıl",
+      "inanç"
+    ],
+    "learningObjective": "İslam düşüncesinin temel ilkelerini kavramak",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam'a göre insanın dinle ilişkisi nasıldır?",
+    "options": [
+      {
+        "text": "İnanç temellidir",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece uygulamalarla sınırlıdır",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece ritüellere dayanır",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece bilgiye dayanır",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İslam'a göre insanın dinle ilişkisi inanç temellidir. İnanç, insanın din konusundaki tutumunu belirler.",
+    "topic": "İnsan ve Din (İnanç)",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "İslam inancı",
+      "insan-din ilişkisi",
+      "inanç",
+      "din"
+    ],
+    "learningObjective": "İnsanın dinle ilişkisini anlamak",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Vahiy ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Vahiy, insan aklının ulaşamayacağı ilahi bilgileri içerir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vahiy, sadece peygamberlere ulaşan bir iletişim şeklidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahiy, sadece Kuran'da yer alan bilgileri ifade eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahiy, sadece tarihi olayları anlatan bir kaynaktır.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Vahiy, insan aklının ulaşamayacağı ilahi bilgileri içeren, peygamberlere ilahi yoldan ulaşan bir iletişim şeklidir.",
+    "topic": "Vahiy ve Akıl",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "keywords": [
+      "Vahiy",
+      "İlahi Bilgi",
+      "Peygamber"
+    ],
+    "learningObjective": "Vahiy kavramını anlamak",
+    "subject": "Din Kültürü"
+  }
+]
