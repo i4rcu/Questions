@@ -1350,5 +1350,668 @@
     ],
     "learningObjective": "Açıklama, betimleme, öykü ve tartışma gibi anlatım biçimlerini tanıyıp örnek cümleyle ilişkilendirebilme.",
     "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde “göz” sözcüğü mecaz anlamda kullanılmıştır?",
+    "options": [
+      {
+        "text": "Gözlerimden yaşlar süzüldü.",
+        "isCorrect": false
+      },
+      {
+        "text": "O, gözümün nuru oldu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gözlük takmayı unuttum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gözlerimi kapatıp düşündüm.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Burada 'göz' kelimesi, bir kişinin değerli ve sevgi duyulan biri olduğunu ifade etmek için mecaz anlamda kullanılmıştır. Diğer seçeneklerde ise 'göz' kelimesi gerçek anlamında kullanılmıştır.",
+    "topic": "Sözcükte Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "mecaz anlam",
+      "göz",
+      "anlam"
+    ],
+    "learningObjective": "Bir sözcüğün cümle içindeki kullanımına bakarak gerçek anlam ile mecaz anlamı ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde “kalp” sözcüğü mecaz anlamda kullanılmıştır?",
+    "options": [
+      {
+        "text": "Kalbim çok hızlı atıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "O, kalbimde bir yer edindi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kalp hastalığına dikkat etmeliyim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kalbim sağlıklı çalışıyor.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İkinci seçenek 'kalp' kelimesini duygusal bir bağlamda kullanarak mecaz anlamda ifade etmektedir. Diğer seçeneklerde ise 'kalp' kelimesi gerçek anlamında kullanılmıştır.",
+    "topic": "Sözcükte Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "mecaz anlam",
+      "kalp",
+      "anlam"
+    ],
+    "learningObjective": "Bir sözcüğün cümle içindeki kullanımına bakarak gerçek anlam ile mecaz anlamı ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"benzerlik\" anlamı vardır?",
+    "options": [
+      {
+        "text": "O kadar hızlı koşuyor ki, rüzgar gibi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sınavdan yüksek not aldım, çok çalıştım.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yağmur yağarsa dışarı çıkmam.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitap okuyarak zaman geçiriyorum.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "\"O kadar hızlı koşuyor ki, rüzgar gibi.\" cümlesinde koşma eyleminin rüzgarla benzerliği vurgulanmaktadır. Diğer seçeneklerde ise sonuç, koşul ve durum bildirilmiştir.",
+    "topic": "Cümlede Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "benzerlik",
+      "cümlede anlam",
+      "örnek"
+    ],
+    "learningObjective": "Öğrenci, cümlede benzerlik bildiren ifadeleri ayırt edebilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"karşıtlık\" anlamı vardır?",
+    "options": [
+      {
+        "text": "Hava çok sıcak, ama deniz soğuk.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ders çalıştım, sınavı geçtim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütüphanede sessiz olmalıyız.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bugün sinemaya gideceğim.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "\"Hava çok sıcak, ama deniz soğuk.\" cümlesinde sıcaklık ile soğukluk arasında bir karşıtlık vardır. Diğer seçeneklerde ise sonuç, durum ve öneri bildirilmiştir.",
+    "topic": "Cümlede Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "karşıtlık",
+      "cümlede anlam",
+      "zıtlık"
+    ],
+    "learningObjective": "Öğrenci, cümlede karşıtlık bildiren ifadeleri ayırt edebilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki paragrafta yazarın vurgulamak istediği düşünce hangisidir?\n\n“Günümüzde insanlar, sosyal medya aracılığıyla daha fazla bilgiye ulaşabiliyor. Ancak bu durum, bilgilerin doğruluğunu sorgulamadan kabul etmeyi de beraberinde getiriyor. Bilgiye ulaşmak kolaylaştıkça, doğru bilgiye ulaşmanın zorluğu artıyor.”",
+    "options": [
+      {
+        "text": "Sosyal medya, bilgiye ulaşmayı zorlaştırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilgiye ulaşmak her zaman doğru bilgiye ulaşmak anlamına gelmez.",
+        "isCorrect": true
+      },
+      {
+        "text": "İnsanlar sosyal medyayı kullanarak daha az bilgi edinir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğru bilgiye ulaşmak sosyal medya sayesinde kolaylaşmıştır.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Paragrafta sosyal medyanın bilgiye ulaşmayı kolaylaştırdığı belirtilirken, doğru bilgiye ulaşmanın zorluğuna da dikkat çekilmektedir. Bu nedenle, doğru bilgiye ulaşmanın zorlaştığı vurgulanmaktadır.",
+    "topic": "Paragrafta Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "bilgi",
+      "sosyal medya",
+      "doğruluk"
+    ],
+    "learningObjective": "Paragrafta ana düşünceyi belirleyebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerden hangisi verilen paragrafın ana fikriyle çelişmektedir?\n\n“Çocukların erken yaşta kitap okuma alışkanlığı kazanması, onların hayal güçlerini geliştirir. Okuma, çocukların kelime dağarcığını artırır ve düşünme becerilerini güçlendirir. Bu nedenle, ebeveynlerin çocuklarına kitap okuma alışkanlığı kazandırmaları önemlidir.”",
+    "options": [
+      {
+        "text": "Kitap okumak, çocukların hayal gücünü geliştirir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ebeveynler, çocuklarına kitap okuma alışkanlığı kazandırmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çocuklar, kitap okumaktan hoşlanmazlarsa bu alışkanlık kazanılmaz.",
+        "isCorrect": true
+      },
+      {
+        "text": "Okuma, düşünme becerilerini güçlendirir.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Paragrafta çocukların kitap okuma alışkanlığının kazanılmasının önemi vurgulanırken, bu alışkanlığın kazanılması için ebeveynlerin destek vermesi gerektiği belirtilmektedir. Ancak 'Çocuklar, kitap okumaktan hoşlanmazlarsa bu alışkanlık kazanılmaz.' ifadesi, paragrafın ana fikriyle çelişmektedir.",
+    "topic": "Paragrafta Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "ana fikir",
+      "çelişki",
+      "okuma alışkanlığı"
+    ],
+    "learningObjective": "Paragrafta ana fikriyle çelişen ifadeyi belirleyebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"tanımlayıcı\" anlatım biçimi kullanılmıştır?",
+    "options": [
+      {
+        "text": "Kedim, bahçede güneşleniyor ve kuşları izliyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mavi gözleri, uzun siyah saçları ve zarif duruşuyla o, herkesin dikkatini çekiyordu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Okulda dersler çok eğlenceli geçiyor, arkadaşlarımla oyun oynuyoruz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hava çok sıcak olduğu için plaja gitmeye karar verdik.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tanımlayıcı anlatım; bir varlığın özelliklerini, niteliklerini ve durumunu okuyucuya aktararak onu daha iyi anlamasını sağlamaktır. Doğru seçenekte, kişinin fiziksel özellikleri ayrıntılı bir şekilde belirtilmiştir. Diğer seçenekler ise eylem ya da durum anlatımı içerir.",
+    "topic": "Anlatım Biçimleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "tanımlayıcı",
+      "özellikler",
+      "nitelikler"
+    ],
+    "learningObjective": "Öğrenci, bir cümlede tanımlayıcı anlatım biçimini ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki sözcüklerin hangisinde ünlü türemesi (ünlü ile başlayan ek) vardır?",
+    "options": [
+      {
+        "text": "göz → gözlük",
+        "isCorrect": true
+      },
+      {
+        "text": "ev → evler",
+        "isCorrect": false
+      },
+      {
+        "text": "yaz → yazı",
+        "isCorrect": false
+      },
+      {
+        "text": "çocuk → çocuklar",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ünlü türemesi, bazı sözcüklerin sonuna ünlü ile başlayan ekler eklendiğinde yeni bir ünlü oluşturmasıdır. \"göz\" sözcüğüne \"lük\" eki eklendiğinde yeni bir ünlü olan \"ü\" türetilir: göz → gözlük. Diğer seçeneklerde ünlü türemesi yoktur.",
+    "topic": "Ses Bilgisi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "ünlü türemesi",
+      "ses olayı",
+      "gözlük"
+    ],
+    "learningObjective": "Ünlü ile başlayan eklerin bazı sözcüklerde yeni ünlüler türettiğini tanır ve doğru örneği seçer.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+    "options": [
+      {
+        "text": "Kütüphanede çok kitap var.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bütün öğrenciler sınava girecek.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu akşamki toplantıya katılacağım.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yarınki etkinlik çok eğlenceli olacak.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Zaman bildiren sözcüklere eklenen '-ki' eki bitişik yazılır. Doğru yazım 'bu akşamki' şeklindedir. Diğer seçeneklerdeki kullanımlar doğrudur.",
+    "topic": "Yazım Kuralları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "-ki eki",
+      "bitişik yazım",
+      "toplantı"
+    ],
+    "learningObjective": "Öğrenci, zaman bildiren sözcüklere gelen '-ki' ekinin doğru yazımını ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde nokta (.) doğru kullanılmıştır?",
+    "options": [
+      {
+        "text": "Bugün hava çok güzel.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nasılsın",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın toplantı var",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitap okumayı seviyorum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nokta, cümlelerin sonuna konularak cümleyi tamamlar. \"Bugün hava çok güzel.\" cümlesi, doğru bir şekilde nokta ile bitirilmiştir. Diğer seçeneklerde cümleler nokta ile tamamlanmamıştır.",
+    "topic": "Noktalama İşaretleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "nokta",
+      "cümle sonu",
+      "noktalama"
+    ],
+    "learningObjective": "Noktanın cümle sonlarında kullanıldığını bilir ve doğru örneği seçer.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki sözcüklerden hangisi yapım eki alarak türetilmiştir?",
+    "options": [
+      {
+        "text": "güzelim",
+        "isCorrect": false
+      },
+      {
+        "text": "güzellik",
+        "isCorrect": true
+      },
+      {
+        "text": "güzelce",
+        "isCorrect": false
+      },
+      {
+        "text": "güzelleşmek",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "\"Güzellik\" sözcüğü \"güzel\" köküne \"-lik\" yapım ekinin getirilmesiyle türetilmiştir. Yapım eki, sözcüğün anlamını değiştirerek yeni bir sözcük oluşturur. Diğer seçeneklerdeki ekler ya çekim eki ya da başka yapım ekleridir.",
+    "topic": "Sözcükte Yapı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "yapım eki",
+      "türemiş sözcük",
+      "kök",
+      "çekim eki"
+    ],
+    "learningObjective": "Yapım eki ile türemiş sözcükleri ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlede altı çizili sözcüğün türü nedir?\n\n\"Bu akşam _güzel_ bir film izledik.\"",
+    "options": [
+      {
+        "text": "Sıfat",
+        "isCorrect": true
+      },
+      {
+        "text": "Zarf",
+        "isCorrect": false
+      },
+      {
+        "text": "İsim",
+        "isCorrect": false
+      },
+      {
+        "text": "Zamir",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "\"Güzel\" sözcüğü, cümlede \"film\" ismini niteliyor. İsimleri niteleyen veya belirten sözcüklere sıfat denir. Burada \"güzel\" kelimesi, filmin niteliğini belirttiği için sıfat olarak kullanılmıştır.",
+    "topic": "Sözcük Türleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "sıfat",
+      "isim",
+      "nitelik"
+    ],
+    "learningObjective": "İsimleri niteleyen sözcükleri (sıfatları) cümle içinde ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde edat (ilgeç) kullanılmıştır?\n\nA) Seninle gelmek istiyorum.\nB) Ah, ne kadar güzel bir gün!\nC) Hem çalıştım hem de sınavı geçtim.\nD) Kitapları masanın üzerine koydum.",
+    "options": [
+      {
+        "text": "A",
+        "isCorrect": true
+      },
+      {
+        "text": "B",
+        "isCorrect": false
+      },
+      {
+        "text": "C",
+        "isCorrect": false
+      },
+      {
+        "text": "D",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğru cevap A’dir. “ile” edatı, cümlede bir bağlantı kurar ve iki kişi arasında birlikte hareket etme anlamı taşır. B seçeneğinde “Ah” ünlem, C seçeneğinde “hem… hem…” bağlaçtır. D seçeneğinde “üzerine” edat olarak kullanılmıştır ama cümledeki asıl edat A'dır.",
+    "topic": "Edat-Bağlaç-Ünlem",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "edat",
+      "ilgeç",
+      "ile",
+      "ünlem",
+      "bağlaç"
+    ],
+    "learningObjective": "Edat (ilgeç), bağlaç ve ünlemi temel işlevlerine göre ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerden hangisinde ek fiil kullanılmıştır?",
+    "options": [
+      {
+        "text": "O, çok çalışkandır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ali kitap okuyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kedi bahçede dolaşıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hava çok sıcak.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ek fiil, isim soylu sözcükleri yüklem yapar. \"O, çok çalışkandır.\" cümlesinde \"çalışkandır\" yükleminde ek fiil kullanılmıştır. Diğer seçeneklerde ise yüklemler fiil olup ek fiil yoktur.",
+    "topic": "Fill-Ek Fiil",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "ek fiil",
+      "yüklem",
+      "isim soylu"
+    ],
+    "learningObjective": "Öğrenci, cümlede ek fiilin kullanıldığı yapıları tanır.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerden hangisinde fiilimsi kullanılmıştır?",
+    "options": [
+      {
+        "text": "Yüzme havuzuna girmeden önce ısınmalıyız.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ali, kitabı okudu ve derse girdi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dışarıda yağmur yağıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ödevimi yapmayı unuttum.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Fiilimsi, fiil kök veya gövdesine ek getirilerek oluşturulan ve cümlede isim, sıfat veya zarf görevinde kullanılan kelimelerdir. Doğru seçenek, 'girmeden' kelimesiyle fiilimsi örneği sunmaktadır.",
+    "topic": "Fiilimsa",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "fiilimsi",
+      "fiil",
+      "ek"
+    ],
+    "learningObjective": "Öğrenci, verilen cümlede fiilimsi kullanımını tanır.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde fiil etken çatılıdır?",
+    "options": [
+      {
+        "text": "Kapı rüzgârla kapandı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Öğretmen ödevleri kontrol etti.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sınav sonuçları açıklandı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çocuklar bahçede oynuyor.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Etken çatıda işi yapan özne açıkça belirtilmiştir. 'Öğretmen ödevleri kontrol etti.' cümlesinde 'öğretmen' fiili doğrudan gerçekleştiren kişidir. Diğer seçeneklerde ya edilgen ya da dönüşlü çatılar mevcuttur.",
+    "topic": "Filde Çatı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "etken çatı",
+      "fiil",
+      "özne"
+    ],
+    "learningObjective": "Öğrenci, cümlede fiilin etken çatıda olup olmadığını belirler.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde bir deyim kullanılmıştır?",
+    "options": [
+      {
+        "text": "Göz var nizam var.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kervan yolda düzülür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ateşten gömlek giymek.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dost acı söyler.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "\"Ateşten gömlek giymek\" bir deyimdir; zor ve tehlikeli bir duruma girmek anlamında mecazlı bir ifadedir. Diğer seçenekler ise atasözleridir ve genel yargılar içerir: \"Göz var nizam var\" düzeni, \"Kervan yolda düzülür\" ise işlerin zamanla yoluna gireceğini ifade eder.",
+    "topic": "Deyim ve Atasözü",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "deyim",
+      "atasözü",
+      "mecaz anlam"
+    ],
+    "learningObjective": "Öğrenci, cümle içinde deyim ile atasözünü ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlede \"özne\" hangisidir?\n\"Kediler bahçede oynuyor.\"",
+    "options": [
+      {
+        "text": "Kediler",
+        "isCorrect": true
+      },
+      {
+        "text": "bahçede",
+        "isCorrect": false
+      },
+      {
+        "text": "oynuyor",
+        "isCorrect": false
+      },
+      {
+        "text": "bahçede oynuyor",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "\"Kediler\" kelimesi cümlede eylemi (oynuyor) gerçekleştiren varlık olduğu için özne konumundadır. Diğer seçenekler ise cümlede yer alan zarf veya yüklem öğeleridir.",
+    "topic": "Cümlenin Öğeleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "özne",
+      "cümle öğeleri",
+      "Türkçe"
+    ],
+    "learningObjective": "Öğrenci, cümlede özneyi tanımlar ve ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisi yapısına göre \"basit cümle\"dir?",
+    "options": [
+      {
+        "text": "Hava çok sıcak ve güneşli.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ali kitap okuyor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dışarıda yağmur yağıyor, şemsiyemi almayı unuttum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eve gideceğim, sonra sinemaya çıkacağım.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Basit cümle, yalnızca bir yüklem içeren ve yan cümlecik barındırmayan cümledir. \"Ali kitap okuyor.\" cümlesi tek bir yüklem içerdiği için basit cümledir. Diğer seçeneklerde birden fazla yüklem veya yan cümlecik bulunmaktadır.",
+    "topic": "Cümle Türleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "basit cümle",
+      "yüklem",
+      "cümle yapısı"
+    ],
+    "learningObjective": "Öğrenci, cümleleri yapısına göre (basit-birleşik-sıralı) ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+    "options": [
+      {
+        "text": "Kütüphaneden kitap almayı unuttum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ali, hem futbol oynadı hem de basketbol oynadı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınavdan yüksek not aldım, fakat çalışmadım.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yarın hava çok güzel olacak.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Doğru seçenek C’dir. Cümlede 'fakat' bağlacı ile çelişen bir durum söz konusudur. 'Çalışmadan yüksek not almak' mantıksal olarak çelişkilidir ve bu durum anlatım bozukluğuna yol açmaktadır.",
+    "topic": "Anlatım Bozuklukları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "keywords": [
+      "anlatım bozukluğu",
+      "çelişki",
+      "bağlaç"
+    ],
+    "learningObjective": "Öğrenci, çelişki kaynaklı anlatım bozukluğunu fark eder ve cümleyi doğru biçime dönüştürür.",
+    "subject": "Türkçe"
   }
 ]
