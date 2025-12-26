@@ -165,5 +165,43 @@
     ],
     "learningObjective": "Öğrenci, ahlaki değerlendirmenin temel kriterlerini belirleyerek ahlak felsefesi ile ilgili kavramları ayırt eder.",
     "subject": "Felsefe"
+  },
+  {
+    "text": "Felsefe, varlık, bilgi ve değer gibi temel konuları ele alırken, bu konulara yaklaşımı diğer disiplinlerden farklıdır. Aşağıdakilerden hangisi, felsefenin bu konuları ele alışındaki temel ve ayırt edici özelliğidir?",
+    "options": [
+      {
+        "text": "Olgusal verileri toplayıp sınıflandırarak genel yasalar formüle etmek.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kavramları ve ilkeleri eleştirel, tutarlı ve sistematik bir şekilde temellendirmeye çalışmak.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pratik sorunlara acil ve işlevsel çözümler üretmek.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dini inançlar ve kutsal metinler ışığında evreni ve insanı açıklamak.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Felsefenin temel özelliği, ele aldığı konulara (varlık, bilgi, değer) eleştirel, rasyonel, kavramsal ve sistematik bir yaklaşımla, onları temellendirmeye ve kökten sorgulamaya çalışmasıdır. Bu, onu olgulara dayalı bilimlerden (A seçeneği), pratik çözüm odaklı uygulamalardan (C seçeneği) ve inanç sistemlerine dayalı açıklamalardan (D seçeneği) ayırır.",
+    "topic": "Felsefe'nin Alanı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "felsefenin özelliği",
+      "temellendirme",
+      "eleştirel düşünce",
+      "sistematik yaklaşım"
+    ],
+    "learningObjective": "Öğrenci, felsefi düşünüşün temel ve ayırt edici özelliklerini (eleştirellik, tutarlılık, sistematiklik, kavramsallık) diğer bilgi türlerinden (bilim, din, pratik bilgi) ayırt edebilir.",
+    "subject": "FELSEFE"
+  },
+  {
+    "text": "Pragmatizm",
+    "isCorrect": true
   }
 ]
