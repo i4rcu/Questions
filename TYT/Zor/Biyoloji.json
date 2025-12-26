@@ -274,5 +274,207 @@
     ],
     "learningObjective": "Öğrenci, canlılar aleminin temel ayırt edici özelliklerini (hücre duvarı varlığı/yokluğu ve beslenme şekli) karşılaştırarak, bu özelliklerin hangi alemde kesin olarak bir arada bulunduğunu analiz eder.",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "Biyoloji bilimi ile ilgili aşağıdaki ifadelerden hangisi, biyolojinin 'yaşam bilimi' olarak temel özelliklerini ve bilimsel süreç becerilerini en doğru şekilde vurgular?",
+    "options": [
+      {
+        "text": "Biyoloji, canlı sistemlerdeki sorunları çözmek için hipotez kurma, kontrollü deneyler yapma ve nicel verileri analiz etme gibi sistematik yöntemler kullanır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Biyoloji, doğadaki tüm canlıların estetik değerini ve insanlar için taşıdığı manevi anlamı araştıran bir disiplindir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyolojinin temel amacı, canlıların kökeni ve evrendeki nihai amaçları hakkında kesin ve değişmez felsefi sonuçlara ulaşmaktır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyoloji, yalnızca gözleme dayalı nitel betimlemeler yapar ve sayısal verilerin kullanımı bu bilim dalı için gereksizdir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "bilimsel yöntem",
+      "hipotez",
+      "kontrollü deney",
+      "nicel veri"
+    ],
+    "learningObjective": "Biyolojinin bir bilim dalı olarak temel özelliklerini (sistematik, test edilebilir, nicel) ve bilimsel süreç becerilerini ayırt edebilme.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir bitki hücresinde, hücre iskeleti elemanlarından olan mikrotübüllerin parçalanmasına neden olan bir inhibitör (kolşisin) uygulanıyor. Bu durumun hücrede aşağıdaki süreçlerden hangisi üzerinde doğrudan bir etkisi beklenmez?",
+    "options": [
+      {
+        "text": "Hücre bölünmesi sırasında kromozomların kutuplara taşınması",
+        "isCorrect": false
+      },
+      {
+        "text": "Golgi cisimciğinden köken alan veziküllerin hücre zarına doğru hareketi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kloroplastların hücre içindeki konumlanması ve fotosentez için ışığa yönelimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozomlarda protein sentezi (translasyon) hızı",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Hücre",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "hücre iskeleti",
+      "mikrotübül",
+      "kolşisin",
+      "hücre bölünmesi",
+      "organel hareketi"
+    ],
+    "learningObjective": "Öğrenci, mikrotübüllerin hücre içindeki temel işlevlerini (hücre bölünmesi, organel taşınması, hücre şeklinin korunması) analiz eder ve bu yapıların inhibe edilmesinin hangi spesifik süreçleri etkilemeyeceğini ayırt eder.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlı gruplarından hangisinin üyeleri, hem hücre duvarına sahip olma hem de fotosentez yapabilme özelliklerini kesinlikle birlikte taşır?",
+    "options": [
+      {
+        "text": "Bitkiler",
+        "isCorrect": true
+      },
+      {
+        "text": "Arkeler",
+        "isCorrect": false
+      },
+      {
+        "text": "Hayvanlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantarlar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar Dünyası",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "Bitkiler",
+      "hücre duvarı",
+      "fotosentez",
+      "canlı grupları",
+      "selüloz"
+    ],
+    "learningObjective": "Öğrenci, canlılar aleminin temel özelliklerini (hücre yapısı, beslenme şekli) karşılaştırarak, bu özelliklerin hangi gruplarda kesin olarak bir arada bulunduğunu analiz eder.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir hücrenin interfaz evresinde, DNA'sının tamamını sentezlediği ve ardından mayoz I bölünmesini tamamladığı biliniyor. Bu hücrenin kromozom sayısı 2n=46 ise, mayoz I sonunda oluşan her bir hücredeki kromatit sayısı ve DNA miktarı (başlangıçtaki tek bir kromozomun DNA miktarı 1 birim kabul edilirse) için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Kromatit sayısı 46, DNA miktarı 46 birimdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kromatit sayısı 23, DNA miktarı 46 birimdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kromatit sayısı 46, DNA miktarı 92 birimdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kromatit sayısı 23, DNA miktarı 92 birimdir.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Hücre Bölünmeleri ve Üreme",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "mayoz bölünme",
+      "kromozom sayısı",
+      "kromatit sayısı",
+      "DNA miktarı",
+      "interfaz"
+    ],
+    "learningObjective": "Öğrenci, mayoz bölünmenin farklı evrelerinde kromozom ve kromatit sayıları ile DNA miktarı arasındaki ilişkiyi analiz eder ve bu kavramları sentezleyerek soru çözer.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir bitki türünde, çiçek rengi alellerinden A (kırmızı) B (beyaz) aleline, B (beyaz) C (sarı) aleline baskındır. Bu bitkide çiçek rengi üç alel (A, B, C) tarafından kontrol edilmekte ve bu aleller arasında eksik baskınlık yoktur. AABBCC genotipli bir birey ile aabbcc genotipli bir birey çaprazlandığında, F1 dölünün fenotipi ve F1 dölünün kendi arasında çaprazlanması sonucu oluşacak F2 dölündeki kırmızı çiçekli bireylerin oranı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "F1: Pembe; F2'de kırmızı oranı: 1/4",
+        "isCorrect": false
+      },
+      {
+        "text": "F1: Kırmızı; F2'de kırmızı oranı: 9/16",
+        "isCorrect": false
+      },
+      {
+        "text": "F1: Kırmızı; F2'de kırmızı oranı: 7/16",
+        "isCorrect": true
+      },
+      {
+        "text": "F1: Beyaz; F2'de kırmızı oranı: 3/16",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kalıtım Genel İlkeleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "çoklu allelik",
+      "baskınlık sırası",
+      "F2 oranı",
+      "genotip"
+    ],
+    "learningObjective": "Öğrenci, üç alelli ve belirli bir baskınlık sırasına sahip bir karakterin kalıtımında, F1 ve F2 nesillerinin fenotip dağılımını ve oranlarını hesaplayabilmelidir.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Küresel iklim değişikliği ile ilgili olarak aşağıdaki ifadelerden hangisi, 'karbon geri besleme döngüleri' bağlamında en ciddi ve kontrol edilmesi en zor olan pozitif geri beslemeyi tanımlar?",
+    "options": [
+      {
+        "text": "Okyanusların ısınması sonucu suyun çözünmüş CO2 tutma kapasitesinin azalması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kutup bölgelerindeki buzulların erimesiyle albedo etkisinin azalması ve daha fazla ısı emilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sibirya gibi yüksek enlemlerdeki donmuş toprakların (permafrost) çözülerek bünyesindeki büyük miktarlarda metan (CH4) gazını atmosfere salması",
+        "isCorrect": true
+      },
+      {
+        "text": "Artan sıcaklıkların bitkilerin fotosentez hızını geçici olarak artırması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "küresel iklim değişikliği",
+      "pozitif geri besleme",
+      "permafrost",
+      "metan",
+      "sera gazları"
+    ],
+    "learningObjective": "Öğrenci, küresel iklim değişikliğini hızlandıran farklı pozitif geri besleme mekanizmalarını karşılaştırarak, potansiyel etkisi en büyük ve geri döndürülmesi en zor olanı ayırt eder.",
+    "subject": "Biyoloji"
   }
 ]
