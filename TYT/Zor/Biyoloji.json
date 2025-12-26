@@ -200,5 +200,79 @@
     ],
     "learningObjective": "Öğrenci, iklim değişikliğinin ekosistem üzerindeki etkilerini analiz ederek türlerin dağılımındaki değişimleri değerlendirebilir.",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "Biyoloji, gözlem, deney ve hipotez testi gibi yöntemlerle canlıların yapısını, işleyişini ve birbirleriyle etkileşimlerini sistematik olarak inceler.",
+    "isCorrect": true
+  },
+  {
+    "text": "Bir hücrenin plazma zarındaki sıvı-mozaik modeline göre, zarın akışkanlığını doğrudan artıran aşağıdaki durumlardan hangisi beklenir?",
+    "options": [
+      {
+        "text": "Zar yapısındaki doymamış yağ asidi oranının artması",
+        "isCorrect": true
+      },
+      {
+        "text": "Zar yapısındaki kolesterol miktarının artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Zar proteinlerinin periferik protein oranının artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortam sıcaklığının donma noktasının altına düşmesi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sıvı-mozaik modelde zarın akışkanlığı, fosfolipitlerin yağ asidi zincirlerinin doymamışlık derecesi ile doğrudan ilişkilidir. Doymamış yağ asitleri, çift bağ içerdiği için zincirde kıvrımlar oluşturur. Bu kıvrımlar fosfolipitlerin sıkı paketlenmesini engelleyerek zarın daha akışkan olmasını sağlar. Kolesterol, düşük sıcaklıklarda akışkanlığı artırsa da yüksek sıcaklıklarda akışkanlığı azaltıcı etki gösterir. Periferik proteinler zar akışkanlığını doğrudan belirleyici bir faktör değildir. Düşük sıcaklık ise akışkanlığı azaltır.",
+    "topic": "Hücre",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "plazma zarı",
+      "sıvı-mozaik model",
+      "zar akışkanlığı",
+      "doymamış yağ asidi",
+      "fosfolipit"
+    ],
+    "learningObjective": "Öğrenci, hücre zarının yapısını ve akışkanlığını etkileyen faktörleri (yağ asidi doymamışlığı, kolesterol, sıcaklık) analiz eder ve karşılaştırır.",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlı gruplarından hangisinin üyeleri, hem hücre duvarına sahip olma hem de fotosentez yapabilme özelliklerini aynı anda kesinlikle taşır?",
+    "options": [
+      {
+        "text": "Bitkiler",
+        "isCorrect": true
+      },
+      {
+        "text": "Arkeler",
+        "isCorrect": false
+      },
+      {
+        "text": "Hayvanlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantarlar",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bitkiler, hücre duvarı (selüloz yapılı) bulunduran ve fotosentez yapabilen (kloroplast organeli sayesinde) ototrof canlılardır. Arkelerin çoğu hücre duvarına sahiptir ancak fotosentez yapmazlar (fotosentetik olanları çok nadirdir ve bu soruda 'kesinlikle' ifadesi geçmektedir). Hayvanların hücre duvarı yoktur ve heterotrofturlar. Mantarlar hücre duvarına (kitin yapılı) sahiptir ancak fotosentez yapamazlar, heterotrofturlar.",
+    "topic": "Canlılar Dünyası",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "Bitkiler",
+      "Hücre Duvarı",
+      "Fotosentez",
+      "Alem Özellikleri",
+      "Ototrof"
+    ],
+    "learningObjective": "Öğrenci, canlılar aleminin temel ayırt edici özelliklerini (hücre duvarı varlığı/yokluğu ve beslenme şekli) karşılaştırarak, bu özelliklerin hangi alemde kesin olarak bir arada bulunduğunu analiz eder.",
+    "subject": "Biyoloji"
   }
 ]
