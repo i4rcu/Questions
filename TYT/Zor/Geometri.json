@@ -1,0 +1,28 @@
+[
+  {
+    "text": "ABC üçgeninde [DE] // [BC]'dir. |AD| = 4 cm, |DB| = 6 cm ve |BC| = 15 cm olduğuna göre, |DE| kaç cm'dir?",
+    "explanation": "[DE] // [BC] olduğu için ABC üçgeni ile ADE üçgeni benzerdir (Açı-Açı-Açı benzerliği). Benzerlik oranı, |AD| / |AB| = 4 / (4+6) = 4/10 = 2/5'tir. Bu benzerlik oranı, karşılıklı kenarlar için de geçerlidir. |DE| / |BC| = 2/5 olduğundan, |DE| / 15 = 2/5 ⇒ |DE| = (2/5)*15 = 6 cm bulunur.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Benzerlik",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Geometri"
+  }
+]
