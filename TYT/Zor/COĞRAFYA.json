@@ -169,5 +169,43 @@
     ],
     "learningObjective": "Denizellik ve karasallığın sıcaklık üzerindeki etkilerini anlayarak iklim tipleri arasındaki farklılıkları açıklayabilme.",
     "subject": "Coğrafya"
+  },
+  {
+    "text": "Yeraltı suyu kuyularını derinleştirip sulama alanını genişleterek yüksek verimli hibrit tohumlarla monokültür tarımı yaygınlaştırmak",
+    "isCorrect": false
+  },
+  {
+    "text": "Aşağıdaki durumların hangisinde, bir noktada Güneş'in ufuk düzlemi üzerindeki hareketi, Dünya'nın küresel şekli ve eksen eğikliğinin bir sonucu olarak, en uzun gündüz süresine ulaşır?",
+    "options": [
+      {
+        "text": "21 Haziran tarihinde, Ekvator üzerinde bir noktada",
+        "isCorrect": false
+      },
+      {
+        "text": "21 Aralık tarihinde, Güney Yarım Küre'deki Oğlak Dönencesi üzerinde bir noktada",
+        "isCorrect": false
+      },
+      {
+        "text": "21 Haziran tarihinde, Kuzey Yarım Küre'deki Yengeç Dönencesi üzerinde bir noktada",
+        "isCorrect": true
+      },
+      {
+        "text": "21 Mart tarihinde, Kuzey Kutup Dairesi üzerinde bir noktada",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dünya'nın eksen eğikliği ve yıllık hareketi sonucu, Güneş ışınlarının dik geldiği enlem yıl içinde değişir. 21 Haziran'da Güneş ışınları Yengeç Dönencesi'ne dik gelir. Bu tarih, Kuzey Yarım Küre'de yaz gündönümüdür ve bu enlemde gündüz süresi en uzundur. Ekvator'da gündüz süresi yıl boyunca yaklaşık 12 saattir. 21 Aralık'ta Oğlak Dönencesi'nde gündüz süresi uzundur ancak bu Güney Yarım Küre içindir. 21 Mart'ta ise gece-gündüz eşitliği yaşanır.",
+    "topic": "Dünya'nın Şekli ve Hareketleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "Eksen Eğikliği",
+      "Yengeç Dönencesi",
+      "Gündüz Süresi",
+      "Yaz Gündönümü"
+    ],
+    "learningObjective": "Dünya'nın şekli ve hareketlerinin, belirli bir enlemdeki gündüz süresi üzerindeki etkisini analiz edebilme.",
+    "subject": "COĞRAFYA"
   }
 ]
