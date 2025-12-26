@@ -2040,5 +2040,671 @@
     ],
     "learningObjective": "Öğrenci, cümlede özne-yüklem uyumsuzluğundan kaynaklanan anlatım bozukluğunu tespit eder ve doğru biçimi önerir.",
     "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"ağır\" sözcüğü, \"değeri çok olan, kıymetli\" anlamında kullanılmıştır?",
+    "options": [
+      {
+        "text": "A) Misafirlerine ağır bir sofra hazırlamıştı.",
+        "isCorrect": true
+      },
+      {
+        "text": "B) Çocuk, ağır çantayı zorlukla taşıdı.",
+        "isCorrect": false
+      },
+      {
+        "text": "C) Hastanın durumu oldukça ağırdı.",
+        "isCorrect": false
+      },
+      {
+        "text": "D) Bu ağır havada dışarı çıkmak istemiyordu.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "yan anlam",
+      "mecaz anlam",
+      "sözcükte anlam",
+      "çok anlamlılık"
+    ],
+    "learningObjective": "Öğrenci, çok anlamlı bir sözcüğün cümle bağlamında hangi yan anlamıyla kullanıldığını ayırt eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"düşmek\" sözcüğü \"rastlamak, tesadüfen bulmak\" anlamında kullanılmıştır?",
+    "options": [
+      {
+        "text": "A) Bu kitap, tam da aradığım konuya düşmüş.",
+        "isCorrect": true
+      },
+      {
+        "text": "B) Yolda yürürken ansızın yere düştü.",
+        "isCorrect": false
+      },
+      {
+        "text": "C) Akşam vakti sıcaklık hızla düştü.",
+        "isCorrect": false
+      },
+      {
+        "text": "D) Gözlerinden birkaç damla yaş düştü.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "mecaz anlam",
+      "deyimleşme",
+      "sözcükte anlam",
+      "anlam kayması"
+    ],
+    "learningObjective": "Öğrenci, bir sözcüğün deyim içinde kazanmış olduğu mecaz anlamı belirler.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"düşmek\" sözcüğü \"rastlantı sonucu elde etmek, kısmet olmak\" anlamında kullanılmıştır?",
+    "options": [
+      {
+        "text": "A) Bu yıl güzel bir tatil köyüne düştük.",
+        "isCorrect": true
+      },
+      {
+        "text": "B) Masadan tabak yere düştü.",
+        "isCorrect": false
+      },
+      {
+        "text": "C) Hava sıcaklığı gece epey düştü.",
+        "isCorrect": false
+      },
+      {
+        "text": "D) Yorgunluktan hemen uykuya düştüm.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlede Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "sözcükte anlam",
+      "deyim",
+      "bağlam",
+      "çok anlamlılık"
+    ],
+    "learningObjective": "Öğrenci, çok anlamlı bir sözcüğün (düşmek) farklı bağlamlardaki anlamlarını ayırt edebilir ve mecazi/deyimsel kullanımları tanıyabilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"açmak\" sözcüğü \"bir şeyi daha geniş, daha ferah duruma getirmek\" anlamında kullanılmıştır?",
+    "options": [
+      {
+        "text": "A) Bu pencereyi biraz açık bırakırsan oda hava alır.",
+        "isCorrect": false
+      },
+      {
+        "text": "B) Yeni bir iş yeri açmak için kredi başvurusu yaptı.",
+        "isCorrect": false
+      },
+      {
+        "text": "C) Şair, bu mısralarla yepyeni bir ufuk açtı bize.",
+        "isCorrect": true
+      },
+      {
+        "text": "D) Konserve kutusunu açmak için açacak lazım.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlede Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "sözcükte anlam",
+      "mecaz anlam",
+      "bağlam",
+      "anlam ayırt etme"
+    ],
+    "learningObjective": "Öğrenci, bir sözcüğün (açmak) somut anlamlarından ziyade, soyut ve mecazi anlamlarını bağlam içinde doğru bir şekilde yorumlayabilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki paragrafta anlatılanlardan çıkarılabilecek en kapsamlı yargı hangisidir?\n\n“Sanatçı, eserini oluştururken yalnızca kendi duygu ve düşüncelerini aktarmakla kalmaz, aynı zamanda içinde yaşadığı toplumun kültürel kodlarını, tarihsel birikimini de yansıtır. Bu nedenle bir sanat yapıtı, ait olduğu dönemin bir aynası gibidir. Ancak bu ayna, yalnızca yüzeydeki görüntüyü değil, o dönemin ruhunu, çelişkilerini ve özlemlerini de gösteren bir tür ‘ruh aynası’ işlevi görür. Sanatın kalıcılığı da bu derinlikli yansıtmadan kaynaklanır.”",
+    "options": [
+      {
+        "text": "Sanatçılar, eserlerinde yalnızca kişisel duygularını ifade etmeyi amaçlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanat yapıtları, üretildikleri dönemin yalnızca yüzeysel özelliklerini yansıtır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatın temel işlevi, toplumun günlük yaşamını belgelemektir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanat eserleri, içinde doğdukları toplumun hem maddi hem de manevi dünyasını yansıtarak kalıcılık kazanır.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ana fikir",
+      "çıkarım",
+      "sanat ve toplum",
+      "kalıcılık"
+    ],
+    "learningObjective": "Bir paragrafta, neden-sonuç ilişkilerini ve metaforları çözümleyerek ana düşünceyi belirleyebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Bu paragrafta yazarın \"dil\" ile ilgili temel eleştirisi aşağıdakilerden hangisidir?\n\n“Günümüzde iletişim araçlarının hızı, dilin inceliklerini yok ediyor. Kısa mesajlar, sosyal medya paylaşımları, anlamı mümkün olduğunca sıkıştırılmış ifadelere indirgiyor. Bu durum, sadece söz dağarcığının daralmasına yol açmıyor; aynı zamanda düşüncenin karmaşık katmanlarını ifade edebilme yeteneğimizi de zayıflatıyor. Dil, düşünceyi taşıyan bir araç olmaktan çıkıp, yüzeysel bir işaretler sistemine dönüşüyor. Oysa dilin zenginliği, düşüncenin derinliğiyle doğrudan bağlantılıdır.”",
+    "options": [
+      {
+        "text": "İletişim araçlarının yaygınlaşması, dilin kullanım alanını genişletmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Modern iletişim, dilin düşünceyi derinlemesine ifade etme işlevini zayıflatmaktadır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kısa mesajlaşmanın yaygınlaşması, dilin sadece yazım kurallarını olumsuz etkilemiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dilin asıl işlevi, günlük hayatı kolaylaştıran pratik bir araç olmaktır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ana düşünce",
+      "eleştiri",
+      "dil ve düşünce",
+      "neden-sonuç"
+    ],
+    "learningObjective": "Bir paragrafta yazarın bir olguya yönelik temel eleştirisini, neden-sonuç ilişkilerini takip ederek belirleyebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki parçanın anlatımında hangi anlatım biçimi ağır basmaktadır?\n\n\"Sanatın toplumsal işlevini tartışırken, yalnızca estetik kaygıları ön plana çıkaranların eksik bir bakış açısına sahip olduğunu düşünüyorum. Çünkü sanat, tarih boyunca toplumu dönüştüren, eleştiren ve yönlendiren bir güç olmuştur. Örneğin, Namık Kemal'in vatanseverlik temasını işleyen eserleri, bir dönemin düşünce yapısını şekillendirmede etkili olmuştur. Oysa sanatı yalnızca 'güzel' arayışına indirgemek, onun bu dinamik ve etkili yönünü görmezden gelmektir.\"",
+    "options": [
+      {
+        "text": "Öyküleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Betimleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Açıklama",
+        "isCorrect": false
+      },
+      {
+        "text": "Tartışma",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Parçada yazar, 'sanatın toplumsal işlevi' konusunda kendi tezini ('sanat toplumu dönüştürür') ortaya koymakta, karşıt görüşü ('sanat yalnızca estetik kaygı taşır') eleştirmekte ve bu tezini Namık Kemal örneği gibi bir kanıtla desteklemektedir. Bu unsurlar (tez, karşı tez, kanıt gösterme, eleştiri) tartışma anlatım biçiminin temel özellikleridir.",
+    "topic": "Anlatım Biçimleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "tartışma",
+      "tez",
+      "kanıt",
+      "karşı görüş"
+    ],
+    "learningObjective": "Bir metnin, bir düşünceyi savunma, karşıt düşünceyi çürütme ve örneklerle kanıtlama yapısını analiz ederek tartışma anlatım biçimini belirleyebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlede altı çizili sözcüklerin hangisinde bir \"ünlü daralması\" olayı vardır?\n\n\"Bu <u>söylediklerimi</u> bir <u>kenara</u> bırakıp, <u>yeni</u> bir <u>başlangıç</u> yapmayı <u>düşünüyoruz</u>.\"",
+    "options": [
+      {
+        "text": "söylediklerimi",
+        "isCorrect": false
+      },
+      {
+        "text": "kenara",
+        "isCorrect": false
+      },
+      {
+        "text": "yeni",
+        "isCorrect": false
+      },
+      {
+        "text": "düşünüyoruz",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Ses Bilgisi",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ünlü daralması",
+      "geniş ünlü",
+      "dar ünlü",
+      "fiil çekimi"
+    ],
+    "learningObjective": "Bir cümlede, fiil çekimlerinde meydana gelen ünlü daralması olayını tespit edebilmek.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
+    "options": [
+      {
+        "text": "Bu konuda herhangi bir bilgim yok, sen de mi yoksa?",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınav sonuçlarına göre, öğrencilerin bir çoğu bu konuyu anlamamış.",
+        "isCorrect": true
+      },
+      {
+        "text": "TBMM'nin 102. yıl dönümü törenle kutlandı.",
+        "isCorrect": false
+      },
+      {
+        "text": "O kadar yorgundu ki, bir an önce eve gitmek istiyordu.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yazım Kuralları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "bir çoğu",
+      "birçoğu",
+      "bitişik yazım",
+      "belgisiz sıfat"
+    ],
+    "learningObjective": "Öğrenci, 'birçok' sözcüğünün belgisiz sıfat olarak kullanıldığında bitişik yazılması gerektiğini bilir ve ayrı yazılan yanlış kullanımı tespit eder.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "options": [
+      {
+        "text": "İstanbul'a gideceğim; ama önce Ankara'da birkaç işimi halletmem gerekiyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitap okumayı çok severim; roman, öykü, deneme gibi türler beni cezbeder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınıfın en çalışkan öğrencileri şunlardı; Ayşe, Mehmet ve Elif.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sabah erkenden yola çıktık; ancak yoğun trafik yüzünden ancak akşam varabildik.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Noktalama İşaretleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "noktalı virgül",
+      "yanlış kullanım",
+      "bağlaç",
+      "sıralama"
+    ],
+    "learningObjective": "Noktalı virgülün bağımsız cümleleri bağlama ve ögeleri ayırma işlevlerini kavrayarak yanlış kullanımını tespit edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlede altı çizili sözcüğün kök ve eklerine ayrılmış hali hangi seçenekte doğru verilmiştir?\n\n\"Bu eski evin <u>güzelleştirilemeyeceğini</u> düşünüyordu.\"",
+    "options": [
+      {
+        "text": "güzel (isim kökü) + -leş- (işteşlik eki) + -tir- (ettirgenlik eki) + -il- (edilgenlik eki) + -e (yönelme hâli) + -me (olumsuzluk) + -yecek (gelecek zaman) + -ğ (kaynaştırma) + -i (iyelik) + -ni (belirtme hâli)",
+        "isCorrect": false
+      },
+      {
+        "text": "güzel (isim kökü) + -leş- (işteşlik eki) + -tir- (ettirgenlik eki) + -il- (edilgenlik eki) + -e (yeterlilik) + -me (olumsuzluk) + -y (kaynaştırma) + -ecek (gelecek zaman) + -i (3. tekil iyelik)",
+        "isCorrect": false
+      },
+      {
+        "text": "güzel (isim kökü) + -leş- (isimden fiil yapan yapım eki) + -tir- (fiilden fiil yapan yapım eki/ettirgen) + -il- (fiilden fiil yapan yapım eki/edilgen) + -e (yeterlilik) + -me (olumsuzluk) + -y (kaynaştırma) + -ecek (gelecek zaman sıfat-fiil) + -i (iyelik eki)",
+        "isCorrect": true
+      },
+      {
+        "text": "güzel (isim kökü) + -leş- (isimden fiil yapan yapım eki) + -tir- (ettirgenlik eki) + -il- (edilgenlik eki) + -e (yönelme hâli) + -me (olumsuzluk) + -y (kaynaştırma) + -ecek (gelecek zaman) + -i (belirtme hâli)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Yapı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "isim kökü",
+      "yapım eki",
+      "fiilimsi",
+      "çekim eki",
+      "edilgen fiil"
+    ],
+    "learningObjective": "Çok sayıda yapım ve çekim eki almış, olumsuzluk ve fiilimsi içeren karmaşık bir fiilin yapısal ögelerini doğru bir şekilde ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük tür bakımından diğerlerinden farklıdır?\n\nA) Bu <u>kadar</u> güzel bir manzara görmemiştim.\nB) Çalışmalarını <u>kadar</u> hızlandırmalısın.\nC) Senin <u>kadar</u> çalışkan birini tanımıyorum.\nD) Eve vardığım <u>kadar</u> telefonunu arayacağım.",
+    "options": [
+      {
+        "text": "A",
+        "isCorrect": false
+      },
+      {
+        "text": "B",
+        "isCorrect": false
+      },
+      {
+        "text": "C",
+        "isCorrect": false
+      },
+      {
+        "text": "D",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "kadar",
+      "edat",
+      "bağlaç",
+      "sözcük türü"
+    ],
+    "learningObjective": "Aynı sözcüğün (kadar) farklı cümlelerde edat, bağlaç veya zarf olarak kullanımlarını ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"ile\" sözcüğü, cümleye \"ne zaman\" sorusuna cevap veren bir zarf anlamı katmıştır?\n\nA) Çocuk, sevinçle koşarak yanımıza geldi.\nB) Babasıyla birlikte maça gidecekler.\nC) Bu dosyaları kargoyla gönderdik.\nD) Güzellikle istersen her şeyi yaptırırsın.",
+    "options": [
+      {
+        "text": "A",
+        "isCorrect": true
+      },
+      {
+        "text": "B",
+        "isCorrect": false
+      },
+      {
+        "text": "C",
+        "isCorrect": false
+      },
+      {
+        "text": "D",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edat-Bağlaç-Ünlem",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ile",
+      "edat",
+      "bağlaç",
+      "zarf",
+      "görev"
+    ],
+    "learningObjective": "Aynı sözcüğün edat, bağlaç ve zarf olarak kullanımını ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ek fiil, hem isim soylu bir sözcüğü yüklem yapmış hem de cümleye 'koşul' anlamı katmıştır?",
+    "options": [
+      {
+        "text": "Bu soruları çözmek için yeterince çalışkansın.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın sınavımız varsa erken yatmalıyız.",
+        "isCorrect": true
+      },
+      {
+        "text": "O zamanlar bu kasaba çok küçükmüş.",
+        "isCorrect": false
+      },
+      {
+        "text": "En büyük hayali, bir doktor olmaktı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fill-Ek Fiil",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ek fiil",
+      "koşul",
+      "şart",
+      "isim cümlesi",
+      "varsa"
+    ],
+    "learningObjective": "Ek fiilin isim soylu sözcükleri yüklem yapma işlevi ile cümleye koşul (şart) anlamı katma işlevini ayırt edebilme.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde, fiilimsi eki alan sözcük, cümlede bir isim soylu sözcüğün (isim, sıfat, zarf) anlamını tamamlayan bir \"tamlayan\" görevi üstlenmiştir?\n\n\"Güneşin batışını izlerken, içimi hüzün kapladı.\"",
+    "options": [
+      {
+        "text": "\"batışını\" sözcüğü (İsim-fiil, belirtili isim tamlamasında tamlanan)",
+        "isCorrect": false
+      },
+      {
+        "text": "\"izlerken\" sözcüğü (Zarf-fiil, \"kapladı\" yükleminin zamanını belirten zarf tümleci)",
+        "isCorrect": false
+      },
+      {
+        "text": "\"Güneşin\" sözcüğü (Tamlayan eki (-in) almış isim)",
+        "isCorrect": false
+      },
+      {
+        "text": "\"içimi\" sözcüğü (Belirtme durum eki (-i) almış isim, \"kapladı\" yükleminin nesnesi)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Bu soru, fiilimsi kavramını dolaylı olarak test etmektedir. Seçeneklerde fiilimsi örnekleri verilmiş ancak sorunun asıl odağı, cümledeki fiilimsi olmayan bir öğenin (\"içimi\" isminin) görevini belirlemektir. \"İçimi\" sözcüğü, fiilimsi değil, isimdir ve \"kapladı\" yükleminin belirtili nesnesi görevindedir. Diğer seçeneklerdeki \"batışını\" (isim-fiil) ve \"izlerken\" (zarf-fiil) fiilimsilerdir, ancak soruda istenen, bir isim soylu sözcüğün tamamlayıcı görevini üstlenen unsur değildir. \"Güneşin\" ise fiilimsi değil, tamlayan görevinde bir isimdir. Bu karmaşık yapı, sorunun zorluk seviyesini oluşturur.",
+    "topic": "Fiilimsa",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "fiilimsi",
+      "isim-fiil",
+      "zarf-fiil",
+      "cümle ögeleri",
+      "nesne"
+    ],
+    "learningObjective": "Öğrencinin bir cümlede fiilimsi olan ve olmayan ögeleri bir arada değerlendirerek, cümlenin anlam ve yapı özelliklerini çözümleyebilmesi ve fiilimsilerin cümle içindeki diğer ögelerle olan ilişkisini kavrayabilmesi amaçlanmıştır.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde yüklem, hem öznesine hem de nesnesine göre çatı özelliği bakımından diğerlerinden farklıdır?",
+    "options": [
+      {
+        "text": "Müdür, yeni personeli makamında kabul etti.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu konu, öğrenciler tarafından hemen kavrandı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çocuk, annesine sürpriz bir hediye aldı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu eski ev, aile büyüklerimizce yıllar önce yaptırılmış.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Filde Çatı",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "edilgen çatı",
+      "ettirgen çatı",
+      "özne-yüklem ilişkisi",
+      "nesne-yüklem ilişkisi"
+    ],
+    "learningObjective": "Öğrenci, bir cümledeki yüklemin hem öznesine göre (etken/edilgen) hem de nesnesine göre (geçişli/geçişsiz, oldurgan/ettirgen) çatı özelliklerini aynı anda analiz ederek karmaşık çatı yapılarını ayırt edebilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde altı çizili söz öbeği, bir atasözü değildir?",
+    "options": [
+      {
+        "text": "Komşunun tavuğu komşuya kaz görünür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu işte de bir punduna getirip sözünü esirgemedi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ağaç yaşken eğilir, bu yüzden çocuk eğitimine önem veriyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dost ile ye, iç; alışveriş etme.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Deyim ve Atasözü",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "atasözü",
+      "deyim",
+      "kalıplaşmış ifade"
+    ],
+    "learningObjective": "Öğrenci, bir cümlede kullanılan kalıplaşmış ifadenin atasözü mü yoksa deyim mi olduğunu ayırt edebilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlede altı çizili bölümün cümle öğesi görevini bulunuz:\n\n\"Bu eski ev, <u>yılların getirdiği yorgunlukla</u>, sessizce ayakta duruyordu.\"",
+    "options": [
+      {
+        "text": "Zarf tümleci",
+        "isCorrect": false
+      },
+      {
+        "text": "Dolaylı tümleç",
+        "isCorrect": false
+      },
+      {
+        "text": "Edat tümleci",
+        "isCorrect": true
+      },
+      {
+        "text": "Dolaysız tümleç",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlenin Öğeleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "edat tümleci",
+      "ile edatı",
+      "öge analizi",
+      "zarf tümleci ayrımı"
+    ],
+    "learningObjective": "Öğrenci, \"ile\" edatının araç/vasıta anlamı taşıdığı durumlarda oluşan ögeyi (edat tümleci) diğer tümleç türlerinden ayırt edebilir.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisi, yüklemin yerine göre 'devrik', yüklemin türüne göre 'isim' ve anlamına göre 'soru' cümlesidir?",
+    "options": [
+      {
+        "text": "Bu kadar güzel bir manzara karşısında kim duygulanmaz ki?",
+        "isCorrect": false
+      },
+      {
+        "text": "Nerede bu şehrin o eski, dingin sabahları?",
+        "isCorrect": true
+      },
+      {
+        "text": "Bu şehrin o eski, dingin sabahları neredeydi?",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimse yok mu bu şehrin eski sabahlarını özleyen?",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümle Türleri",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "devrik cümle",
+      "isim cümlesi",
+      "soru cümlesi",
+      "yüklem türü",
+      "yüklem yeri"
+    ],
+    "learningObjective": "Öğrenci, bir cümlenin aynı anda yüklemin yerine, türüne ve anlamına göre sınıflandırılmasını gerektiren çok boyutlu bir analiz yapar.",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde, bir sözcüğün yanlış anlamda kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+    "options": [
+      {
+        "text": "Bu kadar gürültüde ders çalışmak gerçekten çok güçtü.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu sorunun çözümü için yeni bir yöntem geliştirmek gerekiyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeni aldığım telefonun batarya problemi çözüldü.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplantıda alınan kararlar bir hafta içinde uygulanacak.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Bozuklukları",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "anlam yanlışlığı",
+      "sözcüğün yanlış kullanımı",
+      "anlatım bozukluğu",
+      "batarya"
+    ],
+    "learningObjective": "Öğrenci, bir sözcüğün yanlış anlamda kullanılmasından kaynaklanan anlatım bozukluğunu tespit eder.",
+    "subject": "Türkçe"
   }
 ]
