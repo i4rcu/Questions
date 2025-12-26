@@ -1,0 +1,36 @@
+[
+  {
+    "text": "A = {1, 2, 3} ve B = {2, 3, 4} kümeleri veriliyor. A ∩ B (A kesişim B) kümesi aşağıdakilerden hangisidir?",
+    "explanation": "İki kümenin kesişimi, her iki kümede de bulunan ortak elemanların oluşturduğu kümedir. A kümesinde {1, 2, 3} ve B kümesinde {2, 3, 4} elemanları vardır. Her iki kümede de bulunan elemanlar 2 ve 3'tür. Bu nedenle A ∩ B = {2, 3} olur.",
+    "options": [
+      {
+        "text": "{2, 3}",
+        "isCorrect": true
+      },
+      {
+        "text": "{1, 4}",
+        "isCorrect": false
+      },
+      {
+        "text": "{1, 2, 3, 4}",
+        "isCorrect": false
+      },
+      {
+        "text": "{3}",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kümeler",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "keywords": [
+      "Kesişim",
+      "Ortak eleman",
+      "Küme işlemleri"
+    ],
+    "learningObjective": "İki kümenin kesişim kümesini belirleyebilme.",
+    "subject": "Matematik"
+  }
+]
