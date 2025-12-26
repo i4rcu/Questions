@@ -176,5 +176,56 @@
   {
     "text": "İbadetin toplumsal fayda sağlayacak şekilde yerine getirilmesi",
     "isCorrect": false
+  },
+  {
+    "text": "İnsanın, varlığın anlamı ve amacı hakkında sorular sorması ve bu sorulara tatmin edici cevaplar araması",
+    "isCorrect": false
+  },
+  {
+    "text": "Bir kişi, sadece toplumsal baskı nedeniyle namaz kılıyor ve bu ibadet onun günlük hayatındaki davranışlarında hiçbir değişikliğe yol açmıyorsa.",
+    "isCorrect": false
+  },
+  {
+    "text": "İlk yıllarda tebliği gizli yürütmüş, güvenli bir topluluk oluştuktan sonra açık davete geçmiştir.",
+    "isCorrect": true
+  },
+  {
+    "text": "İslam düşüncesinde vahiy ve akıl ilişkisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      {
+        "text": "Vahiy, aklın sınırlarını aşan mutlak hakikatleri bildirirken, akıl bu hakikatleri kavrama ve hayata geçirme gücüne sahiptir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Akıl, vahyin kontrol edicisidir ve vahyin akla uygun olmayan kısımları reddedilebilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahiy, aklın tüm sorularına cevap verdiğinden, dinî konularda aklı kullanmaya gerek yoktur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akıl ve vahiy birbiriyle çatışan iki bilgi kaynağıdır; dindar bir kişi vahyi tercih etmek zorundadır.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "İslam inancına göre vahiy ve akıl birbirini tamamlayan iki bilgi kaynağıdır. Vahiy, aklın tek başına ulaşamayacağı ilahî hakikatleri (örn. ahiret, melekler) bildirir. Akıl ise bu vahyi anlama, yorumlama, temel ilkelerini çıkarma (istinbat) ve günlük hayata uygulama (içtihat) yeteneğidir. Diğer seçenekler, ya aklı vahyin üzerine çıkararak (B), ya aklı tamamen devre dışı bırakarak (C), ya da ikisi arasında gereksiz ve yanlış bir çatışma olduğunu varsayarak (D) İslami anlayışla bağdaşmaz.",
+    "topic": "Vahiy ve Akıl",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "vahiy",
+      "akıl",
+      "tamamlayıcılık",
+      "hakikat",
+      "içtihat"
+    ],
+    "learningObjective": "Öğrenci, İslam düşüncesinde vahiy ve aklın birbirini dışlamayan, aksine birbirini destekleyen ve tamamlayan konumunu kavrar.",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Siyasi iktidar mücadeleleri ve liderlik tartışmaları, dini yorumları tamamen şekillendirmiştir.",
+    "isCorrect": false
   }
 ]
