@@ -1462,5 +1462,101 @@
     ],
     "learningObjective": "Bileşke fonksiyon tanımını kullanarak fonksiyonun kuralını ve belirli bir noktadaki değerini bulabilme.",
     "subject": "Matematik"
+  },
+  {
+    "text": "x ve y birer tam sayı olmak üzere, 2^x + 2^x + 2^x + 2^x = 2^y eşitliği veriliyor. Buna göre, 3^x + 3^y ifadesinin değeri kaçtır?",
+    "options": [
+      {
+        "text": "90",
+        "isCorrect": true
+      },
+      {
+        "text": "81",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      },
+      {
+        "text": "28",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üslü Sayılar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "üslerin toplamı",
+      "aynı tabanlı üslü ifadeler",
+      "cebirsel ifade"
+    ],
+    "learningObjective": "Aynı tabanlı üslü ifadelerin toplamını tek bir üslü ifade olarak yazabilme ve üsler arasındaki ilişkiyi kullanarak farklı tabanlı bir ifadenin değerini hesaplayabilme.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "a = 2^12, b = 3^8, c = 5^6 olduğuna göre, a, b ve c sayılarının doğru sıralanışı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "text": "c < b < a",
+        "isCorrect": false
+      },
+      {
+        "text": "b < c < a",
+        "isCorrect": false
+      },
+      {
+        "text": "c < a < b",
+        "isCorrect": false
+      },
+      {
+        "text": "b < a < c",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Üslü Sayılar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "üslü sayıların sıralanması",
+      "farklı taban ve üsler",
+      "karşılaştırma"
+    ],
+    "learningObjective": "Tabanları ve üsleri farklı olan üslü sayıları, üsleri veya tabanları eşitleyerek karşılaştırabilme.",
+    "subject": "Matematik"
+  },
+  {
+    "text": "(27^4)^(x-1) = (9^(x+2))^3 denklemini sağlayan x değeri kaçtır?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üslü Sayılar",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "üslü denklemler",
+      "tabanları eşitleme",
+      "üs kuralları"
+    ],
+    "learningObjective": "Üslü denklemlerde tabanları aynı sayının kuvvetleri şeklinde yazarak denklemi çözebilme.",
+    "subject": "Matematik"
   }
 ]
