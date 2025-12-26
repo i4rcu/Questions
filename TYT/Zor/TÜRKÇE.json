@@ -2706,5 +2706,38 @@
     ],
     "learningObjective": "Öğrenci, bir sözcüğün yanlış anlamda kullanılmasından kaynaklanan anlatım bozukluğunu tespit eder.",
     "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki parçada sanatçının eserlerine ilişkin hangi yargıya varılabilir?\n\n“Sanatçı, resimlerinde genellikle kasvetli ve hüzünlü bir atmosfer yaratır. Kullandığı koyu renkler ve belirsiz formlar, izleyicide bir yalnızlık ve tedirginlik duygusu uyandırır. Ancak bu kasvetin içine, dikkatli bakıldığında fark edilen küçük bir ışık huzmesi ya da parlak bir renk lekesi gizlemiştir. Bu detay, sanatçının karamsarlığa teslim olmadığını, aksine en karanlık anlarda bile bir umut ışığının var olduğuna dair inancını simgeler.”",
+    "options": [
+      {
+        "text": "Sanatçı, izleyicileri tamamen karamsar bir ruh haline sürüklemeyi amaçlamaktadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eserler, teknik açıdan zayıf olduğu için belirsiz formlar ve koyu renkler kullanılmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatçı, görünürdeki karamsarlığın ardına umut ve inanç mesajını yerleştirmektedir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Resimlerdeki ışık huzmeleri, sanatçının dikkatsizliğinin bir sonucudur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "formula": null,
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "keywords": [
+      "ana fikir",
+      "çıkarım",
+      "karşıtlık",
+      "sanat eleştirisi"
+    ],
+    "learningObjective": "Bir paragrafta, karşıt öğeleri ve vurgulanan ayrıntıyı çözümleyerek yazarın/ sanatçının asıl iletisini çıkarabilme.",
+    "subject": "Türkçe"
   }
 ]
