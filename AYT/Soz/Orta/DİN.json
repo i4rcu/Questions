@@ -1,0 +1,37 @@
+[
+  {
+    "text": "İslam medeniyetinde bilimsel çalışmaların altın çağını yaşadığı dönemde, Müslüman bilim insanlarının en önemli katkıları aşağıdaki alanların hangisinde olmuştur?",
+    "explanation": "İslam'ın altın çağı olarak kabul edilen 8.-14. yüzyıllar arasında Müslüman bilim insanları matematik, astronomi, tıp ve kimya gibi birçok alanda temel çalışmalar yapmış, ancak özellikle astronomi alanında gözlemevleri kurarak dünyanın yuvarlak olduğunu kanıtlayacak ve yıldız katalogları oluşturacak kadar önemli katkılar sağlamışlardır.",
+    "options": [
+      {
+        "text": "Astronomi",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Psikoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "İktisat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam ve Bilim",
+    "formula": null,
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "keywords": [
+      "İslam Medeniyeti",
+      "Altın Çağ",
+      "Bilimsel Katkılar",
+      "Astronomi"
+    ],
+    "learningObjective": "Öğrencinin İslam medeniyetinin bilimsel gelişmelere yaptığı katkıları ve bu katkıların hangi alanlarda yoğunlaştığını kavraması.",
+    "subject": "Din Kültürü"
+  }
+]
