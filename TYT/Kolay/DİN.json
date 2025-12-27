@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi insanın fıtratında (yaratılışında) var olan temel özelliklerden biridir?",
+    "explanation": "İslam inancına göre, insan yaratılışı gereği (fıtrat üzere) inanma ihtiyacı ile doğar. Bu, onun yaratıcısını tanıma ve ona yönelme eğilimidir. Diğer seçeneklerdeki gibi şüpheci olmak, hiçbir şeye inanmamak veya sadece gördüğüne inanmak fıtrî bir özellik değil, sonradan kazanılan veya gelişen tutumlardır.",
+    "options": [
+      {
+        "text": "İnanma ihtiyacı ve eğilimi",
+        "isCorrect": true
+      },
+      {
+        "text": "Her konuda şüpheci ve inkârcı olmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiçbir şeye inanmadan yaşamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece gördüğü ve dokunduğu şeylere inanmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Din (İnanç)",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi İslam'da temel ibadetlerden (farz) biridir?",
+    "explanation": "İslam'ın beş şartı, temel farz ibadetlerdir. Bunlar; kelime-i şehadet getirmek, namaz kılmak, oruç tutmak, zekât vermek ve hacca gitmektir. Kur'an okumak ise çok sevaplı bir amel olmasına rağmen, İslam'ın beş şartı arasında yer almaz.",
+    "options": [
+      {
+        "text": "Namaz kılmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Kur'an okumak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadaka vermek",
+        "isCorrect": false
+      },
+      {
+        "text": "Cami ziyareti yapmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İbadet",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Hz. Muhammed (s.a.v.) hangi tarihte ve nerede doğmuştur?",
+    "explanation": "Hz. Muhammed (s.a.v.), İslam tarihi kaynaklarına göre 20 Nisan 571 tarihinde (Fil Yılı) Mekke şehrinde dünyaya gelmiştir.",
+    "options": [
+      {
+        "text": "20 Nisan 571 - Mekke",
+        "isCorrect": true
+      },
+      {
+        "text": "12 Rebiülevvel 571 - Medine",
+        "isCorrect": false
+      },
+      {
+        "text": "20 Nisan 622 - Mekke",
+        "isCorrect": false
+      },
+      {
+        "text": "12 Rebiülevvel 632 - Medine",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hz. Muhammed'in Hayatı",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam dinine göre vahiy ve akıl arasındaki ilişki için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "İslam düşüncesinde vahiy ve akıl birbirini tamamlayan iki bilgi kaynağı olarak görülür. Vahiy, insan aklının tek başına ulaşamayacağı mutlak hakikatleri bildirirken, akıl bu vahyi anlama, yorumlama ve hayata geçirme görevini üstlenir. Bu nedenle ikisi arasında bir çatışma değil, uyum ve iş birliği vardır.",
+    "options": [
+      {
+        "text": "Vahiy ve akıl birbirini tamamlayan iki bilgi kaynağıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Akıl, vahyin önünde ve üstündedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahiy, aklın kullanılmasını tamamen yasaklar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akıl ile vahiy arasında sürekli bir çatışma vardır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vahiy ve Akıl",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam düşüncesinde, Kur'an ve Sünnet'i anlama, yorumlama ve hayata geçirme konusunda farklı görüşlere sahip olan ana yapılanmalara ne ad verilir?",
+    "explanation": "İslam düşüncesindeki temel yorum farklılıkları mezhepleri oluşturmuştur. Mezhep, dini anlama ve uygulama konusunda benzer görüşleri paylaşan alimlerin ve toplulukların oluşturduğu yapılanmadır. Diğer seçeneklerdeki kavramlar ise farklı anlamlara gelir: Cemaat belirli bir lider etrafında toplanan dini grup, tarikat tasavvufi yol, itikat ise inanç esasları ile ilgilidir.",
+    "options": [
+      {
+        "text": "Mezhep",
+        "isCorrect": true
+      },
+      {
+        "text": "Cemaat",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarikat",
+        "isCorrect": false
+      },
+      {
+        "text": "İtikad",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Düşüncesi ve Yorumu",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  }
+]
