@@ -1,0 +1,461 @@
+[
+  {
+    "text": "Aşağıdaki grafiklerde, bir ülkenin 1950-2020 yılları arasındaki nüfus piramidi değişimi ve ekonomik faaliyet kollarına göre istihdam dağılımı verilmiştir. 1950'de geniş tabanlı üçgen piramit ve istihdamda tarım sektörünün %70'lik payı varken, 2020'de tabanı daralmış, orta kesimi şişkin bir piramit ve istihdamda hizmet sektörünün %65'lik payı görülmektedir.\n\nBu değişimle ilgili aşağıdaki yorumlardan hangisi doğrudur?",
+    "explanation": "Nüfus piramidinin geniş tabanlı üçgen şekilden, tabanı daralmış orta kesimi şişkin bir şekle dönüşmesi, doğurganlık hızında belirgin bir düşüş olduğunu ve nüfusun yaşlanma sürecine girdiğini gösterir. Bu demografik geçiş, genellikle ekonomik gelişme, kentleşme, eğitim düzeyinin yükselmesi ve kadınların iş gücüne katılımının artması gibi faktörlerle ilişkilidir. İstihdamın tarımdan hizmetlere kayması ise ekonomik yapıdaki dönüşümü yansıtır ve bu durum genellikle doğurganlık hızındaki düşüşle paralel ilerler. Diğer seçenekler hatalıdır: A seçeneği, yaşlı bağımlılık oranının azaldığını söylerken oysa yaşlanan nüfusla bu oran artar. C seçeneği, bebek ölüm oranının arttığını iddia ederken, gelişmiş ülkelerde bu oran düşüktür. D seçeneği, kentleşme hızının arttığını söylerken, yüksek kentleşme oranına ulaşmış ülkelerde kentleşme hızı yavaşlar.",
+    "options": [
+      {
+        "text": "Nüfus piramidindeki değişim, doğurganlık hızının düştüğünü ve nüfusun yaşlanma eğiliminde olduğunu gösterir.",
+        "isCorrect": true
+      },
+      {
+        "text": "İstihdamda hizmet sektörünün payının artması, ülkedeki yaşlı bağımlı nüfus oranının kesinlikle azaldığı anlamına gelir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nüfus piramidinin tabanının daralması, ülkede bebek ölüm oranlarının arttığının bir kanıtıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomik yapıdaki bu dönüşüm, ülkenin kentleşme hızının sürekli arttığını kanıtlar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Bir ülkenin nüfus projeksiyonlarına göre, 2040 yılında çalışma çağındaki nüfusun (15-64 yaş) toplam nüfus içindeki payının azalmaya başlayacağı ve yaşlı nüfus oranının hızla artacağı öngörülmektedir.\n\nBu demografik eğilimin olası sonuçları arasında aşağıdakilerden hangisi gösterilemez?",
+    "explanation": "Çalışma çağındaki nüfusun payının azalması ve yaşlı nüfusun artması, yaşlı bağımlılık oranını artırır. Bu durum, emeklilik ve sağlık gibi sosyal güvenlik sistemleri üzerinde mali baskı oluşturur. Ayrıca, iş gücü arzında potansiyel bir daralma olacağından, üretim ve ekonomik büyüme üzerinde olumsuz etkiler beklenebilir. Bu nedenle, sosyal güvenlik sistemlerinde reform ihtiyacı (A) ve üretimde teknoloji kullanımının artırılması (C) olası sonuçlardandır. Genç nüfusun azalması, üniversite sayısında artış ihtiyacını doğurmaz, aksine talep azalacağı için mevcut kapasiteyle yetinilebilir veya bazı kurumlar kapanabilir. Dolayısıyla, üniversite sayısının hızla artırılması gerekliliği bu demografik eğilimin mantıklı bir sonucu değildir.",
+    "options": [
+      {
+        "text": "Sosyal güvenlik sistemleri üzerindeki mali yükün artması ve emeklilik yaşının yeniden düzenlenmesi ihtiyacı.",
+        "isCorrect": false
+      },
+      {
+        "text": "İş gücü piyasasında daralma beklentisi nedeniyle üretimde otomasyon ve teknoloji kullanımının teşvik edilmesi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Genç nüfusun azalmasına bağlı olarak üniversite sayısının hızla artırılması gerekliliği.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sağlık hizmetlerinin ve yaşlı bakım hizmetlerine olan talebin önemli ölçüde artması.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'nin farklı bölgelerinde tarım ürünlerinin çeşitlilik göstermesinde aşağıdaki faktörlerden hangisinin etkisi diğerlerine göre daha azdır?",
+    "explanation": "Türkiye'de tarımsal çeşitlilik üzerinde iklim koşulları (sıcaklık, yağış), yer şekilleri (yükselti, bakı, eğim) ve toprak özellikleri belirleyici rol oynar. Yerleşim tarihi, bir bölgenin kültürel birikimi ve tarımsal bilgi düzeyi ile ilişkilidir ve uzun vadede ürün desenini etkileyebilir. Ancak, Akdeniz Bölgesi'nde turunçgil, Ege'de zeytin, Karadeniz'de çay yetiştirilmesi gibi temel farklılıklar, öncelikle ve doğrudan iklim ve yer şekilleri gibi fiziki coğrafya faktörlerine bağlıdır. Yerleşim tarihinin etkisi daha dolaylı ve uzun vadeli bir kültürel süreçtir, bu nedenle anlık çeşitlilik üzerindeki etkisi diğer faktörlere kıyasla daha az doğrudandır.",
+    "options": [
+      {
+        "text": "İklim özellikleri ve yağış rejimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yer şekillerinin engebelilik durumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Bölgelerin yerleşim tarihi ve kültürel birikimi",
+        "isCorrect": true
+      },
+      {
+        "text": "Toprak türleri ve verimlilik durumu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'deki bazı sanayi kollarının belirli bölgelerde yoğunlaşması, mekansal bir sentezin sonucudur. Aşağıdaki sanayi kolu ve yoğunlaştığı bölge eşleştirmelerinden hangisi, bu sentezde 'hammaddeye yakınlık' faktörünün diğerlerine göre daha belirleyici olduğu bir örnektir?",
+    "explanation": "Sanayi tesislerinin yer seçiminde hammaddeye yakınlık, özellikle hammaddenin ham halde iken ağır, hacimli veya taşınması maliyetli olduğu durumlarda belirleyici olur. Zonguldak'ta taş kömürü madenlerinin varlığı, demir-çelik sanayisinin burada gelişmesinde en temel faktördür çünkü kömürün uzun mesafelere taşınması büyük maliyetler getirir. Diğer seçeneklerde ise farklı faktörler daha ön plandadır: İzmit'te petro-kimya sanayisi için enerji nakil hatları ve liman olanakları; Bursa'da otomotiv için nitelikli iş gücü ve ulaşım ağları; İstanbul'da beyaz eşya için pazar ve finans olanakları daha belirleyici rol oynar.",
+    "options": [
+      {
+        "text": "Demir-çelik sanayisinin Zonguldak ve Karabük çevresinde yoğunlaşması",
+        "isCorrect": true
+      },
+      {
+        "text": "Petro-kimya sanayisinin İzmit körfezinde yoğunlaşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Otomotiv sanayisinin Bursa ve çevresinde yoğunlaşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Beyaz eşya sanayisinin İstanbul ve çevresinde yoğunlaşması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de tarım alanlarının yaklaşık %75'inde nadas uygulaması yapılmaktadır. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
+    "explanation": "Türkiye'de geniş alanlarda nadas uygulamasının temel nedeni, özellikle İç Anadolu ve Güneydoğu Anadolu gibi bölgelerde yağışın yetersiz ve düzensiz olmasıdır. Nadas, toprağın su ve mineral bakımından bir sonraki yılın ürününe hazırlanması için bir yıl boş bırakılmasıdır. Bu uygulama, kurak ve yarı kurak iklim bölgelerinde yaygındır. Tarım politikaları veya makineleşme nadas oranını doğrudan belirleyen temel faktör değil, yağış rejimi ve iklim koşullarıdır.",
+    "options": [
+      {
+        "text": "Yağışın yetersiz ve düzensiz olduğu bölgelerde toprak nemini bir sonraki yıla saklama ihtiyacı",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarımda makineleşme oranının düşük olması ve işgücü yetersizliği",
+        "isCorrect": false
+      },
+      {
+        "text": "Devlet tarafından nadasa bırakılan arazilere verilen teşvikler",
+        "isCorrect": false
+      },
+      {
+        "text": "Çiftçilerin modern tarım teknikleri konusunda yeterince bilgi sahibi olmaması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de büyükbaş hayvancılık faaliyetleri ile ilgili aşağıdaki yargılardan hangisi doğrudur?",
+    "explanation": "Türkiye'de besi hayvancılığı, daha çok şeker fabrikalarına yakın alanlarda (İç Anadolu gibi) ve büyük şehirlerin çevresinde (pazar yakınlığı nedeniyle) gelişmiştir. Bu işletmelerde hayvanlar ahırlarda yemle beslenir ve et verimi yüksektir. Mera hayvancılığı ise Doğu Anadolu ve Karadeniz'in yüksek kesimlerinde yaygındır. Büyükbaş hayvancılıkta en fazla süt üretimi Marmara Bölgesi'nde gerçekleşir, Doğu Anadolu'da değil. Ayrıca, iklim değişikliği mera hayvancılığını olumsuz etkilemekte, besi hayvancılığını doğrudan teşvik etmemektedir.",
+    "options": [
+      {
+        "text": "Besi hayvancılığı, şeker fabrikalarına yakın bölgelerde ve büyük kentlerin çevresinde yaygınlaşmıştır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Büyükbaş hayvancılık faaliyetlerinden en fazla süt üretimi Doğu Anadolu Bölgesi'nde gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mera hayvancılığı, Türkiye'deki büyükbaş hayvan varlığının en önemli beslenme kaynağı olmaya devam etmektedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "İklim değişikliğine bağlı kuraklık, besi hayvancılığını mera hayvancılığına göre daha fazla teşvik etmektedir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de bölgesel kalkınma projeleri, bölgeler arası gelişmişlik farklarını azaltmak amacıyla uygulanmaktadır. Aşağıdaki proje-bölge eşleştirmelerinden hangisi, projenin hedeflediği bölgesel kalkınma sorunu bakımından diğerlerinden farklı bir temel amaca hizmet etmektedir?",
+    "explanation": "Doğu Anadolu Projesi (DAP), temel olarak tarım ve hayvancılık potansiyelini geliştirmeyi, sanayiyi güçlendirmeyi ve göçü önlemeyi hedefler. Diğer projeler ise (Zonguldak, Bartın, Karabük'te maden ve sanayi; Doğu Karadeniz'de heyelan ve erozyon; Yeşilırmak Havzası'nda çevre ve tarım) daha çok mevcut sanayi altyapısını iyileştirme veya doğal afet risklerini azaltma gibi spesifik sorunlara odaklanmıştır. DAP'ın kapsamı, bölgenin genel sosyo-ekonomik geri kalmışlığını doğrudan ele almak üzere daha bütünseldir.",
+    "options": [
+      {
+        "text": "Zonguldak, Bartın, Karabük Projesi (ZBK): Bölgenin kömür ve demir-çelik sanayisine dayalı ekonomik yapısını çeşitlendirerek sürdürülebilir kalkınmayı sağlamak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Projesi (DAP): Bölgenin tarım ve hayvancılık potansiyelini geliştirerek sosyo-ekonomik gelişmişlik düzeyini yükseltmek ve göçü önlemek.",
+        "isCorrect": true
+      },
+      {
+        "text": "Doğu Karadeniz Projesi (DOKAP): Heyelan ve erozyon riskini azaltarak kırsal altyapıyı iyileştirmek ve tarımsal verimliliği artırmak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeşilırmak Havzası Gelişim Projesi (YHGP): Havzada çevre koruma ve su kaynaklarının verimli kullanımını sağlayarak kırsal kalkınmayı desteklemek.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de bölgesel kalkınma projelerinin uygulandığı alanlar, o bölgelerin öncelikli sorunlarına göre şekillenir. Aşağıdaki bölge-proje eşleştirmeleri ve bu eşleştirmelerin gerekçesi olarak sunulan yargılardan hangisi coğrafi gerçeklere en uygun olanıdır?",
+    "explanation": "GAP'ın temel hedeflerinden biri, Atatürk Barajı gibi büyük sulama projeleriyle Harran Ovası başta olmak üzere bölgede sulu tarım alanlarını genişletmektir. Bu sayede pamuk gibi yüksek gelir getiren endüstri bitkilerinin ekim alanı artırılarak bölge ekonomisi canlandırılmaya çalışılmaktadır. Diğer seçeneklerdeki yargılar hatalıdır: Konya Ovası yer altı suyuyla beslenir ve GAP'tan doğrudan su transferi yoktur; Çukurova sanayi ve tarımda gelişmiş bir bölgedir ve DAP kapsamında değildir; Doğu Karadeniz'de narenciye üretimi sınırlıdır, ana ürün çay ve fındıktır.",
+    "options": [
+      {
+        "text": "Güneydoğu Anadolu Projesi (GAP) ile Şanlıurfa ovasında sulu tarım alanları genişletilerek pamuk üretiminin artırılması hedeflenmiştir.",
+        "isCorrect": true
+      },
+      {
+        "text": "GAP'ın tamamlanması, Konya Ovası'ndaki kuraklık sorununu doğrudan çözerek buğday üretiminde sürekliliği sağlayacaktır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Projesi (DAP) kapsamında, Çukurova'daki sanayi tesislerinin bölgeye kaydırılmasıyla işsizlik sorunu çözülecektir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Karadeniz Projesi (DOKAP) ile bölgenin dağlık yapısı düzeltilerek narenciye tarımı için geniş alanlar açılacaktır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki harita üzerinde numaralandırılarak gösterilen bölgelerden hangisi, hem yüksek miktarda petrol rezervlerine sahip olması hem de bu kaynakların çıkarılması ve taşınmasına yönelik uluslararası rekabet ve çatışmaların yoğun yaşandığı bir küresel sıcak nokta (hot spot) özelliği taşımaktadır?",
+    "explanation": "Basra Körfezi (2 numara), dünyanın kanıtlanmış petrol rezervlerinin büyük bir bölümüne ev sahipliği yapar. Bu stratejik önem, bölgeyi hem küresel enerji arzı için hayati kılmakta hem de bölge içi güç mücadeleleri ve büyük güçlerin müdahaleleri nedeniyle sürekli bir istikrarsızlık ve çatışma potansiyeli alanı (sıcak nokta) haline getirmektedir. Orta Avrupa (1) enerji kaynakları açısından bu özellikte değildir. Güneydoğu Asya (3) deniz yolları açısından stratejik olsa da petrol rezervi yoğunluğu Basra Körfezi ile kıyaslanamaz. Güney Afrika (4) ise belirli madenlere sahip olsa da küresel petrol politikalarının merkezinde değildir.",
+    "options": [
+      {
+        "text": "1 - Orta Avrupa",
+        "isCorrect": false
+      },
+      {
+        "text": "2 - Basra Körfezi",
+        "isCorrect": true
+      },
+      {
+        "text": "3 - Güneydoğu Asya",
+        "isCorrect": false
+      },
+      {
+        "text": "4 - Güney Afrika",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Gelişmişlik düzeyi yüksek olan bir ülkenin, aynı zamanda 'çevre borcu' yüksek bir ülke olarak nitelendirilmesi aşağıdaki durumlardan hangisiyle en doğrudan ilişkilidir?",
+    "explanation": "'Çevre borcu' kavramı, bir ülkenin kendi sınırları içindeki doğal kaynak tüketiminin, ülkenin ekolojik kapasitesini aşması ve bu açığı başka ülkelerin kaynaklarını ithal ederek veya küresel ortak alanları (atmosfer gibi) kirleterek kapatması durumunu ifade eder. Bu durum, kişi başına düşen geliri ve tüketimi yüksek olan gelişmiş ülkeler için tipiktir. Bu ülkeler, üretim ve tüketim faaliyetleri için gerekli kaynak ve enerjiyi genellikle dışarıdan temin eder ve oluşturdukları atık/emisyon miktarı çok yüksektir. Diğer seçeneklerdeki faktörler (nüfus artışı, tarım, enerji üretimi) çevre borcuna katkıda bulunabilir ancak tanımı en doğrudan ve temel olarak yüksek kişi başı tüketim ve bunun sonucunda ortaya çıkan ekolojik ayak izi açıklamaktadır.",
+    "options": [
+      {
+        "text": "Nüfus artış hızının yüksek olmasıyla",
+        "isCorrect": false
+      },
+      {
+        "text": "Kişi başına doğal kaynak tüketiminin ve ekolojik ayak izinin çok yüksek olmasıyla",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarımsal üretimde organik yöntemlere ağırlık verilmesiyle",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji üretiminde hidroelektrik santrallerin payının yüksek olmasıyla",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülke-özellik eşleştirmelerinden hangisi, ülkenin fiziki coğrafyasının sanayi ve enerji üretimi üzerindeki doğrudan etkisine en iyi örnektir?",
+    "explanation": "Doğru seçenek İzlanda'dır. İzlanda, aktif volkanizma ve tektonik hareketlilik sonucu oluşan zengin jeotermal kaynaklara sahiptir. Bu fiziki coğrafya özelliği, ülkenin elektrik üretiminin ve ısınma ihtiyacının büyük bölümünü yenilenebilir ve temiz jeotermal enerjiden karşılamasını sağlar. Bu durum, fiziki koşulların enerji üretimini doğrudan şekillendirdiği net bir örnektir.\n\nDiğer seçenekler yanlıştır:\n- Japonya'da adalar ülkesi olmak ve kıyı şeridinin uzunluğu, balıkçılık potansiyelini artırsa da, ülkenin ileri teknoloji sanayisinin temelini oluşturmaz. Bu sanayi, insan kaynağı, Ar-Ge yatırımları ve teknolojik birikimle gelişmiştir.\n- Kanada'nın geniş orman alanları kereste endüstrisi için potansiyel sunar, ancak ülke ekonomisinin temeli, büyük ölçüde madencilik (petrol, doğal gaz, mineraller) ve hizmet sektörüdür.\n- Mısır'da Nil Deltası verimli tarım arazileri sunar ve tarımsal üretim önemlidir, ancak ülke ekonomisinin en büyük döviz gelir kaynağı Süveyş Kanalı'ndan sağlanan gelirler ve turizmdir.",
+    "options": [
+      {
+        "text": "Japonya — Adalar ülkesi olması ve uzun kıyı şeridine sahip olmasının, ülkenin ileri teknoloji sanayisinin temelini oluşturması",
+        "isCorrect": false
+      },
+      {
+        "text": "İzlanda — Aktif volkanizma ve tektonik hareketlilik sonucu zengin jeotermal kaynaklara sahip olmasının, elektrik üretiminin ve ısınmanın büyük bölümünü bu kaynaktan karşılamasını sağlaması",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanada — Geniş yüzölçümü ve büyük orman alanlarına sahip olmasının, ülke ekonomisinin temelini kereste ve orman ürünleri sanayisinin oluşturması",
+        "isCorrect": false
+      },
+      {
+        "text": "Mısır — Nil Deltası'nın verimli tarım arazileri sunmasının, ülke ekonomisinin temelini tarımsal ihracat gelirlerinin oluşturması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ülkeler Coğrafyası",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülke-özellik eşleştirmelerinden hangisi, bir ülkenin coğrafi konumunun küresel ticaret ve siyasetteki stratejik önemine ilişkin en doğru örnektir?",
+    "explanation": "Doğru seçenek Mısır'dır. Mısır'ın kontrol ettiği Süveyş Kanalı, Asya ile Avrupa arasındaki deniz ticaret yolunu binlerce kilometre kısaltan hayati bir geçittir. Bu coğrafi konum, Mısır'a hem önemli bir gelir kaynağı (geçiş ücretleri) sağlar hem de uluslararası ilişkilerde ve bölgesel siyasette stratejik bir güç ve etki alanı kazandırır.\n\nDiğer seçenekler yanlıştır:\n- Rusya'nın geniş toprakları ve soğuk iklimi, ulaşım maliyetlerini artıran ve nüfus dağılımını etkileyen bir faktördür, ancak bu durum onu küresel ticaretin merkezi haline getirmez.\n- Brezilya'nın geniş ve verimli tarım arazileri, onu büyük bir tarımsal üretici yapar, ancak bu özellik ülkeye küresel siyasette doğrudan bir stratejik önem kazandırmaz; bu daha çok ekonomik bir güçtür.\n- İsviçre'nin dağlık arazi yapısı, tarımı sınırlandırmıştır, ancak ülkenin finans merkezi olmasının temel nedeni coğrafi konumu değil, tarihsel olarak gelişen tarafsızlık politikası, bankacılık sistemi ve siyasi istikrarıdır.",
+    "options": [
+      {
+        "text": "Rusya — Geniş toprakları ve soğuk iklim koşullarının, ülkeyi Avrupa-Asya arasındaki kara ulaşımının ve ticaretinin merkezi hâline getirmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Mısır — Süveyş Kanalı'nı kontrol etmesi sayesinde, Asya-Avrupa deniz ticaret yolunun kilit noktasında olmasının ülkeye küresel ölçekte stratejik bir önem kazandırması",
+        "isCorrect": true
+      },
+      {
+        "text": "Brezilya — Geniş ve verimli tarım arazilerine sahip olmasının, ülkeyi küresel gıda ticaretinde ve siyasetinde belirleyici bir aktör konumuna yükseltmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "İsviçre — Dağlık arazi yapısının tarımı sınırlandırması nedeniyle, ülkenin küresel bir finans ve bankacılık merkezi olarak gelişmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ülkeler Coğrafyası",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Küresel ölçekteki karbon döngüsünde, atmosferdeki karbondioksit (CO2) konsantrasyonunun artışı aşağıdaki süreçlerden hangisiyle doğrudan dengelenebilir?",
+    "explanation": "Atmosferdeki karbondioksit artışının en önemli doğal dengelenme mekanizması, okyanusların CO2'yi absorbe etmesidir. Okyanus yüzey suları atmosferle temas halindedir ve CO2 suda çözünür. Bu çözünmüş karbon, fotosentez yapan fitoplanktonlar tarafından tüketilebilir veya karbonat (CO3²⁻) ve bikarbonat (HCO3⁻) iyonlarına dönüşerek uzun süreli depolanabilir. Bu süreç, karbon döngüsünün biyolojik pompasının temelini oluşturur. Ormanların artırılması (A seçeneği) uzun vadede etkili olsa da, okyanusların kapasitesi ve hızı çok daha büyüktür. Volkanik aktivite (C seçeneği) CO2 salınımını artırır. Fosil yakıt kullanımının azaltılması (D seçeneği) bir önlemdir, döngünün doğal bir dengeleme süreci değildir.",
+    "options": [
+      {
+        "text": "Okyanusların karbondioksiti absorbe etme kapasitesinin artırılması",
+        "isCorrect": true
+      },
+      {
+        "text": "Karadaki orman örtüsünün genişletilerek fotosentezin artırılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Volkanik aktivitenin artması sonucu karbonat kayalarının ayrışması",
+        "isCorrect": false
+      },
+      {
+        "text": "Fosil yakıt kullanımının tamamen durdurulması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Azot döngüsünde, topraktaki bitkilerin doğrudan kullanabileceği formda olan amonyum (NH4⁺) ve nitrat (NO3⁻) iyonlarının oluşumunda aşağıdaki canlı gruplarından hangisinin rolü diğerlerinden farklıdır?",
+    "explanation": "Azot döngüsünde, atmosferdeki inert (tepkimesiz) azot gazının (N2) bitkilerin kullanabileceği amonyuma (NH3/NH4⁺) dönüşüm süreci olan 'azot fiksasyonu', sadece belirli prokaryot canlılar (serbest yaşayan bazı bakteriler ve baklagillerin köklerindeki Rhizobium cinsi bakteriler) tarafından gerçekleştirilir. Bu, döngünün en kritik ve enerji gerektiren basamağıdır. Nitrifikasyon bakterileri (B seçeneği) zaten toprakta bulunan amonyumu nitrata dönüştürür. Ayrıştırıcılar (C seçeneği) organik azotu amonyuma mineralize eder. Mikorizal mantarlar (D seçeneği) ise bitkilerin bu besinleri almasını kolaylaştırır. Ancak, atmosferik N2'yi bağlama yeteneği sadece A seçeneğindeki canlılara özgüdür, bu nedenle rolleri temel olarak farklıdır.",
+    "options": [
+      {
+        "text": "Baklagil köklerindeki Rhizobium bakterileri",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitrifikasyon yapan Nitrobacter bakterileri",
+        "isCorrect": false
+      },
+      {
+        "text": "Organik atıkları ayrıştıran saprofit bakteriler",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitki kökleriyle mutualist ilişki kuran mikorizal mantarlar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Bir bölgede, enerji ihtiyacını karşılamak için büyük ölçekli bir hidroelektrik santrali (HES) projesi planlanmaktadır. Bu projenin, 'Çevresel Etki Değerlendirmesi (ÇED)' raporunda aşağıdaki potansiyel etkilerden hangisi, hem biyoçeşitlilik kaybı hem de uzun vadeli sosyo-ekonomik etkiler açısından en büyük ve geri dönüşü zor riski oluşturur?",
+    "explanation": "HES projelerinde en büyük ve kalıcı etki, baraj gölü altında kalan verimli tarım arazileri ve yerleşim yerleridir. Bu durum, geri dönüşü olmayan bir toprak ve ekosistem kaybına neden olur. Biyoçeşitlilik, su altında kalan habitatların yok olmasıyla ciddi şekilde azalır. Aynı zamanda, tarımsal üretim ve geçim kaynakları yok olur, bu da toplumsal göç ve sosyo-ekonomik yapının bozulması gibi uzun vadeli sorunlara yol açar. Diğer seçeneklerdeki etkiler (göçmen balık türlerinin yolu kesilse de balık geçitleri ile kısmen hafifletilebilir, inşaat dönemi gürültüsü geçicidir, su kalitesindeki geçici değişim daha yönetilebilir bir risktir) bu kadar bütüncül ve kalıcı bir tahribat yaratmaz.",
+    "options": [
+      {
+        "text": "Baraj gölü altında kalan verimli tarım arazileri ve bu arazilerde yaşayan yerel halkın geçim kaynaklarının tamamen yok olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Proje inşaatı sırasında oluşacak gürültü ve hava kirliliğinin yöre halkını rahatsız etmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Barajın, göçmen balık türlerinin üreme alanlarına ulaşmasını engelleyerek popülasyonlarını tehdit etmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Rezervuar alanında su kalitesinin değişmesi ve su sıcaklığının artması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çevre ve İnsan",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Küresel iklim değişikliğine bağlı olarak artan kuraklık ve su kıtlığı riskine karşı, bir şehir su yönetimi planı hazırlamaktadır. Aşağıdaki stratejilerden hangisi, 'sürdürülebilir su yönetimi' anlayışıyla hem arz hem de talep yönünü dengeli bir şekilde ele alarak kaynak verimliliğini en üst düzeye çıkarır?",
+    "explanation": "Sürdürülebilir su yönetimi, suyun hem temini (arz) hem de kullanımı (talep) üzerine odaklanır. En etkili strateji, bu iki yönü birleştiren entegre bir yaklaşımdır. Arz tarafında, yağmur suyu hasadı ve gri su geri kazanımı gibi alternatif kaynaklar yaratılır. Talep tarafında ise, su tasarruflu teknolojilerin teşviki ve kaçak kullanımın önlenmesiyle suyun daha verimli kullanılması sağlanır. Sadece yeni baraj yapmak (C şıkkı) sadece arzı artırır ve ekosistemlere zarar verebilir. Sadece fiyat artırmak (B şıkkı) sosyal adaletsizliğe yol açabilir. Sadece yer altı suyu çekmek (D şıkkı) ise sürdürülebilir olmayan ve rezervleri tüketen bir yöntemdir.",
+    "options": [
+      {
+        "text": "Yağmur suyu hasadı sistemlerini zorunlu kılmak, gri su (duş, lavabo) geri dönüşümünü yaygınlaştırmak ve tarımda damla sulama sistemlerini teşvik ederek kaçak kullanımı azaltmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Su tüketimini azaltmak için hanelere gelen su faturası tutarlarını önemli ölçüde artırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Su sıkıntısını çözmek için tek çözüm olarak şehrin uzak bir nehirden su getirecek yeni bir baraj ve isale hattı inşa etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Kısa vadede şehrin su ihtiyacını karşılamak için mevcut yer altı suyu kuyularının sayısını ve çekim kapasitesini artırmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çevre ve İnsan",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki doğal afetlerden hangisi, oluşum mekanizması gereği, önceden tahmin edilmesi en zor olan ve ani gelişen bir karaktere sahiptir?",
+    "explanation": "Doğru cevap heyelandır. Heyelanlar, yağış, sismik aktivite veya insan müdahalesi gibi tetikleyicilerle aniden gelişebilir. Zemin içindeki su basıncındaki değişimler veya dengenin bozulması gibi kritik eşiklerin aşılmasıyla, öncesinde belirgin bir işaret vermeden çok hızlı bir şekilde gerçekleşir. Bu ani karakteri, tahmin çalışmalarını son derece güçleştirir. Diğer seçeneklerdeki afetler daha iyi tahmin edilebilir: Volkanik patlamalar öncesinde sismik aktivite ve gaz çıkışları gibi öncül belirtiler verir. Kuraklık yavaş gelişen bir süreçtir ve meteorolojik verilerle izlenebilir. Tsunamiler ise, tetikleyici olan depremin tespit edilmesiyle kıyıya ulaşmadan önce bir erken uyarı şansı sunar.",
+    "options": [
+      {
+        "text": "Volkanik patlama",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuraklık",
+        "isCorrect": false
+      },
+      {
+        "text": "Heyelan",
+        "isCorrect": true
+      },
+      {
+        "text": "Tsunami",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğal Afetler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  }
+]
