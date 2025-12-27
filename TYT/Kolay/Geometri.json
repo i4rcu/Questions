@@ -1,0 +1,262 @@
+[
+  {
+    "text": "Bir üçgenin iç açılarından ikisi 40° ve 70° ise üçüncü iç açısı kaç derecedir?",
+    "explanation": "Bir üçgenin iç açılarının toplamı 180°'dir.\nKullanılan kural/formül: 40° + 70° + x = 180°\nBuradan x = 180° − 110° = 70° bulunur. Bu nedenle üçüncü iç açı 70°'dir.",
+    "options": [
+      {
+        "text": "70°",
+        "isCorrect": true
+      },
+      {
+        "text": "80°",
+        "isCorrect": false
+      },
+      {
+        "text": "90°",
+        "isCorrect": false
+      },
+      {
+        "text": "60°",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir üçgenin kenar uzunlukları 6 cm, 8 cm ve 10 cm'dir. Buna göre, bu üçgenin en küçük açısı hangi kenarın karşısındadır?",
+    "explanation": "Üçgende açı-kenar bağıntısına göre: En kısa kenarın karşısındaki açı en küçüktür. Kenar uzunlukları 6 cm, 8 cm ve 10 cm olduğuna göre, en kısa kenar 6 cm'dir. Bu nedenle en küçük açı, 6 cm'lik kenarın karşısındaki açıdır.",
+    "options": [
+      {
+        "text": "6 cm'lik kenarın karşısındaki açı",
+        "isCorrect": true
+      },
+      {
+        "text": "8 cm'lik kenarın karşısındaki açı",
+        "isCorrect": false
+      },
+      {
+        "text": "10 cm'lik kenarın karşısındaki açı",
+        "isCorrect": false
+      },
+      {
+        "text": "Tüm açılar eşittir",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açı-Kenar Bağıntıları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [DE] // [BC]'dir. |AD| = 4 cm, |DB| = 6 cm ve |DE| = 8 cm olduğuna göre, |BC| kaç cm'dir?",
+    "explanation": "Temel Benzerlik Teoremine göre, |AD|/|AB| = |DE|/|BC|'dir. |AB| = |AD| + |DB| = 4 + 6 = 10 cm'dir. Oranı yazarsak: 4/10 = 8/|BC|. İçler dışlar çarpımı yapılır: 4 * |BC| = 10 * 8 => 4|BC| = 80 => |BC| = 20 cm bulunur.",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Benzerlik",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AD], A açısının açıortayı ve [AE] kenarortaydır. |AB| = |AC| olduğuna göre aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Bir üçgende iki kenar eşitse (|AB| = |AC|), bu kenarlara ait kenarortaylar da eşit uzunluktadır. Ayrıca, eşit kenarların karşısındaki açılar da eşit olduğu için, A açısının açıortayı aynı zamanda hem kenarortay hem de yüksekliktir. Bu nedenle, [AD] açıortayı ile [AE] kenarortayı çakışıktır, yani aynı doğru parçasıdır.",
+    "options": [
+      {
+        "text": "[AD] ve [AE] çakışıktır.",
+        "isCorrect": true
+      },
+      {
+        "text": "[AD] ve [AE] birbirine diktir.",
+        "isCorrect": false
+      },
+      {
+        "text": "[AD], [AE]'nin yarısı uzunluğundadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "[AD] ve [AE] arasındaki açı 45°'dir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay-Kenarortay",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dik üçgende hipotenüs uzunluğu 13 cm ve bir dik kenar uzunluğu 5 cm ise, diğer dik kenar kaç cm'dir?",
+    "explanation": "Pisagor teoremine göre: (Dik kenar)² + 5² = 13² → (Dik kenar)² + 25 = 169 → (Dik kenar)² = 169 - 25 = 144 → Dik kenar = 12 cm.",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik Üçgen",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC ikizkenar üçgeninde AB = AC'dir. Taban açılarından biri 40° olduğuna göre, tepe açısı kaç derecedir?",
+    "explanation": "İkizkenar üçgende taban açıları eşittir. Bir taban açısı 40° ise diğer taban açısı da 40° olur. Üçgenin iç açıları toplamı 180° olduğundan, tepe açısı 180° - 40° - 40° = 100° bulunur.",
+    "options": [
+      {
+        "text": "100",
+        "isCorrect": true
+      },
+      {
+        "text": "40",
+        "isCorrect": false
+      },
+      {
+        "text": "80",
+        "isCorrect": false
+      },
+      {
+        "text": "140",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İkizkenar Üçgen",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir eşkenar üçgenin bir kenar uzunluğu 10 cm ise, çevresi kaç cm'dir?",
+    "explanation": "Eşkenar üçgenin tüm kenar uzunlukları birbirine eşittir. Çevre, üç kenarın toplamı olduğundan: 10 cm + 10 cm + 10 cm = 30 cm olur.",
+    "options": [
+      {
+        "text": "30 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "10 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "40 cm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Eşkenar Üçgen",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dik üçgenin dik kenar uzunlukları 6 cm ve 8 cm'dir. Bu üçgenin alanı kaç cm²'dir?",
+    "explanation": "Dik üçgende dik kenarlardan biri taban, diğeri yükseklik olarak alınabilir. Alan formülü: A = (taban × yükseklik) / 2.\nA = (6 × 8) / 2 = 48 / 2 = 24 cm².",
+    "options": [
+      {
+        "text": "24",
+        "isCorrect": true
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "48",
+        "isCorrect": false
+      },
+      {
+        "text": "28",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Alan",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir düzgün beşgenin bir iç açısının ölçüsü kaç derecedir?",
+    "explanation": "Bir çokgenin iç açılar toplamı formülü (n-2)·180°'dir. Beşgen için n=5 olduğundan iç açılar toplamı (5-2)·180 = 3·180 = 540°'dir. Düzgün çokgenlerde tüm iç açılar eşit olduğu için bir iç açının ölçüsü 540° / 5 = 108°'dir.",
+    "options": [
+      {
+        "text": "72",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      },
+      {
+        "text": "108",
+        "isCorrect": true
+      },
+      {
+        "text": "120",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çokgenler",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dikdörtgenin uzun kenarı 12 cm, kısa kenarı 5 cm ise çevresi kaç cm'dir?",
+    "explanation": "Dikdörtgenin çevresi, kenar uzunluklarının toplamının iki katıdır.\nFormül: Çevre = 2 × (uzun kenar + kısa kenar)\nHesap: 2 × (12 cm + 5 cm) = 2 × 17 cm = 34 cm\nBu nedenle çevre 34 cm'dir.",
+    "options": [
+      {
+        "text": "22 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "28 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "34 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "40 cm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dörtgenler",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  }
+]
