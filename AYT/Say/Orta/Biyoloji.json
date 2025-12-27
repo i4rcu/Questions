@@ -1,0 +1,3080 @@
+[
+  {
+    "text": "DNA molekülü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "DNA'nın yapısında bulunan şeker, deoksiriboz şekeridir. Riboz şekeri ise RNA'nın yapı taşıdır. Bu, DNA ve RNA arasındaki temel farklardan biridir.",
+    "options": [
+      {
+        "text": "Çift sarmal yapıdadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yapısında deoksiriboz şekeri bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yapısında riboz şekeri bulunur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nükleotitlerden oluşur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Nükleik Asitler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir DNA molekülündeki pürin bazları ile pirimidin bazlarının toplam sayısı eşittir. Bu durum aşağıdakilerden hangisi ile açıklanır?",
+    "explanation": "DNA'nın çift sarmal yapısında, bir pürin bazı (Adenin veya Guanin) her zaman bir pirimidin bazı (Timin veya Sitozin) ile hidrojen bağı kurar. Bu nedenle pürin ve pirimidin sayıları eşittir.",
+    "options": [
+      {
+        "text": "Pürin bazlarının yapısı daha büyüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bazlar arasında kurulan hidrojen bağları sayesindedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Baz eşleşmesinin belirli kurallara (A=T, G≡C) dayanması sayesindedir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nükleotitlerin fosfat grupları ile bağlanması sayesindedir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Nükleik Asitler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "RNA molekülü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "RNA, DNA'dan farklı olarak genellikle tek zincirlidir. Yapısında riboz şekeri ve urasil bazı bulunur. DNA'da bulunan timin yerine RNA'da urasil bulunur ve bu urasil, adenin ile eşleşir.",
+    "options": [
+      {
+        "text": "Çift sarmal yapıdadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yapısında timin bazı bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yapısında urasil bazı bulunur ve bu baz adenin ile eşleşir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hücredeki kalıtsal bilginin uzun süreli deposudur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Nükleik Asitler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "DNA replikasyonu sırasında gerçekleşen bir olay aşağıdakilerden hangisidir?",
+    "explanation": "DNA replikasyonu, DNA'nın kendini eşlediği süreçtir. Bu süreçte DNA polimeraz enzimi, DNA zincirine yeni nükleotitleri ekler. Helikaz enzimi ise DNA'nın çift sarmalını açar.",
+    "options": [
+      {
+        "text": "DNA polimeraz enzimi, DNA zincirine nükleotitleri ekler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ribozomlar, mRNA'yı okur.",
+        "isCorrect": false
+      },
+      {
+        "text": "tRNA, amino asitleri getirir.",
+        "isCorrect": false
+      },
+      {
+        "text": "RNA polimeraz, transkripsiyonu başlatır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Nükleik Asitler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda uzun kemiklerin yapısı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Uzun kemiklerin uç kısımlarında süngerimsi kemik doku bulunur ve bu doku kırmızı kemik iliği içerir. Kırmızı kemik iliği, kan hücrelerinin üretildiği (hematopoiez) yerdir.",
+    "options": [
+      {
+        "text": "Sadece sert kemik dokudan oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uç kısımlarında kırmızı kemik iliği bulunur ve kan hücreleri burada üretilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Boyuna büyümeleri kemik zarı (periost) sayesinde olur.",
+        "isCorrect": false
+      },
+      {
+        "text": "İç boşluklarında sadece sarı kemik iliği bulunur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Destek ve Hareket Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kemiklerin onarımı ve enine büyümesinden hangi yapı sorumludur?",
+    "explanation": "Kemiklerin dışını saran periost (kemik zarı), kemik dokunun onarılması ve kemiklerin enine büyümesinden sorumludur. Ayrıca kemikleri besleyen kan damarlarını da içerir.",
+    "options": [
+      {
+        "text": "Kıkırdak Doku",
+        "isCorrect": false
+      },
+      {
+        "text": "Sarı Kemik İliği",
+        "isCorrect": false
+      },
+      {
+        "text": "Kırmızı Kemik İliği",
+        "isCorrect": false
+      },
+      {
+        "text": "Periost (Kemik Zarı)",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Destek ve Hareket Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İskelet kasının kasılması sırasında aşağıdaki olaylardan hangisi gerçekleşmez?",
+    "explanation": "Kasılma sırasında, aktin iplikleri miyozin iplikleri üzerinde kayar ve sarkomer boyu kısalır. ATP hidrolizi enerji sağlar. Ancak miyozin ve aktin ipliklerinin kendi boylarında bir değişiklik olmaz, sadece birbirleri üzerinde kayarlar.",
+    "options": [
+      {
+        "text": "Aktin iplikleri, miyozin iplikleri üzerinde kayar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sarkomer boyu kısalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "ATP hidrolizi ile enerji sağlanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Miyozin ipliklerinin boyu kısalır.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Destek ve Hareket Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oynar eklemlerde, kemik uçlarının aşınmasını önleyen yapı aşağıdakilerden hangisidir?",
+    "explanation": "Oynar (sinoviyal) eklemlerde, kemik uçları hyalin kıkırdak ile kaplıdır. Bu kıkırdak yapı, sürtünmeyi azaltarak kemiklerin aşınmasını önler.",
+    "options": [
+      {
+        "text": "Eklem Sıvısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Eklem Kapsülü",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıkırdak Doku",
+        "isCorrect": true
+      },
+      {
+        "text": "Bağlar (Ligamentler)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Destek ve Hareket Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Merkezi sinir sisteminin (MSS) temel işlevsel birimi aşağıdakilerden hangisidir?",
+    "explanation": "Merkezi sinir sistemi (beyin ve omurilik), vücuttan gelen bilgileri işler, değerlendirir ve vücuda uygun tepkileri oluşturur. Bu nedenle MSS'nin temel işlevi bilgiyi entegre etmek ve yönetmektir.",
+    "options": [
+      {
+        "text": "Duyu organlarından gelen uyartıları almak.",
+        "isCorrect": false
+      },
+      {
+        "text": "İç organların çalışmasını düzenlemek.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vücuttan gelen bilgileri işlemek ve yanıt oluşturmak.",
+        "isCorrect": true
+      },
+      {
+        "text": "İstemli hareketleri kontrol etmek.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir nöronda impuls iletimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Miyelin kılıf, akson etrafını sararak yalıtım görevi görür. Bu yalıtım, impulsun akson boyunca daha hızlı iletilmesini sağlar. İmpuls, miyelinli nöronlarda Ranvier boğumlarından atlayarak (sıçramalı iletim) ilerler.",
+    "options": [
+      {
+        "text": "Miyelin kılıf impuls iletimini yavaşlatır.",
+        "isCorrect": false
+      },
+      {
+        "text": "İmpuls, dendritten aksona doğru iletilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Miyelin kılıf impuls iletim hızını artırır.",
+        "isCorrect": true
+      },
+      {
+        "text": "İmpuls iletimi elektriksel sinapslarda nörotransmitter ile olur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Beynin hangi bölümü, istemli hareketlerin planlanması ve koordinasyonundan sorumludur?",
+    "explanation": "Beyincik, vücudun denge ve hareket koordinasyonundan sorumludur. İstemli kas hareketlerinin düzgün, akıcı ve dengeli bir şekilde yapılmasını sağlar.",
+    "options": [
+      {
+        "text": "Omurilik Soğanı",
+        "isCorrect": false
+      },
+      {
+        "text": "Beyincik",
+        "isCorrect": true
+      },
+      {
+        "text": "Talamus",
+        "isCorrect": false
+      },
+      {
+        "text": "Hipotalamus",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Sempatik sinir sistemi aktivitesi sırasında aşağıdaki durumlardan hangisi gözlenmez?",
+    "explanation": "Sempatik sinir sistemi, vücudu 'savaş ya da kaç' durumuna hazırlar. Bu sırada kalp atışı hızlanır, bronşlar genişler, göz bebekleri büyür. Parasempatik sistem ise 'dinlen ve sindir' durumundan sorumludur ve sindirim aktivitesini artırır. Dolayısıyla sempatik sistemde sindirim yavaşlar.",
+    "options": [
+      {
+        "text": "Kalp atış hızının artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Bronşların genişlemesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sindirim faaliyetlerinin artması",
+        "isCorrect": true
+      },
+      {
+        "text": "Göz bebeklerinin büyümesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki hormonlardan hangisi hipofiz bezi tarafından salgılanmaz?",
+    "explanation": "Hipofiz bezi, büyüme hormonu (GH), TSH, ACTH gibi birçok hormonu salgılar. Ancak insülin, pankreasın Langerhans adacıklarındaki beta hücreleri tarafından salgılanan bir hormondur.",
+    "options": [
+      {
+        "text": "Büyüme Hormonu (GH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiroid Uyarıcı Hormon (TSH)",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsülin",
+        "isCorrect": true
+      },
+      {
+        "text": "Adrenokortikotropik Hormon (ACTH)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kan şekeri düzeyinin düşürülmesinden sorumlu olan hormon aşağıdakilerden hangisidir?",
+    "explanation": "İnsülin, pankreastan salgılanan bir hormondur ve kandaki glikozun hücrelere girmesini sağlayarak kan şekerini düşürür. Glukagon ise kan şekerini yükselten hormondur.",
+    "options": [
+      {
+        "text": "Glukagon",
+        "isCorrect": false
+      },
+      {
+        "text": "Adrenalin",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsülin",
+        "isCorrect": true
+      },
+      {
+        "text": "Kortizol",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hipofiz bezi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Hipofiz bezi, hipotalamusun kontrolü altında çalışır ve diğer endokrin bezlerin (tiroid, böbreküstü bezi vb.) çalışmasını düzenleyen tropik hormonlar salgılar. Bu nedenle 'ana bez' veya 'master bez' olarak adlandırılır.",
+    "options": [
+      {
+        "text": "Hipotalamustan bağımsız olarak çalışır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece büyüme hormonu salgılar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diğer endokrin bezlerin çalışmasını düzenleyen hormonlar salgılar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vücuttaki tek hormon salgılayan bezdir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hücresel solunum sırasında substrat düzeyinde fosforilasyon aşağıdaki evrelerin hangisinde gerçekleşir?",
+    "explanation": "Substrat düzeyinde fosforilasyon, glikoliz, Krebs döngüsü ve ETS'nin başlangıç kısmında olmak üzere hücresel solunumun birden fazla evresinde gerçekleşir. Bu nedenle en kapsamlı ve doğru cevap 'Glikoliz, Krebs döngüsü ve ETS'de' şıkkıdır.",
+    "options": [
+      {
+        "text": "Sadece glikoliz evresinde",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece Krebs döngüsünde",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece ETS'de",
+        "isCorrect": false
+      },
+      {
+        "text": "Glikoliz, Krebs döngüsü ve ETS'de",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijenli solunumda, bir molekül glikozun tamamen parçalanması sonucu net kaç ATP molekülü üretilir?",
+    "explanation": "Oksijenli solunumda bir glikoz molekülünden; glikolizde net 2 ATP, Krebs döngüsünde 2 ATP (substrat düzeyinde) ve ETS'de yaklaşık 28-34 ATP (oksidatif fosforilasyon ile) üretilir. Toplamda genel kabul gören net ATP sayısı 36'dır.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": true
+      },
+      {
+        "text": "38",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki moleküllerden hangisi Krebs döngüsüne doğrudan katılmaz?",
+    "explanation": "Krebs döngüsüne giren başlıca bileşikler Asetil CoA, OKALOASETİK ASİT, Sitrik asit gibi 4 ve 6 karbonlu bileşiklerdir. Gliseraldehit 3-fosfat ise glikoliz evresinde yer alan 3 karbonlu bir ara üründür ve Krebs döngüsüne katılmaz.",
+    "options": [
+      {
+        "text": "Asetil CoA",
+        "isCorrect": false
+      },
+      {
+        "text": "Okaloasetik asit",
+        "isCorrect": false
+      },
+      {
+        "text": "Gliseraldehit 3-fosfat",
+        "isCorrect": true
+      },
+      {
+        "text": "Sitrik asit",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijensiz solunum (fermantasyon) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Oksijensiz solunumda, glikoliz evresi sonunda oluşan pirüvat, oksijen olmadığı için Krebs döngüsüne giremez. Bunun yerine laktik asit veya etil alkol gibi farklı ürünlere dönüştürülerek NAD+'yı yeniler. ETS kullanılmaz ve net ATP kazancı sadece glikolizden gelen 2 ATP'dir.",
+    "options": [
+      {
+        "text": "Glikoliz evresi ile başlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Net 2 ATP üretilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektron taşıma sistemi (ETS) aktif olarak çalışır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pirüvat farklı moleküllere dönüştürülerek NAD+ yenilenir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsan solunum sisteminde, gaz değişiminin gerçekleştiği temel yapı aşağıdakilerden hangisidir?",
+    "explanation": "Solunum sisteminde hava, burun, yutak, gırtlak, soluk borusu ve bronşlardan geçerek alveollere ulaşır. Oksijen ve karbondioksit değişimi, alveollerin ince duvarları ve kılcal damarlar arasında difüzyon ile gerçekleşir.",
+    "options": [
+      {
+        "text": "Bronş",
+        "isCorrect": false
+      },
+      {
+        "text": "Alveol",
+        "isCorrect": true
+      },
+      {
+        "text": "Soluk borusu (Trakea)",
+        "isCorrect": false
+      },
+      {
+        "text": "Gırtlak (Larinks)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Soluk verme sırasında aşağıdaki olaylardan hangisi gerçekleşmez?",
+    "explanation": "Soluk verme, dinlenme halinde pasif bir süreçtir. Diyafram kası ve kaburgalar arası kaslar gevşer. Bu gevşeme, göğüs boşluğu hacmini azaltır ve akciğerlerdeki basıncı artırarak havanın dışarı atılmasını sağlar. Diyafram kasının kasılması ise soluk alma işlemine ait bir durumdur.",
+    "options": [
+      {
+        "text": "Diyafram kası gevşer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Göğüs boşluğu hacmi azalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diyafram kası kasılır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Akciğerlerdeki basınç artar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kanda taşınan karbondioksitin (CO2) büyük bir kısmı hangi formda taşınır?",
+    "explanation": "Kanda CO2'nin yaklaşık %70'i bikarbonat iyonu (HCO3-) formunda taşınır. Bu, CO2'nin kırmızı kan hücrelerinde karbonik anhidraz enzimi ile suyla birleşip karbonik asite, sonra da bikarbonat iyonu ve hidrojen iyonuna ayrışmasıyla olur.",
+    "options": [
+      {
+        "text": "Plazmada çözünmüş serbest CO2 gazı olarak",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbaminohemoglobin olarak",
+        "isCorrect": false
+      },
+      {
+        "text": "Bikarbonat iyonu (HCO3-) olarak",
+        "isCorrect": true
+      },
+      {
+        "text": "Karbonmonoksit (CO) olarak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Solunum sisteminin temel merkezi aşağıdaki yapıların hangisinde bulunur?",
+    "explanation": "Solunumun ritmini ve derinliğini düzenleyen Solunum Merkezi, omurilik soğanı (Medulla oblongata) içerisinde yer alır. Bu merkez, kandaki CO2 seviyesine ve pH değişimlerine duyarlıdır.",
+    "options": [
+      {
+        "text": "Beyin kabuğu (Korteks)",
+        "isCorrect": false
+      },
+      {
+        "text": "Beyincik (Serebellum)",
+        "isCorrect": false
+      },
+      {
+        "text": "Omurilik soğanı (Medulla oblongata)",
+        "isCorrect": true
+      },
+      {
+        "text": "Hipotalamus",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Böbrekte idrarın oluşum sürecinde, 'süzülme' olayı nerede gerçekleşir?",
+    "explanation": "İdrar oluşumunun ilk aşaması olan süzülme, böbreğin temel fonksiyonel birimi nefronun başlangıcındaki glomerulus (kılcal damar yumağı) ve onu saran Bowman kapsülü arasında gerçekleşir. Burada kan, yüksek basınçla süzülür.",
+    "options": [
+      {
+        "text": "Henle kulpu",
+        "isCorrect": false
+      },
+      {
+        "text": "Bowman kapsülü",
+        "isCorrect": true
+      },
+      {
+        "text": "Distal tüp",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplayıcı kanal",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Böbreklerin asıl görevi aşağıdakilerden hangisidir?",
+    "explanation": "Böbreklerin en temel görevleri; kanın pH'sını düzenlemek, atık maddeleri (üre, ürik asit) uzaklaştırmak, su ve mineral dengesini (homeostazi) sağlamaktır. Bu işlevlerin tümü 'kanın bileşimini düzenlemek' ifadesi altında toplanabilir. Safra üretimi karaciğerin, sindirim enzimi üretimi pankreasın görevidir.",
+    "options": [
+      {
+        "text": "Kanın bileşimini düzenlemek ve homeostaziyi sağlamak",
+        "isCorrect": true
+      },
+      {
+        "text": "Safra üretmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Sindirim enzimleri salgılamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Hormonları parçalamak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Antidiüretik hormon (ADH) aşağıdaki olaylardan hangisi üzerinde etkilidir?",
+    "explanation": "Antidiüretik hormon (ADH veya vazopressin), hipofiz bezinden salgılanır. Böbreklerdeki toplayıcı kanalların suya geçirgenliğini artırarak, daha fazla suyun geri emilmesini ve böylece idrar miktarının azalmasını (vücudun su tutmasını) sağlar. Kandaki su miktarı azaldığında salgılanır.",
+    "options": [
+      {
+        "text": "Sodyum geri emilimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Su geri emilimi",
+        "isCorrect": true
+      },
+      {
+        "text": "Potasyum atılımı",
+        "isCorrect": false
+      },
+      {
+        "text": "Glukoz geri emilimi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir nefronda, geri emilim olayının büyük kısmı nerede gerçekleşir?",
+    "explanation": "Bowman kapsülünde süzülen sıvı (primordial idrar), nefronun proksimal tüpünden geçerken su, glikoz, amino asitler ve iyonların büyük bir kısmı (%65-80) aktif ve pasif taşıma ile geri emilir. Bu, geri emilimin en yoğun olduğu bölümdür.",
+    "options": [
+      {
+        "text": "Distal tüp",
+        "isCorrect": false
+      },
+      {
+        "text": "Henle kulpu",
+        "isCorrect": false
+      },
+      {
+        "text": "Proksimal tüp",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplayıcı kanal",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Protein sentezinde, mRNA üzerindeki üç nükleotitten oluşan ve bir amino asidi şifreleyen birime ne ad verilir?",
+    "explanation": "Protein sentezinde, mRNA molekülü üzerinde ardışık olarak bulunan ve her biri bir amino asidi şifreleyen üç nükleotitlik gruplara 'kodon' adı verilir. Genetik şifre bu kodonlar aracılığıyla taşınır.",
+    "options": [
+      {
+        "text": "Antikodon",
+        "isCorrect": false
+      },
+      {
+        "text": "Kodon",
+        "isCorrect": true
+      },
+      {
+        "text": "Gen",
+        "isCorrect": false
+      },
+      {
+        "text": "Triplet",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Protein sentezinin 'şifre okuma' ve 'amino asit ekleme' aşamaları aşağıdaki hücre organellerinden hangisinde gerçekleşir?",
+    "explanation": "Protein sentezi çekirdekte başlar (DNA'dan mRNA transkripsiyonu) ancak şifrenin okunup amino asitlerin birleştirilerek polipeptid zincirinin oluşturulduğu süreç (translasyon) sitoplazmadaki ribozomlarda gerçekleşir.",
+    "options": [
+      {
+        "text": "Golgi aygıtı",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozom",
+        "isCorrect": true
+      },
+      {
+        "text": "Çekirdek",
+        "isCorrect": false
+      },
+      {
+        "text": "Endoplazmik retikulum",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki kodondan antikodon eşleşmelerinden hangisi yanlıştır? (mRNA kodonu -> tRNA antikodonu)",
+    "explanation": "mRNA kodonu ve tRNA antikodonu birbirine ters yönde ve tamamlayıcı (komplementer) baz eşleşmesi yapar. AUG kodonunun tamamlayıcısı UAC antikodonudur. UAC antikodonu, AUG kodonunu okur. CAU antikodonu ise GUA kodonunu okur, bu nedenle CAU -> AUG eşleşmesi yanlıştır.",
+    "options": [
+      {
+        "text": "AUG -> UAC",
+        "isCorrect": false
+      },
+      {
+        "text": "UUC -> AAG",
+        "isCorrect": false
+      },
+      {
+        "text": "GCA -> CGU",
+        "isCorrect": false
+      },
+      {
+        "text": "CAU -> AUG",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İşitme duyusu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Kulak zarı (timpanik zar), ses dalgalarının oluşturduğu titreşimleri orta kulaktaki kemikçiklere (çekiç, örs, üzengi) iletir. Sesin analizi ve anlamlandırılması beyindeki işitme korteksi tarafından yapılır, kulak zarı tarafından değil.",
+    "options": [
+      {
+        "text": "Dış kulak, ses dalgalarını toplayarak kulak zarına iletir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kulak zarı, ses titreşimlerini kemikçiklere iletir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Salyangok (koklea) içindeki tüy hücreleri, mekanik titreşimleri elektriksel sinyallere dönüştürür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kulak zarı, gelen sesin analizini ve anlamlandırılmasını sağlar.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Retinada bulunan ve renkli görmeyi sağlayan reseptör hücreler aşağıdakilerden hangisidir?",
+    "explanation": "Retinada ışığa duyarlı iki tip reseptör hücre bulunur: Çubuk (rod) hücreleri ve koni hücreleri. Çubuk hücreleri az ışıkta siyah-beyaz görmeyi sağlarken, koni hücreleri yeterli ışıkta renkli görmeyi sağlar.",
+    "options": [
+      {
+        "text": "Çubuk Hücreleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Koni Hücreleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Bipolar Hücreler",
+        "isCorrect": false
+      },
+      {
+        "text": "Ganglion Hücreleri",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Dil üzerinde farklı tatları (tatlı, tuzlu, ekşi, acı) algılayan yapıların genel adı nedir?",
+    "explanation": "Dil üzerinde bulunan ve tat alma görevini üstlenen özelleşmiş yapılara 'tat tomurcuğu' denir. Her tat tomurcuğu içinde tat alma hücreleri bulunur.",
+    "options": [
+      {
+        "text": "Tat Hücresi",
+        "isCorrect": false
+      },
+      {
+        "text": "Tat Tomurcuğu",
+        "isCorrect": true
+      },
+      {
+        "text": "Papilla",
+        "isCorrect": false
+      },
+      {
+        "text": "Alıcı Sinir",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Derinin temel görevleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Deri, vücut sıcaklığının düzenlenmesinde, su ve mineral dengesinin sağlanmasında, zararlı ışınlardan korunmada ve dokunma, basınç, sıcaklık gibi duyuların alınmasında görevlidir. Vücuttaki fazla üreyi atmak esas olarak böbreklerin görevidir.",
+    "options": [
+      {
+        "text": "Vücut sıcaklığının düzenlenmesine yardımcı olur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dokunma, basınç, sıcaklık gibi duyuları alır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vücuttaki fazla ürenin atılmasını sağlar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Zararlı UV ışınlarına karşı koruma sağlar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki bitki kısımlarından hangisinde meristem (bölünür) doku bulunmaz?",
+    "explanation": "Meristem doku, sürekli bölünme yeteneğine sahip hücrelerden oluşur. Kök ve gövde uçları ile yanal organlarda (kambiyum) bulunur. Olgun bir ağaç gövdesinin ortasındaki odun bölgesi, ölü hücrelerden oluşan iletim dokusudur ve bölünmez.",
+    "options": [
+      {
+        "text": "Kök Ucu",
+        "isCorrect": false
+      },
+      {
+        "text": "Yaprak Ucu",
+        "isCorrect": true
+      },
+      {
+        "text": "Kambiyum",
+        "isCorrect": false
+      },
+      {
+        "text": "Gövde Ucu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bitki Biyolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bitkilerde su ve mineral taşınmasından sorumlu iletim demeti elemanı aşağıdakilerden hangisidir?",
+    "explanation": "Bitkilerde ksilem (odun borusu) su ve mineral taşınmasından, floem (soymuk borusu) ise organik madde (fotosentez ürünleri) taşınmasından sorumludur.",
+    "options": [
+      {
+        "text": "Floem",
+        "isCorrect": false
+      },
+      {
+        "text": "Ksilem",
+        "isCorrect": true
+      },
+      {
+        "text": "Kollenkima",
+        "isCorrect": false
+      },
+      {
+        "text": "Parankima",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bitki Biyolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir bitki hücresinin turgor durumda olması aşağıdakilerden hangisi ile açıklanır?",
+    "explanation": "Bitki hücresi hipotonik bir ortama konduğunda, osmoz ile su hücre içine girer. Hücre içindeki suyun hücre çeperine yaptığı basınca turgor basıncı denir. Bu durumdaki hücreye turgor durumda denir ve bitkinin dik durmasını sağlar.",
+    "options": [
+      {
+        "text": "Hücre dışı ortamın hipertonik olmasıyla",
+        "isCorrect": false
+      },
+      {
+        "text": "Hücredeki suyun osmozla dışarı çıkmasıyla",
+        "isCorrect": false
+      },
+      {
+        "text": "Hücredeki suyun hücre çeperine basınç yapmasıyla",
+        "isCorrect": true
+      },
+      {
+        "text": "Hücre zarının tamamen geçirgen olmasıyla",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bitki Biyolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Tohumun çimlenmesi için aşağıdaki faktörlerden hangisi mutlaka gereklidir?",
+    "explanation": "Tohumun çimlenebilmesi için su (su alımı ile tohum kabuğu yumuşar ve metabolizma başlar), uygun sıcaklık ve oksijen gereklidir. Işık, bazı türler için gerekliyken birçok tohum için çimlenme için zorunlu bir faktör değildir.",
+    "options": [
+      {
+        "text": "Işık",
+        "isCorrect": false
+      },
+      {
+        "text": "Su",
+        "isCorrect": true
+      },
+      {
+        "text": "Karbondioksit",
+        "isCorrect": false
+      },
+      {
+        "text": "Azot Gazı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bitki Biyolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda mayoz bölünme aşağıdaki hücrelerin hangisinde gerçekleşir?",
+    "explanation": "Mayoz bölünme, eşey hücrelerinin (gamet) oluşumu sırasında gerçekleşir. İnsanda sperm ve yumurta hücreleri, sırasıyla erkekte testislerde ve dişide yumurtalıklarda mayoz ile üretilir. Deri hücresi gibi vücut hücreleri ise mitoz bölünme geçirir.",
+    "options": [
+      {
+        "text": "Deri Hücresi",
+        "isCorrect": false
+      },
+      {
+        "text": "Karaciğer Hücresi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yumurta Ana Hücresi (Oogonium)",
+        "isCorrect": true
+      },
+      {
+        "text": "Kas Hücresi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Döllenmiş yumurtaya (zigot) verilen isim aşağıdakilerden hangisidir?",
+    "explanation": "Erkek ve dişi gametlerin (sperm ve yumurta) birleşmesi olayına döllenme denir. Döllenme sonucu oluşan hücreye ise zigot adı verilir.",
+    "options": [
+      {
+        "text": "Blastosit",
+        "isCorrect": false
+      },
+      {
+        "text": "Morula",
+        "isCorrect": false
+      },
+      {
+        "text": "Zigot",
+        "isCorrect": true
+      },
+      {
+        "text": "Embriyo",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Embriyonik gelişim sırasında, sinir sistemi ve duyu organları aşağıdaki tabakaların hangisinden meydana gelir?",
+    "explanation": "Embriyonik gelişimde zigot bölünerek üç germ tabakası oluşturur: Ektoderm, mezoderm ve endoderm. Ektoderm; sinir sistemi, duyu organları ve epidermisin, mezoderm; kas, iskelet, dolaşım sistemi gibi yapıların, endoderm ise sindirim kanalı epiteli, karaciğer, akciğer gibi iç organların geliştiği tabakadır.",
+    "options": [
+      {
+        "text": "Mezoderm",
+        "isCorrect": false
+      },
+      {
+        "text": "Endoderm",
+        "isCorrect": false
+      },
+      {
+        "text": "Ektoderm",
+        "isCorrect": true
+      },
+      {
+        "text": "Blastoderm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda embriyonun uterus duvarına tutunmasına ne ad verilir?",
+    "explanation": "Döllenmeden sonra bölünerek gelişen embriyo, rahim iç duvarına (uterus endometriumu) tutunur. Bu olaya implantasyon (uterusa yerleşme) denir.",
+    "options": [
+      {
+        "text": "Fertilizasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Ovulasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Gastrulasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "İmplantasyon",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Fotosentez reaksiyonlarında ışığa ihtiyaç duyulmayan evre aşağıdakilerden hangisidir?",
+    "explanation": "Fotosentez, ışığa bağımlı reaksiyonlar (fotoliz, ATP ve NADPH sentezi) ve ışıktan bağımsız reaksiyonlar (Karbon tutma reaksiyonları, Calvin Döngüsü) olarak iki evrede gerçekleşir. Calvin döngüsü, ışıktan bağımsız olarak, ışıklı evrede üretilen ATP ve NADPH'ı kullanarak glikoz sentezler.",
+    "options": [
+      {
+        "text": "Fotoliz",
+        "isCorrect": false
+      },
+      {
+        "text": "Işıklı Evre Reaksiyonları",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbon Tutma Reaksiyonları (Calvin Döngüsü)",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektron Taşıma Sistemi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fotosentez ve Kemosentez",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Fotosentez sırasında atmosferden alınan ve organik madde sentezinde kullanılan gaz aşağıdakilerden hangisidir?",
+    "explanation": "Fotosentezin genel denklemi: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ şeklindedir. Bitkiler, karbondioksit gazını (CO₂) atmosferden alır ve su (H₂O) ile birlikte glikoz (C₆H₁₂O₆) gibi organik besinlere dönüştürür. Bu sırada oksijen (O₂) gazı açığa çıkar.",
+    "options": [
+      {
+        "text": "Oksijen (O₂)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azot (N₂)",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbondioksit (CO₂)",
+        "isCorrect": true
+      },
+      {
+        "text": "Hidrojen (H₂)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fotosentez ve Kemosentez",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kemosentez yapan canlılar ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Kemosentez, ışık enerjisi yerine inorganik maddelerin oksidasyonuyla açığa çıkan kimyasal enerjiyi kullanarak organik madde sentezleme işlemidir. Bu nedenle kemosentetik canlılar (örneğin nitrit bakterileri) ışığa ihtiyaç duymazlar ve genellikle okyanus derinlikleri, toprak altı gibi ışıksız ortamlarda yaşayabilirler.",
+    "options": [
+      {
+        "text": "Işık enerjisini doğrudan kullanırlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Organik maddeleri oksitleyerek enerji elde ederler.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnorganik maddeleri oksitleyerek elde ettikleri enerjiyi kullanırlar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fotosentez yapan canlılarla beslenerek yaşarlar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fotosentez ve Kemosentez",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki damar çiftlerinden hangisinde, her iki damarda da oksijen bakımından zengin kan taşınır?",
+    "explanation": "Akciğer toplardamarı (ven) akciğerlerden kalbin sol kulakçığına oksijenlenmiş kan getirir. Göbek toplardamarı (ven) ise plasentadan fetüse oksijen ve besin açısından zengin kan taşır. Diğer seçeneklerdeki damarlardan en az biri oksijen bakımından fakir kan taşır.",
+    "options": [
+      {
+        "text": "Akciğer atardamarı - Alt ana toplardamar",
+        "isCorrect": false
+      },
+      {
+        "text": "Akciğer toplardamarı - Göbek toplardamarı",
+        "isCorrect": true
+      },
+      {
+        "text": "Akciğer atardamarı - Üst ana toplardamar",
+        "isCorrect": false
+      },
+      {
+        "text": "Alt ana toplardamar - Böbrek atardamarı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dolaşım ve Bağışıklık Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir bakteri enfeksiyonu sırasında, vücut sıcaklığının yükselmesine (ateş) aşağıdaki kan hücrelerinden hangisinin salgıladığı maddeler neden olur?",
+    "explanation": "Makrofajlar gibi bazı akyuvar çeşitleri, bakteri gibi patojenleri fagosite ettiklerinde pirojen adı verilen maddeler salgılarlar. Bu maddeler hipotalamustaki ısı düzenleme merkezini etkileyerek vücut sıcaklığının yükselmesine (ateş) neden olur.",
+    "options": [
+      {
+        "text": "Nötrofiller",
+        "isCorrect": false
+      },
+      {
+        "text": "B lenfositleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Trombositler",
+        "isCorrect": false
+      },
+      {
+        "text": "Makrofajlar",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Dolaşım ve Bağışıklık Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kalbin kulakçık ve karıncıkları arasında bulunan kapakçıklar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Triküspid kapak sağ kulakçık ile sağ karıncık arasında, biküspid (mitral) kapak ise sol kulakçık ile sol karıncık arasında bulunur. Kapakçıklar karıncıkların kasılması (sistol) sırasında kapanarak kanın kulakçıklara geri kaçmasını önler. Korda tendinea adı verilen iplikçikler kapakçık yapraklarının karıncık boşluğuna doğru ters dönmesini engeller. Ancak, bu kapakçıkların açılıp kapanması kas dokusu tarafından aktif olarak kontrol edilmez; kan basıncındaki değişimlere pasif olarak tepki verirler.",
+    "options": [
+      {
+        "text": "Sağ tarafta üçlü (triküspid), sol tarafta ikili (biküspid) yapıdadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karıncıklar kasılırken kapanarak kanın geri kaçışını önler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Korda tendinea adlı iplikçiklerle karıncık duvarına bağlanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Açılıp kapanmaları istemli kaslar tarafından kontrol edilir.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Dolaşım ve Bağışıklık Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Edinsel bağışıklık tepkisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Edinsel (spesifik) bağışıklık, belirli bir patojene özgüdür ve hafıza oluşturarak aynı patojenle tekrar karşılaşıldığında daha hızlı ve güçlü bir tepki verilmesini sağlar. Doğuştan gelen (spesifik olmayan) bağışıklık ise tüm patojenlere aynı genel şekilde tepki verir ve hafıza özelliği yoktur. Hümoral bağışıklık B lenfositleri ve antikorlar ile sağlanır.",
+    "options": [
+      {
+        "text": "Spesifik değildir, tüm patojenlere aynı şekilde tepki verir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hafıza oluşturmaz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca T lenfositleri tarafından gerçekleştirilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hümoral bağışıklık, edinsel bağışıklığın bir çeşididir.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Dolaşım ve Bağışıklık Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir hücrede glikoliz, Krebs döngüsü ve elektron taşıma zinciri tamamlandığında, bir molekül glikozun oksijenli solunumundan net kaç ATP molekülü üretilir?",
+    "explanation": "Glikoliz sonucu net 2 ATP, Krebs döngüsü ve elektron taşıma zinciri sonucu ise (2 ATP direkt + yaklaşık 28-34 ATP ETS'den) toplamda genel kabul görmüş değer 36 ATP'dir. Bazı kaynaklar bu değeri 38 olarak da verebilir, ancak modern biyolojide proton sızıntıları vb. nedenlerle net verim 30-32 ATP olarak da kabul edilmektedir. Bu soruda orta düzey ve geleneksel yaklaşım için 36 doğru kabul edilir.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": true
+      },
+      {
+        "text": "38",
+        "isCorrect": false
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "I. Işık reaksiyonları\nII. Calvin döngüsü\nYukarıdaki fotosentez evreleri ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "explanation": "Işık reaksiyonları tilakoid zarda gerçekleşir ve ışık enerjisi kullanılarak ATP ve NADPH üretilir, su fotolize uğrar. Calvin döngüsü ise stromada, ışığa doğrudan ihtiyaç duymadan gerçekleşir ve ATP ile NADPH kullanılarak CO2'den şeker sentezlenir. Calvin döngüsü ışığa doğrudan bağımlı olmasa da, ihtiyaç duyduğu ATP ve NADPH'ı sağlayan ıık reaksiyonları nedeniyle dolaylı olarak ışığa bağımlıdır. Ancak 'karanlık evre' olarak da adlandırılır çünkü ışık varlığına doğrudan ihtiyaç duymaz.",
+    "options": [
+      {
+        "text": "Geri besleme inhibisyonu - Calvin döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen açığa çıkması - Işık reaksiyonları",
+        "isCorrect": false
+      },
+      {
+        "text": "Işığa bağımlı olmama - Calvin döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Klorofil eksikliğinden direkt etkilenme - Calvin döngüsü",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Fermantasyon, oksijenli solunumun hangi evresine kadar ortak olarak gerçekleşir ve sonucunda net kaç ATP üretilir?",
+    "explanation": "Fermantasyon, glikoliz evresi ile başlar. Oksijenli solunumda glikolizden sonra Krebs döngüsü ve ETS devreye girerken, fermantasyonda glikoliz sonunda oluşan pirüvat, oksijen yokluğunda laktat veya etanol gibi farklı ürünlere dönüştürülerek NAD+'yı yeniler. Bu sayede glikoliz devam edebilir. Glikoliz sonucu net 2 ATP üretilir.",
+    "options": [
+      {
+        "text": "Krebs döngüsü - 2 ATP",
+        "isCorrect": false
+      },
+      {
+        "text": "Glikoliz - 4 ATP",
+        "isCorrect": false
+      },
+      {
+        "text": "Glikoliz - 2 ATP",
+        "isCorrect": true
+      },
+      {
+        "text": "ETS - 34 ATP",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kemosentez yapan bir bakterinin enerji kaynağı aşağıdakilerden hangisidir?",
+    "explanation": "Kemosentezde, organizmalar organik bileşikleri sentezlemek için gerekli enerjiyi güneş ışığından değil, amonyak (NH3), hidrojen sülfür (H2S), demir (Fe2+) gibi inorganik maddeleri oksitleyerek elde eder. Işık enerjisi fotosentez yapan canlıların enerji kaynağıdır.",
+    "options": [
+      {
+        "text": "Işık enerjisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Hazır organik besinler",
+        "isCorrect": false
+      },
+      {
+        "text": "İnorganik maddeleri oksitleme",
+        "isCorrect": true
+      },
+      {
+        "text": "ATP hidrolizi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aynı habitatta yaşayan farklı türlere ait popülasyonların oluşturduğu topluluğa ne ad verilir?",
+    "explanation": "Komünite, belirli bir alanda yaşayan ve birbirleriyle etkileşim halinde olan farklı türlere ait popülasyonların oluşturduğu topluluktur. Popülasyon aynı türe ait bireylerden, ekosistem ise canlı ve cansız faktörlerin tamamından oluşur.",
+    "options": [
+      {
+        "text": "Popülasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Komünite",
+        "isCorrect": true
+      },
+      {
+        "text": "Ekosistem",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyosfer",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir popülasyonun taşıma kapasitesi (K) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Taşıma kapasitesi (K), bir çevrenin belirli koşullar altında süresiz olarak destekleyebileceği maksimum popülasyon büyüklüğüdür. Popülasyon büyüklüğü K'ya yaklaştıkça büyüme hızı azalır. K'yı aşan popülasyonlar, kaynak yetersizliği nedeniyle genellikle azalır. K, sabit bir değer değildir; çevresel faktörlere (iklim, besin vb.) bağlı olarak değişebilir.",
+    "options": [
+      {
+        "text": "Popülasyon her zaman K değerinin altında sabit kalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "K değeri, popülasyonun ulaşabileceği minimum birey sayısıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Popülasyon büyüklüğü K'ya ulaştığında büyüme hızı sıfır olur.",
+        "isCorrect": true
+      },
+      {
+        "text": "K değeri hiçbir zaman değişmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aynı kaynaklar için rekabet edemeyen iki türün aynı habitatta uzun süre bir arada yaşayamayacağını ifade eden kavram aşağıdakilerden hangisidir?",
+    "explanation": "Rekabetçi Dışlama İlkesi'ne göre, aynı ekolojik nişi paylaşan (aynı kaynaklar için rekabet eden) iki tür, aynı habitatta sürekli olarak bir arada bulunamaz. Rekabet sonucunda bir tür diğerini o bölgeden dışlar veya türler niş farklılaşmasına gider.",
+    "options": [
+      {
+        "text": "Süksesyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Rekabetçi Dışlama İlkesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Simbiyoz",
+        "isCorrect": false
+      },
+      {
+        "text": "Karşılıklılık",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir popülasyonda, yaşam tablosu verilerine dayanarak hesaplanan ve bir bireyin belirli bir yaşam süresine ulaşma olasılığını gösteren parametre aşağıdakilerden hangisidir?",
+    "explanation": "Hayatta Kalma Olasılığı (lx), yaşam tablosunda, x yaşındaki bireylerin yaşamlarının geri kalan kısmında hayatta kalma olasılığını gösterir. Genellikle başlangıç popülasyonuna (örneğin 1000 birey) göre normalize edilir. Doğurganlık oranı (bx) üreme ile, hayatta kalanların sayısı (nx) ise mutlak sayıyı ifade eder.",
+    "options": [
+      {
+        "text": "Hayatta Kalanların Sayısı (nx)",
+        "isCorrect": false
+      },
+      {
+        "text": "Hayatta Kalma Olasılığı (lx)",
+        "isCorrect": true
+      },
+      {
+        "text": "Spesifik Doğurganlık Oranı (bx)",
+        "isCorrect": false
+      },
+      {
+        "text": "Yaşa Özgü Doğum Oranı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Küresel ısınmaya neden olan ve atmosferdeki sera etkisinden sorumlu başlıca gaz aşağıdakilerden hangisidir?",
+    "explanation": "Karbondioksit (CO2), fosil yakıtların yakılması, ormansızlaşma gibi insan aktiviteleri sonucunda atmosferdeki konsantrasyonu en fazla artan ve sera etkisine en çok katkıda bulunan gazdır. Su buharı da önemli bir sera gazıdır ancak konsantrasyonundaki artışın birincil nedeni CO2 kaynaklı sıcaklık artışıdır. Ozon (O3) troposferde kirletici, stratosferde ise faydalıdır. Azot (N2) sera gazı değildir.",
+    "options": [
+      {
+        "text": "Su Buharı (H2O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbondioksit (CO2)",
+        "isCorrect": true
+      },
+      {
+        "text": "Ozon (O3)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azot (N2)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Asit yağmurlarının oluşumuna neden olan başlıca atmosferik kirleticiler aşağıdakilerden hangisinde birlikte verilmiştir?",
+    "explanation": "Asit yağmurları, fosil yakıtların yakılması sonucu atmosfere salınan kükürt dioksit (SO2) ve azot oksitlerin (NOx) su buharı ile birleşerek sülfürik asit (H2SO4) ve nitrik asit (HNO3) oluşturması ve yağışlarla yeryüzüne inmesi sonucu oluşur. Karbondioksit (CO2) asit yağmurlarının ana nedeni değil, küresel ısınmanın ana nedenidir. Partikül madde ve kurşun diğer kirleticilerdir ancak asit yağmurunun birincil kaynağı değillerdir.",
+    "options": [
+      {
+        "text": "Karbondioksit ve Metan",
+        "isCorrect": false
+      },
+      {
+        "text": "Kükürt dioksit ve Azot oksitler",
+        "isCorrect": true
+      },
+      {
+        "text": "Partikül madde ve Kurşun",
+        "isCorrect": false
+      },
+      {
+        "text": "Ozon ve Karbonmonoksit",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Biyolojik birikim (biyomagnifikasyon) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Biyolojik birikim, besin zincirinde ilerledikçe, parçalanması zor olan zararlı maddelerin (ağır metaller, DDT gibi pestisitler) vücut dokularında giderek artan miktarlarda birikmesidir. Bu maddeler yağ dokuda çözünür ve metabolizma ile vücuttan atılamaz. Bu nedenle, besin zincirinin en üstündeki yırtıcılarda (kartal, insan) en yüksek konsantrasyona ulaşırlar.",
+    "options": [
+      {
+        "text": "Zararlı madde konsantrasyonu besin zincirinin en alt basamağında en yüksektir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Besin zincirinde ilerledikçe zararlı madde konsantrasyonu artar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece sucul ekosistemlerde görülür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Birincil tüketicilerdeki konsantrasyon, üreticilerden daha düşüktür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir gölde yaşayan sazan balığı popülasyonunun birey sayısı zamanla nasıl değişir?",
+    "explanation": "Bir popülasyonun büyüme eğrisi, başlangıçta hızlı bir artış (J-şekilli büyüme) gösterir, ancak taşıma kapasitesine yaklaştıkça büyüme hızı yavaşlar ve populasyon büyüklüğü dengeye ulaşır, bu da S-şekilli (logistik) büyümedir.",
+    "options": [
+      {
+        "text": "Sürekli artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sürekli azalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Önce artar, sonra sabit kalır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Düzenli olarak artar ve azalır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir komünitedeki rekabet ilişkisinin sonucu olarak gözlemlenebilir?",
+    "explanation": "Kaynaklar için rekabet, benzer ekolojik nişe sahip türlerden birinin zamanla diğerini ortamdan uzaklaştırmasına (rekabetçi dışlama) veya türlerin nişlerini farklılaştırmasına (kaynak paylaşımı) yol açar.",
+    "options": [
+      {
+        "text": "Türlerin populasyon yoğunluklarının artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Türlerden birinin populasyonunun azalıp diğerinin artması",
+        "isCorrect": true
+      },
+      {
+        "text": "Her iki türün populasyonunun aynı oranda artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Türler arasında mutualizm ilişkisinin başlaması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir popülasyondaki yaş piramidi geniş tabanlı ve üçgen şeklinde ise, bu popülasyon için aşağıdakilerden hangisi söylenebilir?",
+    "explanation": "Geniş tabanlı (genç birey oranı yüksek) ve üçgen şeklindeki bir yaş piramidi, doğum oranının yüksek olduğu ve populasyonun büyümekte olduğunu gösterir.",
+    "options": [
+      {
+        "text": "Popülasyon dengededir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Popülasyon azalmaktadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Popülasyon yaşlanmaktadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Popülasyon hızla büyümektedir.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki populasyon dinamiği kavramlarından hangisi, bir populasyonun birim alandaki birey sayısını ifade eder?",
+    "explanation": "Populasyon yoğunluğu, belirli bir alanda veya hacimde yaşayan populasyon bireylerinin sayısıdır.",
+    "options": [
+      {
+        "text": "Dağılım",
+        "isCorrect": false
+      },
+      {
+        "text": "Yoğunluk",
+        "isCorrect": true
+      },
+      {
+        "text": "Doğurganlık",
+        "isCorrect": false
+      },
+      {
+        "text": "Mortalite",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Fotosentez reaksiyonlarında ışık enerjisi, aşağıdaki moleküllerden hangisinin yapısında kimyasal bağ enerjisine dönüştürülür?",
+    "explanation": "Fotosentezin ışığa bağımlı reaksiyonlarında, ışık enerjisi ATP ve NADPH'nin yapısında kimyasal enerji olarak depolanır.",
+    "options": [
+      {
+        "text": "Glikoz",
+        "isCorrect": false
+      },
+      {
+        "text": "Su",
+        "isCorrect": false
+      },
+      {
+        "text": "ATP ve NADPH",
+        "isCorrect": true
+      },
+      {
+        "text": "Karbon dioksit",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fotosentez ve Kemosentez",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kemosentez yapan bir bakteri için aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Kemosentetik organizmalar, enerji kaynağı olarak güneş ışığı yerine inorganik maddeleri (amonyak, hidrojen sülfür gibi) oksitleyerek açığa çıkan kimyasal enerjiyi kullanırlar.",
+    "options": [
+      {
+        "text": "Işık enerjisini kullanarak organik madde sentezler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimyasal enerjiyi kullanarak organik madde sentezler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hazır organik maddeleri tüketerek enerji elde eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Klorofil pigmenti bulundurur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fotosentez ve Kemosentez",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Fotosentez hızına aşağıdaki faktörlerden hangisinin artışı, belirli bir noktaya kadar olumlu etki ederken, daha sonra etkisiz hale gelir?",
+    "explanation": "Işık şiddeti, fotosentez hızını belirli bir seviyeye kadar artırır. Bu noktadan (doyma noktası) sonra, fotosentez hızı sabit kalır çünkü diğer faktörler (CO2 konsantrasyonu, enzim miktarı) sınırlayıcı hale gelir.",
+    "options": [
+      {
+        "text": "Sıcaklık",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbondioksit konsantrasyonu",
+        "isCorrect": false
+      },
+      {
+        "text": "Işık şiddeti",
+        "isCorrect": true
+      },
+      {
+        "text": "Su miktarı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fotosentez ve Kemosentez",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Fotosentezin ışıktan bağımsız reaksiyonları (Calvin Döngüsü) sırasında gerçekleşen temel olay nedir?",
+    "explanation": "Calvin Döngüsü'nde, ışığa bağımlı reaksiyonlarda üretilen ATP ve NADPH kullanılarak karbon dioksit fiksasyonu gerçekleştirilir ve şeker gibi organik moleküller sentezlenir.",
+    "options": [
+      {
+        "text": "Su moleküllerinin fotolizi",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen gazının açığa çıkması",
+        "isCorrect": false
+      },
+      {
+        "text": "ATP ve NADPH sentezi",
+        "isCorrect": false
+      },
+      {
+        "text": "CO2'nin organik moleküllere dönüştürülmesi",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Fotosentez ve Kemosentez",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kan şekeri seviyesi düştüğünde pankreastan salgılanan ve karaciğerde glikojen yıkımını uyaran hormon aşağıdakilerden hangisidir?",
+    "explanation": "Glukagon hormonu, kan şekeri düştüğünde pankreastan salgılanır ve karaciğerde glikojenolizi (glikojen yıkımını) uyararak kana glikoz salınımını artırır.",
+    "options": [
+      {
+        "text": "İnsülin",
+        "isCorrect": false
+      },
+      {
+        "text": "Glukagon",
+        "isCorrect": true
+      },
+      {
+        "text": "Adrenalin",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiroksin",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Büyüme hormonu (GH) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Büyüme hormonu (GH) hipofiz bezinin ön lobundan salgılanır. Epifiz bezi ise melatonin hormonunu salgılar.",
+    "options": [
+      {
+        "text": "Hipofiz bezinden salgılanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Büyüme ve gelişmeyi düzenler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Epifiz bezinden salgılanır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Protein sentezini artırıcı etki gösterir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Vücudun su dengesinin sağlanmasında ve kan basıncının düzenlenmesinde doğrudan etkili olan hormon aşağıdakilerden hangisidir?",
+    "explanation": "ADH (Antidiüretik hormon veya Vazopressin), hipofizin arka lobundan salgılanır. Böbreklerde suyun geri emilimini artırarak vücudun su dengesini sağlar ve kan basıncını etkiler.",
+    "options": [
+      {
+        "text": "Aldosteron",
+        "isCorrect": false
+      },
+      {
+        "text": "Adrenalin",
+        "isCorrect": false
+      },
+      {
+        "text": "Antidiüretik hormon (ADH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Kortizol",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Stres anında vücudu 'savaş ya da kaç' tepkisine hazırlayan, kalp atış hızını ve kan basıncını artıran hormon aşağıdakilerden hangisidir?",
+    "explanation": "Adrenalin (epinefrin), böbreküstü bezinin medulla kısmından salgılanır. Stres durumunda salgılanarak kalp atış hızı, solunum hızı ve kan basıncını artırır, vücudu acil duruma hazırlar.",
+    "options": [
+      {
+        "text": "İnsülin",
+        "isCorrect": false
+      },
+      {
+        "text": "Adrenalin",
+        "isCorrect": true
+      },
+      {
+        "text": "Tiroksin",
+        "isCorrect": false
+      },
+      {
+        "text": "Östrojen",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "DNA molekülünde aşağıdaki organik bazlardan hangisi bulunmaz?",
+    "explanation": "DNA'nın yapısında adenin (A), guanin (G), sitozin (C) ve timin (T) bazları bulunur. Urasil (U) bazı ise RNA'ya özgüdür.",
+    "options": [
+      {
+        "text": "Adenin",
+        "isCorrect": false
+      },
+      {
+        "text": "Guanin",
+        "isCorrect": false
+      },
+      {
+        "text": "Timin",
+        "isCorrect": false
+      },
+      {
+        "text": "Urasil",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Nükleik Asitler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "DNA'nın çift sarmal yapısında, bir zincirdeki adenin bazının karşısına hangi baz gelir?",
+    "explanation": "DNA'nın çift sarmal yapısında, bazlar arasında belirli eşleşme (komplementerlik) kuralları vardır: Adenin (A) her zaman Timin (T) ile, Guanin (G) ise her zaman Sitozin (C) ile eşleşir.",
+    "options": [
+      {
+        "text": "Guanin",
+        "isCorrect": false
+      },
+      {
+        "text": "Sitozin",
+        "isCorrect": false
+      },
+      {
+        "text": "Timin",
+        "isCorrect": true
+      },
+      {
+        "text": "Urasil",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Nükleik Asitler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir nükleotitin yapısında aşağıdakilerden hangisi bulunmaz?",
+    "explanation": "Nükleotit, bir pentoz şeker (DNA'da deoksiriboz, RNA'da riboz), bir fosfat grubu ve bir azotlu organik bazdan (A, G, C, T veya U) oluşur. Amino asitler ise proteinlerin yapı taşlarıdır.",
+    "options": [
+      {
+        "text": "Azotlu organik baz",
+        "isCorrect": false
+      },
+      {
+        "text": "Beş karbonlu şeker",
+        "isCorrect": false
+      },
+      {
+        "text": "Fosfat grubu",
+        "isCorrect": false
+      },
+      {
+        "text": "Amino asit",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Nükleik Asitler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kanın pıhtılaşması sırasında fibrinojenin fibrine dönüşümünden hangi enzim sorumludur?",
+    "explanation": "Kan pıhtılaşma kaskadının son aşamasında, trombin enzimi fibrinojeni fibrin iplikçiklerine dönüştürerek pıhtının stabil yapısını oluşturur.",
+    "options": [
+      {
+        "text": "Trombin",
+        "isCorrect": true
+      },
+      {
+        "text": "Protrombin",
+        "isCorrect": false
+      },
+      {
+        "text": "Heparin",
+        "isCorrect": false
+      },
+      {
+        "text": "Fibrinaz",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dolaşım ve Bağışıklık Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki antikor sınıflarından hangisi anne sütünde bulunur ve yenidoğanı bağırsak enfeksiyonlarına karşı korur?",
+    "explanation": "IgA (İmmünoglobulin A) antikorları mukozal yüzeylerde ve vücut sıvılarında, özellikle anne sütü, tükürük ve gözyaşında bulunur. Yenidoğana pasif bağışıklık sağlar.",
+    "options": [
+      {
+        "text": "IgA",
+        "isCorrect": true
+      },
+      {
+        "text": "IgG",
+        "isCorrect": false
+      },
+      {
+        "text": "IgM",
+        "isCorrect": false
+      },
+      {
+        "text": "IgE",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dolaşım ve Bağışıklık Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Lenf düğümlerinin temel işlevi aşağıdakilerden hangisidir?",
+    "explanation": "Lenf düğümleri, lenf sıvısını süzerek içindeki yabancı maddeleri (bakteri, virüs, kanser hücreleri) fagosite eden makrofajlar ve lenfositler tarafından tutar. Bu sayede vücudun savunmasında kritik bir rol oynar.",
+    "options": [
+      {
+        "text": "Lenf sıvısını süzerek patojenleri yok etmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Alyuvar üretmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Kan basıncını düzenlemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Hormon salgılamak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dolaşım ve Bağışıklık Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kalbin sağ kulakçık ve sağ karıncığı arasındaki kapakçık aşağıdakilerden hangisidir?",
+    "explanation": "Triküspid kapak (üçlü kapakçık), sağ kulakçık ile sağ karıncık arasında bulunur ve kanın geriye doğru akışını engeller.",
+    "options": [
+      {
+        "text": "Triküspid kapak",
+        "isCorrect": true
+      },
+      {
+        "text": "Mitral kapak",
+        "isCorrect": false
+      },
+      {
+        "text": "Aort kapağı",
+        "isCorrect": false
+      },
+      {
+        "text": "Pulmoner kapak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dolaşım ve Bağışıklık Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir nöronun hücre gövdesinden çıkan ve impulsu hücre gövdesinden uzağa ileten uzantısına ne ad verilir?",
+    "explanation": "Akson (sinir teli), nöronun gövdesinden çıkan, miyelin kılıf ile çevrelenebilen ve sinir impulsunu hücre gövdesinden hedef hücreye (kas, bez, başka nöron) ileten uzun, ince bir uzantıdır.",
+    "options": [
+      {
+        "text": "Akson",
+        "isCorrect": true
+      },
+      {
+        "text": "Dendrit",
+        "isCorrect": false
+      },
+      {
+        "text": "Schwann hücresi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ranvier boğumu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Beynin denge, hareket koordinasyonu ve kas tonusu gibi işlevlerden sorumlu kısmı hangisidir?",
+    "explanation": "Beyincik (serebellum), istemli hareketlerin koordinasyonundan, dengenin sağlanmasından ve kas tonusunun düzenlenmesinden sorumludur.",
+    "options": [
+      {
+        "text": "Beyincik",
+        "isCorrect": true
+      },
+      {
+        "text": "Beyin sapı",
+        "isCorrect": false
+      },
+      {
+        "text": "Talamus",
+        "isCorrect": false
+      },
+      {
+        "text": "Hipotalamus",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Sempatik sinir sisteminin vücut üzerindeki genel etkisi aşağıdakilerden hangisidir?",
+    "explanation": "Sempatik sinir sistemi, 'savaş ya da kaç' tepkisinden sorumludur. Stres, korku veya heyecan anlarında aktive olarak kalp atış hızını, solunumu ve kan basıncını artırır, vücudu acil duruma hazırlar.",
+    "options": [
+      {
+        "text": "Vücudu stres ve acil durumlara hazırlamak",
+        "isCorrect": true
+      },
+      {
+        "text": "Vücudu dinlenme ve sindirim durumuna geçirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "İstemli hareketleri kontrol etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Duyu algılarını işlemek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İki nöron arasında veya bir nöron ile efektör bir hücre (kas, bez) arasında impuls iletimini sağlayan kimyasal maddeye ne ad verilir?",
+    "explanation": "Nörotransmitter (sinir iletici), sinaps adı verilen boşlukta salgılanarak impulsun bir hücreden diğerine iletilmesini sağlayan kimyasal bir habercidir. Örnekler: asetilkolin, dopamin.",
+    "options": [
+      {
+        "text": "Nörotransmitter",
+        "isCorrect": true
+      },
+      {
+        "text": "Hormon",
+        "isCorrect": false
+      },
+      {
+        "text": "Enzim",
+        "isCorrect": false
+      },
+      {
+        "text": "Reseptör",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Mide öz suyunda bulunan ve proteinlerin sindiriminde görev alan enzim aşağıdakilerden hangisidir?",
+    "explanation": "Pepsin, mide öz suyunda bulunan ve asidik ortamda aktifleşen bir proteaz enzimidir. Proteinleri daha küçük polipeptitlere parçalar.",
+    "options": [
+      {
+        "text": "Pepsin",
+        "isCorrect": true
+      },
+      {
+        "text": "Amilaz",
+        "isCorrect": false
+      },
+      {
+        "text": "Lipaz",
+        "isCorrect": false
+      },
+      {
+        "text": "Tripsin",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sindirim Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Safra kesesi ve karaciğer tarafından salgılanan safranın ince bağırsaktaki temel görevi nedir?",
+    "explanation": "Safra, yağların mekanik sindiriminde rol oynar. Yağ damlacıklarını daha küçük damlacıklara bölerek (emülsiyon) lipaz enziminin etkinliğini artırır. Yağda eriyen vitaminlerin emilimine de yardımcı olur.",
+    "options": [
+      {
+        "text": "Yağların fiziksel sindirimini sağlamak",
+        "isCorrect": true
+      },
+      {
+        "text": "Proteinleri parçalamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Nişastayı sindirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Asidik ortamı nötrleştirmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sindirim Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnce bağırsak yüzeyini genişleterek emilim alanını artıran yapılar aşağıdakilerden hangisinde birlikte ve doğru verilmiştir?",
+    "explanation": "İnce bağırsağın iç yüzeyindeki villuslar (tümürcükler) ve her bir villusun yüzeyini oluşturan mikrovilluslar, emilim yüzey alanını büyük ölçüde artıran yapılardır.",
+    "options": [
+      {
+        "text": "Villus ve Mikrovillus",
+        "isCorrect": true
+      },
+      {
+        "text": "Kıvrım ve Villus",
+        "isCorrect": false
+      },
+      {
+        "text": "Mikrovillus ve Kıvrım",
+        "isCorrect": false
+      },
+      {
+        "text": "Tükürük bezi ve Villus",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sindirim Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Pankreas tarafından salgılanan ve ince bağırsakta nişastanın sindirimini tamamlayan enzim aşağıdakilerden hangisidir?",
+    "explanation": "Amilaz enzimi tükürükte de bulunur ancak pankreas amilazı ince bağırsakta nişasta ve glikojenin sindirimini maltoz ve glikoza kadar tamamlar.",
+    "options": [
+      {
+        "text": "Amilaz",
+        "isCorrect": true
+      },
+      {
+        "text": "Maltaz",
+        "isCorrect": false
+      },
+      {
+        "text": "Laktaz",
+        "isCorrect": false
+      },
+      {
+        "text": "Sükraz",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sindirim Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Böbrekte süzülme işleminin gerçekleştiği temel yapısal ve işlevsel birim aşağıdakilerden hangisidir?",
+    "explanation": "Nefron, böbreğin idrar oluşturmakla görevli temel işlevsel birimidir. Glomerulus (kılcal damar yumağı) ve Bowman kapsülünden oluşan renal korpüskül, kanın süzüldüğü yerdir.",
+    "options": [
+      {
+        "text": "Nefron",
+        "isCorrect": true
+      },
+      {
+        "text": "Üreter",
+        "isCorrect": false
+      },
+      {
+        "text": "Pelvis",
+        "isCorrect": false
+      },
+      {
+        "text": "Medulla",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Böbrekteki nefronun proksimal tübülüsündeki temel görev aşağıdakilerden hangisidir?",
+    "explanation": "Glomerulustan süzülen süzüntü (filtrat), proksimal tübülüsten geçerken su, glikoz, amino asitler ve iyonlar gibi yararlı maddelerin büyük bir kısmı (%65-80) aktif ve pasif taşıma ile geri emilir.",
+    "options": [
+      {
+        "text": "Süzüntüdeki yararlı maddelerin büyük kısmını geri emmek",
+        "isCorrect": true
+      },
+      {
+        "text": "İdrarı depolamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Atık maddeleri salgılamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanı süzmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hipofiz bezinden salgılanan ve böbreklerdeki distal tübülüs ve toplayıcı kanallardan suyun geri emilimini artıran hormon aşağıdakilerden hangisidir?",
+    "explanation": "ADH (Antidiüretik Hormon veya Vazopressin), vücut susuz kaldığında salgılanır. Böbrek tübüllerine etki ederek suyun geri emilimini artırır, böylece idrar çıkışını azaltır ve kan basıncını korur.",
+    "options": [
+      {
+        "text": "ADH (Antidiüretik Hormon)",
+        "isCorrect": true
+      },
+      {
+        "text": "Aldosteron",
+        "isCorrect": false
+      },
+      {
+        "text": "Adrenalin",
+        "isCorrect": false
+      },
+      {
+        "text": "Insülin",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hücresel solunumda substrat düzeyinde fosforilasyon aşağıdaki evrelerin hangisinde gerçekleşir?",
+    "explanation": "Substrat düzeyinde fosforilasyon, glikoliz evresinde (1,3-bifosfogliserattan 3-fosfogliserat oluşumu ve fosfoenolpiruvattan pirüvat oluşumu) ve Krebs düzeyinde (süksinil-KoA'dan süksinat oluşumu) gerçekleşir. Oksidatif fosforilasyon ise elektron taşıma sisteminde olur.",
+    "options": [
+      {
+        "text": "Yalnızca glikoliz evresinde",
+        "isCorrect": false
+      },
+      {
+        "text": "Glikoliz ve Krebs döngüsü evrelerinde",
+        "isCorrect": true
+      },
+      {
+        "text": "Yalnızca Krebs döngüsü evresinde",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca elektron taşıma sistemi evresinde",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijenli solunum yapan bir bakteride aşağıdaki moleküllerden hangisinin net üretimi, oksijensiz solunum yapan bir bakteridekinden daha fazladır?",
+    "explanation": "Oksijenli solunumda, elektron taşıma zincirinin son elektron alıcısı oksijen olduğu için ATP verimi çok yüksektir (toplam ~36-38 ATP). Oksijensiz solunumda ise son elektron alıcı oksijen dışında bir inorganik madde olduğundan ATP verimi daha düşüktür (~2-36 ATP arası, genellikle oksijenliye göre az).",
+    "options": [
+      {
+        "text": "Pirüvat",
+        "isCorrect": false
+      },
+      {
+        "text": "Laktik asit",
+        "isCorrect": false
+      },
+      {
+        "text": "ATP",
+        "isCorrect": true
+      },
+      {
+        "text": "NADH",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Krebs döngüsü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Krebs döngüsü mitokondri matriksinde gerçekleşir ve pirüvatın asetil-CoA'ya dönüşümüyle başlar. Döngü sırasında NADH, FADH2 ve ATP (GTP yoluyla) üretilir. Ancak, karbondioksit (CO2) açığa çıkması bu döngüde gerçekleşir, glikoliz evresinde değil.",
+    "options": [
+      {
+        "text": "Mitokondrinin matriksinde gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Glikoliz evresinde açığa çıkan CO2 bu evrede kullanılır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Oksijen varlığında pirüvatın mitokondriye girmesiyle başlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "NADH ve FADH2 gibi yüksek enerjili elektron taşıyıcıları üretir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir hücrede oksijenli solunum hızı ölçülürken aşağıdaki maddelerden hangisinin tüketim miktarının izlenmesi en doğrudur?",
+    "explanation": "Oksijenli solunumun temel göstergeleri oksijen (O2) tüketimi ve karbondioksit (CO2) üretimidir. Solunum hızını doğrudan ölçmek için genellikle oksijen tüketim miktarı izlenir.",
+    "options": [
+      {
+        "text": "Glikoz",
+        "isCorrect": false
+      },
+      {
+        "text": "Su",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen",
+        "isCorrect": true
+      },
+      {
+        "text": "Pirüvat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki moleküllerden hangisi, hücrede doğrudan enerji kaynağı olarak kullanılamaz?",
+    "explanation": "Hücrelerin doğrudan kullandığı enerji molekülü ATP'dir. NADH ve FADH2 yüksek enerjili elektron taşırlar ancak enerjiyi doğrudan vermezler, elektron taşıma zincirinde ATP üretiminde kullanılırlar. Proteinler enerji verici olarak kullanılabilir ancak öncelikli değildir ve parçalanmaları gerekir. DNA ise genetik bilgiyi taşıyan bir molekül olup enerji kaynağı olarak kullanılmaz.",
+    "options": [
+      {
+        "text": "ATP",
+        "isCorrect": false
+      },
+      {
+        "text": "NADH",
+        "isCorrect": false
+      },
+      {
+        "text": "Protein",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir hücrede ATP sentezi ile ATP tüketimi aynı anda ve eşit miktarda gerçekleşiyorsa bu hücre için aşağıdakilerden hangisi söylenebilir?",
+    "explanation": "ATP sentezi ve tüketiminin dengede olması, hücrenin homeostazis (iç denge) halinde olduğunu gösterir. Enerji ihtiyacı karşılanmaktadır ve ATP depoları sabit kalır.",
+    "options": [
+      {
+        "text": "Hücre bölünmeye hazırdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hücrede enerji açığı oluşmuştur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hücre dinlenme halindedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hücre enerji dengesini korumaktadır.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Fotosentez ve kemosentez olaylarının ortak özelliği aşağıdakilerden hangisidir?",
+    "explanation": "Fotosentez (ışık enerjisi kullanır) ve kemosentez (inorganik madde oksidasyonundan elde edilen kimyasal enerjiyi kullanır) farklı enerji kaynakları kullanmalarına rağmen, her ikisi de inorganik maddelerden (CO2 ve H2O) organik madde (glikoz) sentezler. Bu nedenle her ikisi de özümleme (anabolik) reaksiyonlarıdır.",
+    "options": [
+      {
+        "text": "Işık enerjisini kullanmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen üretmeleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Organik madde sentezlemeleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Klorofil pigmenti kullanmaları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aktivasyon enerjisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Aktivasyon enerjisi, bir kimyasal reaksiyonun başlayabilmesi için gerekli olan minimum enerji miktarıdır. Enzimler, aktivasyon enerjisini düşürerek reaksiyonları hızlandırırlar. Reaksiyondan açığa çıkan net enerjiyi değil, reaksiyonu başlatmak için gereken enerji eşiğini ifade eder.",
+    "options": [
+      {
+        "text": "Reaksiyondan açığa çıkan net enerji miktarıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enzimler aktivasyon enerjisini yükseltir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reaksiyonun başlaması için gerekli olan enerjidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ürünlerin sahip olduğu enerjidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsan solunum sisteminde gaz değişiminin gerçekleştiği temel yapı aşağıdakilerden hangisidir?",
+    "explanation": "Solunum sisteminde oksijen ve karbondioksit değişimi, alveoller ve kılcal damarlar arasında difüzyon ile gerçekleşir. Alveoller gaz değişim yüzeyini arttıran temel birimlerdir.",
+    "options": [
+      {
+        "text": "Bronş",
+        "isCorrect": false
+      },
+      {
+        "text": "Alveol",
+        "isCorrect": true
+      },
+      {
+        "text": "Gırtlak",
+        "isCorrect": false
+      },
+      {
+        "text": "Trakea",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kanda karbondioksitin (CO2) taşınma şekilleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Karbondioksit kanda üç şekilde taşınır: 1) Plazmada çözünmüş halde (%7), 2) Karbaminohemoglobin olarak (hemoglobine bağlı, %23), 3) Bikarbonat (HCO3-) iyonu olarak (%70). Oksihemoglobin, oksijenin hemoglobine bağlandığı formdur, karbondioksit taşımaz.",
+    "options": [
+      {
+        "text": "Plazmada çözünmüş halde taşınabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksihemoglobin şeklinde taşınır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bikarbonat iyonu şeklinde taşınır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbaminohemoglobin şeklinde taşınır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Soluk verme sırasında aşağıdaki olaylardan hangisi gerçekleşmez?",
+    "explanation": "Soluk verme (ekspirasyon) pasif bir olaydır. Diyafram kası gevşeyerek kubbeleşir, dış interkostal kaslar gevşer, göğüs kafesi daralır ve akciğerlerdeki basınç artar, hava dışarı atılır. İç interkostal kasların kasılması zorlu ekspirasyonda görülür, normal soluk vermede iç interkostal kaslar kasılmaz.",
+    "options": [
+      {
+        "text": "Diyafram kası gevşer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Göğüs kafesi hacmi azalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "İç interkostal kaslar kasılır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Akciğerlerdeki basınç artar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijen (O2) ve karbondioksitin (CO2) alveoller ile kılcal damarlar arasında difüzyonu hangi fiziksel kurala göre gerçekleşir?",
+    "explanation": "Alveoller ve kılcal damarlar arasındaki gaz alışverişi, kısmi basınç farkına bağlı olarak pasif difüzyon ile gerçekleşir. Oksijen kısmi basıncı alveollerde yüksek, kılcal damarlarda düşük olduğu için O2 kana geçer. CO2 kısmi basıncı ise kanda yüksek, alveollerde düşük olduğu için CO2 alveollere geçer.",
+    "options": [
+      {
+        "text": "Osmoz",
+        "isCorrect": false
+      },
+      {
+        "text": "Aktif taşıma",
+        "isCorrect": false
+      },
+      {
+        "text": "Kısmi basınç farkı",
+        "isCorrect": true
+      },
+      {
+        "text": "Filtrasyon",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Protein sentezi sırasında, bir amino asidin şifresini taşıyan mRNA üzerindeki üç nükleotidden oluşan birime ne ad verilir?",
+    "explanation": "mRNA üzerinde, bir amino asidi şifreleyen ve üç nükleotidden oluşan birimlere kodon adı verilir. Antikodon ise tRNA üzerinde bulunur ve kodonla eşleşir.",
+    "options": [
+      {
+        "text": "Antikodon",
+        "isCorrect": false
+      },
+      {
+        "text": "Kodon",
+        "isCorrect": true
+      },
+      {
+        "text": "Triplet",
+        "isCorrect": false
+      },
+      {
+        "text": "Gen",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Protein sentezinde görev alan RNA çeşitleri ve işlevleri eşleştirildiğinde aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "mRNA, DNA'daki genetik bilgiyi ribozoma taşır ve kalıp görevi görür. tRNA, sitoplazmadaki amino asitleri ribozoma taşır. rRNA ise ribozomun yapısına katılır ve protein sentezinin gerçekleştiği yerdir. DNA'nın kendisi protein sentezinde doğrudan görev almaz, bilgiyi mRNA'ya aktarır.",
+    "options": [
+      {
+        "text": "mRNA → Kalıp görevi görür.",
+        "isCorrect": false
+      },
+      {
+        "text": "tRNA → Amino asitleri taşır.",
+        "isCorrect": false
+      },
+      {
+        "text": "rRNA → Ribozomun yapısına katılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA → Amino asitleri birleştirir.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Genetik şifre ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Genetik şifre (kodonlar) evrenseldir; hemen hemen tüm canlılarda aynı amino asitleri ifade eder. Bu, genetik mühendisliğinin temelini oluşturan önemli bir özelliktir. Şifre üç nükleotittir (triplet) ve bir kodon bir amino asidi şifreler. AUG hem metionin amino asidini şifreler hem de başlama kodonudur.",
+    "options": [
+      {
+        "text": "Her canlı türüne özgüdür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dört nükleotitten oluşan birimlerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir kodon birden fazla amino asidi şifreleyebilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hemen hemen tüm canlılarda aynıdır (evrenseldir).",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda dişi üreme sisteminde, yumurta ve sperm hücresinin birleştiği (döllenmenin gerçekleştiği) yer aşağıdakilerden hangisidir?",
+    "explanation": "Döllenme olayı, fallop tüpü (yumurta kanalı) içinde gerçekleşir. Yumurtalıktan atılan yumurta hücresi fallop tüpüne geçer ve burada sperm hücresi ile karşılaşırsa döllenme meydana gelir.",
+    "options": [
+      {
+        "text": "Yumurtalık (Ovaryum)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fallop Tüpü",
+        "isCorrect": true
+      },
+      {
+        "text": "Rahim (Uterus)",
+        "isCorrect": false
+      },
+      {
+        "text": "Vajina",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda embriyonik gelişim sırasında, üç embriyonik tabakanın (ektoderm, mezoderm, endoderm) oluşumunu içeren evre aşağıdakilerden hangisidir?",
+    "explanation": "Gastrulasyon evresi, blastula evresinden sonra gelir ve embriyoda üç temel tabakanın (ektoderm, mezoderm, endoderm) oluştuğu evredir. Bu tabakalardan farklı doku ve organlar gelişir.",
+    "options": [
+      {
+        "text": "Segmentasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Gastrulasyon",
+        "isCorrect": true
+      },
+      {
+        "text": "İmplantasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Organogenez",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda plasenta ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Plasenta, anne ve fetüsün kan damarlarının doğrudan birleştiği bir yapı değildir. Anne ve fetüs kanları birbirine karışmaz; besin, gaz ve atık maddelerin değişimi plasenta bariyeri üzerinden difüzyon ve aktif taşıma ile gerçekleşir.",
+    "options": [
+      {
+        "text": "Anne ve fetüs arasında gaz alışverişini sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Anne ve fetüsün kan damarları doğrudan birleşir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Progesteron hormonu salgılar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Besin ve atık maddelerin geçişine izin verir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir ekosistemdeki besin zinciri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Bir besin zincirinde enerjinin büyük bir kılı (%90'a kadar) bir trofik düzeyden bir sonrakine geçerken solunum, hareket, ısı kaybı gibi nedenlerle kaybolur. Bu nedenle enerji aktarım verimi düşüktür ve zincirdeki birey sayısı ve biyokütle genellikle azalır.",
+    "options": [
+      {
+        "text": "Enerjinin %90'ı bir trofik düzeyden diğerine aktarılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Zincirdeki birey sayısı ve biyokütle üreticilerden tüketicilere doğru artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerjinin büyük bir kılı bir trofik düzeyden diğerine geçerken kaybolur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Zincir ne kadar uzunsa ekosistem o kadar kararlıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir populasyonun büyüklüğünü sınırlayan yoğunluk-bağımlı faktörlerden biridir?",
+    "explanation": "Yoğunluk-bağımlı faktörler, populasyon yoğunluğu arttıkça etkisi şiddetlenen faktörlerdir. Rekabet (besin, su, yuva alanı için), parazitlik, hastalık ve avcılık bu faktörlere örnektir. Yağış miktarı ise populasyon yoğunluğundan bağımsız olarak etki eden bir abiyotik faktördür.",
+    "options": [
+      {
+        "text": "Yağış miktarı",
+        "isCorrect": false
+      },
+      {
+        "text": "Ani sıcaklık değişimleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Rekabet",
+        "isCorrect": true
+      },
+      {
+        "text": "Yangın",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Karbon döngüsü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Karbon döngüsünde, karbonun atmosferden uzaklaştırıldığı (bağlandığı) temel süreç fotosentezdir. Solunum, ayrışma ve yanma ise karbonun (CO2 formunda) atmosfere geri dönüşünü sağlayan süreçlerdir.",
+    "options": [
+      {
+        "text": "Fotosentez, atmosferdeki karbondioksiti organik bileşiklere dönüştürür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solunum, karbonun atmosfere geri dönüş yollarından biridir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fosil yakıtların yanması atmosferdeki CO2 miktarını artırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solunum, karbonun atmosferden uzaklaştırıldığı temel süreçtir.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsan gözünde, ışığa duyarlı reseptör hücreler (çubuk ve koni hücreleri) aşağıdaki kısımların hangisinde bulunur?",
+    "explanation": "Gözde ışığı algılayan fotoreseptör hücreler (çubuk ve koniler), retina tabakasında bulunur. Işık, kornea, iris, lens gibi yapılardan geçerek retina üzerine düşer ve bu hücreler tarafından algılanır.",
+    "options": [
+      {
+        "text": "Kornea",
+        "isCorrect": false
+      },
+      {
+        "text": "İris",
+        "isCorrect": false
+      },
+      {
+        "text": "Retina",
+        "isCorrect": true
+      },
+      {
+        "text": "Göz Merceği (Lens)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsan kulağında, ses dalgalarının mekanik titreşimlere dönüştürüldüğü bölüm aşağıdakilerden hangisidir?",
+    "explanation": "Orta kulak, dış kulaktan gelen ses dalgalarının kulak zarını titreştirmesiyle başlar. Çekiç, örs, üzengi kemikleri bu titreşimleri güçlendirerek iç kulağa iletir. Dolayısıyla ses enerjisinin mekanik enerjiye dönüşümü ve iletilmesi orta kulakta gerçekleşir.",
+    "options": [
+      {
+        "text": "Dış Kulak",
+        "isCorrect": false
+      },
+      {
+        "text": "Orta Kulak",
+        "isCorrect": true
+      },
+      {
+        "text": "İç Kulak",
+        "isCorrect": false
+      },
+      {
+        "text": "Salyangoz (Kohlea)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Dilin farklı bölgelerinin farklı tatları (tatlı, tuzlu, ekşi, acı) algılamasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Geleneksel olarak dilin belirli bölgelerinin belirli tatları daha hassas algıladığı düşünülse de, güncel bilgilere göre dilin her bölgesi dört temel tadı (tatlı, tuzlu, ekşi, acı) algılayabilir. Ancak, algılama hassasiyeti bölgelere göre farklılık gösterebilir.",
+    "options": [
+      {
+        "text": "Dilin sadece uç kısmı tatlı, arka kısmı ise acı tadı algılar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dilin her bölgesi dört temel tadı da algılayabilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tuzlu tat algısı sadece dilin orta kenarlarında bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekşi tat algısı için dilin arka kısmı gereklidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  }
+]
