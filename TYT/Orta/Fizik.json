@@ -1,0 +1,1016 @@
+[
+  {
+    "text": "Bir su dalgasının dalga boyu 2 m ve frekansı 0,5 Hz'dir. Bu dalganın yayılma hızı kaç m/s'dir?",
+    "explanation": "Dalga hızı formülü v = λ.f'dir. Dalga boyu (λ) = 2 m, frekans (f) = 0,5 Hz. v = 2 * 0,5 = 1 m/s.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "0,5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki dalga türlerinden hangisi elektromanyetik dalga değildir?",
+    "explanation": "Ses dalgaları mekanik dalgalardır ve yayılmak için bir ortama ihtiyaç duyarlar. Radyo dalgaları, mikrodalgalar ve görünür ışık ise elektromanyetik dalgalardır ve boşlukta yayılabilir.",
+    "options": [
+      {
+        "text": "Radyo dalgaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Mikrodalgalar",
+        "isCorrect": false
+      },
+      {
+        "text": "Ses dalgaları",
+        "isCorrect": true
+      },
+      {
+        "text": "Görünür ışık",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir dalganın tepe noktası ile çukur noktası arasındaki düşey uzaklık 12 cm ise, bu dalganın genliği kaç cm'dir?",
+    "explanation": "Genlik (A), denge konumundan maksimum uzaklıktır. Tepe ile çukur arasındaki mesafe 2A'ya eşittir. 2A = 12 cm ise A = 6 cm'dir.",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "I. Yayılma doğrultusuna paralel titreşir.\nII. Sıkışma ve genleşme bölgeleri oluşturur.\nYukarıdaki özellikler hangi dalga türüne aittir?",
+    "explanation": "Boyuna dalgalarda titreşim doğrultusu ile yayılma doğrultusu aynıdır. Ortamda sıkışma ve genleşme bölgeleri oluşur. En bilinen örnek ses dalgalarıdır.",
+    "options": [
+      {
+        "text": "Enine dalga",
+        "isCorrect": false
+      },
+      {
+        "text": "Boyuna dalga",
+        "isCorrect": true
+      },
+      {
+        "text": "Su dalgası",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektromanyetik dalga",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kesit alanları eşit olan X ve Y pistonlarından oluşan bir hidrolik sistemde, X pistonuna 20 N'luk kuvvet uygulandığında Y pistonu 60 N'luk yükü kaldırabiliyor. Buna göre Y pistonunun kesit alanı, X'in kaç katıdır?",
+    "explanation": "Pascal prensibine göre, P = F/A. Basınç her yere aynı iletilir. Px = Py => Fx/Ax = Fy/Ay. 20/Ax = 60/Ay => Ay/Ax = 60/20 = 3.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basınç",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Açık hava basıncının 10^5 Pa olduğu bir ortamda, kesit alanı 0,02 m² olan bir yüzeye etki eden net kuvvet sıfırdır. Buna göre yüzeyin arka tarafındaki basınç kaç Pa'dır?",
+    "explanation": "Net kuvvet sıfır ise yüzeyin her iki tarafındaki basınçlar eşittir. Bu nedenle arka taraftaki basınç da açık hava basıncına eşit, yani 10^5 Pa'dır.",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "5000",
+        "isCorrect": false
+      },
+      {
+        "text": "100000",
+        "isCorrect": true
+      },
+      {
+        "text": "200000",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basınç",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yoğunluğu 2 g/cm³, yüksekliği 10 cm olan sıvının bir kapta tabanına yaptığı basınç kaç Pascal'dır? (g=10 m/s²)",
+    "explanation": "Sıvı basıncı P = h.d.g formülü ile bulunur. Önce birimleri SI'ya çevirmek gerekir: d = 2 g/cm³ = 2000 kg/m³, h = 10 cm = 0,1 m. P = 0,1 * 2000 * 10 = 2000 Pa.",
+    "options": [
+      {
+        "text": "200",
+        "isCorrect": false
+      },
+      {
+        "text": "2000",
+        "isCorrect": true
+      },
+      {
+        "text": "20000",
+        "isCorrect": false
+      },
+      {
+        "text": "200000",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basınç",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Buz üzerinde kayak yapan bir kişinin batmamasının temel nedeni aşağıdakilerden hangisidir?",
+    "explanation": "Kayak yaparken kişinin ağırlığı, kayakların geniş yüzey alanına dağılır. Basınç (P = F/A) formülüne göre, kuvvet (ağırlık) sabitken alan (A) artarsa basınç (P) azalır. Bu nedenle kişi buz yüzeyine daha az basınç uygular ve batmaz.",
+    "options": [
+      {
+        "text": "Ağırlığının azalması",
+        "isCorrect": false
+      },
+      {
+        "text": "Buzun sıcaklığının düşük olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yüzey alanının artması",
+        "isCorrect": true
+      },
+      {
+        "text": "Sürtünme katsayısının küçük olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basınç",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "20°C'deki 100 g su ile 50°C'deki 200 g su karıştırılıyor. Karışımın son sıcaklığı kaç °C olur? (Isı alışverişi sadece su ile su arasındadır.)",
+    "explanation": "Isı alışverişi denklemi: Verilen ısı = Alınan ısı. m1.c.(Tson - T1) = m2.c.(T2 - Tson). Kütleler farklı olduğu için c (özgül ısı) sadeleşir. 100*(T-20) = 200*(50-T) => T-20 = 100 - 2T => 3T = 120 => T = 40°C.",
+    "options": [
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "35",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "isCorrect": true
+      },
+      {
+        "text": "45",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir metal çubuk ısıtıldığında boyu uzar. Bu uzamanın temel sebebi aşağıdakilerden hangisidir?",
+    "explanation": "Isıtılan maddeler genleşir çünkü sıcaklık arttığında atom veya moleküllerin ortalama kinetik enerjisi artar. Bu, taneciklerin denge konumları etrafındaki titreşim genliklerinin büyümesine ve birbirlerinden daha fazla uzaklaşmalarına neden olur, böylece maddenin boyutları artar.",
+    "options": [
+      {
+        "text": "Kütlesinin artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yoğunluğunun artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Taneciklerinin hareket enerjisinin artması",
+        "isCorrect": true
+      },
+      {
+        "text": "Hacminin azalması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Özkütlesi 1 g/cm³ olan suyun 10 gramının sıcaklığını 10°C artırmak için kaç kalori ısı gerekir? (csu = 1 cal/g°C)",
+    "explanation": "Isı miktarı Q = m.c.ΔT formülü ile hesaplanır. m=10 g, c=1 cal/g°C, ΔT=10°C. Q = 10 * 1 * 10 = 100 kalori.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": true
+      },
+      {
+        "text": "1000",
+        "isCorrect": false
+      },
+      {
+        "text": "10000",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sıcaklıkları aynı olan demir ve tahta parçalarına dokunulduğunda demirin daha soğuk hissedilmesinin nedeni aşağıdakilerden hangisidir?",
+    "explanation": "Demir, tahtaya göre daha iyi bir ısı iletkenidir. Ele dokunulduğunda, demir elden daha hızlı ısı çeker (iletir), bu nedenle soğuk hissedilir. Tahta ise kötü bir iletken olduğu için elden çok az ısı çeker ve sıcaklığı daha yakın hissedilir.",
+    "options": [
+      {
+        "text": "Demirin sıcaklığının daha düşük olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Demirin ısı iletkenliğinin yüksek olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Tahtanın özkütlesinin küçük olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Demirin özgül ısısının büyük olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki özelliklerden hangisi ayırt edici bir özelliktir?",
+    "explanation": "Ayırt edici özellikler, maddeleri birbirinden ayırt etmek için kullanılan ve madde miktarına bağlı olmayan özelliklerdir. Özkütle, kaynama noktası, erime noktası, özısı gibi özellikler ayırt edicidir. Kütle ve hacim ise madde miktarına bağlıdır (maddenin türüne değil, miktarına bağlıdır) ve ayırt edici değildir.",
+    "options": [
+      {
+        "text": "Kütle",
+        "isCorrect": false
+      },
+      {
+        "text": "Hacim",
+        "isCorrect": false
+      },
+      {
+        "text": "Özkütle",
+        "isCorrect": true
+      },
+      {
+        "text": "Esneklik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Madde ve Özellikleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir maddenin birim hacminin kütlesine ne ad verilir?",
+    "explanation": "Özkütle (yoğunluk), maddenin kütlesinin hacmine bölünmesiyle bulunan ve maddenin birim hacminin kütlesini ifade eden ayırt edici bir özelliktir. Formülü d = m/V'dir.",
+    "options": [
+      {
+        "text": "Kütle",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağırlık",
+        "isCorrect": false
+      },
+      {
+        "text": "Hacim",
+        "isCorrect": false
+      },
+      {
+        "text": "Özkütle",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Madde ve Özellikleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütlesi 60 g, hacmi 20 cm³ olan bir cismin özkütlesi kaç g/cm³'tür?",
+    "explanation": "Özkütle formülü d = m / V'dir. m = 60 g, V = 20 cm³. d = 60 / 20 = 3 g/cm³.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Madde ve Özellikleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay bir düzlemde durmakta olan 4 kg kütleli bir cisme, yatay doğrultuda 12 N büyüklüğünde bir kuvvet 3 saniye boyunca uygulanıyor. Cismin 3. saniye sonundaki hızı kaç m/s'dir?",
+    "explanation": "Önce ivme bulunur: F = m.a => 12 = 4.a => a = 3 m/s². Sonra hız formülü kullanılır: v = v₀ + a.t = 0 + 3.3 = 9 m/s.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet ve Hareket",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hava direncinin ihmal edildiği bir ortamda, yatayla 37° açı yapacak şekilde 50 m/s hızla atılan bir cisim maksimum yüksekliğe kaç saniyede ulaşır? (g=10 m/s², sin37°=0,6)",
+    "explanation": "Maksimum yüksekliğe çıkış süresi, düşey hız bileşeni kullanılarak bulunur: t_çıkış = (v₀.sinθ) / g = (50.0,6) / 10 = 30 / 10 = 3 s.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet ve Hareket",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay bir zeminde 2 kg ve 3 kg kütleli cisimler, 20 N'luk bir kuvvetle şekildeki gibi birbirine temas halinde itiliyor. Cisimler arasındaki temas kuvveti kaç Newton'dur?",
+    "explanation": "Sistemin ivmesi: a = F / (m₁+m₂) = 20 / (2+3) = 4 m/s². 2 kg'lık cisme etki eden net kuvvet F_net = m₁.a = 2.4 = 8 N'dir. Bu net kuvvet, 3 kg'lık cismin 2 kg'lık cisime uyguladığı temas kuvvetidir.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet ve Hareket",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Durmakta olan 1000 kg kütleli bir araba, 5000 N'luk sabit bir net kuvvet etkisinde hareket ediyor. Arabanın 20 metre yol aldığında hızı kaç m/s olur?",
+    "explanation": "İvme: a = F/m = 5000/1000 = 5 m/s². Kinematik denklem: v² = v₀² + 2.a.x = 0 + 2.5.20 = 200. Buradan v = √200 = 10√2 ≈ 14,14 m/s.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "10√2",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "20√2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet ve Hareket",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki büyüklük çiftlerinden hangisi türetilmiş bir büyüklüktür?",
+    "explanation": "Türetilmiş büyüklükler, temel büyüklükler cinsinden ifade edilebilen büyüklüklerdir. Kuvvet (Newton), kütle (kg), uzunluk (m) ve zaman (s) cinsinden F = m.a formülü ile ifade edildiği için türetilmiştir. Diğer seçenekler temel büyüklüklerdir.",
+    "options": [
+      {
+        "text": "Kütle - Zaman",
+        "isCorrect": false
+      },
+      {
+        "text": "Uzunluk - Sıcaklık",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuvvet - Hacim",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektrik Akımı - Işık Şiddeti",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fizik Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir fiziksel niceliğin 'skaler' olarak tanımlanabilmesi için aşağıdaki özelliklerden hangisine sahip olması gerekir?",
+    "explanation": "Skaler büyüklükler sadece bir sayı ve bir birimle ifade edilebilir. Yönü ve doğrultusu yoktur. Toplama işlemi cebirseldir. Vektörel büyüklükler ise yön, doğrultu ve şiddet gerektirir.",
+    "options": [
+      {
+        "text": "Yönü ve doğrultusunun olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Sayısal değer ve birimle ifade edilebilmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bileşenlerinin olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Vektörel toplama kurallarına uyması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fizik Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "SI birim sisteminde, 'İş' aşağıdaki birimlerden hangisi ile ifade edilir?",
+    "explanation": "İş, kuvvet ve yolun çarpımına eşittir (W = F.x). Kuvvetin birimi Newton (N), yolun birimi metre (m) olduğundan, işin birimi N.m'dir. N.m aynı zamanda Joule (J) olarak da adlandırılır.",
+    "options": [
+      {
+        "text": "Newton (N)",
+        "isCorrect": false
+      },
+      {
+        "text": "Joule (J)",
+        "isCorrect": true
+      },
+      {
+        "text": "Pascal (Pa)",
+        "isCorrect": false
+      },
+      {
+        "text": "Watt (W)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fizik Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki ölçüm çiftlerinden hangisi 'anlamlı rakamlar' kuralına göre aynı hassasiyete sahiptir?",
+    "explanation": "Anlamlı rakamlar, bir ölçümde kesinlik ve belirsizliği gösteren rakamlardır. Hassasiyet, en küçük değerli basamak ile belirlenir. 2,50 cm (yüzde birler) ve 0,0250 m (yüzde birler, çünkü 0,0250 m = 2,50 cm) aynı hassasiyete sahiptir.",
+    "options": [
+      {
+        "text": "2,5 cm ve 25 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "0,25 kg ve 250 g",
+        "isCorrect": false
+      },
+      {
+        "text": "2,50 cm ve 0,0250 m",
+        "isCorrect": true
+      },
+      {
+        "text": "105 s ve 1,05 s",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fizik Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Özdeş iki direnç, önce seri sonra paralel bağlanıyor. Paralel bağlı durumdaki eşdeğer direnç, seri bağlı durumdaki eşdeğer direncin kaç katıdır?",
+    "explanation": "Her bir direnç R olsun. Seri bağlamada: R_seri = R + R = 2R. Paralel bağlamada: 1/R_paralel = 1/R + 1/R = 2/R => R_paralel = R/2. Oran: R_paralel / R_seri = (R/2) / (2R) = 1/4.",
+    "options": [
+      {
+        "text": "1/2",
+        "isCorrect": false
+      },
+      {
+        "text": "1/4",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Direnci 10 Ω olan bir iletkenden 2 dakika boyunca 3 Amperlik akım geçiriliyor. İletkende açığa çıkan toplam ısı enerjisi kaç Joule'dür?",
+    "explanation": "Isı enerjisi Q = I².R.t formülü ile bulunur. Zamanı saniyeye çevirmek gerekir: 2 dakika = 120 saniye. Q = (3)² . 10 . 120 = 9 . 10 . 120 = 10800 J.",
+    "options": [
+      {
+        "text": "3600",
+        "isCorrect": false
+      },
+      {
+        "text": "7200",
+        "isCorrect": false
+      },
+      {
+        "text": "10800",
+        "isCorrect": true
+      },
+      {
+        "text": "14400",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Şekildeki devrede 3 Ω'luk dirençten geçen akım 2 A ise, üretecin elektromotor kuvveti (EMK) kaç V'tur? (Devre: 3Ω ve 6Ω'luk dirençler paralel, bu paralel kombinasyon da 4Ω'luk dirençle seri bağlı)",
+    "explanation": "3Ω'luk dirençte voltaj: V_3Ω = I.R = 2.3 = 6 V. Paralel olduğu için 6Ω'luk dirençte de voltaj 6 V'dur. Paralel kombinasyonun eşdeğer direnci: R_paralel = (3.6)/(3+6)=18/9=2Ω. Devrenin toplam direnci: R_toplam = 2 + 4 = 6Ω. Ana koldaki akım: I_ana = V_paralel / R_paralel = 6 / 2 = 3 A. EMK: ε = I_ana . R_toplam = 3 . 6 = 18 V.",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": true
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Manyetik alan içerisinde bulunan bir tele manyetik kuvvet etki etmesi için aşağıdaki koşullardan hangisi kesinlikle gereklidir?",
+    "explanation": "Manyetik kuvvet, F = I.L.B.sinθ formülü ile verilir. Manyetik kuvvetin sıfırdan farklı olması için akımın (I) olması, telin manyetik alan (B) içinde olması ve akım yönü ile manyetik alan yönünün paralel olmaması (sinθ ≠ 0) gerekir. Telin hareket etmesi bir sonuçtur, sebep değildir.",
+    "options": [
+      {
+        "text": "Telden akım geçmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Tel manyetik alana paralel olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Akım yönü ile manyetik alan yönünün paralel olmaması",
+        "isCorrect": true
+      },
+      {
+        "text": "Tel manyetik alan içinde hareket etmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yoğunluğu 0,8 g/cm³ olan bir cisim, yoğunluğu 1 g/cm³ olan suyun içinde yüzüyor. Cismin batan hacminin, tüm hacmine oranı kaçtır?",
+    "explanation": "Yüzme koşuluna göre: Cismin ağırlığı = Kaldırma kuvveti. m.g = d_sıvı . V_batan . g. d_cisim . V_cisim = d_sıvı . V_batan. 0,8 . V_cisim = 1 . V_batan. V_batan / V_cisim = 0,8.",
+    "options": [
+      {
+        "text": "0,5",
+        "isCorrect": false
+      },
+      {
+        "text": "0,6",
+        "isCorrect": false
+      },
+      {
+        "text": "0,8",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kaldırma Kuvveti",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Tamamen suya batırılmış bir cisim, dinamometre ile tartıldığında 20 N geliyor. Havada tartıldığında ise 50 N geliyor. Cisme etki eden kaldırma kuvveti kaç Newton'dur?",
+    "explanation": "Kaldırma kuvveti (F_k), cismin havadaki ağırlığından (G) sudaki ağırlığının (G_görünen) çıkarılmasıyla bulunur. F_k = G - G_görünen = 50 N - 20 N = 30 N.",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kaldırma Kuvveti",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hacmi 100 cm³ olan katı bir cisim, özkütlesi 1,2 g/cm³ olan bir sıvı içine bırakılıyor. Cisim sıvı içinde askıda kalıyorsa, cismin özkütlesi için ne söylenebilir?",
+    "explanation": "Bir cisim sıvı içinde askıda kalıyorsa, cismin özkütlesi sıvının özkütlesine eşittir. Bu durumda cismin özkütlesi de 1,2 g/cm³'tür.",
+    "options": [
+      {
+        "text": "1,2 g/cm³'ten küçüktür",
+        "isCorrect": false
+      },
+      {
+        "text": "1,2 g/cm³'ten büyüktür",
+        "isCorrect": false
+      },
+      {
+        "text": "1,2 g/cm³'e eşittir",
+        "isCorrect": true
+      },
+      {
+        "text": "1 g/cm³'e eşittir",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kaldırma Kuvveti",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay bir düzlemde durmakta olan 10 kg kütleli bir cisme, yatay doğrultuda 50 N büyüklüğünde bir kuvvet uygulanarak cismin 4 m yer değiştirmesi sağlanıyor. Bu süreçte cisme yapılan iş kaç joule'dür?",
+    "explanation": "İş, kuvvet ve kuvvet doğrultusundaki yer değiştirmenin çarpımına eşittir (W = F * x). Sürtünme olmadığı için tüm kuvvet işe dönüşür. W = 50 N * 4 m = 200 J.",
+    "options": [
+      {
+        "text": "200",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir vinç, 800 kg kütleli bir yükü 20 saniyede 10 m yüksekliğe sabit hızla kaldırıyor. Vincin bu işi yaparken sarf ettiği güç kaç watt'tır? (g = 10 m/s²)",
+    "explanation": "Yük sabit hızla kaldırıldığı için vincin uyguladığı kuvvet, yükün ağırlığına eşittir (F = m*g = 800*10 = 8000 N). Yapılan iş W = F*h = 8000 N * 10 m = 80000 J. Güç ise işin zamana bölümüdür (P = W/t). P = 80000 J / 20 s = 4000 W.",
+    "options": [
+      {
+        "text": "4000",
+        "isCorrect": true
+      },
+      {
+        "text": "8000",
+        "isCorrect": false
+      },
+      {
+        "text": "16000",
+        "isCorrect": false
+      },
+      {
+        "text": "2000",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kinetik enerjisi 72 joule olan 4 kg kütleli bir cismin hızı kaç m/s'dir?",
+    "explanation": "Kinetik enerji formülü E_k = (1/2)*m*v²'dir. 72 = (1/2)*4*v² => 72 = 2*v² => v² = 36 => v = 6 m/s.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir dalganın frekansı 5 Hz, dalga boyu ise 0.4 metredir. Bu dalganın yayılma hızı kaç m/s'dir?",
+    "explanation": "Dalga hızı formülü v = λ * f'dir. Burada λ (dalga boyu) 0.4 m, f (frekans) ise 5 Hz'dir. v = 0.4 * 5 = 2 m/s.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "0.8",
+        "isCorrect": false
+      },
+      {
+        "text": "12.5",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi enine dalgalara özgü bir özelliktir?",
+    "explanation": "Enine dalgalarda titreşim doğrultusu, dalganın yayılma doğrultusuna diktir. Bu nedenle enine dalgalar polarize edilebilir. Boyuna dalgalar (ses dalgası gibi) ise polarize edilemez.",
+    "options": [
+      {
+        "text": "Polarize edilebilir olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Yayılmak için mutlaka bir ortama ihtiyaç duyması",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji taşıması",
+        "isCorrect": false
+      },
+      {
+        "text": "Frekansının ortam değiştirse de sabit kalması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Ses dalgaları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Ses dalgaları mekanik dalgalardır, yani yayılmak için maddesel bir ortama ihtiyaç duyarlar. Bu nedenle boşlukta (uzayda) yayılamazlar. Diğer seçeneklerde verilen ifadeler doğrudur.",
+    "options": [
+      {
+        "text": "Boşlukta yayılabilirler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Boyuna dalgalardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortamın sıcaklığı arttıkça hızları genellikle artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortam değiştirdiklerinde frekansları değişmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Işık, havadan cam ortamına geçerken aşağıdaki niceliklerden hangisi değişmez?",
+    "explanation": "Işık bir ortamdan diğerine geçerken hızı, dalga boyu ve gelme açısına bağlı olarak kırılma açısı değişir. Ancak, ışığın frekansı kaynağına bağlıdır ve ortam değişse de sabit kalır.",
+    "options": [
+      {
+        "text": "Frekansı",
+        "isCorrect": true
+      },
+      {
+        "text": "Hızı",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalga boyu",
+        "isCorrect": false
+      },
+      {
+        "text": "Kırılma açısı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Optik",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kırılma indisi 1.5 olan bir cam blok içinde ilerleyen ışığın hızı kaç m/s'dir? (Işığın boşluktaki hızı c = 3x10⁸ m/s)",
+    "explanation": "Bir ortamın kırılma indisi (n), ışığın boşluktaki hızının (c) o ortamdaki hızına (v) oranıdır: n = c / v. Buna göre v = c / n = (3x10⁸) / 1.5 = 2x10⁸ m/s.",
+    "options": [
+      {
+        "text": "2x10⁸",
+        "isCorrect": true
+      },
+      {
+        "text": "3x10⁸",
+        "isCorrect": false
+      },
+      {
+        "text": "4.5x10⁸",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5x10⁸",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Optik",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir çukur aynada, odak noktası ile ayna arasında bulunan bir cismin görüntüsü için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Çukur aynada, cisim odak noktası (F) ile ayna arasında ise (yani cisim odak noktasından aynaya daha yakınsa), görüntü sanal, düz ve cisimden büyük olur. Bu, büyüteç etkisi yaratır.",
+    "options": [
+      {
+        "text": "Sanal, düz ve büyüktür.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gerçek, ters ve küçüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gerçek, düz ve büyüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanal, ters ve küçüktür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Optik",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  }
+]
