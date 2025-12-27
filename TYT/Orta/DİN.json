@@ -1,0 +1,340 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi insanın doğuştan sahip olduğu inanma ihtiyacının temel göstergelerinden biri olarak kabul edilir?",
+    "explanation": "Tarih boyunca tüm toplumlarda bir inanç sisteminin varlığı, insanın fıtratında (yaratılışında) bulunan inanma ihtiyacının en temel göstergesidir.",
+    "options": [
+      {
+        "text": "Tarihin her döneminde toplumlarda bir inanç sisteminin bulunması",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilimsel gelişmelerin hızlanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomik refah düzeyinin artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatsal faaliyetlerin çeşitlenmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Din (İnanç)",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam inancına göre, insanı diğer varlıklardan ayıran ve onun sorumlu bir varlık olmasını sağlayan temel özellik aşağıdakilerden hangisidir?",
+    "explanation": "Akıl, insana verilmiş bir emanettir ve iyiyi kötüden, doğruyu yanlıştan ayırt etme yeteneğidir. Bu nedenle insan, aklı sayesinde yaptıklarından sorumlu tutulur.",
+    "options": [
+      {
+        "text": "Akıl",
+        "isCorrect": true
+      },
+      {
+        "text": "Fiziksel güç",
+        "isCorrect": false
+      },
+      {
+        "text": "İletişim becerisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Üretkenlik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Din (İnanç)",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdaki ibadetlerden hangisi İslam'ın 'şartları' arasında yer alan temel ibadetlerden biri değildir?",
+    "explanation": "İslam'ın beş şartı; kelime-i şehadet getirmek, namaz kılmak, oruç tutmak, zekat vermek ve hacca gitmektir. Kurban kesmek ise vacip bir ibadettir ve şartlardan biri değildir.",
+    "options": [
+      {
+        "text": "Kurban kesmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Namaz kılmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Oruç tutmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Zekat vermek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İbadet",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İbadetlerin kabul edilmesi için aşağıdaki şartlardan hangisi öncelikli ve zorunludur?",
+    "explanation": "İslam'a göre, yapılan bir ibadetin Allah katında kabul görmesinin temel şartı, ihlasla yani sadece Allah'ın rızasını gözeterek ve gösterişten uzak bir şekilde yapılmasıdır.",
+    "options": [
+      {
+        "text": "İhlas (Samimiyet)",
+        "isCorrect": true
+      },
+      {
+        "text": "İbadetin toplu halde yapılması",
+        "isCorrect": false
+      },
+      {
+        "text": "İbadetin uzun sürmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "İbadetin gösterişli bir mekanda yapılması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İbadet",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Hz. Muhammed'e (s.a.v.) peygamberlik görevi nerede ve kaç yaşındayken verilmiştir?",
+    "explanation": "Hz. Muhammed, 40 yaşındayken Hira Mağarası'nda tefekkürle meşgul olduğu bir sırada ilk vahiy gelmiş ve peygamberlik görevi başlamıştır.",
+    "options": [
+      {
+        "text": "Hira Mağarası'nda, 40 yaşında",
+        "isCorrect": true
+      },
+      {
+        "text": "Kabe'de, 35 yaşında",
+        "isCorrect": false
+      },
+      {
+        "text": "Mescid-i Nebi'de, 45 yaşında",
+        "isCorrect": false
+      },
+      {
+        "text": "Mekke'deki evinde, 30 yaşında",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hz. Muhammed'in Hayatı",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Hz. Muhammed'in (s.a.v.) Mekke'den Medine'ye hicret etmesinin en önemli sonuçlarından biri aşağıdakilerden hangisidir?",
+    "explanation": "Hicret, İslam toplumunun (ümmet) oluşmasının ve İslam devleti niteliğindeki Medine Site Devleti'nin kurulmasının başlangıcı olması açısından çok önemli bir dönüm noktasıdır.",
+    "options": [
+      {
+        "text": "İslam toplumunun ve devletinin temellerinin atılması",
+        "isCorrect": true
+      },
+      {
+        "text": "Mekke'nin ekonomik olarak güçlenmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Arap Yarımadası'nda putperestliğin tamamen bitmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Bizans İmparatorluğu ile ilişkilerin başlaması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hz. Muhammed'in Hayatı",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam dinine göre, vahiy ve akıl arasındaki ilişki için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "İslam düşüncesinde vahiy ve akıl birbirini tamamlayan iki bilgi kaynağıdır. Vahiy, aklın ulaşamayacağı metafizik konularda rehberlik eder; akıl ise vahyi anlamak ve hayata uygulamak için kullanılır.",
+    "options": [
+      {
+        "text": "Vahiy ve akıl birbirini tamamlayan iki bilgi kaynağıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Akıl, vahye her zaman üstün gelir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahiy, aklın kullanılmasını engeller.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akıl ve vahiy birbiriyle çelişir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vahiy ve Akıl",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Kur'an-ı Kerim'de sık sık 'düşünmez misiniz?', 'akıl etmez misiniz?' gibi ifadelerin kullanılmasının temel amacı aşağıdakilerden hangisidir?",
+    "explanation": "Bu ayetler, insanı evrendeki ayetlere (işaretlere) bakmaya, düşünmeye ve aklını kullanarak Allah'ın varlığını ve birliğini idrak etmeye teşvik etmektedir.",
+    "options": [
+      {
+        "text": "İnsanı evreni ve yaratılışı düşünmeye ve aklını kullanmaya teşvik etmek",
+        "isCorrect": true
+      },
+      {
+        "text": "İnsanın aklının yetersiz olduğunu vurgulamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece bilim insanlarını hedef almak",
+        "isCorrect": false
+      },
+      {
+        "text": "Geçmiş toplumların hatalarını anlatmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vahiy ve Akıl",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam düşüncesinde, başlangıcı itibarıyla siyasi bir ayrılık olarak ortaya çıkan, daha sonra itikadi ve fıkhi bir yoruma dönüşen mezhep aşağıdakilerden hangisidir?",
+    "explanation": "Şia, Hz. Muhammed'den sonraki hilafet konusunda ortaya çıkan siyasi bir ayrılıkla başlamış, zamanla kendine has itikadi ve fıkhi görüşleri olan bir mezhep haline gelmiştir.",
+    "options": [
+      {
+        "text": "Şia",
+        "isCorrect": true
+      },
+      {
+        "text": "Hanefilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Yesevilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Vehabilik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Düşüncesi ve Yorumu",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi İslam düşüncesindeki fıkhi (hukuki) mezheplerden biri değildir?",
+    "explanation": "Maturidilik, itikadi (inançla ilgili) bir mezheptir. Hanefilik, Şafiilik, Malikilik ve Hanbelilik ise dört büyük Sünni fıkhi mezheptir.",
+    "options": [
+      {
+        "text": "Maturidilik",
+        "isCorrect": true
+      },
+      {
+        "text": "Hanefilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Şafiilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Malikilik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Düşüncesi ve Yorumu",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam medeniyetinde, Allah'ın isim ve sıfatlarını konu edinen; hat, tezhip ve ebru gibi sanat dallarının gelişmesinde önemli rol oynayan temel değer aşağıdakilerden hangisidir?",
+    "explanation": "Tevhid (Allah'ın birliği) inancı, İslam sanatının merkezinde yer alır. Soyutlamaya ve derin anlamlara yönelten bu inanç, süsleme sanatlarının ve hat sanatının Allah'ın isimlerini ve evrendeki birliği yansıtacak şekilde gelişmesine katkı sağlamıştır.",
+    "options": [
+      {
+        "text": "Tevhid İnancı",
+        "isCorrect": true
+      },
+      {
+        "text": "Kıble Birliği",
+        "isCorrect": false
+      },
+      {
+        "text": "Cihat Anlayışı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hilafet Müessesesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslamda Değerler, Sanat ve Laiklik",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Laiklik ilkesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Laiklik, temelde devletin, bireylerin inanç ve ibadet özgürlüğünü güvence altına alarak, farklı inanç grupları karşısında tarafsız kalması ve yönetimde dini kuralları esas almamasıdır.",
+    "options": [
+      {
+        "text": "Devletin, farklı din ve inançlara eşit mesafede durmasını ve dini özgürlükleri güvence altına almasını öngörür.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumda dini inancın tamamen ortadan kaldırılmasını hedefler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece bir dinin devlet tarafından resmi olarak tanınmasını savunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireylerin sadece ibadetlerini değil, kişisel inançlarını da kamuya açıklamasını zorunlu kılar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslamda Değerler, Sanat ve Laiklik",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Hristiyanlık inancının temelini oluşturan ve Tanrı'nın üç farklı tezahürü (Baba, Oğul, Kutsal Ruh) olduğu doktrini aşağıdakilerden hangisidir?",
+    "explanation": "Teslis (Üçleme) doktrini, Hristiyan teolojisinin temelini oluşturur ve Tanrı'nın Baba, Oğul (İsa Mesih) ve Kutsal Ruh olmak üzere üç hypostasis'te (kişilikte) tek bir özde var olduğunu kabul eder.",
+    "options": [
+      {
+        "text": "Teslis (Üçleme)",
+        "isCorrect": true
+      },
+      {
+        "text": "Ahiret İnancı",
+        "isCorrect": false
+      },
+      {
+        "text": "Tenassuh (Reenkarnasyon)",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahdet-i Vücut",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşayan Dinler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
+  }
+]
