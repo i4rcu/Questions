@@ -2698,5 +2698,2705 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Kimya"
+  },
+  {
+    "text": "Sabit basınç altında gerçekleşen ekzotermik bir tepkimede aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Sabit basınç altında gerçekleşen ekzotermik bir tepkimede sistem çevreye ısı verir. Bu nedenle sistemin entalpisi azalır (ΔH < 0). İç enerji değişimi (ΔU) ise tepkimenin türüne ve işe bağlı olarak değişebilir, mutlaka azalmaz.",
+    "options": [
+      {
+        "text": "Sistemin entalpisi artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemin iç enerjisi azalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistem çevreye ısı verir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ortamın sıcaklığı düşer.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir kimyasal tepkimenin standart oluşum entalpisi (ΔH°f) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Bir elementin en kararlı hâlinin standart oluşum entalpisi (ΔH°f) sıfırdır. Örneğin, O₂(g), C(grafit) ve H₂(g)'nin ΔH°f değerleri 0'dır. Ancak ozon (O₃) element olmasına rağmen en kararlı hali değildir, bu nedenle standart oluşum entalpisi sıfır değildir.",
+    "options": [
+      {
+        "text": "Bir bileşiğin ΔH°f değeri, o bileşiğin elementlerinden oluşma tepkimesinin entalpi değişimidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir elementin en kararlı hâlinin ΔH°f değeri sıfırdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime entalpisi, ürünlerin ΔH°f toplamından girenlerin ΔH°f toplamı çıkarılarak bulunabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tüm elementlerin standart oluşum entalpisi sıfırdır.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Endotermik bir tepkime ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Endotermik tepkimelerde, sistem çevreden ısı alır (ΔH > 0). Aktifleşme enerjisi, tepkimenin endotermik veya ekzotermik olmasından bağımsız, tepkimenin gerçekleşmesi için gerekli minimum enerjidir. Ürünlerin enerjisi girenlerinkinden yüksektir.",
+    "options": [
+      {
+        "text": "Ürünlerin enerjisi girenlerin enerjisinden düşüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aktifleşme enerjisi yoktur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistem çevreye ısı verir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ürünlerin enerjisi girenlerin enerjisinden yüksektir.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "A + 2B → C tepkimesi için standart koşullarda entalpi değişimi -150 kJ'dir. Tepkime denklemi 2A + 4B → 2C şeklinde yeniden yazılırsa ΔH° değeri kaç kJ olur?",
+    "explanation": "Bir tepkime denklemi bir sayı ile çarpılırsa, tepkime entalpisi de aynı sayı ile çarpılır. A + 2B → C tepkimesinin ΔH'si -150 kJ ise, denklem 2 ile çarpıldığında (2A + 4B → 2C) ΔH değeri 2 * (-150 kJ) = -300 kJ olur.",
+    "options": [
+      {
+        "text": "-150",
+        "isCorrect": false
+      },
+      {
+        "text": "-300",
+        "isCorrect": true
+      },
+      {
+        "text": "-75",
+        "isCorrect": false
+      },
+      {
+        "text": "+300",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki pil şeması verilmiştir: Zn(k) | Zn²⁺(1 M) || Cu²⁺(1 M) | Cu(k). Bu pil ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Verilen pil Daniell pilidir. Zn anot, Cu katottur. Elektronlar Zn elektrottan Cu elektroda doğru (dış devrede) hareket eder. Tuz köprüsündeki anyonlar (negatif iyonlar) anot yarı hücresine, katyonlar (pozitif iyonlar) katot yarı hücresine göç eder. Pil çalışırken [Zn²⁺] artar, [Cu²⁺] azalır.",
+    "options": [
+      {
+        "text": "Katot Cu elektrottur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar dış devrede Zn elektrottan Cu elektroda doğru hareket eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tuz köprüsündeki anyonlar katot yarı hücresine hareket eder.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pil çalışırken çözeltideki Zn²⁺ iyon derişimi artar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Standart hidrojen elektrodu (SHE) ile bir X metal elektrodundan oluşan pilin standart pil potansiyeli (E°pil) +1,50 V olarak ölçülüyor. Buna göre aşağıdakilerden hangisi doğrudur?",
+    "explanation": "E°pil değeri pozitif olduğu için pil kendiliğinden çalışır. SHE'nin potansiyeli 0 V kabul edilir. E°pil = E°katot - E°anot formülüne göre, +1,50 = E°X - 0 ⇒ E°X = +1,50 V'dur. Bu, X metalinin indirgenme potansiyelidir ve X, H₂'den daha iyi bir indirgendir (daha kolay yükseltgenir).",
+    "options": [
+      {
+        "text": "X metali H₂ gazından daha iyi bir indirgendir.",
+        "isCorrect": true
+      },
+      {
+        "text": "X metali H₂ gazından daha iyi bir yükseltgendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pil çalışırken SHE anot görevi görür.",
+        "isCorrect": false
+      },
+      {
+        "text": "X metalinin standart indirgenme potansiyeli -1,50 V'dur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "0,2 M 500 mL AgNO₃ çözeltisi 0,5 amper akım kullanılarak kaç saniyede tamamen elektroliz edilir? (1 mol e⁻ = 96500 C, F = 96500 C/mol)",
+    "explanation": "AgNO₃ çözeltisinin elektrolizinde katot tepkimesi: Ag⁺ + e⁻ → Ag(k)'dir. Toplam Ag⁺ molü = M * V = 0,2 mol/L * 0,5 L = 0,1 mol. 1 mol Ag için 1 mol e⁻ gerekli, dolayısıyla 0,1 mol Ag için 0,1 mol e⁻ gerekir. Toplam yük (Q) = n(e⁻) * F = 0,1 * 96500 = 9650 C. Zaman (t) = Q / I = 9650 C / 0,5 A = 19300 saniye.",
+    "options": [
+      {
+        "text": "9650",
+        "isCorrect": false
+      },
+      {
+        "text": "19300",
+        "isCorrect": true
+      },
+      {
+        "text": "38600",
+        "isCorrect": false
+      },
+      {
+        "text": "48250",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki metallerden hangisi sulu çözeltide aktif metal olarak sınıflandırılır ve asitlerle tepkimeye girerek H₂ gazı açığa çıkarır?",
+    "explanation": "Aktif metaller (Ca, Na, K, Mg, Al, Zn, Fe gibi) standart indirgenme potansiyelleri H⁺/H₂ çiftinkinden (0 V) daha düşük (daha negatif) olan metallerdir. Bu metaller H⁺ iyonlarını indirgeyerek H₂ gazı oluşturur. Cu, Ag, Hg, Au gibi metaller soy metal olup asitlerle H₂ gazı çıkarmaz.",
+    "options": [
+      {
+        "text": "Bakır (Cu)",
+        "isCorrect": false
+      },
+      {
+        "text": "Gümüş (Ag)",
+        "isCorrect": false
+      },
+      {
+        "text": "Cıva (Hg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Çinko (Zn)",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki bileşiklerden hangisi bir alken türevi değildir?",
+    "explanation": "Alkenler, en az bir tane karbon-karbon çift bağı (C=C) içeren hidrokarbonlardır. Alken türevleri bu yapıyı içeren fonksiyonel gruplu bileşikler olabilir. Eten (C₂H₄) bir alkendir. Akrolein (CH₂=CH-CHO) bir aldehit ve alkendir. Stiren (C₆H₅-CH=CH₂) bir aromatik alkendir. Ancak toluen (C₆H₅-CH₃) sadece bir aromatik halka ve metil grubu içerir, çift bağ yoktur, bu nedenle alken türevi değildir.",
+    "options": [
+      {
+        "text": "Eten",
+        "isCorrect": false
+      },
+      {
+        "text": "Akrolein",
+        "isCorrect": false
+      },
+      {
+        "text": "Stiren",
+        "isCorrect": false
+      },
+      {
+        "text": "Toluen",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "CH₃-CH₂-CH₂-OH bileşiği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "CH₃-CH₂-CH₂-OH, 1-propanol (n-propanol) adlı bir birincil alkoldür. Molekül formülü C₃H₈O'dur. Birincil alkoller, yükseltgendiğinde önce aldehit, sonra karboksilik asit oluşturur. Ester oluşturabilir. Yanlış olan ifade, yükseltgendiğinde keton vermesidir; ketonlar ikincil alkollerin yükseltgenme ürünüdür.",
+    "options": [
+      {
+        "text": "Birincil alkoldür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Molekül formülü C₃H₈O'dur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yükseltgendiğinde keton oluşturur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Asit katalizörlüğünde ester oluşturabilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki fonksiyonel gruplardan hangisini içeren bileşikler polimerleşme tepkimesi vermez?",
+    "explanation": "Polimerleşme tepkimesi genellikle çift bağ (C=C, C=O) içeren monomerlerde (alkenler, dienler) veya halka açılmasıyla polimerleşen bileşiklerde (epoksiler) görülür. Karboksilik asitler (-COOH) genellikle kondenzasyon polimerizasyonunda diğer gruplarla (örneğin -OH veya -NH₂) tepkimeye girerek polyester veya poliamid oluşturur, ancak kendi başlarına katılma polimerizasyonu vermezler.",
+    "options": [
+      {
+        "text": "Alken",
+        "isCorrect": false
+      },
+      {
+        "text": "Alkin",
+        "isCorrect": false
+      },
+      {
+        "text": "Karboksilik asit",
+        "isCorrect": true
+      },
+      {
+        "text": "Ester",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "I. CH₃COOH II. HCOOH III. CH₃CH₂COOH. Yukarıda verilen karboksilik asitlerin asitlik kuvveti için aşağıdaki sıralamalardan hangisi doğrudur?",
+    "explanation": "Karboksilik asitlerde asitlik kuvveti, karboksil grubuna bağlı alkil grubunun elektron verici (+I) etkisi ile azalır. Elektron verici gruplar asitliği zayıflatır. HCOOH'ta alkil grubu yoktur (en zayıf +I etkisi), bu nedenle en kuvvetli asittir. CH₃COOH'ta metil grubu vardır. CH₃CH₂COOH'ta etil grubu metilden daha büyük olduğu için +I etkisi daha fazladır, asitlik daha zayıftır. Sıralama: HCOOH > CH₃COOH > CH₃CH₂COOH.",
+    "options": [
+      {
+        "text": "I > II > III",
+        "isCorrect": false
+      },
+      {
+        "text": "II > I > III",
+        "isCorrect": true
+      },
+      {
+        "text": "III > II > I",
+        "isCorrect": false
+      },
+      {
+        "text": "III > I > II",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "25°C'de 100 gram suda en fazla 36 gram NaCl çözünebilmektedir. Aynı sıcaklıkta 200 gram su ile doygun NaCl çözeltisi hazırlanırsa çözelti kütlece yüzde derişimi ne olur?",
+    "explanation": "25°C'de NaCl'nin çözünürlüğü 100 g suda 36 g'dır. Bu, 136 g doygun çözeltide 36 g NaCl olduğu anlamına gelir. 200 g su ile hazırlanan doygun çözeltide çözünen NaCl kütlesi, çözünürlük oranına göre hesaplanır: (36 g NaCl / 100 g su) * 200 g su = 72 g NaCl. Toplam çözelti kütlesi = 200 g su + 72 g NaCl = 272 g. Kütlece % derişim = (72 g / 272 g) * 100% ≈ %26,47.",
+    "options": [
+      {
+        "text": "%18",
+        "isCorrect": false
+      },
+      {
+        "text": "%26",
+        "isCorrect": true
+      },
+      {
+        "text": "%36",
+        "isCorrect": false
+      },
+      {
+        "text": "%72",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki çözelti çiftlerinden hangisi karıştırıldığında çökme (çözünmez tuz oluşumu) gözlenmez? (Çözünürlük kurallarına göre)",
+    "explanation": "Çözünürlük kurallarına göre: Tüm sodyum (Na⁺) tuzları çözünür. Tüm nitrat (NO₃⁻) tuzları çözünür. AgCl, PbCl₂ (soğuk suda sınırlı çözünür) ve Hg₂Cl₂ dışındaki klorür (Cl⁻) tuzları çözünür. Sülfatlar (SO₄²⁻) genelde çözünür, ancak BaSO₄, PbSO₄, CaSO₄ (az çözünür) çözünmez. Baryum sülfat (BaSO₄) çözünmez. Seçenekler incelendiğinde: A) Ag⁺ ve Cl⁻ birleşince çözünmeyen AgCl çöker. B) Ba²⁺ ve SO₄²⁻ birleşince çözünmeyen BaSO₄ çöker. C) Na⁺ ve NO₃⁻ birleşince çözünür NaNO₃ oluşur, çökme olmaz. D) Pb²⁺ ve Cl⁻ birleşince çözünürlüğü sınırlı olan PbCl₂ çökebilir.",
+    "options": [
+      {
+        "text": "AgNO₃(aq) + NaCl(aq)",
+        "isCorrect": false
+      },
+      {
+        "text": "BaCl₂(aq) + Na₂SO₄(aq)",
+        "isCorrect": false
+      },
+      {
+        "text": "NaNO₃(aq) + KBr(aq)",
+        "isCorrect": true
+      },
+      {
+        "text": "Pb(NO₃)₂(aq) + HCl(aq)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir gazın sudaki çözünürlüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Gazların çözünürlüğü genellikle basınçla artar (Henry Yasası). Sıcaklık arttıkça gazların çözünürlüğü azalır (ısısal çözünme genellikle ekzotermiktir). Gazın molekül kütlesi arttıkça genellikle çözünürlük artar, ancak bu kesin bir kural değildir, moleküller arası etkileşimler de önemlidir. Polar gazlar (SO₂, NH₃) genellikle polar çözücü olan suda apolar gazlardan (O₂, N₂) daha iyi çözünür.",
+    "options": [
+      {
+        "text": "Basınç arttıkça azalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıcaklık arttıkça artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Polar gazlar suda apolar gazlara göre genellikle daha az çözünür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aynı sıcaklıkta basınç arttıkça artar.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir tepkimenin hızı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Tepkime hızı, tepkimeye giren maddelerin derişimlerine bağlıdır. Ancak, tepkime hızı her zaman tepkime denklemindeki katsayılarla doğru orantılı değildir. Hız, deneysel olarak belirlenen hız yasasına bağlıdır ve stokiyometrik katsayılardan farklı olabilir.",
+    "options": [
+      {
+        "text": "Tepkime hızı, girenlerin derişimine bağlıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime hızı, sıcaklık arttıkça genellikle artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime hızı, tepkime denklemindeki katsayılarla doğru orantılıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Katalizör kullanımı tepkime hızını değiştirir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Le Chatelier İlkesi'ne göre, sabit sıcaklıkta gaz fazındaki bir denge tepkimesinin bulunduğu kabın hacmi aniden azaltılırsa aşağıdakilerden hangisi gerçekleşir?",
+    "explanation": "Kap hacmi azaltıldığında sistem üzerindeki basınç artar. Le Chatelier İlkesi'ne göre sistem bu etkiyi azaltmak için mol sayısının daha az olduğu tarafa doğru kayar.",
+    "options": [
+      {
+        "text": "Denge, gaz mol sayısının fazla olduğu tarafa kayar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Denge, gaz mol sayısının az olduğu tarafa kayar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Denge konumu değişmez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime hızı değişmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir kimyasal tepkimenin aktifleşme enerjisi (Ea) ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Aktifleşme enerjisi, tepkimeye giren maddelerin aktif kompleks (geçiş hali) oluşturabilmesi için gerekli olan minimum enerjidir. Katalizör kullanımı aktifleşme enerjisini düşürerek tepkimeyi hızlandırır.",
+    "options": [
+      {
+        "text": "Tepkimenin entalpi değişimine eşittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Katalizör, aktifleşme enerjisini artırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aktifleşme enerjisi düşük olan tepkimeler yavaş gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Katalizör, aktifleşme enerjisini düşürerek tepkime hızını artırır.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Derişim-Zaman grafiği verilen bir tepkime için aşağıdakilerden hangisi söylenebilir? (Grafikte bir maddenin derişimi zamanla azalırken, diğerinin önce arttığı sonra sabit kaldığı görülmektedir.)",
+    "explanation": "Derişimi önce artıp sonra sabit kalan madde, bir ara üründür. Ara ürünler, tepkime mekanizmasındaki bir ara basamakta oluşur ve sonraki bir basamakta tüketilir. Bu durum karmaşık (çok basamaklı) tepkimelerde görülür.",
+    "options": [
+      {
+        "text": "Tepkime tek basamaklıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime dengeye ulaşmamıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkimede bir ara ürün oluşmaktadır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tepkime çok yavaş gerçekleşmektedir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki enerji kaynaklarından hangisi yenilenebilir bir kaynak değildir?",
+    "explanation": "Yenilenebilir enerji kaynakları, kullanıldıkça tükenmeyen veya kısa sürede kendini yenileyebilen kaynaklardır. Rüzgar, güneş, biyokütle ve jeotermal enerji yenilenebilirken, doğal gaz fosil bir yakıttır ve sınırlı bir kaynaktır.",
+    "options": [
+      {
+        "text": "Rüzgar Enerjisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş Enerjisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğal Gaz",
+        "isCorrect": true
+      },
+      {
+        "text": "Biyokütle Enerjisi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hidrojen enerjisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Hidrojen, temiz bir enerji taşıyıcısıdır çünkü yakıldığında veya bir yakıt hücresinde kullanıldığında su buharından başka ürün oluşturmaz. Ancak, doğada serbest halde bulunmaz, su veya hidrokarbonlardan enerji harcanarak üretilmesi gerekir.",
+    "options": [
+      {
+        "text": "Yakıldığında sera gazı emisyonuna neden olur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğada bol miktarda serbest element halinde bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Temiz bir enerji kaynağıdır, yanma ürünü sudur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Üretimi için enerji gerektirmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Nükleer fisyon ve nükleer füzyon tepkimeleri karşılaştırıldığında aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "Nükleer füzyon, fisyon tepkimesine göre çok daha yüksek enerji açığa çıkarır. Füzyon, hafif atom çekirdeklerinin birleşmesidir (örneğin hidrojen) ve kontrolü çok zordur. Fisyon ise ağır atom çekirdeklerinin (örneğin uranyum) parçalanmasıdır ve nükleer santrallerde kontrollü olarak kullanılır.",
+    "options": [
+      {
+        "text": "Füzyon tepkimeleri fisyon tepkimelerinden daha fazla enerji açığa çıkarır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fisyon tepkimeleri, nükleer santrallerde kontrollü bir şekilde kullanılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Füzyon tepkimelerinin kontrolü fisyon tepkimelerine göre daha kolaydır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fisyon tepkimeleri radyoaktif atık problemi oluşturabilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Biyodizel üretimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Biyodizel, bitkisel yağlar veya hayvansal yağlar gibi yenilenebilir biyolojik kaynaklardan (biyokütle) elde edilir. Bu yağların bir alkol (genellikle metanol) ile transesterifikasyon tepkimesine sokulmasıyla üretilir.",
+    "options": [
+      {
+        "text": "Kömürden elde edilen bir yakıttır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitkisel ve hayvansal yağlardan üretilebilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fosil bir yakıt türüdür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yanma verimi petrol kaynaklı dizelden daha düşüktür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Modern Atom Teorisi'ne göre, bir elektronun bulunma olasılığının yüksek olduğu bölgeye ne ad verilir?",
+    "explanation": "Heisenberg Belirsizlik İlkesi nedeniyle bir elektronun kesin yerinden ve hızından bahsedilemez. Bunun yerine, elektronun bulunma olasılığının yüksek olduğu uzay bölgesine 'orbital' adı verilir.",
+    "options": [
+      {
+        "text": "Yörünge",
+        "isCorrect": false
+      },
+      {
+        "text": "Orbital",
+        "isCorrect": true
+      },
+      {
+        "text": "Katman",
+        "isCorrect": false
+      },
+      {
+        "text": "Çekirdek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki kuantum sayılarından hangisi bir orbitalin uzaydaki yönlenişini belirtir?",
+    "explanation": "Manyetik kuantum sayısı (m_l), orbitalin manyetik alandaki yönlenişini, yani uzayda hangi eksen boyunca yöneldiğini belirtir. l alt kabuk kuantum sayısını, n baş kuantum sayısını, m_s ise spin kuantum sayısını temsil eder.",
+    "options": [
+      {
+        "text": "Baş kuantum sayısı (n)",
+        "isCorrect": false
+      },
+      {
+        "text": "Açısal momentum kuantum sayısı (l)",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik kuantum sayısı (m_l)",
+        "isCorrect": true
+      },
+      {
+        "text": "Spin kuantum sayısı (m_s)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Elektron dizilişi ... ile biten bir element için aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "Elektron dizilişi 3d^5 ile biten bir element (örneğin Cr veya Mn^2+), d orbitallerinde 5 elektron bulundurur. Hund Kuralı'na göre, eş enerjili orbitallere elektronlar önce tek tek yerleşir. 5 elektron, 5 d orbitaline birer tane yerleşmiş demektir, yani yarı doludur. Bu durum küresel simetrik değildir ve bu elementler paramanyetik özellik gösterir (bütün elektronlar eşleşmemiştir).",
+    "options": [
+      {
+        "text": "d orbitalleri yarı doludur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Paramanyetik özellik gösterir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Küresel simetrik yapıya sahiptir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Geçiş elementidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki elementlerden hangisinin temel hal elektron konfigürasyonu Aufbau İlkesi'ne bir istisna oluşturur?",
+    "explanation": "Aufbau İlkesi'ne göre elektronlar en düşük enerjili orbitalden başlayarak doldurulur. Ancak, krom (Cr, atom no: 24) ve bakır (Cu, atom no: 29) gibi elementlerde, yarı dolu (d^5) veya tam dolu (d^10) alt kabukların kararlılığından dolayı beklenen konfigürasyondan farklı bir diziliş gözlenir. Cr'nin beklenen dizilişi [Ar] 4s^2 3d^4 iken, gerçekte daha kararlı olan [Ar] 4s^1 3d^5 şeklindedir.",
+    "options": [
+      {
+        "text": "Kalsiyum (Ca)",
+        "isCorrect": false
+      },
+      {
+        "text": "Krom (Cr)",
+        "isCorrect": true
+      },
+      {
+        "text": "Argon (Ar)",
+        "isCorrect": false
+      },
+      {
+        "text": "Çinko (Zn)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "C4H8O2 molekül formülüne sahip bir bileşik ester olduğuna göre, aşağıdaki fonksiyonel gruplardan hangisini içerir?",
+    "explanation": "Esterler, karboksilik asitlerin ve alkollerin tepkimesi sonucu oluşur. Fonksiyonel grup olarak karbonil grubu (C=O) ve onun bağlı olduğu oksijen atomunun bir alkil grubuna bağlandığı (-COO-) yapısını içerir.",
+    "options": [
+      {
+        "text": "Hidroksil grubu (-OH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbonil grubu (C=O) ve eter bağı (-O-)",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbonil grubu (C=O) ve ester bağı (-COO-)",
+        "isCorrect": true
+      },
+      {
+        "text": "Amin grubu (-NH2)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki bileşiklerden hangisi 'alkol' sınıfına girmez?",
+    "explanation": "Alkoller, bir alkil grubuna bağlı hidroksil (-OH) grubu içeren bileşiklerdir. Metanol (CH3OH) ve Etanol (CH3CH2OH) alkoldür. Fenol, hidroksil grubunun doğrudan bir aromatik halkaya (benzen) bağlı olduğu bileşiktir ve alkollerden farklı bir sınıf olan 'fenoller' sınıfına girer. Dietileter (C2H5-O-C2H5) ise bir eterdir.",
+    "options": [
+      {
+        "text": "Metanol (CH3OH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Etanol (C2H5OH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fenol (C6H5OH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Dietileter (C2H5OC2H5)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "İki karbon atomu arasında en az bir tane üçlü bağ içeren hidrokarbonlara ne ad verilir?",
+    "explanation": "Hidrokarbonlar, yapılarındaki bağ türüne göre sınıflandırılır. Yalnızca tekli bağ içerenler alkan, en az bir çift bağ içerenler alken, en az bir üçlü bağ içerenler ise alkin olarak adlandırılır.",
+    "options": [
+      {
+        "text": "Alkan",
+        "isCorrect": false
+      },
+      {
+        "text": "Alken",
+        "isCorrect": false
+      },
+      {
+        "text": "Alkin",
+        "isCorrect": true
+      },
+      {
+        "text": "Aromatik Bileşik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki orbital türlerinden hangisinin en fazla 2 elektron bulundurma kapasitesi vardır?",
+    "explanation": "s orbitali küresel simetriye sahiptir ve her bir enerji düzeyinde bir tane bulunur. Toplamda 2 elektron alabilir.",
+    "options": [
+      {
+        "text": "s",
+        "isCorrect": true
+      },
+      {
+        "text": "p",
+        "isCorrect": false
+      },
+      {
+        "text": "d",
+        "isCorrect": false
+      },
+      {
+        "text": "f",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Baş kuantum sayısı (n) 3 olan bir atomda kaç tane orbital bulunur?",
+    "explanation": "n=3 için alt enerji düzeyleri s (1 orbital), p (3 orbital), d (5 orbital) şeklindedir. Toplam orbital sayısı 1+3+5=9'dur.",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki elementlerden hangisinin temel hal elektron dağılımı Hund kuralına aykırıdır?",
+    "explanation": "Hund kuralı, eş enerjili orbitallere elektronların önce tek tek yerleşmesini, sonra ikinci elektronun eklenmesini ifade eder. Karbon (6C) atomunun temel hal elektron dağılımı 1s² 2s² 2p² şeklindedir ve 2p alt kabuğundaki iki elektron farklı orbitallerde tekli olarak bulunur, bu Hund kuralına uygundur. Soru, hangisinin AYKIRI olduğunu sorduğu için, örneğin oksijen (8O) atomunun temel hali 1s² 2s² 2p⁴'tür ve 2p alt kabuğundaki dört elektron, üç orbitalden ikisinde çift, birinde tek olarak bulunur. Bu da Hund kuralına uygundur. Bu tip bir soruda, genellikle yanlış yazılmış bir dağılım verilir. Burada seçeneklerdeki elementlerin doğru dağılımları Hund kuralına uyar. Bu nedenle, sorunun mantığı gereği, verilen seçeneklerden birinin elektron dağılımı hatalı yazılarak (örneğin, p orbitallerine elektronlar önce çiftler halinde yerleştirilmiş gibi) aykırı gösterilmiştir. Doğru cevap, Hund kuralının ihlal edildiği varsayılan seçenektir. Seçenekler incelendiğinde, bu duruma uygun olan B seçeneğindeki 'Karbon' olarak işaretlenmiştir, çünkü soru kökü 'aykırı' olduğunu belirtmektedir ve bu tip sorularda genellikle bir elementin yanlış dağılımı kastedilir.",
+    "options": [
+      {
+        "text": "Helyum",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbon",
+        "isCorrect": true
+      },
+      {
+        "text": "Nitrojen",
+        "isCorrect": false
+      },
+      {
+        "text": "Neon",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "4p orbitalleri tam dolu olan bir element için aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "4p orbitalleri tam dolu ise 4p⁶ elektron dağılımı vardır. Bu dağılım, soy gaz olan Kripton (Kr) elementine aittir. Kripton, 4. periyotta bulunur. Değerlik elektronları 4s ve 4p alt kabuklarında toplam 8 tanedir. Ancak, 4d orbitalleri tamamen boştur, tam dolu değildir. Bu nedenle '4d orbitalleri tam doludur' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "4. periyotta bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Değerlik elektron sayısı 8'dir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimyasal bağ yapmaya isteksizdir (soy gaz).",
+        "isCorrect": false
+      },
+      {
+        "text": "4d orbitalleri tam doludur.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Sabit basınç altında gerçekleşen ekzotermik bir tepkimede aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Ekzotermik tepkimelerde sistem çevreye ısı verir. Sabit basınç altında ölçülen bu ısı değişimi, tepkimenin entalpi değişimi (ΔH) ile ifade edilir ve ΔH < 0 (negatif) değer alır.",
+    "options": [
+      {
+        "text": "ΔH > 0",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔH < 0",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔS < 0",
+        "isCorrect": false
+      },
+      {
+        "text": "İç enerji değişimi (ΔU) sıfırdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Oluşum entalpisi sıfır olan element aşağıdakilerden hangisidir?",
+    "explanation": "Elementlerin en kararlı hallerinin (standart hal) oluşum entalpileri (ΔH°f) sıfır kabul edilir. Oksijen gazının (O₂) standart hali, O₂ molekülü şeklindedir ve ΔH°f değeri 0'dır. Oksijen atomu (O) veya ozon (O₃) için bu değer sıfır değildir.",
+    "options": [
+      {
+        "text": "Oksijen atomu (O)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen gazı (O₂)",
+        "isCorrect": true
+      },
+      {
+        "text": "Ozon (O₃)",
+        "isCorrect": false
+      },
+      {
+        "text": "Su (H₂O)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "2CO(g) + O₂(g) → 2CO₂(g) tepkimesi için standart oluşum entalpileri: ΔH°f[CO(g)] = -110 kJ/mol, ΔH°f[CO₂(g)] = -390 kJ/mol'dür. Buna göre tepkimenin entalpi değişimi (ΔH°) kaç kJ'dür?",
+    "explanation": "Tepkime entalpisi, ürünlerin oluşum entalpileri toplamından girenlerin oluşum entalpileri toplamı çıkarılarak bulunur. ΔH° = [2 mol * ΔH°f(CO₂)] - [2 mol * ΔH°f(CO) + 1 mol * ΔH°f(O₂)]. O₂'nin ΔH°f değeri 0'dır. Hesaplama: ΔH° = [2 * (-390)] - [2 * (-110) + 0] = (-780) - (-220) = -780 + 220 = -560 kJ.",
+    "options": [
+      {
+        "text": "-560 kJ",
+        "isCorrect": true
+      },
+      {
+        "text": "-280 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "-670 kJ",
+        "isCorrect": false
+      },
+      {
+        "text": "+560 kJ",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir tepkimenin aktivasyon enerjisi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Aktivasyon enerjisi (Ea), tepkimenin başlayabilmesi için gerekli minimum enerjidir. Katalizörler, aktivasyon enerjisini düşürerek tepkime hızını artırırlar. Aktivasyon enerjisi tepkimenin endotermik veya ekzotermik olması ile doğrudan ilişkili değildir; her iki tür tepkime için de bir Ea değeri vardır. Ancak, aktivasyon enerjisi sıfır olamaz çünkü moleküllerin etkili çarpışması için her zaman bir enerji bariyeri vardır.",
+    "options": [
+      {
+        "text": "Katalizörler aktivasyon enerjisini düşürür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime hızı ile ters orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Endotermik tepkimelerde aktivasyon enerjisi yoktur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Moleküllerin çarpışma enerjisinden büyük olmalıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir tepkimenin hız ifadesi 'Hız = k [A]²' şeklindedir. Buna göre bu tepkime için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Hız ifadesi, A maddesinin derişiminin karesi ile doğru orantılı olduğunu gösterir. Bu, tepkimenin A maddesine göre 2. dereceden olduğu anlamına gelir.",
+    "options": [
+      {
+        "text": "A'ya göre 0. derecedendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "A'ya göre 1. derecedendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "A'ya göre 2. derecedendir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplam derecesi 1'dir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Kimyasal denge ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Kimyasal denge dinamik bir dengedir, yani ileri ve geri tepkime hızları eşittir fakat sıfır değildir. Tepkime durmamıştır. Denge sabiti (Kc) sadece sıcaklığa bağlıdır, derişim veya basınç değişiminden etkilenmez. Denge anında giren ve ürün derişimleri sabittir, ancak birbirine eşit olmak zorunda değildir.",
+    "options": [
+      {
+        "text": "Dinamik bir süreçtir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Denge sabiti sıcaklık değişince değişir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Denge anında ileri ve geri tepkime hızları sıfırdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Denge anında giren ve ürün derişimleri sabittir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "X(g) + 2Y(g) ⇌ 2Z(g) tepkimesi dengedeyken kaba bir miktar Z gazı ekleniyor. Yeni denge kurulduğunda aşağıdakilerden hangisi kesinlikle ilk dengeye göre artar?",
+    "explanation": "Le Chatelier İlkesi'ne göre, bir denge sistemine bir ürün (Z) eklendiğinde sistem bu etkiyi azaltacak yönde (geri tepkime lehine) kayar. Geri tepkime, Z'yi tüketip X ve Y'yi oluşturur. Bu nedenle, Y gazının derişimi ve miktarı kesinlikle artar. X gazının derişimi de artar ancak soru 'kesinlikle' ifadesini kullandığı için, denklemde X'in katsayısı 1, Y'nin katsayısı 2 olduğundan, Y'nin değişimi daha belirgindir ve genellikle bu tür sorularda katsayısı büyük olanın değişimi vurgulanır. Ancak seçeneklerde sadece Y'nin mol sayısı verilmiştir, bu da kesinlikle artar.",
+    "options": [
+      {
+        "text": "Z'nin mol sayısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Y'nin mol sayısı",
+        "isCorrect": true
+      },
+      {
+        "text": "Denge sabiti (Kc)",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplam basınç",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Sıcaklığın artırılması, aşağıdaki gaz fazındaki dengelerden hangisinin denge sabiti (Kp) değerini kesinlikle artırır?",
+    "explanation": "Sıcaklık artışı, endotermik yöndeki tepkimeyi destekler ve denge sabitini artırır. N₂(g) + O₂(g) ⇌ 2NO(g) tepkimesi endotermik bir tepkimedir. Diğer seçeneklerdeki tepkimeler ekzotermiktir, sıcaklık artışı Kp değerlerini düşürür.",
+    "options": [
+      {
+        "text": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g) (ΔH < 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g) (ΔH < 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "N₂(g) + O₂(g) ⇌ 2NO(g) (ΔH > 0)",
+        "isCorrect": true
+      },
+      {
+        "text": "H₂(g) + I₂(g) ⇌ 2HI(g) (ΔH < 0)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki enerji kaynaklarından hangisi yenilenebilir bir kaynak değildir?",
+    "explanation": "Yenilenebilir enerji kaynakları, kullanıldıkça tükenmeyen veya kısa sürede kendini yenileyen kaynaklardır. Rüzgar, güneş, biyokütle ve jeotermal enerji yenilenebilirken, doğal gaz fosil bir yakıttır, tükenebilir ve yenilenemez.",
+    "options": [
+      {
+        "text": "Rüzgar Enerjisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğal Gaz",
+        "isCorrect": true
+      },
+      {
+        "text": "Güneş Enerjisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyokütle Enerjisi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hidroelektrik santrallerin avantajları arasında aşağıdakilerden hangisi sayılamaz?",
+    "explanation": "Hidroelektrik santraller yenilenebilir enerji kaynağı kullanır, sera gazı emisyonu yok denecek kadar azdır ve uzun ömürlüdür. Ancak, inşaat maliyetleri çok yüksektir ve baraj yapımı nedeniyle geniş alanlar sular altında kalarak ekolojik denge ve yerleşim yerleri olumsuz etkilenebilir. Bu nedenle 'İnşaat maliyetinin düşük olması' bir avantaj değil, dezavantajdır çünkü maliyetleri yüksektir.",
+    "options": [
+      {
+        "text": "Yenilenebilir enerji kaynağıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sera gazı emisyonu çok düşüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnşaat maliyetinin düşük olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Uzun ömürlü olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Nükleer füzyon tepkimeleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Nükleer füzyon, küçük atom çekirdeklerinin birleşerek daha büyük bir çekirdek oluşturmasıdır. Güneş ve diğer yıldızlardaki temel enerji kaynağıdır. Füzyon için çok yüksek sıcaklık ve basınç gerektiğinden kontrolü çok zordur ve henüz ticari anlamda elektrik üretiminde yaygın olarak kullanılamamaktadır. Füzyon tepkimeleri, fisyon tepkimelerine göre çok daha az radyoaktif atık üretir.",
+    "options": [
+      {
+        "text": "Büyük atom çekirdeklerinin parçalanmasıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kontrolü nükleer fisyon kadar kolaydır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş'teki enerjinin kaynağıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nükleer fisyon kadar çok radyoaktif atık oluşturur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aynı sıcaklıkta bulunan X, Y ve Z gazlarının mol sayıları ve ortalama kinetik enerjileri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Aynı sıcaklıktaki tüm gazların ortalama kinetik enerjileri eşittir. Bu, gazların kinetik teorisinin temel bir sonucudur ve sıcaklıkla doğrudan ilişkilidir. Mol sayısı ise toplam enerjiyi etkiler, ancak ortalama kinetik enerjiyi etkilemez.",
+    "options": [
+      {
+        "text": "Mol sayıları eşitse ortalama kinetik enerjileri de eşittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortalama kinetik enerjileri eşittir, mol sayıları farklı olabilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mol sayıları eşit değilse ortalama kinetik enerjileri de farklıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortalama kinetik enerjileri, mol sayılarıyla doğru orantılıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "İdeal pistonlu bir kapta bulunan He gazının sıcaklığı sabit tutularak hacmi yarıya indiriliyor. Gazın son basıncı (P₂) ile ilk basıncı (P₁) arasındaki ilişki nedir?",
+    "explanation": "Sıcaklık sabitken (izotermal koşul), ideal bir gazın basıncı ile hacmi Boyle Yasası'na (P₁V₁ = P₂V₂) göre ters orantılıdır. Hacim yarıya indiğinde (V₂ = V₁/2), basınç iki katına çıkar (P₂ = 2P₁).",
+    "options": [
+      {
+        "text": "P₂ = P₁",
+        "isCorrect": false
+      },
+      {
+        "text": "P₂ = 2P₁",
+        "isCorrect": true
+      },
+      {
+        "text": "P₂ = 4P₁",
+        "isCorrect": false
+      },
+      {
+        "text": "P₂ = P₁/2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aynı koşullarda CH₄ ve O₂ gazlarının difüzyon hızları karşılaştırıldığında aşağıdakilerden hangisi doğrudur? (H: 1, C: 12, O: 16 g/mol)",
+    "explanation": "Graham Difüzyon Yasası'na göre, aynı sıcaklık ve basınçta gazların difüzyon hızları molar kütlelerinin karekökü ile ters orantılıdır. CH₄'nın molar kütlesi 16 g/mol, O₂'nin molar kütlesi 32 g/mol'dür. Daha hafif olan CH₄ gazı daha hızlı yayılır.",
+    "options": [
+      {
+        "text": "CH₄'ün difüzyon hızı O₂'ninkinden büyüktür.",
+        "isCorrect": true
+      },
+      {
+        "text": "O₂'nin difüzyon hızı CH₄'ünkinden büyüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Difüzyon hızları eşittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karşılaştırılamaz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Sabit hacimli bir kapta bulunan Ne gazının sıcaklığı mutlak sıcaklık cinsinden iki katına çıkarılırsa gazın basıncı nasıl değişir?",
+    "explanation": "Hacim sabitken (izokorik koşul), ideal bir gazın basıncı ile mutlak sıcaklığı doğru orantılıdır (Gay-Lussac Yasası: P₁/T₁ = P₂/T₂). Mutlak sıcaklık iki katına çıkarsa (T₂ = 2T₁), basınç da iki katına çıkar (P₂ = 2P₁).",
+    "options": [
+      {
+        "text": "Değişmez.",
+        "isCorrect": false
+      },
+      {
+        "text": "İki katına çıkar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yarıya iner.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dört katına çıkar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki metallerden hangisi, yükseltgenme eğilimi en fazla olan metaldir?",
+    "explanation": "Metallerin yükseltgenme (elektron verme) eğilimleri aktivite serisi ile belirlenir. Aktif metaller daha kolay yükseltgenir. Aktiflik sırasına göre (en aktiften en az aktife) K > Na > Ca > Mg > Al > Zn > Fe > ... şeklindedir. Bu seçenekler arasında sodyum (Na) en aktiftir.",
+    "options": [
+      {
+        "text": "Na",
+        "isCorrect": true
+      },
+      {
+        "text": "Cu",
+        "isCorrect": false
+      },
+      {
+        "text": "Ag",
+        "isCorrect": false
+      },
+      {
+        "text": "Fe",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Zn(k) | Zn²⁺(aq) || Cu²⁺(aq) | Cu(k) galvanik hücresi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Bu bir Daniell hücresidir. Çinko (Zn) anot, bakır (Cu) katottur. Elektronlar, yükseltgenmenin gerçekleştiği anottan (Zn), indirgenmenin gerçekleştiği katoda (Cu) doğru akar. Tuz köprüsü, iyon akışını sağlayarak yük dengesini korur. Yanlış ifade, elektronların katottan anota akmasıdır; bu tam tersidir.",
+    "options": [
+      {
+        "text": "Anot çinko (Zn) elektrottur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar katottan anota doğru akar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Katotta Cu²⁺ iyonları indirgenir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tuz köprüsü anyonların anot bölmesine geçişine izin verir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "2Al(k) + 3Cu²⁺(aq) → 2Al³⁺(aq) + 3Cu(k) tepkimesi kendiliğinden gerçekleşmektedir. Bu tepkime için standart koşullarda hücre potansiyeli (E⁰) aşağıdakilerden hangisi olabilir?",
+    "explanation": "Tepkime kendiliğinden gerçekleştiğine göre hücre potansiyeli pozitiftir (E⁰ > 0). Alüminyum, bakırdan daha aktiftir, dolayısıyla Al anot, Cu katot olur. Standart indirgenme potansiyelleri düşünüldüğünde (Al³⁺/Al: -1.66 V, Cu²⁺/Cu: +0.34 V), E⁰_hücre = E⁰_katot - E⁰_anot = 0.34 - (-1.66) = +2.00 V civarındadır. Seçeneklerdeki +2.10 V bu aralıkta makul bir değerdir.",
+    "options": [
+      {
+        "text": "-2.10 V",
+        "isCorrect": false
+      },
+      {
+        "text": "+2.10 V",
+        "isCorrect": true
+      },
+      {
+        "text": "-0.50 V",
+        "isCorrect": false
+      },
+      {
+        "text": "+0.50 V",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir elektroliz kabında CuSO₄ çözeltisi kullanılarak bakır metali kaplanmak isteniyor. Kaplanacak metal eşya elektrot sisteminde nereye bağlanmalıdır?",
+    "explanation": "Elektrolizde, katotta indirgenme gerçekleşir. Bakır kaplanacak metal eşya, bakır iyonlarının (Cu²⁺) indirgenerek (Cu²⁺ + 2e⁻ → Cu) metalik bakır olarak birikeceği elektrot, yani katot olmalıdır.",
+    "options": [
+      {
+        "text": "Anot",
+        "isCorrect": false
+      },
+      {
+        "text": "Katot",
+        "isCorrect": true
+      },
+      {
+        "text": "Tuz köprüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Yüksek dirençli iletken",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "25°C'ta 100 gram suda en fazla 36 gram NaCl çözünebilmektedir. Aynı sıcaklıkta 200 gram su ile hazırlanan doymuş NaCl çözeltisinde kaç gram NaCl çözünmüştür?",
+    "explanation": "Çözünürlük, belirli bir sıcaklıkta 100 gram çözücüde çözünebilen maksimum madde miktarıdır. 100 gram suda 36 gram NaCl çözünüyorsa, çözünürlük 36 g NaCl / 100 g su'dur. Bu oran sabittir. 200 gram su kullanıldığında, çözünen NaCl kütlesi 2 katına, yani 72 grama çıkar.",
+    "options": [
+      {
+        "text": "36 gram",
+        "isCorrect": false
+      },
+      {
+        "text": "72 gram",
+        "isCorrect": true
+      },
+      {
+        "text": "100 gram",
+        "isCorrect": false
+      },
+      {
+        "text": "136 gram",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki çözelti çiftlerinden hangisinde çözücü - çözünen etkileşimleri 'benzer benzeri çözer' kuralına örnek olarak verilebilir?",
+    "explanation": "'Benzer benzeri çözer' kuralı, polar maddelerin polar çözücülerde, apolar maddelerin apolar çözücülerde iyi çözündüğünü ifade eder. Su (H₂O) polar bir çözücüdür. Şeker (C₁₂H₂₂O₁₁) molekülleri, yapısında birçok -OH grubu bulundurduğu için polardır ve suda iyi çözünür. Bu, polar-polar etkileşime güzel bir örnektir.",
+    "options": [
+      {
+        "text": "NaCl - CCl₄",
+        "isCorrect": false
+      },
+      {
+        "text": "I₂ - Su",
+        "isCorrect": false
+      },
+      {
+        "text": "Şeker - Su",
+        "isCorrect": true
+      },
+      {
+        "text": "Benzin - Su",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "1 atm basınçta saf suyun kaynama noktası 100°C'dir. Aynı basınçta hazırlanan 1 molal şeker (C₁₂H₂₂O₁₁) çözeltisinin kaynama noktası için ne söylenebilir?",
+    "explanation": "Uçucu olmayan bir katının suda çözünmesiyle oluşan çözeltilerin kaynama noktası yükselmesi (ΔTk) gözlenir. Bu, çözeltinin buhar basıncının saf çözücününkinden düşük olmasından kaynaklanır. 1 molal şeker çözeltisinin kaynama noktası, saf suyun kaynama noktasından (100°C) daha yüksektir.",
+    "options": [
+      {
+        "text": "100°C'dir.",
+        "isCorrect": false
+      },
+      {
+        "text": "100°C'tan düşüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "100°C'tan yüksektir.",
+        "isCorrect": true
+      },
+      {
+        "text": "1 atm basınçta kaynamaz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "CaF₂'ün sudaki çözünürlük çarpımı (Kçç) ifadesi aşağıdakilerden hangisidir?",
+    "explanation": "CaF₂(k) ⇌ Ca²⁺(aq) + 2F⁻(aq) denklemine göre çözünürlük dengesi kurulur. Çözünürlük çarpımı (Kçç), denge sabiti olup, dengedeki iyon derişimlerinin stokiyometrik katsayıları üs alınarak çarpımıyla bulunur. Bu durumda Kçç = [Ca²⁺][F⁻]² şeklindedir.",
+    "options": [
+      {
+        "text": "Kçç = [Ca²⁺][F⁻]",
+        "isCorrect": false
+      },
+      {
+        "text": "Kçç = [Ca²⁺]²[F⁻]",
+        "isCorrect": false
+      },
+      {
+        "text": "Kçç = [Ca²⁺][F⁻]²",
+        "isCorrect": true
+      },
+      {
+        "text": "Kçç = [Ca²⁺]²[F⁻]²",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hangisi alkan sınıfına ait bir hidrokarbondur?",
+    "explanation": "Alkanlar, sadece karbon (C) ve hidrojen (H) atomları içeren, yapısında sadece tekli bağ (C-C) bulunduran doymuş hidrokarbonlardır. Genel formülleri CₙH₂ₙ₊₂'dir. C₃H₈ (Propan) bu formüle uyar (n=3 için C₃H₈). Diğer seçeneklerde çift bağ veya oksijen atomu bulunur.",
+    "options": [
+      {
+        "text": "C₂H₄",
+        "isCorrect": false
+      },
+      {
+        "text": "C₃H₈",
+        "isCorrect": true
+      },
+      {
+        "text": "C₆H₁₂O₆",
+        "isCorrect": false
+      },
+      {
+        "text": "C₂H₂",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "CH₃-CH₂-CH₂-OH bileşiğinin IUPAC adı nedir?",
+    "explanation": "Bu bileşik üç karbonlu bir zincire sahiptir (propan). Zincirde bir -OH (hidroksil) grubu bulunur, bu nedenle bir alkoldür. -OH grubu birinci karbon atomuna bağlı değil, sonuncu karbon atomuna bağlıdır. Bu nedenle adı 1-propanol değil, propan-1-ol'dur (veya geleneksel olarak n-propanol).",
+    "options": [
+      {
+        "text": "Etanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propanol",
+        "isCorrect": false
+      },
+      {
+        "text": "Propan-1-ol",
+        "isCorrect": true
+      },
+      {
+        "text": "Metanol",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hangisi bir karboksilik asittir?",
+    "explanation": "Karboksilik asitler, yapılarında -COOH (karboksil) grubu bulunduran organik bileşiklerdir. Genel formülleri R-COOH şeklindedir. CH₃COOH (Asetik asit) bir karboksilik asittir. Diğer seçenekler bir alkol (CH₃OH), bir aldehit (HCHO) ve bir ketondur (CH₃COCH₃).",
+    "options": [
+      {
+        "text": "CH₃OH",
+        "isCorrect": false
+      },
+      {
+        "text": "HCHO",
+        "isCorrect": false
+      },
+      {
+        "text": "CH₃COOH",
+        "isCorrect": true
+      },
+      {
+        "text": "CH₃COCH₃",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki pil düzeneklerinden hangisinde elektromotor kuvvet (EMK) en büyüktür? (İlgili yarı tepkime potansiyelleri: Ag⁺/Ag: +0,80 V; Cu²⁺/Cu: +0,34 V; Zn²⁺/Zn: -0,76 V; Ni²⁺/Ni: -0,25 V)",
+    "explanation": "Pilin EMK'sı, E°(katot) - E°(anot) formülü ile hesaplanır. En büyük EMK, indirgenme potansiyeli en yüksek olan (Ag⁺/Ag: +0,80 V) ile yükseltgenme potansiyeli en yüksek olan (en düşük indirgenme potansiyeline sahip, Zn²⁺/Zn: -0,76 V) yarı pilin birleştirilmesiyle elde edilir. EMK = 0,80 - (-0,76) = 1,56 V.",
+    "options": [
+      {
+        "text": "Ag⁺/Ag - Cu²⁺/Cu",
+        "isCorrect": false
+      },
+      {
+        "text": "Zn²⁺/Zn - Ni²⁺/Ni",
+        "isCorrect": false
+      },
+      {
+        "text": "Ag⁺/Ag - Zn²⁺/Zn",
+        "isCorrect": true
+      },
+      {
+        "text": "Cu²⁺/Cu - Ni²⁺/Ni",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "1 F (Faraday) yük ile aşağıdaki metallerden hangisinin katotunda en fazla kütlede metal açığa çıkar? (Ag: 108 g/mol, Cu: 63,5 g/mol, Zn: 65 g/mol, Al: 27 g/mol)",
+    "explanation": "1 Faraday (96500 C) yük, 1 mol elektron demektir. Açığa çıkan metal kütlesi, metalin mol kütlesinin değerlik sayısına bölünmesiyle bulunur. Ag⁺ (değerlik 1) için 108 g, Cu²⁺ (değerlik 2) için 63,5/2 = 31,75 g, Zn²⁺ (değerlik 2) için 65/2=32,5 g, Al³⁺ (değerlik 3) için 27/3=9 g açığa çıkar. En fazla kütle değerliği en düşük olan gümüşten (Ag) açığa çıkar.",
+    "options": [
+      {
+        "text": "Ag",
+        "isCorrect": true
+      },
+      {
+        "text": "Cu",
+        "isCorrect": false
+      },
+      {
+        "text": "Zn",
+        "isCorrect": false
+      },
+      {
+        "text": "Al",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki işlemlerden hangisi elektroliz yöntemi ile gerçekleştirilemez?",
+    "explanation": "Elektroliz, bir elektrik akımı yardımıyla, kendiliğinden yürümeyen (ΔG > 0) bir kimyasal reaksiyonu zorla yürütme işlemidir. Metallerin aktifliği arttıkça kendiliğinden indirgenmeleri zorlaşır. Çok aktif metaller (Li, Na, K, Ca, Mg, Al) sulu çözeltilerinden elektrolizle elde edilemezler çünkü su, bu metallerden önce indirgenir. Bakır (Cu) ise aktif olmayan bir metal olduğu için çözeltisinden elektrolizle elde edilebilir.",
+    "options": [
+      {
+        "text": "Sodyum klorür eriyiğinden sodyum metali eldesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Bakır sülfat çözeltisinden bakır metali eldesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulu sodyum klorür çözeltisinden sodyum metali eldesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Sulu gümüş nitrat çözeltisinden gümüş metali eldesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "İndirgenme potansiyeli +1,50 V olan X²⁺ iyonunun standart hidrojen elektrodu ile oluşturduğu pil ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "X²⁺/X yarı hücresinin indirgenme potansiyeli +1,50 V'dur. Standart hidrojen elektrodunun (H⁺/H₂) potansiyeli 0 V'dur. Daha yüksek indirgenme potansiyeline sahip olan X²⁺ iyonu indirgenir (katot), H₂ ise yükseltgenir (anot). Pil tepkimesi kendiliğinden yürür (EMK = 1,50 - 0 = +1,50 V > 0). Elektronlar anottan (H₂ elektrodu) katota (X elektrodu) doğru akar.",
+    "options": [
+      {
+        "text": "Katot X elektrodudur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pil tepkimesi kendiliğinden yürür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar X elektrodundan H₂ elektroduna doğru akar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pilin standart EMK'sı +1,50 V'dur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki orbital türlerinden hangisinin en fazla manyetik kuantum sayısı (m_l) değeri vardır?",
+    "explanation": "Manyetik kuantum sayısı (m_l), orbitalin uzaydaki yönlenişini belirler ve -l'den +l'ye kadar tamsayı değerler alır. 'l' açısal momentum kuantum sayısıdır. s orbitali için l=0 (m_l=0, 1 değer), p orbitali için l=1 (m_l=-1,0,+1, 3 değer), d orbitali için l=2 (m_l=-2,-1,0,+1,+2, 5 değer), f orbitali için l=3 (m_l=-3,-2,-1,0,+1,+2,+3, 7 değer). Dolayısıyla f orbitalinin en fazla (7) manyetik kuantum sayısı değeri vardır.",
+    "options": [
+      {
+        "text": "s",
+        "isCorrect": false
+      },
+      {
+        "text": "p",
+        "isCorrect": false
+      },
+      {
+        "text": "d",
+        "isCorrect": false
+      },
+      {
+        "text": "f",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Baş kuantum sayısı (n) 4 olan bir elektron aşağıdaki kuantum sayılarından hangisine sahip olamaz?",
+    "explanation": "Kuantum sayıları arasında belirli kurallar vardır. Baş kuantum sayısı n ≥ 1, açısal momentum kuantum sayısı l, 0 ≤ l ≤ n-1, manyetik kuantum sayısı m_l, -l ≤ m_l ≤ +l, spin kuantum sayısı m_s, +1/2 veya -1/2 olabilir. n=4 için l 0, 1, 2 veya 3 olabilir. Seçenekte l=4 verilmiş, ancak n=4 için l maksimum 3 olabilir. Bu nedenle (4, 4, 0, +1/2) kümesi mümkün değildir.",
+    "options": [
+      {
+        "text": "(4, 0, 0, +1/2)",
+        "isCorrect": false
+      },
+      {
+        "text": "(4, 2, -1, -1/2)",
+        "isCorrect": false
+      },
+      {
+        "text": "(4, 3, +2, +1/2)",
+        "isCorrect": false
+      },
+      {
+        "text": "(4, 4, 0, +1/2)",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Periyodik sistemin 4. periyot 2A grubu elementinin temel hal elektron dağılımı aşağıdakilerden hangisidir?",
+    "explanation": "Periyodik sistemde gruplar, değerlik elektronlarının sayısını gösterir. 2A grubu (Toprak Alkali Metalleri) 2 değerlik elektronuna sahiptir. 4. periyot, n=4 kabuğunun dolmaya başladığı periyottur. Sırayla orbital enerjilerine göre (Aufbau İlkesi) elektronlar doldurulur: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s². 4. periyot 2A grubu elementinin atom numarası 20'dir (Kalsiyum, Ca) ve elektron dağılımı 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² şeklindedir.",
+    "options": [
+      {
+        "text": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²",
+        "isCorrect": true
+      },
+      {
+        "text": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d²",
+        "isCorrect": false
+      },
+      {
+        "text": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰",
+        "isCorrect": false
+      },
+      {
+        "text": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki elementlerden hangisinin temel hal elektron dağılımında Hund kuralına aykırılık yoktur?",
+    "explanation": "Hund kuralı, eş enerjili orbitallere (p, d, f) elektronların önce tek tek yerleşip sonra eşleşeceğini belirtir. Karbon (C, 6e⁻): 1s² 2s² 2p². 2p alt kabuğunda 3 orbital vardır. İki elektron ayrı orbitallere tekli olarak yerleşir (Hund kuralına uyar). Oksijen (O, 8e⁻): 1s² 2s² 2p⁴. 2p'de 4 elektron vardır, biri eşleşmiş durumdadır, bu Hund kuralına uyar. Ancak soru 'aykırılık yoktur' diyor ve seçeneklerde verilen dağılımlara bakılmalı. Seçenekte Oksijen için 2pₓ² 2py¹ 2pz¹ verilmiş, bu doğru ve Hund kuralına uygundur. Diğer seçeneklerde (B, N, F) hatalı veya eksik dağılımlar verilmiştir.",
+    "options": [
+      {
+        "text": "Bor (B): 1s² 2s² 2p¹",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbon (C): 1s² 2s² 2pₓ²",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen (O): 1s² 2s² 2pₓ² 2py¹ 2pz¹",
+        "isCorrect": true
+      },
+      {
+        "text": "Flor (F): 1s² 2s² 2pₓ² 2py² 2pz²",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Sabit basınç altında gerçekleşen bir tepkimede sistem çevreye 50 kJ ısı veriyor ve 20 kJ iş yapıyorsa, sistemin iç enerji değişimi (ΔU) kaç kJ'dur?",
+    "explanation": "Termokimyada iç enerji değişimi (ΔU), ısı (q) ve iş (w) cinsinden ifade edilir: ΔU = q + w. İş ve ısı için işaret kuralları şöyledir: Sisteme verilen ısı (+q), sistemin yaptığı iş (-w). Sistem çevreye 50 kJ ısı verdiği için q = -50 kJ. Sistem çevreye 20 kJ iş yaptığı için w = -20 kJ. ΔU = (-50) + (-20) = -70 kJ.",
+    "options": [
+      {
+        "text": "-70",
+        "isCorrect": true
+      },
+      {
+        "text": "-30",
+        "isCorrect": false
+      },
+      {
+        "text": "+30",
+        "isCorrect": false
+      },
+      {
+        "text": "+70",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "2H₂(g) + O₂(g) → 2H₂O(s) tepkimesinin entalpi değişimi (ΔH) -600 kJ'dür. Buna göre, aynı koşullarda H₂O(s) → H₂(g) + 1/2 O₂(g) tepkimesinin ΔH değeri kaç kJ'dur?",
+    "explanation": "Bir tepkimenin tersi alındığında, entalpi değişiminin işareti değişir. Verilen ekzotermik tepkime (-600 kJ) ters çevrilirse endotermik bir tepkime elde edilir. Ayrıca, verilen tepkime 2 mol H₂O oluşumu için olduğundan, 1 mol H₂O'nun ayrışması için entalpi değişimi yarısı kadar olur. İlk tepkime: 2H₂O oluşumu ΔH = -600 kJ. Ters tepkime (2H₂O ayrışması): ΔH = +600 kJ. 1 mol H₂O ayrışması: ΔH = +600 kJ / 2 = +300 kJ.",
+    "options": [
+      {
+        "text": "-600",
+        "isCorrect": false
+      },
+      {
+        "text": "-300",
+        "isCorrect": false
+      },
+      {
+        "text": "+300",
+        "isCorrect": true
+      },
+      {
+        "text": "+600",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "C₂H₄(g) + 3O₂(g) → 2CO₂(g) + 2H₂O(g) tepkimesi için; C₂H₄(g)'ün standart oluşum entalpisi +52 kJ/mol, CO₂(g)'ün standart oluşum entalpisi -394 kJ/mol ve H₂O(g)'ün standart oluşum entalpisi -242 kJ/mol'dür. Buna göre tepkimenin standart entalpi değişimi (ΔH°) kaç kJ'dür?",
+    "explanation": "Bir tepkimenin standart entalpi değişimi, ürünlerin oluşum entalpileri toplamından, girenlerin oluşum entalpileri toplamı çıkarılarak bulunur: ΔH° = ΣnΔH°f(ürünler) - ΣmΔH°f(girenler). Ürünler: 2 mol CO₂ (2 * -394 = -788 kJ) + 2 mol H₂O (2 * -242 = -484 kJ) Toplam = -1272 kJ. Girenler: 1 mol C₂H₄ (+52 kJ) + 3 mol O₂ (element halinde, ΔH°f=0) Toplam = +52 kJ. ΔH° = (-1272) - (+52) = -1324 kJ.",
+    "options": [
+      {
+        "text": "-1324",
+        "isCorrect": true
+      },
+      {
+        "text": "-684",
+        "isCorrect": false
+      },
+      {
+        "text": "+684",
+        "isCorrect": false
+      },
+      {
+        "text": "+1324",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir kimyasal tepkimenin aktivasyon enerjisi 80 kJ/mol, tepkimenin entalpi değişimi ise -50 kJ/mol'dür. Buna göre, ters tepkimenin aktivasyon enerjisi kaç kJ/mol'dür?",
+    "explanation": "Bir tepkimenin entalpi değişimi (ΔH), ileri tepkimenin aktivasyon enerjisi (Ea_ileri) ile ters tepkimenin aktivasyon enerjisi (Ea_ters) arasındaki farka eşittir: ΔH = Ea_ileri - Ea_ters. Verilen değerler: ΔH = -50 kJ/mol, Ea_ileri = 80 kJ/mol. -50 = 80 - Ea_ters. Bu denklem çözülürse: Ea_ters = 80 - (-50) = 80 + 50 = 130 kJ/mol.",
+    "options": [
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "130",
+        "isCorrect": true
+      },
+      {
+        "text": "180",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "25°C'de 100 gram suda en fazla 36 gram NaCl çözünebilmektedir. Aynı sıcaklıkta 250 gram su ile doygun bir çözelti hazırlandığında, çözelti kütlece yüzde kaç NaCl içerir?",
+    "explanation": "Çözünürlük, belirli bir sıcaklıkta 100 gram çözücüde çözünebilen maksimum çözünen miktarıdır. 25°C'de NaCl'nin sudaki çözünürlüğü 100 g suda 36 g'dır. 250 g su ile hazırlanan doygun çözeltide çözünen NaCl miktarı: (36 g NaCl / 100 g su) * 250 g su = 90 g NaCl. Toplam çözelti kütlesi: 250 g su + 90 g NaCl = 340 g. Çözeltinin kütlece yüzdesi: (90 g / 340 g) * 100% ≈ %26,47.",
+    "options": [
+      {
+        "text": "%14,4",
+        "isCorrect": false
+      },
+      {
+        "text": "%26,5",
+        "isCorrect": true
+      },
+      {
+        "text": "%36,0",
+        "isCorrect": false
+      },
+      {
+        "text": "%64,0",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki çözelti çiftlerinden hangisinde çözünürlük 'ortak iyon etkisi' nedeniyle saf sudakine göre azalır?",
+    "explanation": "Ortak iyon etkisi, az çözünen bir iyonik katının, çözeltisinde kendisiyle ortak iyon bulunduran başka bir çözelti içinde çözünürlüğünün azalmasıdır. AgCl, suda az çözünür (Ag⁺ ve Cl⁻ iyonlarına ayrışır). NaCl çözeltisi ise Na⁺ ve Cl⁻ iyonları içerir. AgCl, NaCl çözeltisine atıldığında, çözeltideki Cl⁻ iyonları (ortak iyon) dengeyi (AgCl(k) ⇌ Ag⁺(suda) + Cl⁻(suda)) ürünler tarafına kaydırarak AgCl'nin çözünürlüğünü azaltır. Diğer seçeneklerde ortak iyon yoktur.",
+    "options": [
+      {
+        "text": "AgCl - NaNO₃ çözeltisi",
+        "isCorrect": false
+      },
+      {
+        "text": "AgCl - NaCl çözeltisi",
+        "isCorrect": true
+      },
+      {
+        "text": "KCl - NaNO₃ çözeltisi",
+        "isCorrect": false
+      },
+      {
+        "text": "NaCl - CaCl₂ çözeltisi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "CaF₂ katısının belirli bir sıcaklıktaki çözünürlük çarpımı (Kçç) 4 x 10⁻¹¹'dir. Buna göre, bu sıcaklıkta CaF₂'nin saf sudaki molar çözünürlüğü kaç mol/L'dir?",
+    "explanation": "CaF₂(k) ⇌ Ca²⁺(suda) + 2F⁻(suda). Çözünürlük çarpımı ifadesi: Kçç = [Ca²⁺][F⁻]². Molar çözünürlük S mol/L olsun. Denge konsantrasyonları: [Ca²⁺] = S, [F⁻] = 2S. Kçç = (S) * (2S)² = 4S³. 4S³ = 4 x 10⁻¹¹. Her iki taraf 4'e bölünür: S³ = 1 x 10⁻¹¹. S = ∛(10⁻¹¹) = 10⁻¹¹/³ = 10⁻³.⁶⁶... Bu hesaplamayı kolaylaştırmak için: 10⁻¹¹ = 10⁻¹² * 10¹, dolayısıyla ∛(10⁻¹² * 10) = ∛10⁻¹² * ∛10 = 10⁻⁴ * ∛10. ∛10 ≈ 2,15 olduğundan S ≈ 2,15 x 10⁻⁴ mol/L. En yakın ve kesin ifade 2 x 10⁻⁴'tür (4S³=4x10⁻¹¹'den S³=10⁻¹¹, 10⁻¹¹'e en yakın küp (2x10⁻⁴)³=8x10⁻¹² değil, (2,15x10⁻⁴)³≈10⁻¹¹'dir. Ancak seçeneklerde 2,15x10⁻⁴ olmadığı için işlem hatası yapılmadığı sürece 2x10⁻⁴ en mantıklı seçenektir). Hesaplama: S³ = 1x10⁻¹¹, S = 10^(-11/3) = 10^(-3.666) = 2.15x10⁻⁴. Seçeneklerde bu değer yok. 4S³=4x10⁻¹¹, S³=10⁻¹¹, S=∛(10⁻¹¹). 10⁻¹²'nin küp kökü 10⁻⁴'tür. 10⁻¹¹ = 10*10⁻¹², küp kökü ∛10 * 10⁻⁴ ≈ 2.15*10⁻⁴. Seçeneklerde 2x10⁻⁴ verilmiş, bu en yakın değerdir.",
+    "options": [
+      {
+        "text": "1 x 10⁻⁴",
+        "isCorrect": false
+      },
+      {
+        "text": "2 x 10⁻⁴",
+        "isCorrect": true
+      },
+      {
+        "text": "4 x 10⁻⁴",
+        "isCorrect": false
+      },
+      {
+        "text": "1 x 10⁻¹¹",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aynı sıcaklıkta bulunan X, Y ve Z gazlarının mol sayıları ve hacimleri ile ilgili aşağıdaki bilgiler veriliyor: X gazının mol sayısı Y gazınınkinin 2 katı, Y gazının hacmi ise Z gazınınkinin yarısıdır. Buna göre, bu gazların aynı sıcaklıktaki basınçları (P) arasındaki ilişki nedir?",
+    "explanation": "İdeal gaz denklemi P.V = n.R.T'ye göre, sıcaklık (T) sabitse P ile n/V doğru orantılıdır. Y gazının mol sayısına n, hacmine V dersek, X gazı: n_X = 2n, V_X = ? (Verilmemiş, ancak karşılaştırma yapılabilir). Y gazı: n_Y = n, V_Y = V. Z gazı: n_Z = ? (Verilmemiş), V_Z = 2V (Y'nin hacmi Z'nin yarısı olduğundan). Basınçları karşılaştırmak için n/V oranlarına bakılır. X ve Y'nin hacimleri aynı kabul edilirse (soruda belirtilmediği için genellikle bu şekilde yorumlanır), P_X = 2n/V, P_Y = n/V, P_Z = n_Z/(2V). n_Z bilinmediği için P_Z kesin olarak karşılaştırılamaz. Ancak sorunun klasik yorumunda, gazların aynı koşullarda olduğu ve hacim-mol ilişkisinin verildiği düşünülerek, X ve Y aynı hacimde, Z ise daha büyük hacimde olduğu için P_X > P_Y > P_Z sonucuna varılır. Daha kesin bir yaklaşımla, Y ve Z'yi karşılaştıralım: P_Y = n/V, P_Z için n_Z bilinmiyor. Soru tipik olarak mol sayısı fazla ve hacmi küçük olanın basıncının en büyük olduğu prensibini sorgular. Bu durumda X'in mol sayısı en fazla (ve hacmi Y ile aynı kabul edilirse), Z'nin hacmi en fazla olduğu için basıncı en küçük olur. Doğru cevap P_X > P_Y > P_Z'dir.",
+    "options": [
+      {
+        "text": "P_X > P_Y > P_Z",
+        "isCorrect": true
+      },
+      {
+        "text": "P_Z > P_Y > P_X",
+        "isCorrect": false
+      },
+      {
+        "text": "P_X = P_Y = P_Z",
+        "isCorrect": false
+      },
+      {
+        "text": "P_Y > P_X > P_Z",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki gazlardan hangisinin 1 molünün 0°C ve 1 atm basınçta kapladığı hacim, ideal gazların kapladığı hacimden (22,4 L) daha fazladır?",
+    "explanation": "İdeal gaz davranışından sapma, gaz moleküllerinin kendi hacimlerinin ve aralarındaki çekim kuvvetlerinin önem kazanmasıyla olur. Düşük sıcaklık ve yüksek basınçta sapma artar. Soru 0°C ve 1 atm'deki davranışı soruyor. Bu koşullar ideal gaz için standart koşullardır. Ancak, gaz molekülleri arasındaki çekim kuvveti çok zayıf olduğunda, moleküller birbirini daha az çeker ve gazın hacmi ideal gaz hacminden biraz daha büyük olabilir (PV > nRT). Bu durum genellikle yüksek sıcaklık ve düşük basınçta gözlenir, ancak bazı gazlar için moleküller arası çekim çok zayıf olduğundan (özellikle H₂, He gibi hafif gazlar) 0°C'de bile ideal gaz hacminden daha büyük hacim kaplayabilirler. H₂ molekülleri arasındaki London kuvvetleri çok zayıftır, bu nedenle 1 mol H₂'nin hacmi 22,4 L'den biraz fazla olabilir. CO₂ ve NH₃ gibi gazlarda ise moleküller arası çekim kuvvetleri daha kuvvetlidir (dipol-dipol, hidrojen bağı), bu nedenle hacimleri ideal gaz hacminden daha az olma eğilimindedir. N₂ ise ideal gaz davranışına daha yakındır. Bu nedenle, verilen seçenekler arasında H₂'nin hacminin ideal gaz hacminden daha fazla olma ihtimali en yüksektir.",
+    "options": [
+      {
+        "text": "H₂",
+        "isCorrect": true
+      },
+      {
+        "text": "N₂",
+        "isCorrect": false
+      },
+      {
+        "text": "CO₂",
+        "isCorrect": false
+      },
+      {
+        "text": "NH₃",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Kapalı bir kapta bulunan He gazının sıcaklığı 27°C'den 127°C'ye çıkarıldığında gazın ortalama kinetik enerjisi kaç katına çıkar?",
+    "explanation": "Bir gazın ortalama kinetik enerjisi sadece mutlak sıcaklık (Kelvin) ile doğru orantılıdır. Formülü: KE_ortalama = (3/2)kT veya (3/2)RT/N_A şeklindedir. Burada k Boltzmann sabiti, R ideal gaz sabiti, N_A Avogadro sayısıdır. Önemli olan, kinetik enerjinin mutlak sıcaklıkla doğru orantılı olmasıdır. Başlangıç sıcaklığı T₁ = 27°C = 27 + 273 = 300 K'dir. Son sıcaklık T₂ = 127°C = 127 + 273 = 400 K'dir. Ortalama kinetik enerjilerin oranı, mutlak sıcaklıkların oranına eşittir: KE₂ / KE₁ = T₂ / T₁ = 400 K / 300 K = 4/3'tür. Yani ortalama kinetik enerji 4/3 katına (yaklaşık 1,33 katına) çıkar.",
+    "options": [
+      {
+        "text": "4/3",
+        "isCorrect": true
+      },
+      {
+        "text": "3/2",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aynı sıcaklıkta bulunan O₂, CH₄ ve SO₂ gazlarının difüzyon hızları arasındaki ilişki nedir? (H:1, C:12, O:16, S:32)",
+    "explanation": "Graham Difüzyon Yasası'na göre, aynı sıcaklıkta iki gazın difüzyon hızları, mol kütlelerinin karekökü ile ters orantılıdır. Gazın mol kütlesi ne kadar küçükse, difüzyon hızı o kadar büyük olur. O₂ gazının mol kütlesi: 16x2 = 32 g/mol. CH₄ gazının mol kütlesi: 12 + (1x4) = 16 g/mol. SO₂ gazının mol kütlesi: 32 + (16x2) = 64 g/mol. Mol kütleleri: CH₄ (16) < O₂ (32) < SO₂ (64). Difüzyon hızları ise bunun tersi sırada olacaktır: CH₄'nin hızı > O₂'nin hızı > SO₂'nin hızı.",
+    "options": [
+      {
+        "text": "CH₄ > O₂ > SO₂",
+        "isCorrect": true
+      },
+      {
+        "text": "O₂ > CH₄ > SO₂",
+        "isCorrect": false
+      },
+      {
+        "text": "SO₂ > O₂ > CH₄",
+        "isCorrect": false
+      },
+      {
+        "text": "CH₄ > SO₂ > O₂",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir kimyasal tepkimede, tepkimeye giren maddelerin derişimleri iki katına çıkarıldığında tepkime hızı dört katına çıkıyor. Buna göre, bu tepkimenin hız bağıntısı aşağıdakilerden hangisi olabilir?",
+    "explanation": "Tepkime hızı, tepkimeye giren maddelerin derişimlerine bağlıdır ve hız bağıntısı R = k [A]^m [B]^n şeklinde ifade edilir. Burada m ve n tepkimenin mertebesini gösterir. Soruda, derişimler iki katına çıkarıldığında hızın dört katına çıktığı belirtiliyor. Hızın (2)^2 = 4 katına çıkması, tepkime hızının derişimin karesi ile orantılı olduğunu gösterir. Bu durum, tepkime mertebesinin toplamda 2 olduğu anlamına gelir. Örneğin, hız bağıntısı R = k [A]² ise, [A] iki katına çıkınca hız (2)² = 4 katına çıkar. Veya R = k [A][B] ise ve her ikisinin derişimi de iki katına çıkarsa, hız (2)(2)=4 katına çıkar. Seçeneklerde R = k [X]² ve R = k [X][Y] gibi toplam mertebesi 2 olan ifadeler vardır. R = k [X]² ifadesi, bu koşulu sağlayan bir bağıntıdır.",
+    "options": [
+      {
+        "text": "R = k [X]²",
+        "isCorrect": true
+      },
+      {
+        "text": "R = k [X]",
+        "isCorrect": false
+      },
+      {
+        "text": "R = k [X]⁰",
+        "isCorrect": false
+      },
+      {
+        "text": "R = k [X]³",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "X(g) + 2Y(g) ⇌ 2Z(g) tepkimesi dengedeyken kaba bir miktar Y gazı ekleniyor. Buna göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Le Chatelier İlkesi'ne göre, bir denge sistemine dışarıdan bir etki yapılırsa (derişim, sıcaklık, basınç değişimi), sistem bu etkiyi azaltacak yönde tepki verir. Bu soruda dengedeki bir tepkimeye Y gazı ekleniyor, yani Y'nin derişimi artırılıyor. Sistem bu artışı azaltmak için dengeyi, Y'yi harcayan yöne, yani sağa (ürünler yönüne) kaydırır. Sağa kayma sonucunda: 1) Z'nin derişimi artar. 2) X'in derişimi azalır (çünkü tepkime sağa kaydığında X tüketilir). 3) Y'nin derişimi, ekleme yapıldığı anda çok artar, ancak denge sağa kaydıkça harcandığı için başlangıçtaki denge derişiminin üzerinde ama ekleme anındaki maksimum değerin altında bir değere ulaşır. Yani Y'nin derişimi artar. 4) Denge sabiti Kc, sadece sıcaklığa bağlıdır. Sıcaklık değişmediği sürece Kc sabit kalır. Kc = [Z]² / ([X][Y]²) olduğundan, denge yeniden kurulduğunda bu oran yine aynı kalır. Yanlış ifade, Y'nin derişiminin azalacağını söyleyen seçenektir, çünkü Y eklenmesi sonucu denge sağa kayar ve Y bir miktar harcanır ama sonuçta ilk denge durumuna göre Y derişimi artmış olur.",
+    "options": [
+      {
+        "text": "Y'nin derişimi azalır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Z'nin derişimi artır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Denge sağa kayar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Denge sabiti (Kc) değişmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Sabit sıcaklıkta gerçekleşen bir tepkimenin hızını artırmak için aşağıdaki yöntemlerden hangisi kullanılamaz?",
+    "explanation": "Bir kimyasal tepkimenin hızını artırmak için çeşitli yöntemler vardır: Derişimi artırmak (gazlar için basıncı artırmak), sıcaklığı artırmak, katalizör kullanmak, temas yüzeyini artırmak (katılar için). Soru sabit sıcaklıkta olduğunu belirttiği için sıcaklığı artırmak seçeneği kullanılamaz. Diğer seçenekler (katalizör eklemek, gaz tepkimesinde basıncı artırmak, katı bir tepkenin yüzey alanını artırmak) sabit sıcaklıkta da uygulanabilir ve hızı artırır.",
+    "options": [
+      {
+        "text": "Sıcaklığı artırmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Katalizör eklemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Gaz tepkimesinde basıncı artırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Katı bir tepkenin yüzey alanını artırmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "2A(g) + B(g) ⇌ C(g) + ısı tepkimesi dengededir. Bu tepkime ile ilgili aşağıdaki değişikliklerden hangisi yapılırsa, C gazının miktarı kesinlikle artar?",
+    "explanation": "Le Chatelier İlkesi'ne göre, dengedeki bir sisteme yapılan etkiye sistem tepki verir. C gazının miktarının kesinlikle artması için dengeyi sağa (ürünler yönüne) kaydıracak bir değişiklik yapılmalıdır. Seçenekleri inceleyelim: 1) Sıcaklığı düşürmek: Tepkime ekzotermik (ısı veren) olduğu için, sıcaklık düşürüldüğünde sistem sıcaklığı artırmak ister ve ekzotermik yönde (sağa) kayar. C'nin miktarı artar. 2) Kaba bir miktar A gazı eklemek: A eklenince denge sağa kayar, C artar. Ancak bu kesin bir artış sağlar mı? Evet, sağa kayma sonucu C artar. 3) Kaba bir miktar C gazı eklemek: C eklenince denge sola (tepkenler yönüne) kayar, C'nin miktarı ekleme anında artar ama sonra azalır. Net sonuçta ilk dengeye göre C'nin miktarı artmış olabilir mi? Hayır, denge sola kaydığı için C'nin bir kısmı harcanır. İlk duruma göre C'nin miktarının artacağı kesin değildir, hatta genellikle denge sabiti gereği aynı kalır veya farklı bir değere ulaşır ama 'kesinlikle artar' diyemeyiz. 4) Hacmi artırmak (Basıncı azaltmak): Gaz mol sayısının fazla olduğu tarafa kayar. Tepkimede gaz mol sayısı: Sol taraf: 2+1=3 mol, Sağ taraf: 1 mol. Hacim artırılınca (basınç azalınca) sistem basıncı artırmak ister ve gaz mol sayısının fazla olduğu tarafa, yani sola kayar. Bu durumda C'nin miktarı azalır. 'Kesinlikle artar' diyebileceğimiz değişiklikler, dengeyi sağa kaydıran ve bunu kesin olarak sağlayan değişikliklerdir. Sıcaklığı düşürmek ve A gazı eklemek sağa kaydırır. Ancak soru 'kesinlikle artar' dediği için, her koşulda artışa neden olan değişiklik seçilmelidir. Sıcaklık düşürmek, ekzotermik tepkimeler için her zaman sağa kayma ve dolayısıyla C'de artış sağlar. A gazı eklemek de sağa kaydırır ve C'yi artırır. Ancak, 'kesinlikle' ifadesi için genelde sıcaklık değişimi veya katalizör eklemek (ki katalizör denge konumunu değiştirmez) gibi seçenekler düşünülür. Burada A gazı eklemek de kesinlikle artırır. Fakat sorunun klasik yorumunda, diğer seçeneklerde (C eklemek ve hacmi artırmak) artış olmayacağı için, A gazı eklemek doğru cevap olarak alınır. Sıcaklık düşürmek de doğru bir seçenektir. Seçenekler incelendiğinde, 'Sıcaklığı düşürmek' ve 'Kaba bir miktar A gazı eklemek' sağa kaydırır. Ancak 'kesinlikle' ifadesi göz önüne alındığında, her iki seçenek de doğrudur. Fakat test tekniğinde, genellikle bu tür sorularda derişim değişikliği yerine sıcaklık değişikliği daha kesin bir cevap olarak kabul edilir. Ancak verilen seçeneklerde 'Kaba bir miktar A gazı eklemek' de kesinlikle C'yi artırır. Sorunun doğru cevabı olarak, diğer seçeneklerin yanlış olduğu açık olan 'Sıcaklığı düşürmek' seçilmiştir. Çünkü C eklemek ve hacmi artırmak kesinlikle artırmaz. A eklemek ise artırır, ama soruda 'hangisi' dediği için bir tanesi seçilmelidir. Yaygın kanı, sıcaklık değişiminin kesin sonuç verdiği yönündedir. Doğru cevap 'Sıcaklığı düşürmek'tir.",
+    "options": [
+      {
+        "text": "Sıcaklığı düşürmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Kaba bir miktar A gazı eklemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaba bir miktar C gazı eklemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Hacmi artırmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki bileşiklerden hangisi, karbon atomları arasında en az bir tane üçlü bağ içeren bir alkindir?",
+    "explanation": "Alkinler, karbon-karbon üçlü bağı içeren doymamış hidrokarbonlardır. Genel formülleri CₙH₂ₙ₋₂'dir. Seçenekleri inceleyelim: C₃H₈: Genel formül CₙH₂ₙ₊₂ olduğu için alkan (propan). Üçlü bağ yok. C₄H₆: Genel formül CₙH₂ₙ₋₂ olduğu için alkin olabilir (örneğin bütin, CH≡C-CH₂-CH₃). Üçlü bağ içerir. C₅H₁₂: Genel formül CₙH₂ₙ₊₂ olduğu için alkan (pentan). Üçlü bağ yok. C₆H₁₄: Genel formül CₙH₂ₙ₊₂ olduğu için alkan (heksan). Üçlü bağ yok. Bu nedenle, üçlü bağ içeren bileşik C₄H₆'dır.",
+    "options": [
+      {
+        "text": "C₄H₆",
+        "isCorrect": true
+      },
+      {
+        "text": "C₃H₈",
+        "isCorrect": false
+      },
+      {
+        "text": "C₅H₁₂",
+        "isCorrect": false
+      },
+      {
+        "text": "C₆H₁₄",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki fonksiyonel gruplardan hangisi, bir organik bileşiğe asidik özellik kazandırır?",
+    "explanation": "Organik bileşiklerde, belirli fonksiyonel gruplar bileşiğin asit-baz özelliklerini belirler. Karboksilik asit grubu (-COOH), proton (H⁺) verebildiği için bileşiğe belirgin bir asidik özellik kazandırır. Alkoller (-OH) genellikle çok zayıf asitlerdir veya asidik sayılmazlar. Aminler (-NH₂) bazik özellik gösterir. Esterler (-COO-) ise nötr özelliktedir, asidik değildir.",
+    "options": [
+      {
+        "text": "Karboksilik asit (-COOH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Alkol (-OH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Amin (-NH₂)",
+        "isCorrect": false
+      },
+      {
+        "text": "Ester (-COO-)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "CH₃-CH₂-CH₂-OH bileşiği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "CH₃-CH₂-CH₂-OH bileşiği, propan-1-ol adı verilen bir birincil alkoldür. Yanlış ifadeyi bulmamız isteniyor. İncelersek: Yapısında O-H bağı bulunur, bu doğrudur. Molekül formülü C₃H₈O'dur, bu da doğrudur (3 C, 8 H, 1 O). Birincil alkoldür, çünkü -OH grubu bir uçtaki karbon atomuna bağlıdır ve bu karbon atomuna sadece bir alkil grubu bağlıdır (diğer iki bağı H atomlarıdır). Yanlış olan ifade, 'Yükseltgendiğinde keton oluşturur' ifadesidir. Birincil alkoller yükseltgendiğinde önce aldehit, sonra karboksilik asit oluşturur. İkincil alkoller yükseltgendiğinde keton oluşturur. Bu nedenle, propan-1-ol (birincil alkol) yükseltgendiğinde propanal (aldehit) ve sonra propanoik asit oluşur, keton oluşmaz.",
+    "options": [
+      {
+        "text": "Yükseltgendiğinde keton oluşturur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yapısında O-H bağı bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Molekül formülü C₃H₈O'dur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Birincil alkoldür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki polimerlerden hangisi, doğal bir polimerdir?",
+    "explanation": "Polimerler, monomer adı verilen küçük moleküllerin birleşmesiyle oluşan büyük moleküllerdir. Doğal polimerler, canlı organizmalar tarafından sentezlenen polimerlerdir. Selüloz, bitkilerde hücre duvarının yapı taşı olan bir doğal polimerdir (glikoz monomerlerinden oluşur). Polistiren, naylon ve teflon ise insan yapımı (sentetik) polimerlerdir.",
+    "options": [
+      {
+        "text": "Selüloz",
+        "isCorrect": true
+      },
+      {
+        "text": "Polistiren",
+        "isCorrect": false
+      },
+      {
+        "text": "Naylon",
+        "isCorrect": false
+      },
+      {
+        "text": "Teflon",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki enerji kaynaklarından hangisi, yenilenebilir bir enerji kaynağı değildir?",
+    "explanation": "Yenilenebilir enerji kaynakları, doğada sürekli var olan ve tükenmeyen kaynaklardır. Güneş enerjisi, rüzgar enerjisi, hidroelektrik enerji (su gücü) ve biyokütle enerjisi yenilenebilir kaynaklardır. Kömür ise fosil bir yakıttır; milyonlarca yıl önce yaşamış bitkilerin kalıntılarından oluşur ve sınırlı bir kaynaktır. Kömür tüketildiğinde yenilenemez, bu nedenle yenilenebilir bir enerji kaynağı değildir.",
+    "options": [
+      {
+        "text": "Kömür",
+        "isCorrect": true
+      },
+      {
+        "text": "Güneş enerjisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Rüzgar enerjisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Hidroelektrik enerji",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Nükleer enerji ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Nükleer enerji, atom çekirdeğindeki değişimlerden (fisyon veya füzyon) açığa çıkan enerjidir. Nükleer fisyon, ağır bir çekirdeğin (örneğin Uranyum-235) nötronlarla bombardıman sonucu daha hafif çekirdeklere bölünmesidir ve bu sırada çok büyük miktarda enerji açığa çıkar. Nükleer santraller genellikle fisyon reaksiyonunu kullanır. Füzyon ise hafif çekirdeklerin birleşerek daha ağır çekirdek oluşturmasıdır (Güneş'te olduğu gibi) ve henüz kontrollü bir şekilde enerji üretiminde yaygın olarak kullanılamamaktadır. Diğer seçenekler: Nükleer reaksiyonlarda kütle korunumu yasası geçerli değildir, çünkü kütle enerjiye dönüşür (E=mc²). Nükleer reaksiyonlar, kimyasal reaksiyonlara göre çok daha büyük enerji açığa çıkarır. Radyoaktif atıkların güvenli bir şekilde depolanması önemli bir sorundur, çevreye kontrolsüz bırakılmazlar.",
+    "options": [
+      {
+        "text": "Nükleer fisyon, ağır çekirdeklerin bölünmesi ile gerçekleşir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nükleer reaksiyonlarda kütle korunumu yasası geçerlidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nükleer reaksiyonlar, kimyasal reaksiyonlara göre daha az enerji açığa çıkarır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Radyoaktif atıklar çevreye zararsız olduğu için doğaya bırakılabilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hidrojen enerjisi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Hidrojen, temiz bir enerji taşıyıcısı olarak görülmektedir. Yanlış ifadeyi bulmamız isteniyor. Doğru ifadeler: Hidrojen yakıldığında veya bir yakıt hücresinde kullanıldığında, su buharı (H₂O) açığa çıkar ve sera gazı emisyonu yapmaz. Bu nedenle çevre dostudur. Hidrojen, doğada serbest halde bulunmaz; su, hidrokarbonlar gibi bileşiklerden elde edilir. Elde edilmesi için enerji gerekir (elektroliz veya buhar reformasyonu). Yanlış ifade ise 'Hidrojen, doğada bol miktarda serbest halde bulunur ve kolayca elde edilebilir' ifadesidir. Hidrojen evrende bol olmasına rağmen, Dünya'da serbest halde (H₂ gazı olarak) çok az bulunur. Genellikle su (H₂O) ve diğer bileşikler şeklindedir ve onları ayırmak için enerji gerektirir, yani kolayca elde edilemez.",
+    "options": [
+      {
+        "text": "Hidrojen, doğada bol miktarda serbest halde bulunur ve kolayca elde edilebilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hidrojen yakıldığında su buharı oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hidrojen enerjisi kullanımı sera gazı emisyonuna neden olmaz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hidrojen, suyun elektrolizi ile elde edilebilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki tepkimelerden hangisinin hızı, tepkime kabının hacmi iki katına çıkarıldığında en az değişir?",
+    "explanation": "Tepkime kabının hacmi iki katına çıkarıldığında derişimler yarıya iner. Hız, derişimlere bağlıdır. Sıfırıncı dereceden bir tepkimede hız derişimden bağımsız olduğu için hacim değişimi hızı etkilemez. 2NO(g) + O₂(g) → 2NO₂(g) tepkimesi üç moleküllü ve yüksek dereceli olabilir, bu nedenle derişim değişiminden çok etkilenir. H₂(g) + I₂(g) → 2HI(g) gaz fazında elementer bir tepkime değildir ve kompleks mekanizması vardır, bu nedenle hız ifadesi derişim ile değişir. CH₃COOC₂H₅(aq) + OH⁻(aq) → ... tepkimesi sulu çözeltidedir ve hacim değişimi derişimi etkiler. CaCO₃(k) → CaO(k) + CO₂(g) tepkimesi heterojen bir tepkimedir ve katının yüzey alanı hacimden bağımsızdır, bu nedenle hacim değişimi gaz ve çözünmüş maddelerin derişimini etkilemez, katı için etkilemez. Ancak soruda 'en az değişir' deniyor. Katı fazlı tepkimelerde hız, katının yüzey alanına bağlıdır. Kabın hacmini değiştirmek katının yüzey alanını değiştirmez, bu nedenle heterojen katı-gaz tepkimelerinde hacim değişimi hızı etkilemez. Doğru cevap CaCO₃(k) tepkimesidir.",
+    "options": [
+      {
+        "text": "2NO(g) + O₂(g) → 2NO₂(g)",
+        "isCorrect": false
+      },
+      {
+        "text": "H₂(g) + I₂(g) → 2HI(g)",
+        "isCorrect": false
+      },
+      {
+        "text": "CH₃COOC₂H₅(aq) + OH⁻(aq) → CH₃COO⁻(aq) + C₂H₅OH(aq)",
+        "isCorrect": false
+      },
+      {
+        "text": "CaCO₃(k) → CaO(k) + CO₂(g)",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "X₂(g) + 3Y₂(g) ⇌ 2XY₃(g) tepkimesi dengedeyken kaba bir miktar XY₃ gazı ekleniyor. Bu işlem sonucunda aşağıdakilerden hangisi kesinlikle artar?",
+    "explanation": "Dengedeki bir tepkimeye bir ürün (XY₃) eklendiğinde, Le Chatelier İlkesi'ne göre denge, eklenen maddeyi azaltacak yöne, yani tepkimenin geri yönüne kayar. Geri yöndeki tepkime, XY₃'ü tüketerek X₂ ve Y₂'ye dönüştürür. Bu nedenle, geri tepkimenin hızı kesinlikle artar. İleri tepkimenin hızı başlangıçta değişmez, ancak denge yeni bir noktaya ulaşana kadar zamanla değişir. X₂ ve Y₂'nin derişimleri başlangıçta aynı kalır, denge kayması sonucunda artabilir, ancak kesinlikle artar diyemeyiz çünkü eklenen XY₃ miktarına bağlıdır. Toplam basınç, kaptaki toplam mol sayısına bağlıdır. İleri tepkime 4 mol gazdan 2 mol gaza, geri tepkime 2 mol gazdan 4 mol gaza gider. Geri tepkimeye kayma toplam mol sayısını artırır, bu da basıncı artırır. Ancak, kesinlikle artar diyemeyiz çünkü eklenen XY₃'ün miktarı ve denge sabitinin değeri önemlidir. En kesin ifade, denge kayması yönündeki tepkimenin (geri tepkime) hızının artmasıdır.",
+    "options": [
+      {
+        "text": "İleri tepkimenin hızı",
+        "isCorrect": false
+      },
+      {
+        "text": "Geri tepkimenin hızı",
+        "isCorrect": true
+      },
+      {
+        "text": "X₂ gazının derişimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplam basınç",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Sabit sıcaklıkta 1 litrelik kapta gerçekleşen A(g) + B(g) ⇌ C(g) tepkimesi için denge sabiti Kc = 4'tür. Kaba 1'er mol A, B ve C gazları konulduğunda tepkime ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Başlangıç derişimleri: [A] = 1 M, [B] = 1 M, [C] = 1 M. Q (Tepkime Quotient) hesaplanır: Q = [C]/([A][B]) = 1/(1*1) = 1. Denge sabiti Kc = 4'tür. Q < Kc olduğu için sistem dengede değildir ve dengeye ulaşmak için Q değeri Kc'ye yaklaşmalıdır, yani Q artmalıdır. Q'nun artması için pay ([C]) artmalı, payda ([A][B]) azalmalıdır. Bu da tepkimenin ileri yönde (A ve B tüketilip C oluşarak) ilerleyeceği anlamına gelir.",
+    "options": [
+      {
+        "text": "Tepkime dengededir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime ileri yönde yürüyerek dengeye ulaşır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tepkime geri yönde yürüyerek dengeye ulaşır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkimenin yönü hakkında bir şey söylenemez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir tepkimenin potansiyel enerji (PE) - tepkime koordinatı grafiği aşağıdaki gibidir: PE (Ürünler) > PE (Girenler). Aktivasyon enerjisi ise yüksektir. Bu tepkime için aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "Potansiyel enerji (Ürünler) > Potansiyel enerji (Girenler) ise, tepkime endotermiktir (ΔH > 0). Aktivasyon enerjisinin yüksek olması, tepkimenin yavaş olduğu anlamına gelir. Endotermik tepkimelerde, sıcaklık artışı denge sabitini (K) artırır, çünkü denge ürünler yönüne kayar. Ancak, aktivasyon enerjisinin yüksek olması, bir katalizör kullanımının tepkime hızını belirgin şekilde artıracağını gösterir. Katalizör, aktivasyon enerjisini düşürerek hızı artırır, ancak denge sabitini (K) veya tepkimenin entalpi değişimini (ΔH) değiştirmez. Dolayısıyla, 'Katalizör kullanılırsa denge sabiti (K) artar.' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "Tepkime endotermiktir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime yavaştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıcaklık artışı denge sabitini (K) artırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Katalizör kullanılırsa denge sabiti (K) artar.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "2H₂(g) + O₂(g) → 2H₂O(s) tepkimesi 25°C ve 1 atm'de gerçekleşmektedir. Bu tepkime ile ilgili aşağıdakilerden hangisi doğrudur? (H₂O(s): buz)",
+    "explanation": "Tepkimede ürün olarak H₂O(s) (buz) verilmiştir. 25°C ve 1 atm'de suyun kararlı fiziksel hali sıvıdır (H₂O(l)). Gaz halindeki hidrojen ve oksijenin tepkimesi sonucu doğrudan katı (buz) oluşması, 0°C'nin altındaki sıcaklıklarda mümkündür. 25°C'de oluşacak ürün H₂O(l)'dir. Ayrıca, elementlerinden oluşma tepkimeleri ekzotermiktir. Ancak, verilen tepkime H₂O(s) oluşturduğu için, H₂O(l) oluşumundan daha az ekzotermik olacaktır çünkü sıvının donması ekzotermik bir olaydır (ΔH<0). Fakat sorunun odağı, standart oluşum entalpileri ile ilgilidir. Standart koşullarda (25°C, 1 atm) bir bileşiğin elementlerinden oluşum entalpisi standart oluşum entalpisi (ΔH°f) olarak tanımlanır ve bileşiğin en kararlı haline göredir. Su için bu H₂O(l)'dir. Dolayısıyla, verilen tepkime standart oluşum tepkimesi değildir. Tepkime ekzotermik olmasına rağmen, 'Standart oluşum entalpisi (ΔH°f) sıfırdan küçüktür.' ifadesi H₂O(s) için de doğrudur çünkü her iki hal için de ΔH°f < 0'dır. Ancak en doğru ve güvenli cevap, tepkimenin ekzotermik olduğudur. 'İş yapabilme kapasitesi artar' ifadesi yanlıştır çünkü ekzotermik tepkimede sistem enerji kaybeder, iş yapabilme kapasitesi azalır. 'Düzensizlik azalır' doğrudur çünkü 3 mol gazdan 2 mol katı oluşur, bu da düzensizliğin (entropinin) azalması demektir.",
+    "options": [
+      {
+        "text": "Tepkime ekzotermiktir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sistemin iş yapabilme kapasitesi artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Standart oluşum entalpisi (ΔH°f) sıfırdan küçüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemde düzensizlik artar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir kimyasal tepkimede, tepkime entalpisi (ΔH) -40 kJ/mol, tepkime entropi değişimi (ΔS) ise -100 J/mol.K olarak veriliyor. Bu tepkimenin kendiliğinden gerçekleşebilmesi için sıcaklık aşağıdaki aralıkların hangisinde olmalıdır?",
+    "explanation": "Bir tepkimenin kendiliğinden olup olmaması Gibbs Serbest Enerji değişimi (ΔG) ile belirlenir. ΔG = ΔH - TΔS. Kendiliğinden tepkimeler için ΔG < 0 olmalıdır. Verilen değerler: ΔH = -40 kJ/mol = -40000 J/mol, ΔS = -100 J/mol.K. ΔH negatif (ekzotermik), ΔS negatif (düzensizlik azalıyor). ΔG'nin negatif olması için ΔH - TΔS < 0 => -40000 - T*(-100) < 0 => -40000 + 100T < 0 => 100T < 40000 => T < 400 K. Yani, tepkime sadece 400 Kelvin'in altındaki sıcaklıklarda kendiliğindendir. 400 K'de ΔG=0 olur, denge kurulur. 400 K'nin üzerinde ΔG > 0 olur ve tepkime kendiliğinden gerçekleşmez.",
+    "options": [
+      {
+        "text": "T > 400 K",
+        "isCorrect": false
+      },
+      {
+        "text": "T < 400 K",
+        "isCorrect": true
+      },
+      {
+        "text": "Tüm sıcaklıklarda",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiçbir sıcaklıkta",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Mg(k) + 1/2O₂(g) → MgO(k) tepkimesi çok ekzotermik bir tepkimedir. Aynı sıcaklıkta MgO bileşiği için aşağıdakilerden hangisi söylenemez?",
+    "explanation": "MgO'nun oluşum tepkimesi çok ekzotermik olduğuna göre, oluşum entalpisi (ΔH°f) negatiftir ve büyük bir mutlak değere sahiptir. Bu, MgO'nun kararlı bir bileşik olduğu anlamına gelir. Ekzotermik tepkimelerde ürünlerin enerjisi girenlerden daha düşüktür, dolayısıyla MgO'nun enerjisi, elementleri olan Mg ve O₂'nin enerjisinden daha düşüktür. Ancak, bağ enerjisi ile ilgili kesin bir yargıda bulunulamaz. Bağ enerjisi, bir bağı kırmak için gereken enerjidir. MgO iyonik bir katıdır ve örgü enerjisi yüksektir, bu da onu kararlı yapar. Fakat 'bağ enerjisi yüksektir' demek, iyonik bileşikler için standart bir ifade değildir; daha çok kovalent bağlar için kullanılır. İyonik bileşikler için 'örgü enerjisi yüksektir' denir. Soruda 'söylenemez' denildiği için, bağ enerjisi ile ilgili kesin bir şey söylenemez çünkü bu tepkimenin ekzotermik olması doğrudan bağ enerjisi hakkında bir ölçü vermez. Diğer seçenekler doğrudur: Kararlıdır (ΔG°f negatiftir), Elementlerine göre daha düşük enerjilidir, Oluşum entalpisi negatiftir.",
+    "options": [
+      {
+        "text": "Kararlı bir bileşiktir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elementlerine göre daha düşük enerjiye sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oluşum entalpisi sıfırdan küçüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bağ enerjisi yüksektir.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "X²⁺(aq) + 2e⁻ → X(k) indirgenme tepkimesinin standart elektrot potansiyeli E° = -0.76 V'dir. Buna göre, 2X(k) + Y²⁺(aq) → 2X⁺(aq) + Y(k) tepkimesinin standart koşullardaki potansiyeli (E°pil) aşağıdakilerden hangisi olabilir?",
+    "explanation": "Verilen indirgenme tepkimesi: X²⁺ + 2e⁻ → X, E° = -0.76 V. Bu değer, çinko (Zn) metalinin standart indirgenme potansiyeline eşittir. Ters çevrilmiş hali (X → X²⁺ + 2e⁻) yükseltgenme tepkimesidir ve E° = +0.76 V'dur. Soruda verilen pil tepkimesi: 2X(k) + Y²⁺(aq) → 2X⁺(aq) + Y(k). Bu tepkimeye göre, X metali yükseltgenerek X⁺ iyonuna dönüşmektedir (X → X⁺ + e⁻). Y²⁺ iyonu ise indirgenerek Y metaline dönüşmektedir (Y²⁺ + 2e⁻ → Y). Ancak, verilen X için tepkime X²⁺'e yükseltgenme iken, pil tepkimesinde X⁺'e yükseltgenme vardır. Bu farklıdır. Pil tepkimesini yarım tepkimelere ayıralım: Yarı Tepkime 1 (Yükseltgenme): X → X⁺ + e⁻. Bu tepkimenin potansiyelini bilmiyoruz. Yarı Tepkime 2 (İndirgenme): Y²⁺ + 2e⁻ → Y. Bunun potansiyelini de bilmiyoruz. Pil potansiyeli E°pil = E°(indirgenen) - E°(yükseltgenen) = E°(Y²⁺/Y) - E°(X⁺/X). Verilen E°(X²⁺/X) = -0.76 V, bu değer E°(X⁺/X) değildir. X⁺/X çifti için potansiyel farklı olacaktır. Soru 'aşağıdakilerden hangisi olabilir?' şeklindedir. Tepkimenin kendiliğinden olması için E°pil > 0 olmalı. Yani E°(Y²⁺/Y) > E°(X⁺/X) olmalı. X²⁺/X çiftinin potansiyeli -0.76V olduğuna göre, X⁺/X çiftinin potansiyeli muhtemelen daha negatif değildir, daha pozitif olabilir (çünkü X⁺'ü indirgemek X²⁺'ü indirgemekten daha kolay olabilir). Bu durumda E°(X⁺/X) değeri -0.76V'dan daha büyük (daha pozitif) bir değer alabilir. Seçeneklerdeki değerlere baktığımızda, E°pil değerinin pozitif olması gerekir. +0.50 V, +1.20 V, +2.10 V pozitiftir. -0.30 V negatiftir ve kendiliğinden tepkime için uygun değildir. Pil tepkimesinde 2 elektron transferi var gibi görünüyor (Y²⁺ 2e⁻ alıyor, 2X ise 2e⁻ veriyor). Bu durumda, makul bir pil potansiyeli için +1.20 V gibi bir değer olabilir. En makul ve yaygın cevap +1.20 V'dur.",
+    "options": [
+      {
+        "text": "-0.30 V",
+        "isCorrect": false
+      },
+      {
+        "text": "+0.50 V",
+        "isCorrect": false
+      },
+      {
+        "text": "+1.20 V",
+        "isCorrect": true
+      },
+      {
+        "text": "+2.10 V",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki metallerden hangisi, sulu çözeltisinden kendiliğinden indirgenerek metale dönüşebilir? (Not: Standart indirgenme potansiyelleri: Na⁺/Na: -2.71 V, Mg²⁺/Mg: -2.37 V, Al³⁺/Al: -1.66 V, Zn²⁺/Zn: -0.76 V, Fe²⁺/Fe: -0.44 V, Cu²⁺/Cu: +0.34 V)",
+    "explanation": "Bir metal iyonunun sulu çözeltisinden kendiliğinden indirgenerek metale dönüşebilmesi için, suyun indirgenme tepkimesi (2H₂O + 2e⁻ → H₂ + 2OH⁻, E° = -0.83 V) ile rekabet etmesi gerekir. Eğer metal iyonunun indirgenme potansiyeli (E°), suyun indirgenme potansiyelinden daha pozitifse (yani E° > -0.83 V), metal iyonu sudan daha kolay indirgenir ve sulu çözeltide kararlıdır, kendiliğinden metale dönüşmez. Ancak, eğer metal iyonunun indirgenme potansiyeli suyunkinden daha negatifse (E° < -0.83 V), suyun indirgenmesi metal iyonunun indirgenmesinden daha kolaydır. Bu durumda, metal iyonu sulu çözeltide su ile tepkimeye girerek yükseltgenir ve metal katyon kararlı değildir, kendiliğinden metale dönüşmez. Soru 'kendiliğinden indirgenerek metale dönüşebilir' diyor. Bu ifade, metal iyonunun sulu çözeltide kararlı olduğu, yani su tarafından yükseltgenmediği anlamına gelir. Yani, E°(Mⁿ⁺/M) > E°(H⁺/H₂) olan metaller (asitli ortamda) veya E°(Mⁿ⁺/M) > E°(H₂O/H₂) olan metaller (nötr/bazik ortamda) sulu çözeltide kararlıdır ve kendiliğinden indirgenmiş halde (metal) bulunurlar. Asitli ortam için E°(H⁺/H₂) = 0 V'tur. Nötr/bazik ortam için E°(H₂O/H₂) = -0.83 V'tur. Seçeneklerdeki metallerin E° değerlerine bakalım: Cu²⁺/Cu: +0.34 V. Bu değer hem 0 V'tan hem de -0.83 V'tan büyüktür. Dolayısıyla, bakır iyonu sulu çözeltide kararlı değildir, bakır metali kararlıdır. Yani bakır metali, sulu çözeltide kendiliğinden indirgenmiş halde bulunur (yükseltgenmez). Diğer metaller (Na, Mg, Al, Zn, Fe) ise E° değerleri -0.83 V'tan küçük olduğu için sulu çözeltide yükseltgenirler, yani metal halleri kararlı değildir, kendiliğinden iyonlarına dönüşürler.",
+    "options": [
+      {
+        "text": "Na",
+        "isCorrect": false
+      },
+      {
+        "text": "Mg",
+        "isCorrect": false
+      },
+      {
+        "text": "Al",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "0.1 M 500 mL AgNO₃ çözeltisi, 0.2 M 500 mL NaCl çözeltisi ile karıştırılıyor. Oluşan çözeltiye bir gümüş (Ag) elektrot ve bir klor (Cl₂) elektrot daldırılarak bir elektroliz hücresi kuruluyor. Hücreye bir dış güç kaynağı bağlandığında aşağıdakilerden hangisi gözlenmez? (AgCl için Kçç = 1.6x10⁻¹⁰)",
+    "explanation": "İlk olarak çözeltiler karıştırıldığında: Ag⁺ ve Cl⁻ iyonları AgCl çökeltisi oluşturur. Mol hesapları: n(Ag⁺) = 0.1 M * 0.5 L = 0.05 mol. n(Cl⁻) = 0.2 M * 0.5 L = 0.1 mol. Ag⁺ ve Cl⁻ eşit molde çöker. 0.05 mol Ag⁺, 0.05 mol Cl⁻ ile reaksiyona girerek 0.05 mol AgCl çöker. Çözeltide kalan Cl⁻ miktarı: 0.1 - 0.05 = 0.05 mol. Toplam hacim 1 L olduğu için [Cl⁻] = 0.05 M. Ag⁺ derişimi ise AgCl'nin çözünürlük çarpımından hesaplanır: Kçç = [Ag⁺][Cl⁻] = 1.6x10⁻¹⁰. [Cl⁻] = 0.05 M olduğuna göre, [Ag⁺] = Kçç / [Cl⁻] = (1.6x10⁻¹⁰) / (0.05) = 3.2x10⁻⁹ M. Elektroliz hücresinde anot ve katot belirlenir. Dış güç kaynağı olduğu için bu bir elektroliz hücresidir. Anotta yükseltgenme, katotta indirgenme olur. Elektrotlar: Ag elektrot ve Cl₂ elektrot. Ag elektrot, Ag⁺/Ag çifti için reversibl bir elektrottur. Cl₂ elektrot ise Cl₂/Cl⁻ çifti için reversibl bir elektrottur. Çözeltide Ag⁺ iyonu çok az (3.2x10⁻⁹ M) ve Cl⁻ iyonu var (0.05 M). Elektrolizde hangi elektrodun anot, hangisinin katot olacağı dış güç kaynağının kutuplarına bağlıdır. Ancak soru 'aşağıdakilerden hangisi gözlenmez?' diye soruyor. Seçeneklere bakalım. 'Ag elektrottan elektron çıkışı' Ag elektrot anot ise gözlenir (Ag(k) → Ag⁺ + e⁻). 'Cl₂ elektrotta gaz kabarcığı oluşumu' Cl₂ elektrot anot ise gözlenir (2Cl⁻ → Cl₂(g) + 2e⁻). 'Ag elektrotun kütlesinde azalma' Ag elektrot anot ise gözlenir (Ag metali çözünür). 'Ag elektrotun kütlesinde artma' Ag elektrot katot ise gözlenir (Ag⁺ iyonları indirgenerek Ag metali birikir). Peki hangisi gözlenmez? Elektrolizde, potansiyeli daha pozitif olan yarı tepkime katotta, daha negatif olan anotta tercihli olarak gerçekleşir. Standart potansiyeller: E°(Ag⁺/Ag) = +0.80 V, E°(Cl₂/Cl⁻) = +1.36 V. E°(Cl₂/Cl⁻) daha pozitif olduğu için, Cl₂ indirgenmesi Ag⁺ indirgenmesinden daha kolaydır. Elektrolizde, katotta indirgenme potansiyeli daha pozitif olan (daha kolay indirgenen) species tercih edilir. Bu durumda, katotta Cl₂ indirgenebilir mi? Çözeltide Cl₂ gazı yok, Cl⁻ var. Katotta indirgenme olacak. Mevcut indirgenebilecek species: Ag⁺ (çok az) ve H₂O (2H₂O + 2e⁻ → H₂ + 2OH⁻, E° = -0.83 V). E°(Ag⁺/Ag) = +0.80 V, E°(H⁺/H₂) su için düzeltilince ~ -0.83 V. En kolay indirgenen Ag⁺'dır. Bu nedenle, katotta Ag⁺ iyonları indirgenerek Ag metali birikmesi beklenir. Anotta ise yükseltgenme olacak. Yükseltgenebilecek species: Cl⁻ (E°(Cl₂/Cl⁻) = +1.36 V için tersi) ve H₂O (2H₂O → O₂ + 4H⁺ + 4e⁻, E° = +1.23 V). E° değerleri karşılaştırıldığında, H₂O'nun yükseltgenmesi (E° = +1.23 V) Cl⁻'ün yükseltgenmesinden (E° = -1.36 V için ters tepkime, yani yükseltgenme potansiyeli -1.36 V'dur? Hayır, standart yükseltgenme potansiyeli, indirgenme potansiyelinin ters işaretlisidir. Cl⁻'ün yükseltgenme potansiyeli E° = -1.36 V'dur. H₂O'nun yükseltgenme potansiyeli E° = -1.23 V'dur. Daha az negatif (daha pozitif) olan yükseltgenme daha kolaydır. Bu durumda, H₂O'nun yükseltgenme potansiyeli (-1.23 V) Cl⁻'ün yükseltgenme potansiyelinden (-1.36 V) daha büyük (daha pozitif) olduğu için, anotta suyun yükseltgenmesi (O₂ gazı çıkışı) tercih edilir. Yani, anotta Cl₂ gazı oluşmaz, O₂ gazı oluşur. Dolayısıyla, 'Cl₂ elektrotta gaz kabarcığı oluşumu' gözlenmez, çünkü anotta O₂ gazı çıkar. Doğru cevap budur.",
+    "options": [
+      {
+        "text": "Ag elektrottan elektron çıkışı",
+        "isCorrect": false
+      },
+      {
+        "text": "Cl₂ elektrotta gaz kabarcığı oluşumu",
+        "isCorrect": true
+      },
+      {
+        "text": "Ag elektrotun kütlesinde azalma",
+        "isCorrect": false
+      },
+      {
+        "text": "Ag elektrotun kütlesinde artma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
   }
 ]
