@@ -1,0 +1,210 @@
+[
+  {
+    "text": "Felsefenin temel özelliklerinden biri olan 'eleştirel düşünme' ile ilgili aşağıdakilerden hangisi söylenebilir?",
+    "explanation": "Felsefe, herhangi bir konuyu ele alırken önyargılardan uzak, akla ve mantığa dayalı olarak sorgulama yapar. Bu sorgulama süreci, eleştirel düşünmenin ta kendisidir ve felsefi düşüncenin temelini oluşturur.",
+    "options": [
+      {
+        "text": "Ortak kabul görmüş inançları olduğu gibi kabul etmeyi gerektirir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Her türlü bilgiyi ve inancı akıl süzgecinden geçirerek sorgulamayı ifade eder.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yalnızca bilimsel verileri temel alan bir düşünme biçimidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Duygulara dayalı bir yaklaşımı benimser.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Felsefe'nin Alanı",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bilgi Felsefesi (Epistemoloji) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Epistemoloji, bilginin kaynağı, sınırları, doğruluğu ve imkanı gibi temel sorularla ilgilenir. Bilginin ne olduğunu, nasıl elde edildiğini ve ne kadar güvenilir olduğunu araştıran felsefe dalıdır.",
+    "options": [
+      {
+        "text": "İnsanın evrendeki yerini ve anlamını sorgular.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilginin ne olduğunu, kaynağını ve sınırlarını araştırır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumun ideal yönetim biçimini inceler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanat eserlerinin değer ölçütlerini analiz eder.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilgi Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bilim Felsefesi'nin temel sorunlarından biri aşağıdakilerden hangisidir?",
+    "explanation": "Bilim Felsefesi, bilimsel yöntemin ne olduğu, bilimsel bir kuramın doğrulanması veya yanlışlanması, bilimsel ilerlemenin nasıl gerçekleştiği gibi sorunlarla ilgilenir. Tümevarım problemi, sınırlı gözlemlerden genel yasalara nasıl ulaşılabileceği sorusunu ifade eder.",
+    "options": [
+      {
+        "text": "Güzelin nesnel olup olmadığı problemi",
+        "isCorrect": false
+      },
+      {
+        "text": "İyi ve kötü eylemlerin kaynağı problemi",
+        "isCorrect": false
+      },
+      {
+        "text": "Tümevarım yönteminin geçerliliği problemi",
+        "isCorrect": true
+      },
+      {
+        "text": "Tanrı'nın varlığının kanıtlanması problemi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilim Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Varlık Felsefesi (Ontoloji) açısından 'idealizm' öğretisi aşağıdakilerden hangisini savunur?",
+    "explanation": "İdealizm, varlığın özünün ve asıl gerçekliğin düşünce veya idea olduğunu savunan felsefi görüştür. Maddeyi ikincil ya da idea'nın bir yansıması olarak görür. Platon bu görüşün en önemli temsilcilerindendir.",
+    "options": [
+      {
+        "text": "Varlığın özünün madde olduğunu savunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Varlığın hem madde hem de düşünceden oluştuğunu kabul eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Asıl gerçekliğin düşünce veya idea olduğunu savunur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Varlığın oluştan ibaret olduğunu ve sürekli değiştiğini ileri sürer.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Varlık Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Ahlak Felsefesi'nde 'ödev ahlakı' görüşü ile öne çıkan filozof aşağıdakilerden hangisidir?",
+    "explanation": "Immanuel Kant, ödev ahlakı (deontolojik etik) görüşünün kurucusudur. Kant'a göre bir eylemin ahlaki değeri, o eylemin sonucundan değil, ödev duygusuyla ve ahlak yasasına uygun olarak yapılmasından kaynaklanır.",
+    "options": [
+      {
+        "text": "Aristoteles",
+        "isCorrect": false
+      },
+      {
+        "text": "Immanuel Kant",
+        "isCorrect": true
+      },
+      {
+        "text": "John Stuart Mill",
+        "isCorrect": false
+      },
+      {
+        "text": "Friedrich Nietzsche",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ahlak Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Siyaset Felsefesi'nde 'toplum sözleşmesi' kuramı ile ilişkilendirilen filozoflar aşağıdakilerden hangisinde birlikte verilmiştir?",
+    "explanation": "Toplum sözleşmesi kuramı, devletin ve siyasi otoritenin kökenini, bireylerin özgürlüklerinin bir kısmını ortak iyilik için bir sözleşmeyle devlete devretmesiyle açıklar. Thomas Hobbes, John Locke ve Jean-Jacques Rousseau bu kuramın en önemli temsilcileridir.",
+    "options": [
+      {
+        "text": "Platon - Aristoteles",
+        "isCorrect": false
+      },
+      {
+        "text": "Karl Marx - Friedrich Engels",
+        "isCorrect": false
+      },
+      {
+        "text": "Thomas Hobbes - John Locke - Jean-Jacques Rousseau",
+        "isCorrect": true
+      },
+      {
+        "text": "Immanuel Kant - Georg Wilhelm Friedrich Hegel",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Siyaset Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Sanat Felsefesi'nde (Estetik) 'taklit (mimesis) kuramı' aşağıdaki filozoflardan hangisi ile özdeşleştirilir?",
+    "explanation": "Taklit (mimesis) kuramı, sanatın doğasını taklide dayandırır. Bu görüşün en eski ve en etkili savunucusu Platon'dur. Platon'a göre sanatçı, idealar dünyasının yansıması olan fiziksel dünyayı taklit eder, bu nedenle sanat gerçeklikten iki kez uzaktır.",
+    "options": [
+      {
+        "text": "Platon",
+        "isCorrect": true
+      },
+      {
+        "text": "Aristoteles",
+        "isCorrect": false
+      },
+      {
+        "text": "Hegel",
+        "isCorrect": false
+      },
+      {
+        "text": "Schopenhauer",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sanat Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Din Felsefesi'nin temel soruları arasında aşağıdakilerden hangisi yer almaz?",
+    "explanation": "Din Felsefesi, dinin temel iddialarını (Tanrı'nın varlığı, evrenin yaratılışı, ruhun ölümsüzlüğü vb.) akıl ve eleştirel düşünce ile sorgular. 'Evrenin ilk nedeni nedir?' sorusu daha çok Varlık Felsefesi'nin (Ontoloji) konusudur.",
+    "options": [
+      {
+        "text": "Tanrı'nın varlığı kanıtlanabilir mi?",
+        "isCorrect": false
+      },
+      {
+        "text": "Ruh ölümsüz müdür?",
+        "isCorrect": false
+      },
+      {
+        "text": "Evrenin ilk nedeni nedir?",
+        "isCorrect": true
+      },
+      {
+        "text": "Dini tecrübenin mahiyeti nedir?",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Din Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  }
+]
