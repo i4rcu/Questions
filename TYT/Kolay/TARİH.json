@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Tarih biliminin 'kronoloji' ilkesi aşağıdakilerden hangisi ile doğrudan ilişkilidir?",
+    "explanation": "Kronoloji, olayların zaman sırasına göre sıralanması ve incelenmesi ilkesidir. Bu, tarihi olayların doğru bir şekilde anlaşılabilmesi için temel bir koşuldur. Olayların nedenlerini araştırmak 'nedensellik', olayların geçtiği yeri incelemek 'mekân' ve olayların kaynaklarını değerlendirmek ise 'tenkit' ile ilgilidir.",
+    "options": [
+      {
+        "text": "Olayların oluş sırasını belirlemek",
+        "isCorrect": true
+      },
+      {
+        "text": "Olayların nedenlerini araştırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Olayların geçtiği yeri tespit etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaynakların güvenilirliğini sorgulamak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki uygarlıklardan hangisi, tarihte yazıyı ilk kez kullanmasıyla tanınır?",
+    "explanation": "Sümerler, MÖ 3200 civarında Mezopotamya'da çivi yazısını geliştirerek tarih çağlarını başlatan uygarlıktır. Bu nedenle yazıyı ilk kullanan uygarlık olarak kabul edilir. Hititler, Frigler ve Lidyalılar ise daha sonraki dönemlerde Anadolu'da kurulmuş ve kendi yazı sistemlerini kullanmışlardır.",
+    "options": [
+      {
+        "text": "Sümerler",
+        "isCorrect": true
+      },
+      {
+        "text": "Hititler",
+        "isCorrect": false
+      },
+      {
+        "text": "Frigler",
+        "isCorrect": false
+      },
+      {
+        "text": "Lidyalılar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Uygarlığın Doğuşu ve İlk Uygarlıklar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi İlk Türk Devletleri'nin ekonomik yaşamında en önemli geçim kaynağı olmuştur?",
+    "explanation": "İlk Türk Devletleri, Orta Asya'nın coğrafi koşulları nedeniyle genellikle konar-göçer (yarı göçebe) bir yaşam sürmüşlerdir. Bu yaşam tarzının temel dayanağı hayvancılıktır. At, koyun, sığır gibi hayvanların yetiştirilmesi başlıca geçim kaynağı olmuş, tarım ise daha sınırlı bir role sahiptir. Ticaret ve madencilik de ekonomide yer almakla birlikte, hayvancılık kadar merkezi bir öneme sahip değildir.",
+    "options": [
+      {
+        "text": "Hayvancılık",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarım",
+        "isCorrect": false
+      },
+      {
+        "text": "Ticaret",
+        "isCorrect": false
+      },
+      {
+        "text": "Madencilik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Türk Devletleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İslam tarihinde ilk Müslümanların büyük baskılar nedeniyle Habeşistan'a yaptığı göç aşağıdakilerden hangisidir?",
+    "explanation": "Mekkeli müşriklerin artan baskı ve işkenceleri karşısında, Hz. Muhammed'in (sav) izniyle bir grup Müslüman 615 yılında Habeşistan'a (bugünkü Etiyopya) göç etmiştir. Bu olay, İslam tarihindeki ilk hicret (göç) olarak bilinir ve Müslümanların inançlarını daha güvenli bir ortamda yaşama çabasını temsil eder.",
+    "options": [
+      {
+        "text": "Habeşistan Hicreti",
+        "isCorrect": true
+      },
+      {
+        "text": "Medine Hicreti",
+        "isCorrect": false
+      },
+      {
+        "text": "Taif Yolculuğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Mute Seferi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Tarihi ve Uygarlığı",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Türk-İslam tarihinde kurulan ilk Müslüman Türk devleti aşağıdakilerden hangisidir?",
+    "explanation": "Karahanlı Devleti, 840 yılında kurularak Türklerin İslamiyet'i kabul etmesiyle birlikte ortaya çıkan ilk Müslüman Türk devletidir. Bu özelliği onu Türk-İslam sentezinin ve kültürünün temel taşlarından biri yapar.",
+    "options": [
+      {
+        "text": "Karahanlılar",
+        "isCorrect": true
+      },
+      {
+        "text": "Gazneliler",
+        "isCorrect": false
+      },
+      {
+        "text": "Büyük Selçuklu Devleti",
+        "isCorrect": false
+      },
+      {
+        "text": "Harzemşahlar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türk-İslam Devletleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  }
+]
