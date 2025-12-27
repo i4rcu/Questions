@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Felsefe, aşağıdaki özelliklerden hangisiyle diğer bilgi türlerinden (din, bilim, sanat) temel bir farklılık gösterir?",
+    "explanation": "Felsefenin en temel özelliği, ele aldığı her konuyu eleştirel, sorgulayıcı ve rasyonel (akılcı) bir tutumla temellendirmeye çalışmasıdır. Diğer disiplinler genellikle belirli bir inanca, deneysel yönteme veya sezgiye dayanırken, felsefe her şeyi akıl yoluyla sorgular ve sistemli bir şekilde temellendirir.",
+    "options": [
+      {
+        "text": "Ele aldığı konuları eleştirel ve rasyonel bir tutumla temellendirmeye çalışması",
+        "isCorrect": true
+      },
+      {
+        "text": "İnsana ve evrene ilişkin sorular sorması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kavramlar ve soyut düşünceler üzerine odaklanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Belirli bir yöntem kullanması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Felsefe'nin Alanı",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bilgi felsefesinde, bilginin kaynağını akıl ve düşünme olarak gören, doğuştan gelen fikirlerin varlığını savunan görüş aşağıdakilerden hangisidir?",
+    "explanation": "Rasyonalizm (Akılcılık), bilginin temel kaynağının akıl ve düşünme olduğunu, insan zihninin doğuştan bazı bilgilere sahip olduğunu savunur. Empirizm bilginin deneyimle, Kritisizm deneyim ve aklın senteziyle, Septisizm ise kesin bilginin mümkün olup olmadığı şüphesiyle ilgilenir.",
+    "options": [
+      {
+        "text": "Rasyonalizm (Akılcılık)",
+        "isCorrect": true
+      },
+      {
+        "text": "Empirizm (Deneycilik)",
+        "isCorrect": false
+      },
+      {
+        "text": "Kritisizm (Eleştiricilik)",
+        "isCorrect": false
+      },
+      {
+        "text": "Septisizm (Kuşkuculuk)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilgi Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bilim felsefesinde, bilimsel bir teorinin geçerliliğini ve doğruluğunu deney ve gözlem yoluyla sınama sürecine ne ad verilir?",
+    "explanation": "Bilimsel yöntemin temelini oluşturan bu süreç, hipotezlerin ampirik (deneysel) verilerle test edilmesidir. Bu test etme işlemine 'ampirik test' veya 'deneysel sınama' denir. Doğrulama ise bu sürecin genel adıdır ve bir teorinin olgusal dünyaya uygunluğunun araştırılmasını ifade eder.",
+    "options": [
+      {
+        "text": "Doğrulama (Verifikasyon)",
+        "isCorrect": true
+      },
+      {
+        "text": "Yanlışlama (Falsifikasyon)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tümevarım",
+        "isCorrect": false
+      },
+      {
+        "text": "Tümdengelim",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilim Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Varlık felsefesinin (ontoloji) temel sorusu aşağıdakilerden hangisidir?",
+    "explanation": "Varlık felsefesi, varlığın ne olduğu, anlamı, kökeni ve yapısı gibi temel sorularla ilgilenir. Diğer seçeneklerdeki sorular sırasıyla bilgi felsefesi (epistemoloji), ahlak felsefesi (etik) ve siyaset felsefesinin konularıdır.",
+    "options": [
+      {
+        "text": "Varlığın ne olduğu ve anlamı nedir?",
+        "isCorrect": true
+      },
+      {
+        "text": "Doğru bilgiye nasıl ulaşılır?",
+        "isCorrect": false
+      },
+      {
+        "text": "İyi ve kötü davranışın ölçütü nedir?",
+        "isCorrect": false
+      },
+      {
+        "text": "İdeal bir toplum düzeni nasıl olmalıdır?",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Varlık Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Ahlak felsefesinde, bir eylemin sonuçlarına bakarak iyi veya kötü olduğunu belirleyen yaklaşım aşağıdakilerden hangisidir?",
+    "explanation": "Faydacılık (utilitarianism) gibi sonuççu etik teoriler, bir eylemin ahlaki değerini onun sonuçlarına, yani ne kadar fayda sağladığına veya mutluluğu ne kadar artırdığına göre değerlendirir. Deontolojik etik ise eylemin kendisine ve evrensel kurallara, erdem etiği kişinin karakterine, egoizm ise bireyin kişisel çıkarına odaklanır.",
+    "options": [
+      {
+        "text": "Sonuççu Etik",
+        "isCorrect": true
+      },
+      {
+        "text": "Deontolojik Etik",
+        "isCorrect": false
+      },
+      {
+        "text": "Erdem Etiği",
+        "isCorrect": false
+      },
+      {
+        "text": "Egoizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ahlak Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
+  }
+]
