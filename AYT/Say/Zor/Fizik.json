@@ -1,0 +1,380 @@
+[
+  {
+    "text": "Bir F kuvvet vektörünün büyüklüğü 10 N'dur. Bu vektörün +x ekseni ile yaptığı açı 120° ise, vektörün bileşenleri (F_x, F_y) aşağıdakilerden hangisidir?",
+    "explanation": "Vektörün bileşenleri şu formüllerle bulunur: F_x = F * cos(θ) ve F_y = F * sin(θ). θ = 120° olduğu için cos(120°) = -1/2 ve sin(120°) = √3/2'dir. Bu değerleri yerine koyarsak: F_x = 10 * (-1/2) = -5 N ve F_y = 10 * (√3/2) = 5√3 N olur. Dolayısıyla bileşenler (-5 N, 5√3 N)'dir.",
+    "options": [
+      {
+        "text": "(-5 N, 5√3 N)",
+        "isCorrect": true
+      },
+      {
+        "text": "(5 N, 5√3 N)",
+        "isCorrect": false
+      },
+      {
+        "text": "(-5 N, -5√3 N)",
+        "isCorrect": false
+      },
+      {
+        "text": "(5√3 N, -5 N)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Ağırlığı önemsiz, 2 metre uzunluğundaki homojen bir çubuk, bir ucu O noktasından mafsallı, diğer ucu ise yatayla 37° açı yapan bir iple tavana asılıdır. Çubuğun tam ortasına 60 N ağırlığında bir cisim asılıyor. İpteki gerilme kuvvetinin büyüklüğü kaç N'dur? (sin37° = 0,6; cos37° = 0,8; gerekli hesaplamalarda çubuğun ağırlığını ihmal ediniz.)",
+    "explanation": "Sistem dengede olduğuna göre, kuvvetlerin dengesi ve tork dengesi sağlanmalıdır. O noktasına göre tork alalım. İpteki T gerilme kuvvetinin O noktasına dik uzaklığı: L * sin37° = 2 * 0,6 = 1,2 m'dir. Bu kuvvet O noktasını saat yönünün tersinde döndürür. Cismin ağırlığı G=60 N'dur. Cismin O noktasına uzaklığı L/2 = 1 m'dir ve bu kuvvet O noktasını saat yönünde döndürür. Tork dengesi denklemi: (T * 1,2) = (60 * 1). Buradan T = 60 / 1,2 = 50 N bulunur.",
+    "options": [
+      {
+        "text": "40 N",
+        "isCorrect": false
+      },
+      {
+        "text": "50 N",
+        "isCorrect": true
+      },
+      {
+        "text": "75 N",
+        "isCorrect": false
+      },
+      {
+        "text": "100 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütleleri sırasıyla m, 2m ve 3m olan özdeş küpler, şekildeki gibi birleştirilerek bir cisim oluşturulmuştur. Her bir küpün kenar uzunluğu a'dır. Buna göre, cismin kütle merkezinin O noktasına olan uzaklığı kaç a'dır? (Şekil: Üç küp düz bir çizgi üzerinde birleşmiştir. O noktası en soldaki küpün sol yüzeyinin orta noktasıdır.)",
+    "explanation": "Küpler özdeş olduğu için kütle merkezleri kendi geometrik merkezlerindedir. O noktasını başlangıç noktası (x=0) alalım. Soldan sağa doğru:\n- Birinci küpün kütle merkezi: x1 = a/2\n- İkinci küpün kütle merkezi: x2 = a + a/2 = 3a/2\n- Üçüncü küpün kütle merkezi: x3 = 2a + a/2 = 5a/2\nKütle merkezi formülü: x_KM = (m1*x1 + m2*x2 + m3*x3) / (m1+m2+m3)\nx_KM = (m*(a/2) + (2m)*(3a/2) + (3m)*(5a/2)) / (m+2m+3m)\nx_KM = (ma/2 + 6ma/2 + 15ma/2) / 6m = (22ma/2) / 6m = (11ma) / 6m = 11a/6.",
+    "options": [
+      {
+        "text": "11a/6",
+        "isCorrect": true
+      },
+      {
+        "text": "2a",
+        "isCorrect": false
+      },
+      {
+        "text": "3a/2",
+        "isCorrect": false
+      },
+      {
+        "text": "5a/3",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmelerin önemsiz olduğu bir sistemde, bir kaldıraç kullanılarak 900 N ağırlığındaki bir yük, 150 N'luk bir kuvvetle dengelenmektedir. Kaldıracın yük kolunun uzunluğu 2 metre olduğuna göre, kuvvet kolunun uzunluğu ve bu kaldıracın verimi nedir?",
+    "explanation": "Kaldıraç denge koşuluna göre: Kuvvet x Kuvvet Kolu = Yük x Yük Kolu\n150 N x Kuvvet Kolu = 900 N x 2 m\nKuvvet Kolu = (900 x 2) / 150 = 1800 / 150 = 12 m\n\nSürtünme olmadığı için verim %100'dür. İdeal mekanik avantaj (IMA) ise Kuvvet Kolu / Yük Kolu = 12 / 2 = 6'dır.\n\nDoğru seçenek: Kuvvet kolu = 12 m, Verim = %100",
+    "options": [
+      {
+        "text": "Kuvvet kolu = 12 m, Verim = %100",
+        "isCorrect": true
+      },
+      {
+        "text": "Kuvvet kolu = 6 m, Verim = %100",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuvvet kolu = 12 m, Verim = %50",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuvvet kolu = 3 m, Verim = %100",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Makineler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay düzlemde durmakta olan 2 kg kütleli bir cisme, yatayla 37° açı yapan bir kuvvet uygulanıyor. Cisme etki eden sürtünme kuvvetinin maksimum değeri 8 N'dur. Cismin hareket etmemesi için uygulanan kuvvetin büyüklüğü F kaç Newton olmalıdır? (cos37° = 0,8; sin37° = 0,6)",
+    "explanation": "Cismin hareket etmemesi için net kuvvet sıfır olmalıdır. Kuvvetin yatay bileşeni (F_x = F * cos37° = 0,8F) ile sürtünme kuvveti (f_s) birbirine eşit olmalıdır. Dikey bileşen (F_y = F * sin37° = 0,6F) cismin ağırlığını (G = m*g = 20 N) etkiler, bu da normal kuvveti (N) ve dolayısıyla maksimum sürtünme kuvvetini değiştirir. Normal kuvvet N = G - F_y = 20 - 0,6F olur. Maksimum sürtünme kuvveti f_s(max) = 8 N'dur. Hareketin başlamaması için F_x ≤ f_s(max) olmalıdır. Bu durumda, 0,8F ≤ 8'den F ≤ 10 N bulunur. Ancak bu, F_y'nin normal kuvveti azaltarak sürtünmeyi düşürdüğü durum için geçerlidir. F çok küçükse, normal kuvvet büyük (N ≈ 20 N) ve sürtünme kapasitesi yüksektir. F büyüdükçe normal kuvvet azalır. Kritik durum, F_x'in, azalmış normal kuvvete bağlı maksimum sürtünme kuvvetine eşit olduğu noktadır: 0,8F = 8. Buradan F = 10 N bulunur. F > 10 N için F_x > 8 olur ve cisim hareket eder. Bu nedenle, cismin hareket etmemesi için F ≤ 10 N olmalıdır. Seçeneklerde bu aralığa uygun tek değer 10 N'dur.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay bir düzlemde durmakta olan 2 kg kütleli bir cisme, yatayla 37° açı yapan bir F kuvveti uygulanıyor. Cismin ivmesi 5 m/s² olduğuna göre, F kuvvetinin büyüklüğü kaç Newton'dur? (cos37° = 0,8; sin37° = 0,6)",
+    "explanation": "Newton'un ikinci yasası (F_net = m*a) uygulanır. Yatay düzlem sürtünmesiz olduğu için net kuvvet, F kuvvetinin yatay bileşenidir. F_yatay = F * cos37° = F * 0,8. Buradan, F_net = m * a => F * 0,8 = 2 kg * 5 m/s² => F * 0,8 = 10 N => F = 10 / 0,8 = 12,5 N.",
+    "options": [
+      {
+        "text": "10 N",
+        "isCorrect": false
+      },
+      {
+        "text": "12,5 N",
+        "isCorrect": true
+      },
+      {
+        "text": "15 N",
+        "isCorrect": false
+      },
+      {
+        "text": "20 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz bir ortamda, yay sabiti k = 200 N/m olan bir yay, denge konumundan 0.5 m sıkıştırılıp serbest bırakılıyor. Yayın ucuna bağlı m = 2 kg kütleli cisim, yay denge konumuna geldiğinde cismin kinetik enerjisi kaç joule olur?",
+    "explanation": "Yayın depoladığı esneklik potansiyel enerjisi, sürtünme olmadığı için tamamen cismin kinetik enerjisine dönüşür. Esneklik potansiyel enerjisi formülü E_p = (1/2)kx²'dir. Burada k = 200 N/m ve x = 0.5 m'dir. E_p = (1/2) * 200 * (0.5)² = 100 * 0.25 = 25 J. Bu enerji, cismin kinetik enerjisine eşittir: K = 25 J.",
+    "options": [
+      {
+        "text": "25 J",
+        "isCorrect": true
+      },
+      {
+        "text": "50 J",
+        "isCorrect": false
+      },
+      {
+        "text": "12.5 J",
+        "isCorrect": false
+      },
+      {
+        "text": "100 J",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji II",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hava direncinin ihmal edildiği bir ortamda, yerden yüksekliği 80 m olan bir kulenin tepesinden yatay olarak 30 m/s hızla bir cisim fırlatılıyor. Cisim yatayda 60 m yol aldığı anda yerden yüksekliği kaç metredir? (g=10 m/s²)",
+    "explanation": "Yatay atış hareketinde yatay hız sabittir (30 m/s). Yatayda 60 m yol alması için geçen süre: t = x / v_x = 60 / 30 = 2 s. Düşey hareket serbest düşmedir: h_düşülen = (1/2) * g * t² = (1/2) * 10 * (2)² = 20 m. Başlangıç yüksekliği 80 m olduğundan, 2 s sonraki yerden yüksekliği: 80 - 20 = 60 m.",
+    "options": [
+      {
+        "text": "60 m",
+        "isCorrect": true
+      },
+      {
+        "text": "50 m",
+        "isCorrect": false
+      },
+      {
+        "text": "40 m",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atışlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay düzlemde durmakta olan 2 kg kütleli bir cisme, yatay doğrultuda F = 4t + 2 (N) şeklinde zamana bağlı bir kuvvet uygulanıyor. Cismin 2. saniye sonundaki hızı kaç m/s olur?",
+    "explanation": "İtme, momentum değişimine eşittir: J = Δp. İtme aynı zamanda kuvvetin zamana göre integralidir: J = ∫F dt. t=0 anında cisim durgun olduğu için başlangıç momentumu sıfırdır. Son momentum, itmeye eşit olacaktır.\n\nJ = ∫₀² (4t + 2) dt = [2t² + 2t]₀² = (2*(4) + 2*(2)) - 0 = 8 + 4 = 12 N·s\n\nΔp = m * v_son - m * v_ilk = 2 * v_son - 0 = 12\n2 * v_son = 12\nv_son = 6 m/s",
+    "options": [
+      {
+        "text": "6 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "12 m/s",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İtme ve Momentum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yarıçapı R olan iletken bir kürenin merkezinden R/2 uzaklıktaki bir noktada elektrik alan şiddeti E ve elektriksel potansiyel V'dir. Kürenin yükü Q olmak üzere, E ve V aşağıdakilerden hangisinde doğru verilmiştir?",
+    "explanation": "İletken bir kürenin içinde (r < R) elektrik alan sıfırdır. Bu nedenle merkezden R/2 uzaklıktaki noktada E = 0'dır. İletken bir kürenin içindeki ve yüzeyindeki her noktanın potansiyeli aynıdır ve V = kQ/R formülü ile hesaplanır.",
+    "options": [
+      {
+        "text": "E = 0, V = kQ/R",
+        "isCorrect": true
+      },
+      {
+        "text": "E = kQ/(R²), V = kQ/R",
+        "isCorrect": false
+      },
+      {
+        "text": "E = kQ/(R²), V = 2kQ/R",
+        "isCorrect": false
+      },
+      {
+        "text": "E = 0, V = 2kQ/R",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik Alan ve Potansiyel",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hava ortamında (εr=1) bulunan paralel levhalı bir sığacın levha alanı A ve levhalar arası uzaklık d'dir. Sığaç, V potansiyel farkına bağlanarak yükleniyor ve ardından kaynaktan ayrılıyor (Q sabit). Daha sonra, levhalar arası mesafe 3d yapılıyor ve levhaların arasına dielektrik sabiti εr=3 olan bir yalıtkan madde tamamen dolduruluyor. Bu işlemler sonucunda sığacın depoladığı enerji, başlangıç enerjisi U0'ın kaç katı olur?",
+    "explanation": "Başlangıç sığası: C0 = ε0 * A / d. Yük Q = C0 * V sabit kalır.\n\nİşlemlerden sonraki sığa: Levhalar arası uzaklık 3d olduğu için sığa başlangıçta 1/3'üne düşer. Ancak dielektrik sabiti εr=3 olan madde eklendiği için sığa 3 kat artar. Net sığa değişimi: C_son = (εr) * (ε0 * A / (3d)) = 3 * (C0 / 3) = C0. Yani sığa değişmez (C_son = C0).\n\nEnerji formülü (Q sabit): U = Q² / (2C). Q ve C her ikisi de aynı kaldığı için enerji de değişmez. Sonuç: U_son = U0.",
+    "options": [
+      {
+        "text": "U = (1/9) U0",
+        "isCorrect": false
+      },
+      {
+        "text": "U = (1/3) U0",
+        "isCorrect": false
+      },
+      {
+        "text": "U = U0",
+        "isCorrect": true
+      },
+      {
+        "text": "U = 3 U0",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralel Levhalar ve Sığa",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün bir manyetik alan içinde, manyetik alana dik olarak yerleştirilmiş, uzunluğu L olan bir iletken telden I akımı geçmektedir. Teli manyetik alan içinde sabit hızla hareket ettirmek için uygulanması gereken dış kuvvet F'dir. Aynı koşullarda, telin uzunluğu 2L, akımı 3I ve manyetik alan şiddeti B/2 olacak şekilde değiştiriliyor. Bu durumda teli aynı sabit hızla hareket ettirmek için gerekli dış kuvvet kaç F olur?",
+    "explanation": "İlk durumda, tel manyetik alana dik olduğu için manyetik kuvvet F_m = I * L * B büyüklüğündedir. Tel sabit hızla hareket ettiğine göre, uygulanan dış kuvvet F, manyetik kuvvete eşit ve zıt yöndedir: F = I * L * B.\n\nİkinci durumda, yeni manyetik kuvvet F_m' = (3I) * (2L) * (B/2) = 3I * 2L * B/2 = 3 * I * L * B olur.\n\nİlk durumdaki F = I * L * B olduğundan, F_m' = 3F bulunur. Sabit hız için gereken dış kuvvet de manyetik kuvvete eşit olacağından, yeni dış kuvvet 3F olur.",
+    "options": [
+      {
+        "text": "3F",
+        "isCorrect": true
+      },
+      {
+        "text": "1,5F",
+        "isCorrect": false
+      },
+      {
+        "text": "F",
+        "isCorrect": false
+      },
+      {
+        "text": "6F",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "İdeal bir transformatörün primer sargısına 100 Hz frekanslı, maksimum değeri 220√2 V olan bir sinüzoidal AC gerilim uygulanıyor. Primer sargı 1000 sarım, sekonder sargı 200 sarımdır. Sekonder devreye 11 Ω'luk bir direnç bağlanmıştır. Buna göre, sekonder devreden geçen akımın maksimum değeri kaç A'dır? (Kayıplar ihmal edilmektedir.)",
+    "explanation": "İlk olarak sekonder geriliminin maksimum değeri bulunur. Gerilim oranı sargı oranına eşittir: V_s/V_p = N_s/N_p. N_s/N_p = 200/1000 = 1/5. Primer gerilim maksimumu V_p(max) = 220√2 V olduğundan, V_s(max) = V_p(max) * (N_s/N_p) = 220√2 * (1/5) = 44√2 V. Sekonder devrede Ohm Kanunu'nu maksimum değerler için uygularız: I_s(max) = V_s(max) / R = (44√2) / 11 = 4√2 A.",
+    "options": [
+      {
+        "text": "4√2 A",
+        "isCorrect": true
+      },
+      {
+        "text": "2√2 A",
+        "isCorrect": false
+      },
+      {
+        "text": "8√2 A",
+        "isCorrect": false
+      },
+      {
+        "text": "20 A",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İndüksiyon, Alternatif Akım ve Transformatörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yatay düzlemde sürtünmesiz bir masa üzerinde, 2 kg kütleli bir cisim 4 m uzunluğundaki bir iple tavana bağlanmıştır. Cisim, düşey eksenle 60° açı yapacak şekilde düzgün çembersel hareket yapmaktadır. Buna göre, cismin açısal hızı kaç rad/s'dir? (g = 10 m/s²)",
+    "explanation": "Cisim düzgün çembersel hareket yaptığı için merkezcil kuvvet, ip gerilmesinin yatay bileşenine eşittir. Düşey dengede ise ip gerilmesinin düşey bileşeni cismin ağırlığına eşittir. İp uzunluğu L=4 m, açı θ=60° olduğuna göre, dönme yarıçapı R = L * sinθ = 4 * sin60° = 4 * (√3/2) = 2√3 m'dir. Düşey denklem: T * cosθ = mg => T * cos60° = 2*10 => T * 0.5 = 20 => T = 40 N. Yatay denklem (merkezcil kuvvet): T * sinθ = m * ω² * R => 40 * sin60° = 2 * ω² * (2√3) => 40 * (√3/2) = 4√3 * ω² => 20√3 = 4√3 * ω² => ω² = 5 => ω = √5 rad/s.",
+    "options": [
+      {
+        "text": "√2",
+        "isCorrect": false
+      },
+      {
+        "text": "√5",
+        "isCorrect": true
+      },
+      {
+        "text": "2√2",
+        "isCorrect": false
+      },
+      {
+        "text": "2√5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  }
+]
