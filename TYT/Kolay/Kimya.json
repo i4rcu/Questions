@@ -1,0 +1,184 @@
+[
+  {
+    "text": "Aşağıdaki ifadelerden hangisi kimyanın tanımını en iyi şekilde açıklar?",
+    "explanation": "Kimya, maddenin yapısını, özelliklerini, bileşimini, dönüşümlerini ve bu dönüşümler sırasında açığa çıkan veya soğurulan enerjiyi inceleyen bilim dalıdır.",
+    "options": [
+      {
+        "text": "Canlı organizmaların yapı ve işleyişini inceler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddenin yapısını, özelliklerini ve dönüşümlerini inceler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yeryüzünü ve evreni oluşturan maddeleri inceler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Matematiksel modeller kullanarak doğa olaylarını açıklar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya Bilimi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki elementlerden hangisinin atom numarası en küçüktür?",
+    "explanation": "Atom numarası, bir elementin atom çekirdeğindeki proton sayısıdır. Seçeneklerdeki elementlerin atom numaraları şöyledir: Kalsiyum (Ca): 20, Sodyum (Na): 11, Magnezyum (Mg): 12, Alüminyum (Al): 13. Bu durumda en küçük atom numarası 11 olan Sodyum (Na) elementine aittir.",
+    "options": [
+      {
+        "text": "Kalsiyum (Ca)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodyum (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Magnezyum (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Alüminyum (Al)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom ve Periyodik Sistem",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki etkileşimlerden hangisi kimyasal bağ olarak sınıflandırılmaz?",
+    "explanation": "Van der Waals bağları, zayıf etkileşimler (fiziksel bağlar) kategorisindedir. İyonik bağ, kovalent bağ ve metalik bağ ise güçlü etkileşimler olan kimyasal bağlardır.",
+    "options": [
+      {
+        "text": "İyonik bağ",
+        "isCorrect": false
+      },
+      {
+        "text": "Kovalent bağ",
+        "isCorrect": false
+      },
+      {
+        "text": "Metalik bağ",
+        "isCorrect": false
+      },
+      {
+        "text": "Van der Waals bağları",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Kimyasal Türler Arası Etkileşimler",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi maddenin plazma hali için doğru bir ifadedir?",
+    "explanation": "Plazma hali, maddenin yüksek sıcaklıklarda atomların elektronlarını kaybederek iyonlaştığı ve serbest elektronlar ile iyonların bir arada bulunduğu halidir. Yıldızlar ve şimşek gibi doğal olaylarda görülür.",
+    "options": [
+      {
+        "text": "Molekülleri arasındaki çekim kuvveti en zayıf olan haldir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Belirli bir şekli ve hacmi yoktur, bulunduğu kabın hacmini alır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yüksek sıcaklıkta gaz halindeki atomların iyonlaşmasıyla oluşur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Molekülleri öteleme, dönme ve titreşim hareketi yapamaz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Maddenin Halleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki olaylardan hangisi kimyasal bir değişim değildir?",
+    "explanation": "Fotosentez, solunum ve paslanma kimyasal değişimdir çünkü maddenin yapısı ve kimliği değişir. Suyun buharlaşması ise fiziksel bir değişimdir; su sadece fiziksel halini (sıvıdan gaza) değiştirir, kimyasal yapısı (H₂O) aynı kalır.",
+    "options": [
+      {
+        "text": "Fotosentez olayı",
+        "isCorrect": false
+      },
+      {
+        "text": "Demirin paslanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Suyun buharlaşması",
+        "isCorrect": true
+      },
+      {
+        "text": "Canlılarda solunum",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğa ve Kimya",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki tepkimelerden hangisi Kütlenin Korunumu Kanunu'na bir örnek olarak gösterilebilir?",
+    "explanation": "Kütlenin Korunumu Kanunu'na göre, bir kimyasal tepkimede tepkimeye giren maddelerin kütleleri toplamı, tepkime sonucunda oluşan maddelerin kütleleri toplamına eşittir. Bu, kapalı bir sistemde kütlenin ne yaratılabileceğini ne de yok edilebileceğini ifade eder. Tüm seçenekler kapalı sistemlerde gerçekleşen tepkimelerdir ve kanuna uyarlar, ancak soru kanunun kendisini en temel haliyle sorgulamaktadır. Doğru cevap, kanunun temel tanımını içeren seçenektir.",
+    "options": [
+      {
+        "text": "2 gram hidrojen gazı ile 16 gram oksijen gazı tepkimeye girerek 18 gram su oluşturur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kalsiyum karbonat (CaCO₃) ısıtıldığında kalsiyum oksit (CaO) ve karbondioksit (CO₂) gazına ayrışır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bakır oksit (CuO) hidrojen gazı (H₂) ile tepkimeye girerek bakır (Cu) ve su (H₂O) oluşturur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kömürün yanması sonucu kütle azalması gözlemlenir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyanın Temel Kanunları ve Kimyasal Hesaplamalar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi heterojen karışıma örnek olarak verilebilir?",
+    "explanation": "Heterojen karışımlar, karışımı oluşturan maddelerin her yerinde aynı özelliği göstermediği, yani tek fazlı görünmediği karışımlardır. Zeytinyağı ve su karıştırıldığında iki ayrı faz oluşur ve bu nedenle heterojen bir karışımdır. Diğer seçeneklerdeki karışımlar ise homojendir (tek fazlıdır).",
+    "options": [
+      {
+        "text": "Tuzlu su",
+        "isCorrect": false
+      },
+      {
+        "text": "Hava",
+        "isCorrect": false
+      },
+      {
+        "text": "Zeytinyağı ve su",
+        "isCorrect": true
+      },
+      {
+        "text": "Alaşım",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karışımlar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  }
+]
