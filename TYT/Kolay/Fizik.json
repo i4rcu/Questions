@@ -1,0 +1,184 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi fizik biliminin temel amacını en iyi şekilde ifade eder?",
+    "explanation": "Fizik biliminin temel amacı, evrendeki doğal olayları gözlem ve deney yoluyla inceleyerek, bu olayları matematiksel modeller ve fiziksel yasalarla açıklamak ve anlamaktır.",
+    "options": [
+      {
+        "text": "Teknolojik ürünler tasarlamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğal olayları anlamak ve açıklamak",
+        "isCorrect": true
+      },
+      {
+        "text": "Kimyasal bileşikleri sentezlemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Canlı organizmaları incelemek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fizik Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi maddenin ortak özelliklerinden biridir?",
+    "explanation": "Maddenin ortak özellikleri, tüm maddeler için geçerli olan özelliklerdir. Kütle ve hacim, madde miktarına bağlı olan (ekstensif) ve tüm maddeler için ortak olan iki temel özelliktir. Özkütle, erime noktası ve çözünürlük ise ayırt edici özelliklerdir.",
+    "options": [
+      {
+        "text": "Kütle",
+        "isCorrect": true
+      },
+      {
+        "text": "Özkütle",
+        "isCorrect": false
+      },
+      {
+        "text": "Erime Noktası",
+        "isCorrect": false
+      },
+      {
+        "text": "Çözünürlük",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Madde ve Özellikleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cisim sürtünmesiz yatay bir düzlemde sabit hızla hareket etmektedir. Bu cisim için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Sürtünmesiz bir ortamda sabit hızla hareket eden bir cisme etki eden net kuvvet sıfırdır (Newton'un birinci hareket yasası). Bu durumda cismin ivmesi de sıfır olur.",
+    "options": [
+      {
+        "text": "İvmesi sıfırdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hızı artmaktadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Üzerine net bir kuvvet etki etmektedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetik enerjisi azalmaktadır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet ve Hareket",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir öğrenci 10 kg kütleli bir çantayı sabit hızla yerden 1,5 metre yüksekliğe kaldırıyor. Öğrencinin çantaya yaptığı iş kaç joule'dür? (g = 10 m/s²)",
+    "explanation": "İş, kuvvetin yola paralel bileşeni ile yolun çarpımına eşittir (W = F * d). Çanta sabit hızla kaldırıldığı için uygulanan kuvvet, çantanın ağırlığına eşittir (F = m * g = 10 kg * 10 m/s² = 100 N). Yol 1,5 metredir. Bu durumda yapılan iş W = 100 N * 1,5 m = 150 J olur.",
+    "options": [
+      {
+        "text": "15 J",
+        "isCorrect": false
+      },
+      {
+        "text": "150 J",
+        "isCorrect": true
+      },
+      {
+        "text": "1500 J",
+        "isCorrect": false
+      },
+      {
+        "text": "100 J",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aynı sıcaklıktaki bir bardak kaynar su ile bir tencere kaynar suyun içerdiği ısı enerjileri için ne söylenebilir?",
+    "explanation": "Sıcaklık, bir maddenin ortalama kinetik enerjisinin göstergesidir ve madde miktarına bağlı değildir. Isı enerjisi ise toplam enerjidir ve madde miktarına bağlıdır. Aynı sıcaklıkta olmalarına rağmen, tenceredeki suyun kütlesi daha fazla olduğu için içerdiği toplam ısı enerjisi de daha fazladır.",
+    "options": [
+      {
+        "text": "Isı enerjileri eşittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bardaktaki suyun ısı enerjisi daha fazladır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tenceredeki suyun ısı enerjisi daha fazladır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sıcaklıkları farklı olduğu için karşılaştırılamaz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki durumların hangisinde basınç artar?",
+    "explanation": "Basınç, birim yüzeye etki eden dik kuvvettir. Kuvvet artarsa veya yüzey alanı azalırsa basınç artar. Bıçağın bilenmesi, temas yüzey alanını azaltarak basıncı artırır.",
+    "options": [
+      {
+        "text": "Bıçağın bilenerek keskinleştirilmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Karda yürümek için geniş tabanlı kar ayakkabısı giyilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağır bir kamyonun tekerlek sayısının fazla olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Buldozerlerin geniş paletlere sahip olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basınç",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cisim sıvı içerisinde yüzerken, cisme etki eden kaldırma kuvveti ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Bir cisim sıvı içinde yüzdüğünde, cisme etki eden kaldırma kuvveti cismin ağırlığına eşittir. Bu durumda net kuvvet sıfır olduğu için cisim dengededir ve yüzeyde kalır.",
+    "options": [
+      {
+        "text": "Cismin ağırlığından büyüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin ağırlığına eşittir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cismin ağırlığından küçüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin hacmine bağlı değildir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kaldırma Kuvveti",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  }
+]
