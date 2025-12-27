@@ -1,0 +1,569 @@
+[
+  {
+    "text": "Bir tarih araştırmacısı, 19. yüzyılda Osmanlı İmparatorluğu'nda modernleşme hareketlerini incelerken, dönemin resmi belgelerinin yanı sıra, o dönemde yayımlanmış mizah dergilerini ve karikatürleri de kaynak olarak kullanmaktadır. Araştırmacının bu farklı türdeki kaynakları birlikte kullanması, tarih yazımında öncelikle hangi yaklaşımın bir gereğidir?",
+    "explanation": "Soruda, araştırmacının tek tip resmi belgeler yerine, toplumun farklı kesimlerinin bakış açılarını yansıtabilecek mizah dergileri gibi alternatif kaynakları da incelemesi vurgulanmaktadır. Bu durum, olaylara tek bir perspektiften değil, farklı sosyal sınıfların, grupların ve bireylerin deneyimlerini de dikkate alarak çok yönlü bakmayı hedefleyen 'çok boyutlu tarih' anlayışının bir gereğidir. Pozitivizm, olgulara ve belgelere sıkı sıkıya bağlı, daha nesnel bir tarih anlayışını temsil eder. Tarihsel materyalizm, ekonomik faktörleri ve sınıf mücadelesini merkeze alır. Tarihsel empati ise, geçmişteki insanların duygu ve düşüncelerini anlamaya çalışan bir yöntemdir. Ancak burada asıl vurgu, kaynak çeşitliliği yoluyla tarihin farklı boyutlarının ortaya konmasıdır.",
+    "options": [
+      {
+        "text": "Çok boyutlu tarih anlayışı (Olayları farklı perspektiflerden ve kaynak türlerinden hareketle çözümleme)",
+        "isCorrect": true
+      },
+      {
+        "text": "Pozitivist tarih anlayışı (Olgulara ve arşiv belgelerine dayalı, nesnel bir tarih yazımı)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihsel materyalizm (Toplumsal değişimin temelinde ekonomik üretim ilişkilerini görme)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihsel empati (Geçmişteki bireylerin içinde bulundukları koşulları anlamaya çalışma)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki İlk Çağ medeniyetlerinden hangisi, hukuk alanında yazılı kurallar oluşturarak toplumsal düzeni sağlamanın yanı sıra, bu kuralları tanrısal kaynaklı göstermek yerine kralın otoritesine dayandırmasıyla diğerlerinden ayrılır?",
+    "explanation": "Hititler, İlk Çağ'da hukuk sistemleriyle öne çıkmıştır. Mezopotamya'daki Hammurabi Kanunları gibi diğer erken hukuk metinleri, kuralların tanrılar tarafından krala verildiği fikrini vurgulayarak meşruiyet sağlarken, Hititlerin kanunları daha laik ve insani bir temele oturmuştur. Hitit kanunları, kralın doğrudan otoritesiyle oluşturulmuş, cezalar genellikle tazminat (fidye) şeklinde olmuş ve ölüm cezaları daha nadir uygulanmıştır. Bu yaklaşım, Hitit hukukunu dönemin diğer medeniyetlerinden ayıran önemli bir özelliktir.",
+    "options": [
+      {
+        "text": "Hititler",
+        "isCorrect": true
+      },
+      {
+        "text": "Sümerler",
+        "isCorrect": false
+      },
+      {
+        "text": "Babiller",
+        "isCorrect": false
+      },
+      {
+        "text": "Asurlular",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Çağ Medeniyetleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki İslam öncesi Türk devletlerinden hangisinin, hükümdarlık unvanlarında ve yazılı kaynaklarında 'Tanrı tarafından tahta oturtulma' ve 'gökten inmiş kut' gibi ifadelerin en belirgin ve sistemli bir şekilde kullanılarak 'Kut' anlayışının siyasi meşruiyetin temeli haline getirildiği kabul edilir?",
+    "explanation": "Kut anlayışı, hükümdarın yönetme yetkisinin Gök Tanrı tarafından verildiği inancıdır. Bu anlayış, İslam öncesi Türk devletlerinde yaygın olmakla birlikte, özellikle Göktürk (Köktürk) Kağanlığı'nda Orhun Yazıtları'nda (Bilge Kağan ve Kül Tigin yazıtları) açıkça vurgulanmıştır. Yazıtlarda 'Tanrı irade ettiği için', 'kutum olduğu için' kağan olduğu ifadeleri, bu anlayışın devlet ideolojisinin merkezine yerleştiğini gösterir. \n\nDiğer seçenekler yanlıştır: \n- Büyük Hun Devleti'nde de kut anlayışı bulunur ancak bu kadar net ve yazılı kaynaklarla desteklenmiş bir sistematiğe ulaşıldığına dair Hunlara ait doğrudan yazılı belgeler bulunmamaktadır. \n- Uygur Devleti'nde daha sonra Maniheizm gibi farklı dinler benimsendiği için kut anlayışının siyasi söylemdeki ağırlığı değişime uğramıştır. \n- Avrupa Hun Devleti (Attila) hakkındaki bilgiler daha çok Bizans ve Roma kaynaklarına dayanır ve bu kaynaklarda kut anlayışının içerik ve işleyişine dair net ifadeler bulunmaz.",
+    "options": [
+      {
+        "text": "Göktürk Kağanlığı",
+        "isCorrect": true
+      },
+      {
+        "text": "Büyük Hun Devleti (Asya Hunları)",
+        "isCorrect": false
+      },
+      {
+        "text": "Uygur Devleti",
+        "isCorrect": false
+      },
+      {
+        "text": "Avrupa Hun Devleti",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Öncesi Türk Tarihi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki İslam devletlerinden hangisinin, farklı bir hukuk anlayışı ve yönetim modeli benimsemesi, diğerlerinden ayrışan temel bir özellik olarak değerlendirilebilir?",
+    "explanation": "Doğru cevap C'dir. Emevîler, saltanat sistemine geçiş yaparak hilafeti bir veraset sistemi haline getirmiş ve Arap milliyetçiliğine dayalı bir yönetim anlayışı benimsemiştir. Bu durum, Dört Halife döneminin şûra (istişare) sisteminden ve Abbâsîler gibi daha evrenselci (ümmetçi) bir siyaset izleyen devletlerden onları belirgin şekilde ayırır.\n\nA seçeneği yanlıştır: Endülüs Emevî Devleti, temelde Emevî hanedan geleneğinin bir devamıdır ve benzer bir saltanat modeli uygulamıştır.\n\nB seçeneği yanlıştır: Abbâsî Devleti, Emevîlerin Arap milliyetçiliği politikasını terk edip daha kozmopolit bir yönetim kurmuş olsa da yönetim şekli olarak saltanatı sürdürmüştür.\n\nD seçeneği yanlıştır: Memlük Devleti, askerî bir oligarşi ile yönetilmiş, ancak bu model İslam siyasi tarihinde saltanatın bir varyasyonu olarak görülebilir; Emevîlerin yaptığı gibi hilafetin temel karakterini değiştiren bir sistem kurucu nitelikte değildir.",
+    "options": [
+      {
+        "text": "Endülüs Emevî Devleti",
+        "isCorrect": false
+      },
+      {
+        "text": "Abbâsî Devleti",
+        "isCorrect": false
+      },
+      {
+        "text": "Emevî Devleti",
+        "isCorrect": true
+      },
+      {
+        "text": "Memlük Devleti",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Tarihi ve Medeniyeti",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki gelişmelerden hangisi, Büyük Selçuklu Devleti'nin İslam dünyasındaki siyasi ve askeri rolünün en belirgin göstergesi olarak kabul edilir?",
+    "explanation": "Büyük Selçuklu Devleti, 1040 Dandanakan Savaşı'ndan sonra hızla güçlenerek İslam dünyasının koruyuculuğunu üstlenmiştir. Bu rolün en somut ifadesi, 1055 yılında Tuğrul Bey komutasındaki Selçuklu ordusunun Bağdat'a girerek Şii Büveyhoğulları'nın baskısı altındaki Sünni Abbasi Halifesi'ni kurtarması ve ona siyasi destek vermesidir. Bu olay, Selçukluları 'Sünni İslam'ın hamisi' konumuna getirmiş ve halife tarafından Tuğrul Bey'e 'Doğu'nun ve Batı'nın Sultanı' unvanı verilmiştir. Diğer seçeneklerdeki gelişmeler önemli olsalar da (Malazgirt Anadolu'nun kapısını açmış, Nizamiye Medreseleri eğitim alanında etkili olmuş, Katvan Savaşı bir iç çatışmadır), İslam dünyasındaki siyasi liderlik rolünü doğrudan ve en açık şekilde gösteren olay Bağdat'a girilmesidir.",
+    "options": [
+      {
+        "text": "Malazgirt Savaşı (1071) ile Anadolu'nun kapılarını Türklere açması",
+        "isCorrect": false
+      },
+      {
+        "text": "Tuğrul Bey'in 1055'te Bağdat'a girerek Abbasi Halifesi'ni Büveyhoğulları'nın baskısından kurtarması ve 'Sultan' unvanını alması",
+        "isCorrect": true
+      },
+      {
+        "text": "Nizamülmülk tarafından Nizamiye Medreseleri'ni kurarak Sünni eğitimi sistemleştirmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sencer'in Katvan Savaşı'nda (1141) Karahitaylara yenilmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Türk İslam Devletleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, Türkiye Cumhuriyeti'nin 1930'lu yıllarda uyguladığı devletçilik politikasının temel hedefleri arasında gösterilemez?",
+    "explanation": "1930'lu yıllarda uygulanan devletçilik politikası, özel sektörün yetersiz kaldığı alanlarda devletin doğrudan yatırım yaparak sanayileşmeyi hızlandırmayı, ekonomik bağımsızlığı sağlamayı ve ağır sanayi yatırımlarını gerçekleştirmeyi hedeflemiştir. Ancak bu politikanın temel hedefleri arasında tarımda makineleşmeyi doğrudan teşvik etmek yerine, sanayi ürünlerine olan talebi artırmak ve sanayi için hammadde sağlamak gibi dolaylı etkileri vardır. Tarımda makineleşmeyi doğrudan ve birincil hedef olarak teşvik etmek, daha çok 1950'li yıllarda uygulanan politikaların bir özelliğidir.",
+    "options": [
+      {
+        "text": "Özel sektörün yatırım yapamadığı büyük sanayi tesislerini devlet eliyle kurmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomik bağımsızlığı sağlamak için temel sanayi ürünlerinde dışa bağımlılığı azaltmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarım sektöründe makineleşmeyi doğrudan teşvik ederek üretimi hızla artırmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Ağır sanayi yatırımlarını gerçekleştirerek kalkınmanın altyapısını oluşturmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye Tarihi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Orta Çağ Avrupası'nda feodal sistemin siyasi ve sosyal yapısı hakkında aşağıdaki yargılardan hangisi doğrudur?",
+    "explanation": "Orta Çağ Avrupası'ndaki feodal sistem, merkezi otoritenin zayıflaması sonucu ortaya çıkmıştır. Bu sistemde kral, toprağı (fief) vasallarına dağıtır, karşılığında onlardan askeri hizmet ve sadakat beklerdi. Vasallar da kendi topraklarında serfler üzerinde ekonomik ve yargısal yetkilere sahipti. Bu, hiyerarşik ve karşılıklı yükümlülüklere dayalı bir düzendi. Diğer seçenekler hatalıdır: Feodal sistemde merkezi krallık güçlü değil zayıftı; serfler toprağa bağlı köylülerdi ve özgürce hareket edemezlerdi; feodalite, Roma İmparatorluğu'nun güçlü merkezi yapısının tam tersi bir modeldi; ve bu sistemdeki hiyerarşi, eşitlikçi bir yurttaşlık anlayışından oldukça uzaktı.",
+    "options": [
+      {
+        "text": "Siyasi güç, kral ve vasallar arasındaki karşılıklı yükümlülükler (hizmet ve koruma) üzerine kurulu hiyerarşik bir yapıya sahiptir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Güçlü bir merkezi krallık, tüm toprakları ve orduları doğrudan kontrol eder, feodal beylerin yetkisi yok düzeydedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Serfler, toprak sahibi olabilen ve özgürce meslek seçebilen tam haklara sahip yurttaşlardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Roma İmparatorluğu'nun merkezi bürokrasi modeli, feodal sistemin temelini oluşturmuştur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Orta Çağ'da Avrupa",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Beyliği'nin beylikten devlete geçiş sürecinde (1299-1362) uygulanan ve hem merkezi otoritenin güçlenmesine hem de fetih politikalarının sürekliliğine doğrudan katkı sağlayan temel strateji aşağıdakilerden hangisidir?",
+    "explanation": "Beylikten devlete geçişte Osmanlıların en önemli stratejisi, Bizans sınırında (uç bölgelerde) sürekli ve sistemli bir fetih politikası izlemekti. Bu politika, gaza ve cihat anlayışıyla meşruiyet kazanırken, ele geçirilen topraklara Anadolu'dan Türkmen nüfusun iskan edilmesi (iskân politikası) hem bölgenin Türkleşip İslamlaşmasını sağlamış hem de merkezi otoritenin bu yeni topraklarda kök salmasına imkan vermiştir. Bu iki uygulama, siyasi ve askeri genişlemeyi kalıcı hale getirerek devletleşme sürecinin temelini oluşturmuştur. Diğer seçeneklerdeki uygulamalar ise ya bu erken döneme ait değildir (Kapitülasyonlar, Devşirme sisteminin kurumsallaşması) ya da sorunun vurguladığı temel stratejiyi doğrudan ve bütüncül şekilde karşılamamaktadır.",
+    "options": [
+      {
+        "text": "Bizans ile diplomatik evlilikler yaparak ittifak kurmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Uç bölgelerde gaza ve cihat politikası izleyerek sistematik fetihler yapmak ve fethe dilen yerlere Türkmen nüfus iskan etmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Anadolu Selçuklu Devleti'ne karşı doğrudan askeri mücadeleye girişmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Avrupa devletlerine kapitülasyonlar vererek ticari gelirleri artırmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beylikten Devlete",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Kanuni Sultan Süleyman döneminde Osmanlı Devleti hem doğuda hem de batıda genişleme politikası izlemiştir. Bu dönemde Avrupa'daki gelişmeler ve Osmanlı'nın bu gelişmelere yönelik politikası dikkate alındığında, aşağıdakilerden hangisi Osmanlı'nın 'dünya gücü' olma statüsünü korumak için izlediği temel stratejilerden biri olarak değerlendirilemez?",
+    "explanation": "Kanuni dönemi, Osmanlı Devleti'nin hem askeri hem de diplomatik olarak zirvede olduğu bir dönemdir. Doğuda Safevilerle, batıda ise Habsburglarla mücadele edilmiştir. Osmanlı, Avrupa'daki mezhep çatışmalarını (örneğin Fransa'yı Habsburglara karşı destekleyerek) kendi lehine kullanmış, denizlerde üstünlük kurmaya çalışmış ve ticaret yollarını kontrol altında tutmayı hedeflemiştir. Ancak, bu dönemde Avrupa'da yükselmekte olan mutlak monarşileri örnek alarak kendi iç yapısını radikal bir şekilde değiştirmek gibi bir politika izlenmemiştir. Osmanlı, kendi geleneksel kurumları ve yönetim anlayışı ile gücünü sürdürmeye çalışmış, Avrupa'daki siyasi modeli bir 'örnek' olarak benimsememiştir. Bu nedenle, Avrupa monarşilerini örnek almak, bu dönem için geçerli bir strateji değildir.",
+    "options": [
+      {
+        "text": "Avrupa'daki güç dengesinden yararlanmak (örneğin, Fransa'ya verilen kapitülasyonlar ile Habsburgları zayıflatmak)",
+        "isCorrect": false
+      },
+      {
+        "text": "Akdeniz ve Hint Okyanusu'nda deniz hakimiyetini sağlamaya çalışmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu ve Batı ticaret yollarının kontrolünü elinde tutmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Avrupa'da yükselen mutlak monarşi modelini örnek alarak merkezi yapıyı güçlendirmek",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Dünya Gücü: Osmanlı Devleti",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "17. yüzyıl Osmanlı tarihinde 'Arayış Yılları' olarak adlandırılan dönemde, devletin askeri ve mali sorunlarına çözüm bulmak amacıyla çeşitli ıslahat girişimleri olmuştur. Bu girişimlerin başarısız olmasının temel nedenlerinden biri aşağıdakilerden hangisidir?",
+    "explanation": "17. yüzyıldaki ıslahat girişimleri (I. Ahmet, II. Osman, IV. Murat, Köprülüler dönemi), genellikle sorunların kökenine inememiş ve yüzeysel kalmıştır. Bu girişimler çoğunlukla kişilere bağlı, geçici ve askeri alanla sınırlı tedbirler olarak kalmış; devletin çöküşünün altında yatan kurumsal bozulma, tımar sisteminin çözülmesi, kapıkulu ocaklarının yozlaşması gibi yapısal sorunlar çözülememiştir. Islahatçı padişah ve sadrazamlar, mevcut düzenden faydalanan Yeniçeri Ocağı ve ulema gibi geleneksel güç odaklarıyla doğrudan ve kalıcı bir mücadeleye girişememiş, bu da reformların süreklilik kazanmasını engellemiştir. Diğer seçeneklerdeki ifadeler ya yanlıştır (Avrupa'nın üstünlüğü henüz kabul edilmemiştir) ya da temel neden olarak gösterilemez.",
+    "options": [
+      {
+        "text": "Islahatların, sorunların kökenindeki yapısal bozulmaları (tımar sisteminin çözülmesi, kapıkullarının yozlaşması gibi) kalıcı biçimde düzeltememesi ve geleneksel çıkar gruplarının direnişiyle karşılaşması",
+        "isCorrect": true
+      },
+      {
+        "text": "Avrupa devletlerinin, Osmanlı'nın güçlenmesini engellemek için ıslahatları sabote edecek diplomatik ve askeri müdahalelerde bulunması",
+        "isCorrect": false
+      },
+      {
+        "text": "Padişahların ve devlet adamlarının, Avrupa'nın askeri ve teknik üstünlüğünü kabul etmeyerek taklit etmekten kaçınması",
+        "isCorrect": false
+      },
+      {
+        "text": "Halkın, geleneksel yapıyı değiştirecek her türlü yeniliğe karşı şiddetle direnmiş olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Arayış Yılları",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "XVIII. yüzyılda Avrupa'da mutlak monarşilerin yanında, meşrutiyetle yönetilen ülkeler de vardı. Aşağıdaki ülkelerden hangisi, XVIII. yüzyılın başından itibaren bir meşruti monarşi olarak varlığını sürdürmüştür?",
+    "explanation": "İngiltere, 1688'deki Muhteşem Devrim (Glorious Revolution) sonrasında kabul edilen Haklar Bildirgesi (Bill of Rights) ile kralın yetkileri sınırlandırılmış ve parlamenter sisteme dayalı bir meşruti monarşi kurulmuştur. Bu sistem, XVIII. yüzyıl boyunca kesintisiz olarak devam etmiştir. Fransa, 1789 Fransız İhtilali'ne kadar mutlak monarşi ile yönetilmiştir. Rusya, I. Dünya Savaşı'na kadar mutlak monarşi (Çarlık) ile yönetilmiştir. Avusturya ise 1867'de Avusturya-Macaristan İmparatorluğu'nun kurulmasıyla sınırlı bir anayasal sisteme geçmiş olsa da, XVIII. yüzyılda tipik bir mutlak monarşi örneğidir.",
+    "options": [
+      {
+        "text": "İngiltere",
+        "isCorrect": true
+      },
+      {
+        "text": "Fransa",
+        "isCorrect": false
+      },
+      {
+        "text": "Rusya",
+        "isCorrect": false
+      },
+      {
+        "text": "Avusturya",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yeni ve Yakın Çağ'da Avrupa",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "19. yüzyılda Osmanlı Devleti'nin 'Avrupa Uyumu' (Concert of Europe) sistemine dahil olma çabalarının temel amacı aşağıdakilerden hangisidir?",
+    "explanation": "Viyana Kongresi (1815) sonrasında kurulan Avrupa Uyumu, büyük güçlerin (Rusya, Avusturya, Prusya, İngiltere, Fransa) statükoyu korumak amacıyla düzenli istişareler yaptığı bir sistemdi. Osmanlı Devleti, bu sisteme dahil olarak toprak bütünlüğünü büyük güçlerin kolektif garantisi altına alma ve özellikle Rusya'nın yayılmacı politikalarına karşı diplomatik bir kalkan oluşturma amacı güdüyordu. Ancak, Osmanlı'nın 'Hasta Adam' olarak görülmesi ve iç sorunları nedeniyle bu sistemde tam ve eşit bir üye olamadı. Diğer seçeneklerdeki hedefler 19. yüzyıl Osmanlı dış politikasının temel öncelikleri arasında yer almamaktadır.",
+    "options": [
+      {
+        "text": "Osmanlı'nın sanayileşme sürecini hızlandırmak için Avrupa teknolojisini doğrudan transfer etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Toprak bütünlüğünü korumak ve Rus tehdidine karşı büyük güçlerin kolektif desteğini sağlamak",
+        "isCorrect": true
+      },
+      {
+        "text": "Fransız İhtilali'nin getirdiği milliyetçilik fikirlerinin Osmanlı tebaasına yayılmasını engellemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Kapitülasyonları tek taraflı olarak feshetmek için gerekli uluslararası meşruiyeti kazanmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yüzyıl Değişim ve Diploması",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "19. yüzyılda Osmanlı Devleti'nin 'En Uzun Yüzyıl' olarak adlandırılan döneminde, Avrupa'nın sanayi devrimiyle üretmiş olduğu ucuz mallar karşısında rekabet gücünü kaybeden geleneksel Osmanlı üretim sektörü aşağıdakilerden hangisidir?",
+    "explanation": "19. yüzyılda, özellikle 1838 Baltalimanı Ticaret Antlaşması'ndan sonra, İngiltere başta olmak üzere Avrupa devletlerinin serbest ticaret politikaları ve sanayi ürünlerinin Osmanlı pazarına girişi, Osmanlı'nın korumasız kalan geleneksel el tezgâhlarına dayalı dokuma sanayisini çökertmiştir. Avrupa'nın fabrikalarda üretilen ucuz pamuklu kumaşları, Osmanlı'nın lonca teşkilatına bağlı, küçük atölyelerde üretim yapan dokumacılık sektörüyle rekabet edememiş ve bu sektör büyük ölçüde tasfiye olmuştur. Bu durum, Osmanlı ekonomisinin dışa bağımlı hale gelişinin ve değişen dünya ekonomik düzeni karşısında yaşadığı sıkıntıların tipik bir örneğidir.",
+    "options": [
+      {
+        "text": "Maden işletmeciliği ve silah sanayii",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarım ve hayvancılık sektörü",
+        "isCorrect": false
+      },
+      {
+        "text": "El tezgâhlarına dayalı dokuma sanayii",
+        "isCorrect": true
+      },
+      {
+        "text": "Gemi inşa ve deniz taşımacılığı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "En Uzun Yüzyıl",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Devleti'nde, özellikle klasik dönemde, merkezi bürokrasinin işleyişi ve devlet adamı yetiştirilmesi açısından aşağıdaki kurumlardan hangisi diğerlerinden farklı bir işleve sahiptir?",
+    "explanation": "Enderun Mektebi, Osmanlı saray teşkilatı içinde yer alan ve devşirme sistemiyle toplanan Hristiyan çocukların seçilerek yetiştirildiği bir okuldur. Doğrudan padişaha bağlıydı ve en üst düzey bürokratlar (vezirler, defterdarlar vb.) ile kapıkulu askerlerinin komutanları buradan yetişirdi. Diğer seçeneklerdeki kurumlar ise daha çok ilmiye sınıfına (ulema) mensup, medrese eğitimi almış kadı, müderris gibi şer'i ve adli görevlileri yetiştirmiştir. Bu nedenle Enderun, hem kaynak (devşirme), hem eğitim modeli hem de yetiştirdiği bürokratların görev alanı bakımından diğerlerinden köklü bir farklılık gösterir.",
+    "options": [
+      {
+        "text": "Enderun Mektebi",
+        "isCorrect": true
+      },
+      {
+        "text": "Sahn-ı Seman Medresesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Süleymaniye Medresesi",
+        "isCorrect": false
+      },
+      {
+        "text": "İbtidai Hariç ve Dahil Medreseleri",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Osmanlı Kültür ve Medeniyeti",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "XX. yüzyıl başlarında Osmanlı Devleti'nin siyasi varlığını koruma çabaları kapsamında uygulanan İslamcılık politikası, aşağıdaki gelişmelerden hangisi karşısında büyük ölçüde etkinliğini yitirmiştir?",
+    "explanation": "İslamcılık politikası, Osmanlı halifesinin dini liderliği etrafında tüm Müslümanları birleştirerek devletin gücünü artırmayı hedefliyordu. Ancak I. Dünya Savaşı sırasında, Osmanlı padişahının cihat çağrısına rağmen Arap aşiretlerinin İngilizlerle iş birliği yaparak Osmanlı'ya karşı ayaklanması (Arap İsyanı), bu politikanın pratikte başarısız olduğunu ve Müslüman birliği fikrinin gücünü yitirdiğini açıkça göstermiştir. Diğer seçeneklerdeki gelişmeler ise farklı alanlarda yaşanmış ve İslamcılık politikasının çöküşüyle doğrudan bu derece bağlantılı değildir.",
+    "options": [
+      {
+        "text": "Arapların, Osmanlı padişahının cihat çağrısına rağmen İngilizlerle iş birliği yaparak isyan etmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "İttihat ve Terakki Cemiyeti'nin Babıâli Baskını ile yönetime el koyması",
+        "isCorrect": false
+      },
+      {
+        "text": "Trablusgarp Savaşı sonucunda Kuzey Afrika'daki son toprak parçasının kaybedilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "31 Mart Vakası'nın bastırılarak II. Abdülhamid'in tahttan indirilmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yüzyıl Başlarında Osmanlı Devleti",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Birinci Dünya Savaşı'nın başında Osmanlı Devleti'nin tarafsızlığını ilan etmesine rağmen, savaşa İttifak Devletleri safında girmesinde aşağıdaki gelişmelerden hangisi en doğrudan ve belirleyici etkiye sahip olmuştur?",
+    "explanation": "Osmanlı Devleti'nin savaşa giriş sürecinde, Goeben (Yavuz) ve Breslau (Midilli) zırhlılarının İngiliz donanmasından kaçarak 10 Ağustos 1914'te Çanakkale Boğazı'na sığınması ve ardından Osmanlı Devleti tarafından satın alındığının açıklanması kritik bir dönüm noktasıdır. Bu gemilerin, Amiral Souchon komutasında, 29 Ekim 1914'te Karadeniz'deki Rus limanları Sivastopol ve Odessa'yı bombalaması, fiilen savaşı başlatan olaydır ve Osmanlı'yı geri dönülemez bir şekilde İttifak Bloku'na bağlamıştır. Diğer seçeneklerdeki olaylar önemli olsalar da, doğrudan savaşa girişi tetikleyen somut askeri eylem bu olmuştur.",
+    "options": [
+      {
+        "text": "Alman Amiral Souchon komutasındaki Yavuz ve Midilli zırhlılarının Karadeniz'deki Rus limanlarını bombalaması",
+        "isCorrect": true
+      },
+      {
+        "text": "Osmanlı Devleti ile Almanya arasında 2 Ağustos 1914'te imzalanan gizli ittifak antlaşması",
+        "isCorrect": false
+      },
+      {
+        "text": "İtilaf Devletleri'nin kapitülasyonları kaldırmayı reddetmesi ve Osmanlı'dan toprak talepleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Enver Paşa'nın Pan-Türkizm idealleri doğrultusunda Kafkasya'ya yönelik stratejik hedefleri",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birinci Dünya Savaşı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki gelişmelerden hangisi, Türkiye Cumhuriyeti'nin laiklik ilkesini kurumsallaştırmada ve modern hukuk sistemine geçişte en köklü ve kapsamlı adım olarak kabul edilir?",
+    "explanation": "Türk Medeni Kanunu'nun 1926'da kabulü, laiklik ilkesinin en somut ve toplumsal hayatı doğrudan düzenleyen uygulamasıdır. Bu kanunla birlikte şer'iye mahkemeleri kaldırılmış, aile hukuku başta olmak üzere hukuk sistemi tamamen laik bir temele oturtulmuş, kadın-erkek eşitliği yasal güvence altına alınmıştır. Halifeliğin kaldırılması laikleşme yolunda önemli bir siyasi adım, Tevhid-i Tedrisat Kanunu eğitimin birleştirilmesi, Şapka Kanunu ise daha çok sembolik bir düzenleme olarak değerlendirilir. Ancak Medeni Kanun, bireyin günlük yaşamını ve toplumsal ilişkilerini doğrudan düzenleyen, laik hukuk normlarını getiren en kapsamlı inkılap hareketidir.",
+    "options": [
+      {
+        "text": "Türk Medeni Kanunu'nun kabulü (1926)",
+        "isCorrect": true
+      },
+      {
+        "text": "Halifeliğin kaldırılması (1924)",
+        "isCorrect": false
+      },
+      {
+        "text": "Tevhid-i Tedrisat Kanunu'nun çıkarılması (1924)",
+        "isCorrect": false
+      },
+      {
+        "text": "Şapka Kanunu'nun çıkarılması (1925)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnkılap Tarihi Tüm Konular",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "I. Dünya Savaşı'nın hemen öncesinde, 20. yüzyılın başında, Avrupa'da yaşanan ve savaşın çıkışını hızlandıran diplomatik krizlerden biri olan 'Temmuz Krizi' aşağıdaki hangi olayla başlamıştır?",
+    "explanation": "Temmuz 1914'te Avusturya-Macaristan Veliahtı Arşidük Franz Ferdinand'ın Saraybosna'da bir Sırp milliyetçisi tarafından suikaste uğraması, I. Dünya Savaşı'nı tetikleyen Temmuz Krizi'nin başlangıcıdır. Bu olay, Avusturya-Macaristan'ın Sırbistan'a ağır bir ültimatom vermesine ve ardından zincirleme ittifakların devreye girerek tüm Avrupa'yı saran bir savaşa dönüşmesine yol açmıştır. Diğer seçeneklerdeki olaylar ise ya daha önceki dönemlere aittir ya da savaşın başlangıcından sonra gerçekleşmiştir.",
+    "options": [
+      {
+        "text": "Avusturya-Macaristan Veliahtı Franz Ferdinand'ın Saraybosna'da suikaste uğraması",
+        "isCorrect": true
+      },
+      {
+        "text": "Almanya'nın Belçika üzerinden Fransa'ya saldırması",
+        "isCorrect": false
+      },
+      {
+        "text": "Rusya'nın Osmanlı Devleti'ne savaş ilan etmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "İngiltere'nin Almanya'ya savaş ilan etmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yüzyıl Başlarında Dünya",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İkinci Dünya Savaşı'nın son döneminde, 1945 yılında toplanan Yalta Konferansı'nda alınan ve savaş sonrası dünya düzeni için kritik öneme sahip olan, ancak kısa süre içinde Soğuk Savaş'ın temel çatışma alanlarından birine dönüşen karar aşağıdakilerden hangisidir?",
+    "explanation": "Yalta Konferansı'nda Müttefik liderler (Churchill, Roosevelt, Stalin), Almanya'nın koşulsuz teslim olmasının ardından topraklarının dört işgal bölgesine ayrılması ve başkent Berlin'in de benzer şekilde dört sektöre bölünmesi konusunda anlaştılar. Bu durum, savaş sonrasında Sovyetler Birliği'nin Batılı Müttefiklere Berlin'e karadan erişim yollarını kapatmasıyla (Berlin Ablukası) derhal bir krize yol açmış ve Almanya'nın bölünmüşlüğü, Soğuk Savaş'ın en somut sembollerinden biri haline gelmiştir. Diğer seçeneklerdeki konular ya Yalta'da ele alınmamış ya da bu kadar erken bir tarihte kesin bir şekilde karara bağlanmamıştır.",
+    "options": [
+      {
+        "text": "Almanya'nın ve başkenti Berlin'in Müttefik güçler arasında dört işgal bölgesine/sektörüne ayrılması",
+        "isCorrect": true
+      },
+      {
+        "text": "Japonya'ya karşı atom bombasının kullanılmasına onay verilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Birleşmiş Milletler Güvenlik Konseyi'nde veto hakkının daimi üyelere tanınması",
+        "isCorrect": false
+      },
+      {
+        "text": "İtalya'nın savaş tazminatı olarak Afrika'daki sömürgelerini tamamen terk etmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İkinci Dünya Savaşı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Soğuk Savaş'ın başlangıcından itibaren Doğu ve Batı Blokları arasında yaşanan en ciddi askeri çatışma olan ve ABD'nin 'çevreleme' politikasının sınırlarını gösteren, ancak bir üçüncü dünya savaşına dönüşmeyen savaş aşağıdakilerden hangisidir?",
+    "explanation": "Kore Savaşı (1950-1953), Soğuk Savaş'ın ilk büyük sıcak çatışmasıdır. Kuzey Kore'nin Güney Kore'yi işgaliyle başlayan savaş, ABD önderliğindeki Birleşmiş Milletler kuvvetleri ile Çin Halk Gönüllü Ordusu'nun doğrudan desteklediği Kuzey Kore arasında gerçekleşmiştir. Bu savaş, ABD'nin çevreleme politikasının askeri boyutunu somutlaştırmış, ancak tarafların doğrudan bir genel savaştan kaçınmasıyla Soğuk Savaş'ın 'sıcak çatışmalarla sınırlı kalma' karakterini ortaya koymuştur. Vietnam Savaşı daha sonraki bir dönemde, Afganistan Savaşı ise Sovyet müdahalesiyle yaşanmıştır. Körfez Savaşı ise Soğuk Savaş'ın sona ermesinden sonra gerçekleşmiştir.",
+    "options": [
+      {
+        "text": "Kore Savaşı",
+        "isCorrect": true
+      },
+      {
+        "text": "Vietnam Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Sovyet-Afgan Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Körfez Savaşı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Soğuk Savaş Dönemi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Yumuşama Dönemi'nde (Detant) yaşanan aşağıdaki gelişmelerden hangisi, bu dönemin temel karakteristiği olan 'Doğu-Batı arasındaki ideolojik ve askeri bloklaşmanın katılığının azalması' olgusuna en doğrudan örnek teşkil eder?",
+    "explanation": "Yumuşama Dönemi'nin en önemli özelliklerinden biri, Soğuk Savaş'ın katı blok politikalarının esnemesi ve iki süper güç dışındaki devletlerin daha bağımsız hareket edebilmesidir. Batı ittifakı içindeki Fransa'nın 1966'da NATO'nun askeri kanadından çekilmesi, bu bağımsızlaşma eğiliminin en çarpıcı örneğidir. Diğer seçenekler ise bloklaşmayı güçlendiren veya Yumuşama Dönemi'nden önceki sürece ait gelişmelerdir: Varşova Paktı'nın kuruluşu (1955) bloklaşmayı pekiştirir; Küba Füze Krizi (1962) bloklar arasında en şiddetli gerilim anlarındandır; Marshall Planı (1948) ise Batı Bloku'nun ekonomik olarak güçlendirilmesini amaçlar.",
+    "options": [
+      {
+        "text": "Fransa'nın, NATO'nun askeri kanadından çekilerek bağımsız bir dış politika izlemeye başlaması",
+        "isCorrect": true
+      },
+      {
+        "text": "Varşova Paktı'nın kurularak Doğu Bloku'nun askeri yapısının resmileştirilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Küba Füze Krizi sırasında ABD ve SSCB'nin doğrudan bir nükleer savaşın eşiğine gelmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Marshall Planı çerçevesinde Batı Avrupa ülkelerine ekonomik yardım yapılması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yumuşama Dönemi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  }
+]
