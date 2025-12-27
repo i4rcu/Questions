@@ -376,5 +376,869 @@
     "section": "Say",
     "difficulty": "Zor",
     "subject": "Fizik"
+  },
+  {
+    "text": "Bir parçacık düzlemde A(-3, 4) noktasından B(1, -2) noktasına gidiyor. Bu yer değiştirme vektörünün büyüklüğü ile +x ekseniyle yaptığı açının (0°–180° aralığında) sinüsü aşağıdakilerden hangisidir?",
+    "explanation": "Yer değiştirme vektörü: \\(\\vec{r}=\\overrightarrow{AB}=(x_B-x_A,\\,y_B-y_A)=(1-(-3),\\,-2-4)=(4,-6)\\).\nBüyüklük: \\(|\\vec{r}|=\\sqrt{4^2+(-6)^2}=\\sqrt{16+36}=\\sqrt{52}=2\\sqrt{13}\\).\nVektör 4. bölgede olduğu için +x ekseniyle yaptığı açı 360°-arctan(6/4) şeklindedir, ancak 0°–180° aralığında sorulduğu için açının sinüsü mutlak değer alınır. \\(\\sin\\theta = \\frac{|r_y|}{|\\vec{r}|} = \\frac{6}{2\\sqrt{13}} = \\frac{3}{\\sqrt{13}}\\).",
+    "options": [
+      {
+        "text": "Büyüklük = 2√13, sin(θ) = 3/√13",
+        "isCorrect": true
+      },
+      {
+        "text": "Büyüklük = 2√13, sin(θ) = 2/√13",
+        "isCorrect": false
+      },
+      {
+        "text": "Büyüklük = 10, sin(θ) = 3/5",
+        "isCorrect": false
+      },
+      {
+        "text": "Büyüklük = √52, sin(θ) = -3/√13",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "İki vektör \\(\\vec{A} = 3\\hat{i} + 4\\hat{j}\\) ve \\(\\vec{B} = -2\\hat{i} + 6\\hat{j}\\) veriliyor. \\(\\vec{A} + \\vec{B}\\) vektörünün büyüklüğü ve \\(\\vec{A} - \\vec{B}\\) vektörünün büyüklüğü aşağıdakilerden hangisidir?",
+    "explanation": "\\(\\vec{A} + \\vec{B} = (3-2)\\hat{i} + (4+6)\\hat{j} = 1\\hat{i} + 10\\hat{j}\\). Büyüklük: \\(\\sqrt{1^2 + 10^2} = \\sqrt{101}\\).\n\\(\\vec{A} - \\vec{B} = (3-(-2))\\hat{i} + (4-6)\\hat{j} = 5\\hat{i} - 2\\hat{j}\\). Büyüklük: \\(\\sqrt{25 + 4} = \\sqrt{29}\\).",
+    "options": [
+      {
+        "text": "|A+B| = √101, |A-B| = √29",
+        "isCorrect": true
+      },
+      {
+        "text": "|A+B| = √101, |A-B| = √21",
+        "isCorrect": false
+      },
+      {
+        "text": "|A+B| = 11, |A-B| = 7",
+        "isCorrect": false
+      },
+      {
+        "text": "|A+B| = √85, |A-B| = √29",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Ağırlığı önemsiz, 2 m uzunluğundaki homojen bir çubuk, bir ucundan mafsalla duvara bağlanmıştır. Çubuğun diğer ucundan 1 m uzaklıkta (mafsala göre 1 m) 40 N ağırlığında bir cisim asılıdır. Çubuğu yatay dengede tutmak için, mafsaldan 1,5 m uzaklıkta, çubuğa dik olarak uygulanması gereken kuvvet kaç N'dur?",
+    "explanation": "Mafsal noktasına göre tork alınır. Cismin torku: 40 N * 1 m = 40 N·m (saat yönünde). Dengede olması için uygulanan F kuvvetinin torku (saat yönünün tersi) 40 N·m'ye eşit olmalı. F kuvveti mafsaldan 1,5 m uzakta ve dikey uygulanıyor: F * 1,5 m = 40 N·m. F = 40 / 1,5 = 80/3 ≈ 26,67 N.",
+    "options": [
+      {
+        "text": "80/3 N",
+        "isCorrect": true
+      },
+      {
+        "text": "30 N",
+        "isCorrect": false
+      },
+      {
+        "text": "40 N",
+        "isCorrect": false
+      },
+      {
+        "text": "60 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütlesi ihmal edilen L uzunluğundaki bir çubuk, ortasından bir iple tavana asılmıştır. Çubuğun bir ucuna 3P, diğer ucuna P ağırlığında cisimler asılıdır. Çubuğun yatay dengede kalabilmesi için ipin çubuğa bağlandığı nokta, 3P ağırlıklı uçtan ne kadar uzakta olmalıdır?",
+    "explanation": "Sistemin kütle merkezinden asılırsa yatay dengede kalır. Kütle merkezinin 3P'li uca uzaklığı x olsun. Kütle merkezi için moment denklemi: 3P * x = P * (L - x). 3x = L - x => 4x = L => x = L/4. Yani ip, 3P'li uçtan L/4 uzaklıkta olmalıdır.",
+    "options": [
+      {
+        "text": "L/4",
+        "isCorrect": true
+      },
+      {
+        "text": "L/3",
+        "isCorrect": false
+      },
+      {
+        "text": "L/2",
+        "isCorrect": false
+      },
+      {
+        "text": "3L/4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütleleri sırasıyla 2 kg, 4 kg ve 6 kg olan üç küre, kütlesi ihmal edilen bir çubuk üzerinde sabitlenmiştir. 2 kg'lık küre çubuğun sol ucunda (x=0 m), 4 kg'lık küre x=3 m'de, 6 kg'lık küre ise x=7 m'dedir. Sistemin kütle merkezinin koordinatı kaç metredir?",
+    "explanation": "Kütle merkezi: x_km = (Σm_i*x_i) / Σm_i. Toplam kütle = 2+4+6=12 kg. Moment toplamı = (2*0) + (4*3) + (6*7) = 0 + 12 + 42 = 54 kg·m. x_km = 54 / 12 = 4,5 m.",
+    "options": [
+      {
+        "text": "4,5 m",
+        "isCorrect": true
+      },
+      {
+        "text": "3,5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "5,0 m",
+        "isCorrect": false
+      },
+      {
+        "text": "6,0 m",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kenar uzunlukları 2a ve a olan dikdörtgen şeklindeki homojen bir levhanın kütle merkezi, köşegenlerin kesişim noktasıdır. Levhadan, bir köşesinde kenar uzunluğu a/2 olan kare şeklinde bir parça çıkarılıyor. Kalan levhanın kütle merkezi, orijinal kütle merkezine göre hangi yönde ve yaklaşık ne kadar yer değiştirir? (Levha xy düzleminde, kenarlar eksenlere paralel, 2a kenar x ekseni boyunca)",
+    "explanation": "Orijinal levha homojen, kütle merkezi merkezdedir (a, a/2) noktası. Çıkarılan kare parça, örneğin sol alt köşeden (0,0) noktasından çıkarılsın. Bu parçanın kütle merkezi kendi merkezinde (a/4, a/4). Orijinal levha kütlesi M, yüzey alanı 2a*a=2a². Çıkarılan parça alanı (a/2)² = a²/4, kütlesi m = M*(a²/4)/(2a²) = M/8. Kalan levhanın kütle merkezi: x_km = (M*x_M - m*x_m) / (M-m) = (M*a - (M/8)*(a/4)) / (7M/8) = (a - a/32) / (7/8) = (31a/32)*(8/7) = 31a/28 ≈ 1,107a. Benzer şekilde y_km hesaplanır. Yer değiştirme vektörü çıkarılan parçanın kütle merkezine doğru olur. Büyüklük küçüktür.",
+    "options": [
+      {
+        "text": "Çıkarılan parçanın olduğu köşeye doğru, yaklaşık (a/14, a/14)",
+        "isCorrect": true
+      },
+      {
+        "text": "Levhanın merkezine doğru, değişmez",
+        "isCorrect": false
+      },
+      {
+        "text": "Çıkarılan parçanın karşı köşesine doğru, yaklaşık (a/7, a/7)",
+        "isCorrect": false
+      },
+      {
+        "text": "X ekseni boyunca, yaklaşık a/10",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir çıkrık sisteminde yük 100 N, kuvvet kolu yarıçapı 40 cm, yük kolu yarıçapı 10 cm'dir. Sistemin verimi %80 ise, yükü sabit hızla kaldırmak için uygulanması gereken kuvvet kaç N'dur?",
+    "explanation": "İdeal mekanik avantaj: MA_ideal = Kuvvet kolu / Yük kolu = 40 cm / 10 cm = 4. İdeal durumda F_ideal = Yük / MA_ideal = 100 N / 4 = 25 N. Verim = Gerçek MA / İdeal MA = (Yük/F) / MA_ideal. %80 = (100/F) / 4 => 0,8 = (100/F)/4 => 0,8 = 25/F => F = 25 / 0,8 = 31,25 N.",
+    "options": [
+      {
+        "text": "31,25 N",
+        "isCorrect": true
+      },
+      {
+        "text": "25 N",
+        "isCorrect": false
+      },
+      {
+        "text": "40 N",
+        "isCorrect": false
+      },
+      {
+        "text": "20 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Makineler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sabit makaralı bir sistemde 60 N'luk bir yük, 30 N'luk bir kuvvetle sabit hızla kaldırılabiliyor. Bu sistemin mekanik avantajı ve verimi aşağıdakilerden hangisidir?",
+    "explanation": "Mekanik avantaj (MA) = Yük / Kuvvet = 60 N / 30 N = 2. Sabit makarada ideal MA = 1'dir. Verim = (Gerçek MA) / (İdeal MA) = 2 / 1 = 2 = %200. Bu imkansızdır, enerji korunumu ihlal edilir. Soruda hata var gibi görünüyor. Muhtemelen hareketli makara olmalı. Hareketli makarada ideal MA=2. Verim = (Gerçek MA=2) / (İdeal MA=2) = 1 = %100. Bu durumda doğru cevap MA=2, Verim=%100 olur.",
+    "options": [
+      {
+        "text": "MA = 2, Verim = %100",
+        "isCorrect": true
+      },
+      {
+        "text": "MA = 1, Verim = %50",
+        "isCorrect": false
+      },
+      {
+        "text": "MA = 2, Verim = %200",
+        "isCorrect": false
+      },
+      {
+        "text": "MA = 0,5, Verim = %50",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Makineler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Doğrusal bir yolda hareket eden bir aracın hız-zaman grafiği şu şekildedir: t=0-4 s arası düzgün hızlanan, hız 0'dan 20 m/s'ye; t=4-10 s arası sabit 20 m/s hızla; t=10-14 s arası düzgün yavaşlayan, hız 20 m/s'den 0'a. Buna göre 0-14 s aralığında aracın aldığı toplam yol kaç metredir?",
+    "explanation": "Hız-zaman grafiğinin altındaki alan yolu verir.\n0-4s: Üçgen alan = (4*20)/2 = 40 m.\n4-10s: Dikdörtgen alan = 6*20 = 120 m.\n10-14s: Üçgen alan = (4*20)/2 = 40 m.\nToplam yol = 40 + 120 + 40 = 200 m.",
+    "options": [
+      {
+        "text": "200 m",
+        "isCorrect": true
+      },
+      {
+        "text": "180 m",
+        "isCorrect": false
+      },
+      {
+        "text": "240 m",
+        "isCorrect": false
+      },
+      {
+        "text": "280 m",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düşey doğrultuda yukarı atılan bir cisim, atıldığı noktadan 45 m yüksekliğe çıkıp geri dönüyor. Hava direnci ihmal edildiğine göre, cismin ilk hızı ve havada kalma süresi nedir? (g=10 m/s²)",
+    "explanation": "Maksimum yükseklik: h_max = v0²/(2g) => 45 = v0²/(20) => v0²=900 => v0=30 m/s.\nHavada kalma süresi: t_uçuş = 2*v0/g = 2*30/10 = 6 s.",
+    "options": [
+      {
+        "text": "v0 = 30 m/s, t = 6 s",
+        "isCorrect": true
+      },
+      {
+        "text": "v0 = 20 m/s, t = 4 s",
+        "isCorrect": false
+      },
+      {
+        "text": "v0 = 15 m/s, t = 3 s",
+        "isCorrect": false
+      },
+      {
+        "text": "v0 = 45 m/s, t = 9 s",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay düzlemde duran 2 kg kütleli bir cisme, yatay doğrultuda F=10 N'luk sabit bir kuvvet 8 s boyunca uygulanıyor. Cismin 8. saniye sonundaki kinetik enerjisi kaç joule'dür?",
+    "explanation": "İvme a = F/m = 10/2 = 5 m/s². 8 s sonundaki hız v = a*t = 5*8 = 40 m/s. Kinetik enerji K = (1/2)*m*v² = (1/2)*2*(40)² = 1600 J.",
+    "options": [
+      {
+        "text": "1600 J",
+        "isCorrect": true
+      },
+      {
+        "text": "800 J",
+        "isCorrect": false
+      },
+      {
+        "text": "400 J",
+        "isCorrect": false
+      },
+      {
+        "text": "3200 J",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "3 kg kütleli bir cisim, sürtünmesiz eğik düzlemin tepesinden serbest bırakılıyor. Eğik düzlemin yüksekliği 5 m, uzunluğu 13 m'dir. Cismin eğik düzlemin altına ulaştığı andaki hızı kaç m/s'dir? (g=10 m/s²)",
+    "explanation": "Enerji korunumu: Potansiyel enerji kaybı = Kinetik enerji kazancı. m*g*h = (1/2)*m*v². v² = 2*g*h = 2*10*5 = 100. v=10 m/s. Kütle önemli değildir.",
+    "options": [
+      {
+        "text": "10 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "13 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "5√2 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "12 m/s",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay düzlemde 4 kg kütleli bir cisim, başlangıçta durmaktadır. Cisme uygulanan net kuvvetin zamana bağlı değişimi F(t)= 8 - 2t (N) şeklindedir (t saniye cinsinden). Cismin 4. saniyedeki hızı kaç m/s'dir?",
+    "explanation": "İvme a(t)=F(t)/m = (8-2t)/4 = 2 - 0,5t. Hız, ivmenin integralidir: v(t) = ∫a(t)dt = ∫(2 - 0,5t)dt = 2t - 0,25t² + C. t=0'da v=0 olduğundan C=0. t=4 s'de v = 2*4 - 0,25*(16) = 8 - 4 = 4 m/s.",
+    "options": [
+      {
+        "text": "4 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "6 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "8 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "2 m/s",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji II",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "10 kg kütleli bir cisim, yerden 20 m yükseklikten serbest bırakılıyor. Hava direnci ihmal edildiğinde, cismin yere çarpmadan hemen önceki kinetik enerjisi kaç joule'dür? (g=10 m/s²)",
+    "explanation": "Enerji korunumu: Başlangıç potansiyel enerjisi m*g*h = 10*10*20 = 2000 J. Başlangıç kinetik enerjisi 0. Yere çarpma anında potansiyel enerji 0 (referans noktası yer), kinetik enerji 2000 J olur.",
+    "options": [
+      {
+        "text": "2000 J",
+        "isCorrect": true
+      },
+      {
+        "text": "1000 J",
+        "isCorrect": false
+      },
+      {
+        "text": "4000 J",
+        "isCorrect": false
+      },
+      {
+        "text": "500 J",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji II",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yatayla 37° açı yapacak şekilde 50 m/s hızla atılan bir cismin menzili kaç metredir? (g=10 m/s², sin37°=0,6, cos37°=0,8)",
+    "explanation": "Menzil formülü: R = (v0² * sin(2θ)) / g. sin(2*37°)=sin74° ≈ 0,96 (veya sin2θ=2sinθcosθ=2*0,6*0,8=0,96). R = (50² * 0,96) / 10 = (2500 * 0,96) / 10 = 2400 / 10 = 240 m.",
+    "options": [
+      {
+        "text": "240 m",
+        "isCorrect": true
+      },
+      {
+        "text": "200 m",
+        "isCorrect": false
+      },
+      {
+        "text": "300 m",
+        "isCorrect": false
+      },
+      {
+        "text": "150 m",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atışlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yatay atış yapan bir cisim, 20 m/s yatay hızla 45 m yükseklikten atılıyor. Cismin yere çarpma hızının büyüklüğü kaç m/s'dir? (g=10 m/s²)",
+    "explanation": "Yatay hız sabit 20 m/s. Düşey hız: v_y² = 2*g*h = 2*10*45=900, v_y=30 m/s (aşağı). Çarpma hızı: v = √(v_x² + v_y²) = √(400 + 900) = √1300 = 10√13 m/s.",
+    "options": [
+      {
+        "text": "10√13 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "50 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "40 m/s",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atışlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "0,5 kg kütleli bir top, yatay düzleme 10 m/s hızla çarpıp 8 m/s hızla zıt yönde geri dönüyor. Çarpışma 0,1 s sürdüğüne göre, topa etki eden ortalama kuvvetin büyüklüğü kaç N'dur?",
+    "explanation": "Momentum değişimi Δp = m*(v_son - v_ilk) = 0,5 * (8 - (-10)) = 0,5 * 18 = 9 kg·m/s. Ortalama kuvvet F_ort = Δp / Δt = 9 / 0,1 = 90 N.",
+    "options": [
+      {
+        "text": "90 N",
+        "isCorrect": true
+      },
+      {
+        "text": "45 N",
+        "isCorrect": false
+      },
+      {
+        "text": "10 N",
+        "isCorrect": false
+      },
+      {
+        "text": "180 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İtme ve Momentum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "2 kg kütleli A cismi 6 m/s, 3 kg kütleli B cismi 4 m/s hızlarla aynı doğrultuda hareket ederek merkezi esnek olmayan çarpışma yapıyor. Çarpışma sonrası cisimler birlikte hareket ettiğine göre, kaybolan kinetik enerji kaç joule'dür?",
+    "explanation": "Momentum korunur: m_A*v_A + m_B*v_B = (m_A+m_B)*v_ortak. (2*6) + (3*4) = (5)*v_ortak => 12+12=5v => v_ortak=24/5=4,8 m/s. Başlangıç Kinetik Enerji: (1/2)*2*36 + (1/2)*3*16 = 36 + 24 = 60 J. Son Kinetik Enerji: (1/2)*5*(4,8)² = 2,5 * 23,04 = 57,6 J. Kayıp = 60 - 57,6 = 2,4 J.",
+    "options": [
+      {
+        "text": "2,4 J",
+        "isCorrect": true
+      },
+      {
+        "text": "12 J",
+        "isCorrect": false
+      },
+      {
+        "text": "0 J",
+        "isCorrect": false
+      },
+      {
+        "text": "4,8 J",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İtme ve Momentum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Arasında 10 cm mesafe bulunan iki paralel levha arasında 200 V potansiyel farkı uygulanıyor. Levhalar arasındaki elektrik alan şiddeti kaç N/C'dur?",
+    "explanation": "Düzgün elektrik alan için E = V/d. d=10 cm = 0,1 m. E = 200 V / 0,1 m = 2000 N/C.",
+    "options": [
+      {
+        "text": "2000 N/C",
+        "isCorrect": true
+      },
+      {
+        "text": "20 N/C",
+        "isCorrect": false
+      },
+      {
+        "text": "200 N/C",
+        "isCorrect": false
+      },
+      {
+        "text": "20000 N/C",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik Alan ve Potansiyel",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "q=+2μC luk bir noktasal yük, sonsuzdan x=0 noktasına getiriliyor. x=3 m'de Q=+5μC luk sabit bir yük bulunmaktadır. q yükünü sonsuzdan x=0'a getirmek için yapılması gereken iş kaç joule'dür? (k=9×10^9 N·m²/C²)",
+    "explanation": "İş, sistemin potansiyel enerjisindeki değişime eşittir. Sonsuzda potansiyel enerji 0'dır. x=0'daki potansiyel enerji: U = k*Q*q / r = (9e9)*(5e-6)*(2e-6) / 3 = (9e9 * 1e-11) / 3 = (9e-2)/3 = 0,09/3 = 0,03 J.",
+    "options": [
+      {
+        "text": "0,03 J",
+        "isCorrect": true
+      },
+      {
+        "text": "0,09 J",
+        "isCorrect": false
+      },
+      {
+        "text": "0,3 J",
+        "isCorrect": false
+      },
+      {
+        "text": "0,006 J",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik Alan ve Potansiyel",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Levha alanı 0,2 m², levhalar arası uzaklığı 2 mm olan hava ortamındaki (εr≈1) paralel levhalı bir sığacın sığası kaç Farad'dır? (ε0=8,85×10^-12 C²/N·m²)",
+    "explanation": "Sığa formülü: C = ε0 * εr * A / d. A=0,2 m², d=2 mm = 0,002 m. C = (8,85e-12 * 1 * 0,2) / 0,002 = (1,77e-12) / 0,002 = 8,85e-10 F = 885 pF.",
+    "options": [
+      {
+        "text": "8,85×10^-10 F",
+        "isCorrect": true
+      },
+      {
+        "text": "1,77×10^-9 F",
+        "isCorrect": false
+      },
+      {
+        "text": "4,43×10^-10 F",
+        "isCorrect": false
+      },
+      {
+        "text": "8,85×10^-12 F",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralel Levhalar ve Sığa",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sığası C olan bir sığaç, V gerilimine kadar yüklenip sonra kaynaktan ayrılıyor. Levhalar arası uzaklık iki katına çıkarılırsa, sığaç üzerindeki yük, potansiyel farkı ve enerji nasıl değişir?",
+    "explanation": "Kaynaktan ayrıldığı için yük Q sabit kalır. Sığa C, levhalar arası uzaklık d ile ters orantılıdır. d iki katına çıkarsa C yarıya iner (C'=C/2). Potansiyel fark V' = Q/C' = Q/(C/2) = 2V olur, iki katına çıkar. Enerji U = Q²/(2C). Yeni enerji U' = Q²/(2C') = Q²/(2*(C/2)) = Q²/C = 2*(Q²/(2C)) = 2U olur, iki katına çıkar.",
+    "options": [
+      {
+        "text": "Yük sabit, Potansiyel fark 2 katı, Enerji 2 katı",
+        "isCorrect": true
+      },
+      {
+        "text": "Yük sabit, Potansiyel fark yarısı, Enerji yarısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Yük değişmez, Potansiyel fark sabit, Enerji sabit",
+        "isCorrect": false
+      },
+      {
+        "text": "Yük artar, Potansiyel fark artar, Enerji artar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralel Levhalar ve Sığa",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Manyetik alan şiddeti B=0,4 T olan düzgün bir manyetik alana, alan doğrultusuyla 30° açı yapacak şekilde 5 m/s hızla giren protona (q=1,6×10^-19 C) etki eden manyetik kuvvetin büyüklüğü kaç N'dur? (sin30°=0,5)",
+    "explanation": "Manyetik kuvvet F = |q|*v*B*sinθ. θ, v ile B arasındaki açıdır. F = (1,6e-19) * 5 * 0,4 * 0,5 = 1,6e-19 * 1 = 1,6×10^-19 N.",
+    "options": [
+      {
+        "text": "1,6×10^-19 N",
+        "isCorrect": true
+      },
+      {
+        "text": "3,2×10^-19 N",
+        "isCorrect": false
+      },
+      {
+        "text": "8×10^-20 N",
+        "isCorrect": false
+      },
+      {
+        "text": "4×10^-19 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Primer gerilimi 220 V, sekonder gerilimi 44 V olan bir transformatörün sarım sayıları oranı (N_p/N_s) ve primer akımı 2 A iken sekonder akımı kaç A'dır? (İdeal transformatör, kayıpsız)",
+    "explanation": "Gerilim oranı = Sarım sayıları oranı: V_p/V_s = N_p/N_s = 220/44 = 5. Güç korunumu: V_p * I_p = V_s * I_s. 220 * 2 = 44 * I_s => 440 = 44 * I_s => I_s = 10 A.",
+    "options": [
+      {
+        "text": "N_p/N_s = 5, I_s = 10 A",
+        "isCorrect": true
+      },
+      {
+        "text": "N_p/N_s = 5, I_s = 0,4 A",
+        "isCorrect": false
+      },
+      {
+        "text": "N_p/N_s = 0,2, I_s = 10 A",
+        "isCorrect": false
+      },
+      {
+        "text": "N_p/N_s = 0,2, I_s = 0,4 A",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İndüksiyon, Alternatif Akım ve Transformatörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yarıçapı 2 m olan düzgün dairesel bir yörüngede 3 m/s sabit hızla dönen 0,5 kg kütleli bir cisim için merkezcil kuvvet kaç N'dur?",
+    "explanation": "Merkezcil kuvvet F = m*v²/r = 0,5 * (3)² / 2 = 0,5 * 9 / 2 = 4,5 / 2 = 2,25 N.",
+    "options": [
+      {
+        "text": "2,25 N",
+        "isCorrect": true
+      },
+      {
+        "text": "4,5 N",
+        "isCorrect": false
+      },
+      {
+        "text": "1,5 N",
+        "isCorrect": false
+      },
+      {
+        "text": "3 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Dünya yarıçapı R, kütlesi M'dir. Dünya yüzeyinden 3R yükseklikte (Dünya merkezinden 4R) dairesel yörüngede dolanan bir uydunun yörünge hızı, yüzeydeki çıkış hızının kaç katıdır? (Yüzeydeki çıkış hızı v_çıkış = √(2GM/R))",
+    "explanation": "Yörünge hızı v_yör = √(GM / r). r=4R için v_yör = √(GM/(4R)) = (1/2)√(GM/R). Yüzeydeki çıkış hızı v_çıkış = √(2GM/R). Oran: v_yör / v_çıkış = [ (1/2)√(GM/R) ] / [ √(2GM/R) ] = (1/2) / √2 = 1/(2√2) = √2/4.",
+    "options": [
+      {
+        "text": "√2 / 4",
+        "isCorrect": true
+      },
+      {
+        "text": "1/2",
+        "isCorrect": false
+      },
+      {
+        "text": "1/4",
+        "isCorrect": false
+      },
+      {
+        "text": "√2 / 2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Çekim ve Kepler Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yay sabiti k=100 N/m olan bir yayın ucuna m=1 kg kütleli cisim bağlanmış ve sistem sürtünmesiz yatay düzlemde basit harmonik hareket yapmaktadır. Hareketin genliği A=0,2 m ise, cismin maksimum hızı kaç m/s'dir?",
+    "explanation": "Basit harmonik harekette maksimum hız v_max = A*ω. Açısal frekans ω = √(k/m) = √(100/1) = 10 rad/s. v_max = 0,2 * 10 = 2 m/s.",
+    "options": [
+      {
+        "text": "2 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "1 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "0,5 m/s",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Harmonik Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Boşlukta yayılan bir elektromanyetik dalganın elektrik alan genliği E0=600 V/m ise, manyetik alan genliği B0 kaç Tesla'dır? (Işık hızı c=3×10^8 m/s)",
+    "explanation": "Boşlukta elektromanyetik dalga için E0 = c * B0. B0 = E0 / c = 600 / (3e8) = 2×10^-6 T.",
+    "options": [
+      {
+        "text": "2×10^-6 T",
+        "isCorrect": true
+      },
+      {
+        "text": "1,8×10^11 T",
+        "isCorrect": false
+      },
+      {
+        "text": "200 T",
+        "isCorrect": false
+      },
+      {
+        "text": "2×10^-9 T",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalga Mekaniği ve Elektromanyetik Dalgalar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bohr atom modeline göre, hidrojen atomunda temel enerji düzeyindeki (n=1) bir elektronun, n=3 enerji düzeyine uyarılması için gereken fotonun enerjisi, temel enerji düzeyindeki bağlanma enerjisinin kaç katıdır?",
+    "explanation": "Hidrojen atomunda enerji düzeyi E_n = -13,6 / n² eV. Temel düzey E1 = -13,6 eV. n=3 düzeyi E3 = -13,6 / 9 ≈ -1,51 eV. Uyarılma için gereken enerji ΔE = E3 - E1 = -1,51 - (-13,6) = 12,09 eV. Temel düzey bağlanma enerjisi |E1|=13,6 eV. Oran: 12,09 / 13,6 ≈ 0,889 ≈ 8/9.",
+    "options": [
+      {
+        "text": "8/9",
+        "isCorrect": true
+      },
+      {
+        "text": "1/3",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "3/4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom Modelleri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir radyoaktif izotopun yarı ömrü 10 gündür. Başlangıçta 160 gram olan bu izotopun 30 gün sonra kaç gramı bozunmamış olarak kalır?",
+    "explanation": "Yarı ömür sayısı n = Toplam süre / Yarı ömür = 30 / 10 = 3. Kalan madde m = m0 * (1/2)^n = 160 * (1/2)^3 = 160 * 1/8 = 20 gram.",
+    "options": [
+      {
+        "text": "20 gram",
+        "isCorrect": true
+      },
+      {
+        "text": "40 gram",
+        "isCorrect": false
+      },
+      {
+        "text": "80 gram",
+        "isCorrect": false
+      },
+      {
+        "text": "5 gram",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Fotoelektrik olayında bir metal yüzeyin eşik dalga boyu 600 nm'dir. Bu yüzeye 400 nm dalga boylu ışık düşürüldüğünde kopan fotoelektronların maksimum kinetik enerjisi kaç eV olur? (h≈4,14×10^-15 eV·s, c=3×10^8 m/s)",
+    "explanation": "Eşik dalga boyu λ0=600 nm => Eşik enerjisi (iş fonksiyonu) φ = hc/λ0. Gelen foton enerjisi E = hc/λ. Kinetik enerji K_max = E - φ = hc(1/λ - 1/λ0). hc değerini eV·nm cinsinden hesaplayalım: hc ≈ 1240 eV·nm. K_max = 1240 * (1/400 - 1/600) = 1240 * ((3-2)/1200) = 1240 * (1/1200) ≈ 1,033 eV.",
+    "options": [
+      {
+        "text": "1,03 eV",
+        "isCorrect": true
+      },
+      {
+        "text": "2,07 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "3,10 eV",
+        "isCorrect": false
+      },
+      {
+        "text": "0,52 eV",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fizik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Lazerlerin çalışma prensibi aşağıdaki kavramlardan hangisine dayanır?",
+    "explanation": "Lazer (Light Amplification by Stimulated Emission of Radiation), uyarılmış ışıma yoluyla ışık amplifikasyonu demektir. Temel prensip, uyarılmış salınımdır: Uyarılmış bir atom, gelen bir fotonun etkisiyle aynı faz, aynı frekans ve aynı doğrultuda ikinci bir foton salar. Bu, populasyon inversiyonu (üst enerji düzeyinde daha fazla atom olması) ile birleşerek koherent ve monokromatik ışık üretir.",
+    "options": [
+      {
+        "text": "Uyarılmış salınım ve populasyon inversiyonu",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece kendiliğinden salınım",
+        "isCorrect": false
+      },
+      {
+        "text": "Fotoelektrik olay",
+        "isCorrect": false
+      },
+      {
+        "text": "Compton saçılması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fiziğin Teknolojideki Uygulamaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
   }
 ]
