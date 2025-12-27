@@ -1,0 +1,299 @@
+[
+  {
+    "text": "Sosyolojinin bir bilim olarak ortaya çıkmasında aşağıdaki tarihsel gelişmelerden hangisi en etkili olmuştur?",
+    "explanation": "Sosyoloji, 19. yüzyılda Sanayi Devrimi ve Fransız Devrimi gibi büyük toplumsal dönüşümlerin yol açtığı sorunları anlama ve açıklama ihtiyacından doğmuştur. Bu dönemde geleneksel toplum yapısı değişmiş, yeni sosyal problemler ortaya çıkmıştır.",
+    "options": [
+      {
+        "text": "Coğrafi Keşifler",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi Devrimi ve Fransız Devrimi",
+        "isCorrect": true
+      },
+      {
+        "text": "Rönesans Hareketleri",
+        "isCorrect": false
+      },
+      {
+        "text": "İlk Çağ Uygarlıklarının Yükselişi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdaki düşünürlerden hangisi sosyolojinin kurucu babalarından biri olarak kabul edilmez?",
+    "explanation": "Sokrates, bir Antik Yunan filozofudur ve etik ile epistemoloji alanında çalışmalar yapmıştır. Sosyoloji ise 19. yüzyılda ortaya çıkan bir bilim dalıdır. Auguste Comte, Karl Marx ve Emile Durkheim ise sosyolojinin kurucu isimleridir.",
+    "options": [
+      {
+        "text": "Auguste Comte",
+        "isCorrect": false
+      },
+      {
+        "text": "Karl Marx",
+        "isCorrect": false
+      },
+      {
+        "text": "Sokrates",
+        "isCorrect": true
+      },
+      {
+        "text": "Emile Durkheim",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir bireyin içinde yaşadığı toplumun normlarını, değerlerini ve davranış kalıplarını öğrenmesi sürecine ne ad verilir?",
+    "explanation": "Toplumsallaşma (sosyalizasyon), bireyin toplumun bir üyesi olarak kabul edilebilmesi için gerekli olan bilgi, beceri ve değerleri edindiği ömür boyu süren bir öğrenme sürecidir.",
+    "options": [
+      {
+        "text": "Sosyal Etkileşim",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal Değişim",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsallaşma",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürlenme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireyin kendisini başkalarının yerine koyarak onların duygu ve düşüncelerini anlamasına olanak sağlayan süreç aşağıdakilerden hangisidir?",
+    "explanation": "Rol alma, Sosyal Etkileşimcilik kuramcısı George Herbert Mead'e göre, bireyin toplumsal bir benlik geliştirebilmesi için kritik öneme sahip bir süreçtir. Birey, başkalarının bakış açısını hayal ederek kendi davranışlarını düzenlemeyi öğrenir.",
+    "options": [
+      {
+        "text": "Taklit",
+        "isCorrect": false
+      },
+      {
+        "text": "Özdeşim Kurma",
+        "isCorrect": false
+      },
+      {
+        "text": "Rol Alma",
+        "isCorrect": true
+      },
+      {
+        "text": "Uyma Davranışı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumdaki görece kalıcı ve düzenli ilişkiler bütününü ifade eden kavram aşağıdakilerden hangisidir?",
+    "explanation": "Toplumsal yapı, bir toplumu oluşturan temel gruplar, kurumlar ve bunlar arasındaki ilişkilerin oluşturduğu organize bütündür. Statü, rol, grup ve kurumlar toplumsal yapının temel ögeleridir.",
+    "options": [
+      {
+        "text": "Toplumsal Tabakalaşma",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal Yapı",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal Değişme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültür",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir bireyin toplum içinde işgal ettiği konuma ne ad verilir?",
+    "explanation": "Statü, bireyin toplum içindeki pozisyonudur. Örneğin, 'öğretmen', 'öğrenci', 'anne' birer statüdür. Statüler kazanılmış (edinilmiş) veya verilmiş (atanmış) olabilir.",
+    "options": [
+      {
+        "text": "Rol",
+        "isCorrect": false
+      },
+      {
+        "text": "Statü",
+        "isCorrect": true
+      },
+      {
+        "text": "Prestij",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınıf",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumun zaman içinde ekonomik, siyasi, kültürel ve teknolojik alanlarda geçirdiği dönüşüme ne denir?",
+    "explanation": "Toplumsal değişme, toplumsal yapı, kurumlar ve davranış kalıplarında zaman içinde meydana gelen farklılaşmadır. Bu değişim planlı (modernleşme) veya plansız (kendiliğinden) olabilir.",
+    "options": [
+      {
+        "text": "Toplumsal Gelişme",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal Çözülme",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal Değişme",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürel Yayılma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi toplumsal değişmeyi etkileyen faktörlerden biri değildir?",
+    "explanation": "Biyolojik kalıtım, bireyin fiziksel özelliklerini belirleyen bir faktördür ve doğrudan toplumsal değişmeye neden olmaz. Diğer seçenekler (teknoloji, kültür, demografi) ise toplumsal yapıyı ve dolayısıyla değişmeyi doğrudan etkiler.",
+    "options": [
+      {
+        "text": "Teknolojik Buluşlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel Etkileşim",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyolojik Kalıtım",
+        "isCorrect": true
+      },
+      {
+        "text": "Nüfus Hareketleri (Demografi)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir toplumun maddi ve manevi ögelerinden oluşan, kuşaktan kuşağa aktarılan yaşam tarzının tümüne ne ad verilir?",
+    "explanation": "Kültür, bir toplumun sahip olduğu dil, din, ahlak, gelenek, görenek, sanat, hukuk gibi maddi ve manevi tüm değerleri içeren karmaşık bir bütündür.",
+    "options": [
+      {
+        "text": "Medeniyet",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültür",
+        "isCorrect": true
+      },
+      {
+        "text": "Değer",
+        "isCorrect": false
+      },
+      {
+        "text": "Norm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireylerin toplum içinde nasıl davranmaları gerektiğini belirleyen yazılı veya yazısız kurallara ne denir?",
+    "explanation": "Normlar, bir toplumda bireylerin uyması beklenen davranış kalıplarıdır. Gelenek, görenek, ahlak kuralları ve hukuk kuralları normlara örnektir. Normlara uyulmaması yaptırımla (ceza, ayıplama) sonuçlanır.",
+    "options": [
+      {
+        "text": "Değer",
+        "isCorrect": false
+      },
+      {
+        "text": "Sembol",
+        "isCorrect": false
+      },
+      {
+        "text": "Norm",
+        "isCorrect": true
+      },
+      {
+        "text": "İnanç",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi birincil (temel) toplumsal kurumlardan biri değildir?",
+    "explanation": "Medya, toplumsal yaşamda önemli bir role sahip olsa da, sosyolojide genellikle aile, ekonomi, siyaset, din ve eğitim temel/temelcil kurumlar olarak kabul edilir. Medya daha çok ikincil bir kurum veya bir sosyal yapı olarak değerlendirilebilir.",
+    "options": [
+      {
+        "text": "Aile",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomi",
+        "isCorrect": false
+      },
+      {
+        "text": "Medya",
+        "isCorrect": true
+      },
+      {
+        "text": "Din",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  }
+]
