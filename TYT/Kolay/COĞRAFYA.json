@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi insanların doğal çevre üzerindeki olumsuz etkilerine örnek olarak gösterilebilir?",
+    "explanation": "İnsanların doğal çevre üzerindeki olumsuz etkileri, çevre kirliliği, kaynakların aşırı tüketimi ve doğal dengenin bozulması gibi sonuçlar doğurur. Fabrika bacalarından çıkan zehirli gazlar, hava kirliliğine neden olarak doğal çevreye ve canlı sağlığına zarar veren bir insan faaliyetidir. Diğer seçenekler (yağmur, rüzgâr, güneş) ise doğal süreçlerdir.",
+    "options": [
+      {
+        "text": "Yağmurun toprağı beslemesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Rüzgârın tohumları taşıması",
+        "isCorrect": false
+      },
+      {
+        "text": "Fabrika bacalarından çıkan zehirli gazların havayı kirletmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Güneş'in bitkiler için enerji kaynağı olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Doğa",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, Dünya'nın küresel şeklinin bir sonucu olarak güneş ışınlarının yeryüzüne düşme açısının kutuplara doğru daralmasıyla açıklanır?",
+    "explanation": "Dünya'nın şekli geoid (küresele yakın) olduğu için güneş ışınları Ekvator'a yıl boyunca daha dik, kutuplara doğru ise giderek daha dar açılarla düşer. Dar açıyla gelen ışınlar daha geniş bir alanı aydınlatır ve birim yüzeye düşen enerji miktarı azalır. Bu durum, sıcaklığın kutuplara doğru azalmasının temel nedenidir.",
+    "options": [
+      {
+        "text": "Sıcaklığın kutuplara doğru azalması",
+        "isCorrect": true
+      },
+      {
+        "text": "Gece ve gündüz sürelerinin oluşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Mevsimlerin oluşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yerel saat farklarının ortaya çıkması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya'nın Şekli ve Hareketleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Bir ülkenin Dünya üzerinde enlem ve boylam dereceleriyle ifade edilen konumuna ne ad verilir?",
+    "explanation": "Bir yerin Dünya üzerindeki kesin adresi, enlem ve boylam gibi matematiksel değerlerle belirlenir ve buna mutlak (matematik) konum denir. Göreceli konum ise bir yerin çevresindeki diğer yerlerle olan ilişkisini ifade eder.",
+    "options": [
+      {
+        "text": "Mutlak Konum",
+        "isCorrect": true
+      },
+      {
+        "text": "Göreceli Konum",
+        "isCorrect": false
+      },
+      {
+        "text": "Özel Konum",
+        "isCorrect": false
+      },
+      {
+        "text": "Jeopolitik Konum",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Coğrafi Konum",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Bir haritada iki nokta arasındaki uzaklık 5 cm olarak ölçülmüştür. Bu haritanın ölçeği 1/500.000 ise, iki nokta arasındaki gerçek uzaklık kaç km'dir?",
+    "explanation": "Gerçek uzunluk = Harita uzunluğu × Ölçek paydası formülü ile hesaplanır. Hesaplama: 5 cm × 500.000 = 2.500.000 cm. Santimetreyi kilometreye çevirmek için 100.000'e böleriz: 2.500.000 cm / 100.000 = 25 km.",
+    "options": [
+      {
+        "text": "25 km",
+        "isCorrect": true
+      },
+      {
+        "text": "10 km",
+        "isCorrect": false
+      },
+      {
+        "text": "100 km",
+        "isCorrect": false
+      },
+      {
+        "text": "2,5 km",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Harita Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, bir yerin gerçek sıcaklığı ile indirgenmiş sıcaklığı arasındaki farkın temel nedenidir?",
+    "explanation": "İndirgenmiş sıcaklık, bir yerin yükseltisinin etkisi ortadan kaldırılarak (genellikle deniz seviyesine indirgenerek) hesaplanan sıcaklıktır. Gerçek sıcaklık ise o yerin gözlemlenen anlık sıcaklığıdır. Bu iki sıcaklık arasındaki farkın temel sebebi yükseltidir, çünkü yükselti arttıkça sıcaklık düşer.",
+    "options": [
+      {
+        "text": "Yükselti",
+        "isCorrect": true
+      },
+      {
+        "text": "Enlem",
+        "isCorrect": false
+      },
+      {
+        "text": "Kara ve deniz dağılışı",
+        "isCorrect": false
+      },
+      {
+        "text": "Rüzgârlar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atmosfer ve Sıcaklık",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  }
+]
