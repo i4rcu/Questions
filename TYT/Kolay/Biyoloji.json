@@ -1,0 +1,158 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi biyolojinin alt bilim dallarından biri değildir?",
+    "explanation": "Biyoloji, canlıları ve yaşamı inceleyen bilim dalıdır ve alt dalları arasında botanik (bitkiler), zooloji (hayvanlar), mikrobiyoloji (mikroorganizmalar) bulunur. Jeomorfoloji ise yer şekillerini inceleyen fiziki coğrafyanın bir alt dalıdır ve biyoloji ile doğrudan ilişkili değildir.",
+    "options": [
+      {
+        "text": "Botanik",
+        "isCorrect": false
+      },
+      {
+        "text": "Zooloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Mikrobiyoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Jeomorfoloji",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki organellerden hangisi hücrenin enerji üretim merkezidir?",
+    "explanation": "Mitokondri, hücrenin enerji üretim merkezidir. Oksijenli solunumun gerçekleştiği bu organelde, besin maddeleri parçalanarak hücre için gerekli olan ATP enerjisi üretilir. Ribozom protein sentezinde, golgi cisimciği salgı üretiminde, lizozom ise hücre içi sindirimde görev alır.",
+    "options": [
+      {
+        "text": "Mitokondri",
+        "isCorrect": true
+      },
+      {
+        "text": "Ribozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Golgi Cisimciği",
+        "isCorrect": false
+      },
+      {
+        "text": "Lizozom",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlı gruplarından hangisinin hücrelerinde hücre duvarı bulunmaz?",
+    "explanation": "Hayvanlar alemi, hücrelerinde hücre duvarı bulundurmayan çok hücreli ökaryot canlılardan oluşur. Bitkilerde selüloz, mantarlarda kitin, bakterilerde ise peptidoglikan yapılı hücre duvarı bulunur.",
+    "options": [
+      {
+        "text": "Hayvanlar",
+        "isCorrect": true
+      },
+      {
+        "text": "Bitkiler",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantarlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Bakteriler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar Dünyası",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Mitoz bölünme ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Mitoz bölünme, bir hücreden genetik olarak birbirinin aynısı iki yavru hücre oluşturan bölünme şeklidir. Bu nedenle, mitoz bölünme sonucunda kromozom sayısı değişmez ve oluşan hücreler ana hücre ile aynı genetik bilgiyi taşır. Mayoz bölünme ise kromozom sayısını yarıya indirerek üreme hücrelerini (gamet) oluşturur.",
+    "options": [
+      {
+        "text": "Kromozom sayısını yarıya indirir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece üreme ana hücrelerinde görülür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oluşan hücrelerin genetik yapısı birbirinden farklıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vücut hücrelerinde büyüme ve onarımı sağlar.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Hücre Bölünmeleri ve Üreme",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir karakterin kalıtımından sorumlu DNA parçasına ne ad verilir?",
+    "explanation": "Gen, bir karakterin (özelliğin) kalıtımından sorumlu olan ve belirli bir proteinin sentezini kontrol eden DNA parçasıdır. Kromozom, genleri taşıyan yapıdır. Alel, bir genin alternatif formlarıdır. Genotip ise bir bireyin sahip olduğu genlerin tamamını ifade eder.",
+    "options": [
+      {
+        "text": "Gen",
+        "isCorrect": true
+      },
+      {
+        "text": "Kromozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Alel",
+        "isCorrect": false
+      },
+      {
+        "text": "Genotip",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kalıtım Genel İlkeleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi küresel ısınmanın ana nedenlerinden biridir?",
+    "explanation": "Küresel ısınmanın temel nedeni, insan faaliyetleri (fosil yakıtların yakılması, ormansızlaşma vb.) sonucunda atmosferdeki sera gazları (karbondioksit, metan gibi) konsantrasyonunun artmasıdır. Bu gazlar, Güneş'ten gelen ışınların yeryüzüne ulaşmasına izin verirken, yeryüzünden yansıyan ısının bir kısmını tutarak atmosferin ortalama sıcaklığının artmasına neden olur. Bu duruma sera etkisi denir.",
+    "options": [
+      {
+        "text": "Atmosferdeki sera gazlarının artması",
+        "isCorrect": true
+      },
+      {
+        "text": "Ozon tabakasının incelmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Asit yağmurlarının oluşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyolojik çeşitliliğin azalması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  }
+]
