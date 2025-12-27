@@ -349,5 +349,410 @@
     "section": "Say",
     "difficulty": "Zor",
     "subject": "Kimya"
+  },
+  {
+    "text": "Bir atomda 3d orbitalinde bulunan bir elektron için kuantum sayıları n=3, l=2, m_l=+1, m_s=+1/2 olarak veriliyor. Buna göre bu elektronun dalga fonksiyonunun radyal düğüm sayısı ve açısal düğüm sayısı nedir?",
+    "explanation": "Radyal düğüm sayısı = n - l - 1 formülü ile hesaplanır. n=3, l=2 için radyal düğüm sayısı = 3 - 2 - 1 = 0'dır. Açısal düğüm sayısı ise l değerine eşittir, yani l=2'dir. Açısal düğümler, orbitalin şeklinden kaynaklanan ve elektronun bulunma olasılığının sıfır olduğu düzlemlerdir.",
+    "options": [
+      {
+        "text": "Radyal düğüm: 0, Açısal düğüm: 2",
+        "isCorrect": true
+      },
+      {
+        "text": "Radyal düğüm: 1, Açısal düğüm: 2",
+        "isCorrect": false
+      },
+      {
+        "text": "Radyal düğüm: 0, Açısal düğüm: 1",
+        "isCorrect": false
+      },
+      {
+        "text": "Radyal düğüm: 2, Açısal düğüm: 0",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hidrojen atomunun 2p_z orbitalinin açısal dalga fonksiyonu Y(θ, φ) ∝ cosθ'dır. Buna göre, aşağıdaki yargılardan hangisi doğrudur?",
+    "explanation": "2p_z orbitalinin açısal düğümü, cosθ=0 olduğu yerde, yani θ=90° (xy düzlemi) üzerindedir. Bu düzlemde elektron bulunma olasılığı sıfırdır. Orbital z-ekseni boyunca uzandığı için, z-ekseni üzerinde (θ=0° veya 180°) cosθ=±1 olur ve elektron bulunma olasılığı maksimumdur. Elektronun çekirdekte (r=0) bulunma olasılığı, radyal dalga fonksiyonu nedeniyle sıfırdır, ancak bu açısal düğümle ilgili değildir.",
+    "options": [
+      {
+        "text": "Elektronun xy düzleminde bulunma olasılığı sıfırdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektronun z-ekseni üzerinde bulunma olasılığı sıfırdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronun çekirdekte bulunma olasılığı maksimumdur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Orbitalin şekli küresel simetriktir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Sabit sıcaklıkta 2 L'lik bir kapta bulunan 0,4 mol ideal gazın basıncı 2 atm'dir. Aynı sıcaklıkta kaba 0,2 mol daha aynı gaz eklenir ve kabın hacmi değiştirilerek gazın basıncı 4 atm yapılır. Son durumda kabın hacmi kaç L'dir?",
+    "explanation": "İlk durum: P1V1 = n1RT -> 2 atm * 2 L = 0,4 mol * R * T -> R*T = (4 L·atm) / 0,4 mol = 10 L·atm/mol.\nSon durum: Toplam mol n2 = 0,4 + 0,2 = 0,6 mol. P2V2 = n2RT -> 4 atm * V2 = 0,6 mol * (10 L·atm/mol) -> 4V2 = 6 -> V2 = 1,5 L.",
+    "options": [
+      {
+        "text": "1,5 L",
+        "isCorrect": true
+      },
+      {
+        "text": "2,0 L",
+        "isCorrect": false
+      },
+      {
+        "text": "3,0 L",
+        "isCorrect": false
+      },
+      {
+        "text": "4,0 L",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Eşit kütlede CH4 ve O2 gazları aynı sıcaklıkta ayrı kaplarda bulunmaktadır. CH4 gazının bulunduğu kabın hacmi 4 L ve basıncı 1 atm'dir. O2 gazının basıncı 2 atm olduğuna göre, O2 gazının bulunduğu kabın hacmi kaç L'dir? (CH4: 16 g/mol, O2: 32 g/mol)",
+    "explanation": "Kütleler eşit, m gram olsun. CH4 için mol sayısı n_CH4 = m/16. O2 için mol sayısı n_O2 = m/32. Aynı T'de ideal gaz denklemi uygulanır. CH4: P_CH4 * V_CH4 = n_CH4 * R * T -> 1 * 4 = (m/16) * R * T -> R*T = 64/m.\nO2: P_O2 * V_O2 = n_O2 * R * T -> 2 * V_O2 = (m/32) * (64/m) -> 2 * V_O2 = 64/32 = 2 -> V_O2 = 1 L.",
+    "options": [
+      {
+        "text": "1 L",
+        "isCorrect": true
+      },
+      {
+        "text": "2 L",
+        "isCorrect": false
+      },
+      {
+        "text": "4 L",
+        "isCorrect": false
+      },
+      {
+        "text": "8 L",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "25 °C'de CaF2'ün molar çözünürlüğü S mol/L'dir. CaF2'ün 25 °C'deki çözünürlük çarpımı (Kçç) ifadesi aşağıdakilerden hangisidir?",
+    "explanation": "CaF2(k) ⇌ Ca²⁺(aq) + 2F⁻(aq) denge tepkimesi için, molar çözünürlük S mol/L ise, doymuş çözeltide [Ca²⁺] = S M ve [F⁻] = 2S M olur. Çözünürlük çarpımı Kçç = [Ca²⁺][F⁻]² = (S) * (2S)² = 4S³'tür.",
+    "options": [
+      {
+        "text": "Kçç = 4S³",
+        "isCorrect": true
+      },
+      {
+        "text": "Kçç = S²",
+        "isCorrect": false
+      },
+      {
+        "text": "Kçç = 2S²",
+        "isCorrect": false
+      },
+      {
+        "text": "Kçç = S³",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "25 °C'de AgCl'ün çözünürlük çarpımı Kçç = 1,6x10⁻¹⁰'dur. Aynı sıcaklıkta 0,01 M NaCl çözeltisinde AgCl'ün molar çözünürlüğü kaç mol/L'dir?",
+    "explanation": "NaCl, ortak iyon (Cl⁻) içerir. AgCl'ün çözünürlüğüne S diyelim. Denge ifadesi: AgCl(k) ⇌ Ag⁺(aq) + Cl⁻(aq). NaCl'den gelen [Cl⁻] = 0,01 M'dir. AgCl'ün çözünmesinden gelen [Ag⁺] = S ve [Cl⁻] = S'dir. Toplam [Cl⁻] = 0,01 + S ≈ 0,01 M (S çok küçük olduğu için). Kçç = [Ag⁺][Cl⁻] = S * (0,01) = 1,6x10⁻¹⁰ -> S = 1,6x10⁻¹⁰ / 0,01 = 1,6x10⁻⁸ M.",
+    "options": [
+      {
+        "text": "1,6x10⁻⁸ M",
+        "isCorrect": true
+      },
+      {
+        "text": "1,6x10⁻¹⁰ M",
+        "isCorrect": false
+      },
+      {
+        "text": "4,0x10⁻⁵ M",
+        "isCorrect": false
+      },
+      {
+        "text": "1,3x10⁻⁵ M",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "N2(g) + 3H2(g) → 2NH3(g) tepkimesi için 25 °C'de standart oluşum entalpileri: ΔH°f(NH3) = -46 kJ/mol, ΔH°f(N2) = 0 kJ/mol, ΔH°f(H2) = 0 kJ/mol'dür. Tepkimenin standart entalpisi (ΔH°) -92 kJ olduğuna göre, 34 g NH3 gazı oluştuğunda açığa çıkan ısı kaç kJ'dir? (N:14, H:1)",
+    "explanation": "Tepkime denklemine göre 2 mol NH3 oluştuğunda ΔH° = -92 kJ'dir. NH3'ün molar kütlesi 17 g/mol'dür. 34 g NH3, 34/17 = 2 mol NH3'e eşittir. Dolayısıyla, 2 mol NH3 oluştuğunda açığa çıkan ısı -92 kJ'dir. İşaret negatif olduğu için ısı açığa çıkar.",
+    "options": [
+      {
+        "text": "92 kJ ısı açığa çıkar.",
+        "isCorrect": true
+      },
+      {
+        "text": "46 kJ ısı açığa çıkar.",
+        "isCorrect": false
+      },
+      {
+        "text": "92 kJ ısı soğurulur.",
+        "isCorrect": false
+      },
+      {
+        "text": "184 kJ ısı açığa çıkar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir tepkimenin entalpi değişimi (ΔH) -150 kJ, entropi değişimi (ΔS) -0,10 kJ/K'dir. Bu tepkimenin 25 °C'de (298 K) Gibbs serbest enerji değişimi (ΔG) ve kendiliğinden gerçekleşip gerçekleşmeyeceği aşağıdakilerden hangisidir?",
+    "explanation": "Gibbs serbest enerji formülü: ΔG = ΔH - TΔS. T = 298 K. ΔH = -150 kJ. ΔS = -0,10 kJ/K = -100 J/K (hesap için kJ cinsinden tutalım). ΔG = -150 kJ - (298 K * -0,10 kJ/K) = -150 kJ + 29,8 kJ = -120,2 kJ. ΔG < 0 olduğu için tepkime 25 °C'de kendiliğinden (istemsiz) gerçekleşir.",
+    "options": [
+      {
+        "text": "ΔG ≈ -120 kJ, kendiliğinden gerçekleşir.",
+        "isCorrect": true
+      },
+      {
+        "text": "ΔG ≈ -180 kJ, kendiliğinden gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≈ +120 kJ, kendiliğinden gerçekleşmez.",
+        "isCorrect": false
+      },
+      {
+        "text": "ΔG ≈ -30 kJ, kendiliğinden gerçekleşir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Tepkimelerde Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "2A(g) + B(g) ⇌ 2C(g) tepkimesi belirli bir sıcaklıkta dengeye ulaşmıştır. Denge anında [A] = 0,2 M, [B] = 0,4 M, [C] = 0,6 M'dir. Aynı sıcaklıkta denge sabiti Kc kaçtır?",
+    "explanation": "Tepkime: 2A + B ⇌ 2C. Denge sabiti Kc = [C]² / ([A]² [B]) formülü ile hesaplanır. Verilen denge derişimlerini yerine koyarsak: Kc = (0,6)² / ((0,2)² * (0,4)) = 0,36 / (0,04 * 0,4) = 0,36 / 0,016 = 22,5.",
+    "options": [
+      {
+        "text": "22,5",
+        "isCorrect": true
+      },
+      {
+        "text": "11,25",
+        "isCorrect": false
+      },
+      {
+        "text": "45",
+        "isCorrect": false
+      },
+      {
+        "text": "7,5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "X(g) ⇌ Y(g) + Z(g) tepkimesi için 25 °C'de denge sabiti Kp = 4'tür. Başlangıçta 1 atm X gazı bulunan kapalı bir kapta denge kurulduğunda, kaptaki toplam basınç kaç atm olur?",
+    "explanation": "Başlangıç: P_X = 1 atm, P_Y = 0, P_Z = 0. Dengeye ulaşıncaya kadar X'in basıncı x kadar azalsın. Tepkime denklemine göre, x atm X ayrışırsa, x atm Y ve x atm Z oluşur. Denge basınçları: P_X = 1 - x, P_Y = x, P_Z = x. Kp = (P_Y * P_Z) / P_X = (x * x) / (1 - x) = 4 -> x² / (1-x) = 4 -> x² = 4(1-x) -> x² = 4 - 4x -> x² + 4x - 4 = 0. Diskriminant: 16+16=32, kök: x = [-4 ± √32]/2 = [-4 ± 5,66]/2. Pozitif kök: x ≈ 0,83 atm. Toplam basınç P_toplam = P_X + P_Y + P_Z = (1 - 0,83) + 0,83 + 0,83 = 0,17 + 1,66 = 1,83 atm.",
+    "options": [
+      {
+        "text": "1,83 atm",
+        "isCorrect": true
+      },
+      {
+        "text": "2,00 atm",
+        "isCorrect": false
+      },
+      {
+        "text": "3,00 atm",
+        "isCorrect": false
+      },
+      {
+        "text": "5,00 atm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Standart koşullarda çalışan bir galvanik hücrede aşağıdaki yarı tepkimeler gerçekleşmektedir: Zn²⁺(aq) + 2e⁻ → Zn(k) E° = -0,76 V; Ag⁺(aq) + e⁻ → Ag(k) E° = +0,80 V. Buna göre, Zn(k) | Zn²⁺(1 M) || Ag⁺(1 M) | Ag(k) pilinin standart elektromotor kuvveti (E°pil) ve katot tepkimesi aşağıdakilerden hangisidir?",
+    "explanation": "Daha yüksek indirgenme potansiyeline sahip yarı hücre katot olur. E°(Ag⁺/Ag) = +0,80 V > E°(Zn²⁺/Zn) = -0,76 V. Bu nedenle katot: Ag⁺(aq) + e⁻ → Ag(k). Anot: Zn(k) → Zn²⁺(aq) + 2e⁻. E°pil = E°katot - E°anot = 0,80 V - (-0,76 V) = 0,80 + 0,76 = 1,56 V.",
+    "options": [
+      {
+        "text": "E°pil = 1,56 V, Katot: Ag⁺ + e⁻ → Ag",
+        "isCorrect": true
+      },
+      {
+        "text": "E°pil = 0,04 V, Katot: Zn²⁺ + 2e⁻ → Zn",
+        "isCorrect": false
+      },
+      {
+        "text": "E°pil = 1,56 V, Katot: Zn²⁺ + 2e⁻ → Zn",
+        "isCorrect": false
+      },
+      {
+        "text": "E°pil = 0,04 V, Katot: Ag⁺ + e⁻ → Ag",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "0,1 M CuSO4 çözeltisi, 0,1 M AgNO3 çözeltisine daldırılmış bir Ag elektrot ve bir Pt elektrot kullanılarak elektroliz ediliyor. Elektroliz sırasında katotta ve anotta ilk önce hangi maddeler açığa çıkar? (Standart indirgenme potansiyelleri: Cu²⁺/Cu: +0,34 V, Ag⁺/Ag: +0,80 V, H₂O/H₂: -0,83 V, H₂O/O₂: +1,23 V)",
+    "explanation": "Katot (indirgenme): Çözeltide Cu²⁺ (0,1 M) ve H₂O bulunur. Daha yüksek indirgenme potansiyeline sahip olan indirgenir. E°(Cu²⁺/Cu)=+0,34 V, suyun indirgenmesi E°≈-0,83 V (asidik ortamda H⁺ indirgenmesi). Cu²⁺'nün potansiyeli daha yüksek olduğu için katotta Cu metali çöker.\nAnot (yükseltgenme): Pt inert elektrottur. Çözeltide Ag⁺ yok, ancak SO4²⁻ ve H₂O var. SO4²⁻ yükseltgenmez, suyun yükseltgenmesi (O₂ oluşumu) gerçekleşir: 2H₂O → O₂ + 4H⁺ + 4e⁻ (E°=+1,23 V). Pt elektrot kendisi yükseltgenmez. Dolayısıyla anotta O₂ gazı açığa çıkar.",
+    "options": [
+      {
+        "text": "Katot: Cu, Anot: O₂",
+        "isCorrect": true
+      },
+      {
+        "text": "Katot: Ag, Anot: O₂",
+        "isCorrect": false
+      },
+      {
+        "text": "Katot: H₂, Anot: O₂",
+        "isCorrect": false
+      },
+      {
+        "text": "Katot: Cu, Anot: SO₂",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya ve Elektrik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "C5H10 molekül formülüne sahip ve halkalı yapıda olan bir bileşik, bromlu suyu (Br2) renksizleştirmez. Bu bileşik aşağıdakilerden hangisi olabilir?",
+    "explanation": "C5H10 formülü alken (CnH2n) veya sikloalkan olabilir. Bromlu suyu renksizleştirmemesi, bileşiğin doymuş olduğunu (çift bağ içermediğini) gösterir. Halkalı yapıda olduğu belirtilmiş. Bu nedenle bileşik, çift bağ içermeyen bir sikloalkandır. C5H10 formüllü sikloalkan, siklopentandır (5 karbonlu halka). Siklopentan doymuş bir hidrokarbondur ve bromlu su ile tepkime vermez.",
+    "options": [
+      {
+        "text": "Siklopentan",
+        "isCorrect": true
+      },
+      {
+        "text": "Siklopenten",
+        "isCorrect": false
+      },
+      {
+        "text": "1-penten",
+        "isCorrect": false
+      },
+      {
+        "text": "2-penten",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki dönüşüm dizisinde Y bileşiği nedir? 1) Propan → (Cl2, ışık) → A (C3H7Cl) 2) A → (KOH, etanol, ısı) → B 3) B → (HBr) → Y",
+    "explanation": "1) Propan (CH3CH2CH3) üzerinde Cl2/ışık ile radikal halojenleme. Tüm hidrojenler benzer olmadığı için birincil ve ikincil ürün karışımı olabilir, ancak soru basitçe monoklorür A'yı veriyor. En bol ürün 1-kloropropan (birincil) olacaktır.\n2) 1-kloropropan (CH3CH2CH2Cl) gibi bir alkil halojenürün, KOH/etanol/ısı ile eliminasyonu (dehidrohalojenasyon) yapılır. Bu işlem sonucunda propen (CH3CH=CH2) oluşur (B).\n3) Propen (B) asimetrik bir alkendir. HBr ile Markovnikov kuralına göre katılır. Katılma sonucunda H, daha fazla H'si olan karbona (uç karbon) bağlanır, Br ise ortadaki karbona bağlanır. Ürün: 2-bromopropan (CH3CHBrCH3) olur (Y).",
+    "options": [
+      {
+        "text": "2-bromopropan",
+        "isCorrect": true
+      },
+      {
+        "text": "1-bromopropan",
+        "isCorrect": false
+      },
+      {
+        "text": "Propan",
+        "isCorrect": false
+      },
+      {
+        "text": "1,2-dibromopropan",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Nükleer fisyon reaksiyonları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Nükleer fisyon, ağır bir çekirdeğin (örneğin U-235) nötronla bombardımanı sonucu daha hafif çekirdeklere bölünmesidir. Bu reaksiyonda açığa çıkan enerji, Einstein'ın E=mc² formülüne göre, kütle kaybından (kütle defekti) kaynaklanır. Fisyon ürünleri radyoaktif olabilir ve nükleer atık sorununa yol açar. Fisyon, nükleer santrallerin ve atom bombalarının çalışma prensibidir. Yanlış olan ifade, füzyon (kaynaşma) reaksiyonunun özelliğidir; hafif çekirdeklerin birleşerek daha ağır çekirdek oluşturması füzyondur (örneğin hidrojen bombası veya Güneş'teki reaksiyonlar).",
+    "options": [
+      {
+        "text": "Hafif çekirdeklerin birleşmesi prensibine dayanır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Açığa çıkan enerji kütle kaybından (kütle defekti) gelir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Radyoaktif atık oluşturabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kontrolsüz gerçekleşirse atom bombası etkisi oluşturur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
   }
 ]
