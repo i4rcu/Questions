@@ -118,5 +118,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Tarih"
+  },
+  {
+    "text": "Tarih biliminin tanımı aşağıdakilerden hangisidir?",
+    "explanation": "Tarih, geçmişte yaşamış insan topluluklarının siyasi, sosyal, ekonomik ve kültürel faaliyetlerini, yer ve zaman göstererek, neden-sonuç ilişkisi içinde, belgelere dayanarak inceleyen bir bilim dalıdır.",
+    "options": [
+      {
+        "text": "Geçmişte yaşamış insan topluluklarının her türlü faaliyetini neden-sonuç ilişkisi içinde inceleyen bilim dalıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece savaşları ve antlaşmaları kronolojik sırayla kaydeden bir disiplindir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gelecekte olabilecek olayları tahmin etmeye çalışan bir sosyal bilimdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Arkeolojik buluntuları inceleyerek sadece yazı öncesi dönemleri araştıran bilimdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsanlığın mitolojik hikayelerini ve efsanelerini derleyen bir alandır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
   }
 ]
