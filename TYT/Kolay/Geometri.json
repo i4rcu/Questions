@@ -388,5 +388,65 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Geometri"
+  },
+  {
+    "text": "Bir doğru üzerinde ardışık dört nokta A, B, C, D sırasıyla veriliyor. m(∠ABC) = 70° ve m(∠CBD) = 50° olduğuna göre, m(∠ABD) kaç derecedir?",
+    "explanation": "A, B, C, D noktaları aynı doğru üzerinde ve ardışık olduğu için, B noktasında bir doğru açı oluşur. ∠ABC ve ∠CBD açıları B noktasında komşu açılardır ve toplamları ∠ABD'yi verir. Bu nedenle, m(∠ABD) = m(∠ABC) + m(∠CBD) = 70° + 50° = 120° olur.",
+    "options": [
+      {
+        "text": "60°",
+        "isCorrect": false
+      },
+      {
+        "text": "90°",
+        "isCorrect": false
+      },
+      {
+        "text": "120°",
+        "isCorrect": true
+      },
+      {
+        "text": "130°",
+        "isCorrect": false
+      },
+      {
+        "text": "140°",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir ABC üçgeninde |AB| = 8 cm, |AC| = 10 cm ve |BC| = 7 cm'dir. Buna göre, aşağıdaki açılardan hangisi en büyüktür?",
+    "explanation": "Bir üçgende bir açının büyüklüğü, karşısındaki kenarın uzunluğu ile doğru orantılıdır. En uzun kenar hangisinin karşısındaysa, o açı en büyüktür. |AC| = 10 cm en uzun kenardır ve bu kenarın karşısındaki açı B açısıdır. Bu nedenle en büyük açı B açısıdır.",
+    "options": [
+      {
+        "text": "A açısı",
+        "isCorrect": false
+      },
+      {
+        "text": "B açısı",
+        "isCorrect": true
+      },
+      {
+        "text": "C açısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Tüm açılar eşittir",
+        "isCorrect": false
+      },
+      {
+        "text": "B ve C açıları eşit büyüklüktedir",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açı-Kenar Bağıntıları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
   }
 ]
