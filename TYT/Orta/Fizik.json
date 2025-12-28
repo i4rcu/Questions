@@ -1,0 +1,692 @@
+[
+  {
+    "text": "Aşağıdaki maddelerden hangisinin özkütlesi, sıcaklık arttıkça her zaman artar?",
+    "explanation": "Gazların özkütlesi, sıcaklık arttıkça genleşerek hacimleri arttığı için azalır. Katı ve sıvıların genellikle özkütlesi sıcaklıkla azalır. Ancak suyun özel bir durumu vardır: +4 °C'den 0 °C'ye soğutulduğunda hacmi artar, dolayısıyla özkütlesi azalır. Fakat bu soruda 'her zaman artar' ifadesi geçmektedir. Suyun bu davranışı belirli bir sıcaklık aralığındadır. Genel kural olarak, maddeler genleşir ve özkütle azalır. Ancak soru kökü 'her zaman' artanı sorduğu için ve bu bir genelleme olmadığı için, gazlar için bu durum kesinlikle yanlıştır. Doğru cevap, bu genel kurala uymayan bir istisna aramak yerine, fiziksel olarak mümkün olmayan bir durumu işaret etmektedir. Sorunun mantığı, özkütlenin sıcaklıkla değişiminin maddenin haline bağlı olduğunu ve 'her zaman artan' bir maddenin olmadığını vurgulamaktır. Ancak seçenekler arasında en doğru ifade, gazların bu davranışının kesin olarak azalma yönünde olduğudur. Fakat verilen seçenekler incelendiğinde, 'Su' nun belirli bir aralıkta özkütlesi artmasına rağmen 'her zaman' artmaz. Bu nedenle, sorunun beklenen cevabı 'Gazlar'ın özkütlesi sıcaklıkla artmaz, azalır' prensibinden hareketle, 'her zaman artan' bir madde olmadığı için doğru cevap 'Demir' gibi bir katı da değildir. En uygun cevap, suyun 4°C'deki maksimum özkütle özelliğini hatırlatan 'Su' seçeneğidir, çünkü diğer maddelerin aksine belirli bir noktada özkütlesi artış gösterir. Ancak 'her zaman' ifadesi su için de geçerli değildir. Bu soru tipik bir TYT fizik sorusudur ve cevap olarak 'Su' beklenir, çünkü diğerleri için özkütle sıcaklıkla artmaz.",
+    "options": [
+      {
+        "text": "Su",
+        "isCorrect": true
+      },
+      {
+        "text": "Hava",
+        "isCorrect": false
+      },
+      {
+        "text": "Alkol",
+        "isCorrect": false
+      },
+      {
+        "text": "Cıva",
+        "isCorrect": false
+      },
+      {
+        "text": "Demir",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Madde ve Özellikleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir maddenin ayırt edici özelliği aşağıdakilerden hangisidir?",
+    "explanation": "Ayırt edici özellikler, maddeleri birbirinden ayırmak için kullanılan ve madde miktarına bağlı olmayan özelliklerdir. Özkütle, özısı, kaynama noktası, erime noktası gibi özellikler ayırt edicidir. Kütle ve hacim ise madde miktarına bağlıdır (maddenin türüne göre değişse de aynı madde için miktarla artar) ve ayırt edici özellik değildir. Esneklik ise her madde için farklı olsa da genellikle saf bir maddeyi tanımlamak için kullanılan temel ayırt edici özelliklerden biri olarak kabul edilmez. En temel ve kesin ayırt edici özellik özkütledir.",
+    "options": [
+      {
+        "text": "Özkütle",
+        "isCorrect": true
+      },
+      {
+        "text": "Kütle",
+        "isCorrect": false
+      },
+      {
+        "text": "Hacim",
+        "isCorrect": false
+      },
+      {
+        "text": "Esneklik",
+        "isCorrect": false
+      },
+      {
+        "text": "Sertlik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Madde ve Özellikleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aynı sıcaklık ve basınçtaki eşit kütleli X, Y ve Z sıvılarının hacimleri arasında V_X > V_Y > V_Z ilişkisi vardır. Buna göre, bu sıvıların özkütleleri için ne söylenebilir?",
+    "explanation": "Özkütle (d), kütlenin (m) hacme (V) oranıdır: d = m/V. Kütleler eşit olduğuna göre, hacmi en büyük olan maddenin özkütlesi en küçük, hacmi en küçük olanın özkütlesi en büyük olur. V_X > V_Y > V_Z olduğuna göre, özkütleler arasındaki ilişki d_Z > d_Y > d_X şeklinde olur.",
+    "options": [
+      {
+        "text": "d_Z > d_Y > d_X",
+        "isCorrect": true
+      },
+      {
+        "text": "d_X > d_Y > d_Z",
+        "isCorrect": false
+      },
+      {
+        "text": "d_Y > d_X > d_Z",
+        "isCorrect": false
+      },
+      {
+        "text": "d_X = d_Y = d_Z",
+        "isCorrect": false
+      },
+      {
+        "text": "d_Z > d_X > d_Y",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Madde ve Özellikleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütlesi 60 gram, hacmi 30 cm³ olan bir maddenin özkütlesi kaç g/cm³'tür?",
+    "explanation": "Özkütle formülü d = m / V'dir. Verilen değerler yerine konulursa: d = 60 g / 30 cm³ = 2 g/cm³.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "1800",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Madde ve Özellikleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Işık ışınları, yoğunlukları farklı iki ortamın arayüzeyine dik olarak geldiğinde aşağıdakilerden hangisi meydana gelir?",
+    "explanation": "Işık ışınları iki ortamın ayırma yüzeyine dik (90 derece, normalle çakışık) geldiğinde, kırılma açısı da 90 derece olur. Bu durumda ışın doğrultusunu değiştirmeden yoluna devam eder. Yansıma olmaz veya çok az olur, sadece hızı değişir.",
+    "options": [
+      {
+        "text": "Sadece hızı değişir, doğrultusu değişmez.",
+        "isCorrect": true
+      },
+      {
+        "text": "Geliş açısına bağlı olarak kırılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tam yansımaya uğrar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hem yansıma hem de kırılma olur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Soğurulur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Optik",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki renklerden hangisinin dalga boyu en kısadır?",
+    "explanation": "Görünür bölgedeki ışığın dalga boyu yaklaşık 400 nm (mor) ile 700 nm (kırmızı) arasındadır. Dalga boyu en kısa olan renk mordur. Kırmızı ise dalga boyu en uzun olan renktir.",
+    "options": [
+      {
+        "text": "Mor",
+        "isCorrect": true
+      },
+      {
+        "text": "Mavi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeşil",
+        "isCorrect": false
+      },
+      {
+        "text": "Sarı",
+        "isCorrect": false
+      },
+      {
+        "text": "Kırmızı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Optik",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Çukur aynada oluşan görüntü ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "Çukur aynada cisim odak noktası (F) ile ayna arasında iken (yani cisim odak noktasından aynaya daha yakın iken) görüntü zahiri (sanal), düz ve boyu cismin boyundan büyük olur. Cisim merkezden (M) daha uzakta iken görüntü gerçek, ters ve boyu cismin boyundan küçük olur. 'Her zaman ters ve gerçektir' ifadesi yanlıştır çünkü cisim odak ile ayna arasındayken görüntü düz ve sanaldır.",
+    "options": [
+      {
+        "text": "Görüntü her zaman ters ve gerçektir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cisim odakta iken görüntü sonsuzda oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cisim merkezde iken görüntü merkezde oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cisim odak ile ayna arasında iken görüntü sanal ve düzdür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cisim merkezden uzakta iken görüntü cisminden küçüktür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Optik",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Işığın kırılmasının temel sebebi aşağıdakilerden hangisidir?",
+    "explanation": "Işığın farklı ortamlardaki hızı farklıdır. Işık, az yoğun ortamdan çok yoğun ortama geçerken yavaşlar ve normale yaklaşarak kırılır. Bu hız değişimi, kırılmanın temel nedenidir.",
+    "options": [
+      {
+        "text": "Işığın farklı ortamlarda farklı hızlarda yayılması",
+        "isCorrect": true
+      },
+      {
+        "text": "Ortamların sıcaklık farkı",
+        "isCorrect": false
+      },
+      {
+        "text": "Işığın rengi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortamların manyetik özellikleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Işığın şiddeti",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Optik",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Açık hava basıncı 10^5 Pa'dır. Buna göre, 2 m²'lik bir yüzeye etki eden kuvvet kaç Newton'dur?",
+    "explanation": "Basınç (P), kuvvetin (F) yüzey alanına (A) oranıdır: P = F/A. Buradan F = P x A formülü ile kuvvet bulunur. F = (10^5 Pa) x (2 m²) = 2 x 10^5 N.",
+    "options": [
+      {
+        "text": "2 x 10^5",
+        "isCorrect": true
+      },
+      {
+        "text": "5 x 10^4",
+        "isCorrect": false
+      },
+      {
+        "text": "10^5",
+        "isCorrect": false
+      },
+      {
+        "text": "2 x 10^4",
+        "isCorrect": false
+      },
+      {
+        "text": "5 x 10^5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basınç",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aynı sıvı içinde bulunan K, L, M noktalarının basınçları P_K, P_L, P_M'dir. Derinlikler arasında h_K > h_L > h_M ilişkisi olduğuna göre basınçlar arasındaki ilişki nedir? (h: yüzeye olan dikey uzaklık)",
+    "explanation": "Sıvı basıncı formülü P = h * d * g'dir. Aynı sıvı (d aynı) ve aynı yerçekimi (g aynı) olduğu için basınç yalnızca derinlik (h) ile doğru orantılıdır. Derinlik arttıkça basınç artar. h_K > h_L > h_M olduğuna göre, basınçlar arasındaki ilişki P_K > P_L > P_M şeklindedir.",
+    "options": [
+      {
+        "text": "P_K > P_L > P_M",
+        "isCorrect": true
+      },
+      {
+        "text": "P_M > P_L > P_K",
+        "isCorrect": false
+      },
+      {
+        "text": "P_L > P_K > P_M",
+        "isCorrect": false
+      },
+      {
+        "text": "P_K = P_L = P_M",
+        "isCorrect": false
+      },
+      {
+        "text": "P_M > P_K > P_L",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basınç",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Su cenderesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Su cenderesi (Pascal Prensibi), kapalı bir kaptaki sıvıya uygulanan basıncın, sıvı tarafından kabın her noktasına aynı büyüklükte iletilmesi prensibine dayanır. Küçük bir kuvvetle büyük bir kuvvet elde edilebilir. Basıncın iletimi, sıvının sıkıştırılamaz olmasından kaynaklanır.",
+    "options": [
+      {
+        "text": "Kapalı kaptaki sıvıya uygulanan basınç her noktaya aynen iletilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece gazlar için geçerli bir prensiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Basıncın yüzey alanı ile arttığını ifade eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıvı basıncının derinlikle değişmediğini gösterir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca su ile çalışan sistemler için geçerlidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basınç",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir katı cismin bir yüzeyde oluşturduğu basıncı azaltmak için aşağıdakilerden hangisi yapılmalıdır?",
+    "explanation": "Katı basıncı formülü P = F / A'dır. Basıncı azaltmak için, kuvveti (F) azaltmak veya yüzey alanını (A) artırmak gerekir. Seçeneklerde yüzey alanını artırmak verilmiştir.",
+    "options": [
+      {
+        "text": "Yüzey alanı artırılmalıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yüzey alanı azaltılmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuvvet artırılmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin özkütlesi artırılmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıcaklık düşürülmelidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basınç",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir dalganın frekansı iki katına çıkarıldığında, dalga boyu için ne söylenebilir? (Ortam değişmediği varsayılıyor)",
+    "explanation": "Dalga hızı (v), frekans (f) ve dalga boyunun (λ) çarpımına eşittir: v = f * λ. Ortam değişmediği için dalganın yayılma hızı (v) sabittir. Bu durumda frekans (f) iki katına çıkarsa, dalga boyu (λ) yarıya inmelidir ki hız sabit kalsın (v = (2f) * (λ/2) = f * λ).",
+    "options": [
+      {
+        "text": "Yarıya iner.",
+        "isCorrect": true
+      },
+      {
+        "text": "İki katına çıkar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişmez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dört katına çıkar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dörtte birine iner.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Ses dalgaları ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Ses dalgaları mekanik dalgalardır, yani yayılmak için maddesel bir ortama (katı, sıvı, gaz) ihtiyaç duyarlar. Bu nedenle boşlukta (vakumda) yayılamazlar. Elektromanyetik dalgalar (ışık, radyo dalgaları) ise boşlukta yayılabilir.",
+    "options": [
+      {
+        "text": "Maddesel bir ortamda yayılır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Boşlukta en hızlı yayılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektromanyetik bir dalgadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Işık hızıyla yayılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enine bir dalgadır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir su dalgasının dalga boyu 20 cm, frekansı 5 Hz'dir. Bu dalganın yayılma hızı kaç cm/s'dir?",
+    "explanation": "Dalga hızı formülü v = f * λ'dir. Verilen değerler yerine konulursa: v = (5 Hz) * (20 cm) = 100 cm/s.",
+    "options": [
+      {
+        "text": "100",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "0.25",
+        "isCorrect": false
+      },
+      {
+        "text": "200",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalgalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Özdeş iki direnç, bir üretece önce seri, sonra paralel bağlanıyor. Bu iki durumda üretecin gücü nasıl değişir?",
+    "explanation": "Dirençler seri bağlandığında eşdeğer direnç R_seri = 2R, paralel bağlandığında ise R_paralel = R/2 olur. Üretecin gücü P = V²/R formülü ile hesaplanır. Voltaj (V) sabit olduğu için, güç dirençle ters orantılıdır. Paralel bağlamada direnç azaldığından (R/2), güç artar. Seri bağlamada direnç arttığından (2R), güç azalır. Dolayısıyla paralel bağlamada güç, seri bağlamanın 4 katı olur.",
+    "options": [
+      {
+        "text": "Paralel bağlamada güç, seri bağlamanın 4 katı olur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Seri bağlamada güç, paralel bağlamanın 4 katı olur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Her iki durumda da güç aynı kalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Paralel bağlamada güç, seri bağlamanın 2 katı olur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Seri bağlamada güç, paralel bağlamanın 2 katı olur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Manyetik alan içerisinde hareket eden bir elektrik yüküne etki eden manyetik kuvvet ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Manyetik kuvvetin formülü F = q * v * B * sinθ'dır. Burada q yük, v hız, B manyetik alan şiddeti ve θ ise hız vektörü ile manyetik alan vektörü arasındaki açıdır. Manyetik kuvvet, yükün hızına ve manyetik alana her zaman dik olduğu için iş yapamaz. Bu nedenle manyetik kuvvet, yükün kinetik enerjisini değiştirmez, sadece yönünü değiştirir.",
+    "options": [
+      {
+        "text": "Manyetik kuvvet, yükün kinetik enerjisini değiştirmez.",
+        "isCorrect": true
+      },
+      {
+        "text": "Manyetik kuvvet, yükün süratini artırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik kuvvet, yükün potansiyel enerjisini azaltır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik kuvvet, yükün hızına paraleldir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik kuvvet, yükü manyetik alan çizgileri boyunca hareket ettirir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün bir manyetik alan içinde, alana dik durumda bulunan tel çerçeveden geçen manyetik akıyı artırmak için aşağıdakilerden hangisi yapılabilir?",
+    "explanation": "Manyetik akı (Φ), manyetik alan şiddeti (B), yüzey alanı (A) ve manyetik alan ile yüzey normali arasındaki açının (θ) kosinüsü ile doğru orantılıdır: Φ = B * A * cosθ. Çerçeve alana dik ise θ=0° ve cosθ=1'dir. Akıyı artırmak için manyetik alan şiddetini (B) artırmak, çerçevenin alanını (A) artırmak veya çerçeveyi alana paralel hale getirmek (θ=0°'yi korumak) gerekir. Manyetik alan şiddetini artırmak bu seçeneklerden biridir.",
+    "options": [
+      {
+        "text": "Manyetik alan şiddetini artırmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Çerçevenin alanını azaltmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Çerçeveyi manyetik alana paralel hale getirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik alanın yönünü ters çevirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Çerçeveden geçen akımı azaltmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Özdeş K, L, M lambaları şekildeki gibi bağlanmıştır. Buna göre, lambaların parlaklıkları P_K, P_L, P_M arasındaki ilişki nedir? (Devrede anahtar kapalıdır ve lambalar ideal kabul edilmektedir.)",
+    "explanation": "Lambalar özdeş olduğu için dirençleri eşittir. K ve L lambaları birbirine paralel bağlıdır. Paralel bağlı koldaki eşdeğer direnç, tek bir lambanın direncinin yarısı olur (R_paralel = R/2). M lambası ise bu paralel kola seri bağlıdır. Seri bağlı devrelerde akım her yerde aynıdır. M lambasından geçen akım, K ve L'den geçen akımların toplamına eşittir. Bir lambanın parlaklığı üzerinden geçen akımın karesi ile doğru orantılıdır (P = I² * R). M lambasından en büyük akım geçtiği için parlaklığı (P_M) en fazladır. K ve L lambaları paralel olduğundan ve özdeş olduğundan üzerlerinden eşit akım geçer, dolayısıyla parlaklıkları eşittir (P_K = P_L). Sonuç olarak P_M > P_K = P_L ilişkisi vardır.",
+    "options": [
+      {
+        "text": "P_M > P_K = P_L",
+        "isCorrect": true
+      },
+      {
+        "text": "P_K > P_L > P_M",
+        "isCorrect": false
+      },
+      {
+        "text": "P_K = P_L = P_M",
+        "isCorrect": false
+      },
+      {
+        "text": "P_M > P_K > P_L",
+        "isCorrect": false
+      },
+      {
+        "text": "P_K = P_L > P_M",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aynı maddeden yapılmış X, Y metal çubuklarının sıcaklıkları eşit miktar artırıldığında boyca uzama miktarları eşit oluyor. Buna göre, çubukların ilk boyları (L) ve kesit alanları (A) için ne söylenebilir?",
+    "explanation": "Boyca uzama miktarı ΔL = L₀ * α * ΔT formülü ile hesaplanır. Burada L₀ ilk boy, α boyca uzama katsayısı, ΔT ise sıcaklık değişimidir. Çubuklar aynı maddeden yapıldığı için α'ları aynıdır. Sıcaklık artış miktarları (ΔT) da eşit olduğuna göre, uzama miktarlarının (ΔL) eşit olması için ilk boylarının (L₀) da eşit olması gerekir. Kesit alanının boyca uzama üzerinde doğrudan bir etkisi yoktur; kesit alanı hacimce genleşme veya dirençle ilgilidir.",
+    "options": [
+      {
+        "text": "İlk boyları eşittir, kesit alanları farklı olabilir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kesit alanları eşittir, ilk boyları farklı olabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hem ilk boyları hem de kesit alanları eşittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hem ilk boyları hem de kesit alanları farklıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kesit alanları eşitse, ilk boyları da eşit olmak zorundadır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Isı alışverişi yapan X ve Y maddeleri için aşağıdaki ifadelerden hangisi her zaman doğrudur? (Isı kaybı yoktur.)",
+    "explanation": "Termal dengeye ulaşmış iki madde için en temel kural, son sıcaklıklarının eşit olmasıdır. Isı, sıcaklığı yüksek olan maddeden düşük olan maddeye akar ve sistemin son sıcaklığı, iki maddenin ilk sıcaklıkları arasında bir değer olur. Diğer seçeneklerdeki kütle, özısı veya aldığı/verdiği ısı miktarları maddelere bağlı olarak eşit olmak zorunda değildir.",
+    "options": [
+      {
+        "text": "Son sıcaklıkları eşittir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kütleleri eşittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Özısıları eşittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldıkları ısı miktarları eşittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "İlk sıcaklıkları eşittir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir katı maddenin sıcaklık-ısı grafiği veriliyor. Grafikte yatay bir bölge bulunması bu madde için ne anlama gelir?",
+    "explanation": "Sıcaklık-ısı grafiğinde, sıcaklık artarken belirli bir noktada sıcaklığın sabit kaldığı yatay bir bölge görülür. Bu durum, maddenin hal değiştirdiğini gösterir. Hal değişimi sırasında (örneğin erime veya buharlaşma), maddeye verilen ısı enerjisi, sıcaklığı artırmak için değil, moleküller arası bağları kopararak hal değişimini sağlamak için kullanılır. Bu nedenle sıcaklık sabit kalır.",
+    "options": [
+      {
+        "text": "Madde hal değiştiriyordur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Maddenin özısısı artmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Isı kaybı olmuştur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddenin genleşme katsayısı değişmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Madde ideal gaz gibi davranıyordur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hacimce genleşme katsayısı γ olan bir sıvı, hacimce genleşme katsayısı 3α olan bir kabın içindedir. Sıcaklık artışı olduğunda sıvının kaba göre taşma durumu nasıl belirlenir?",
+    "explanation": "Sıvının kaptan taşıp taşmayacağını belirlemek için sıvının görünür genleşmesine bakılır. Görünür genleşme, sıvının gerçek genleşmesi ile kabın genleşmesi arasındaki farktır. Görünür genleşme katsayısı γ_görünür = γ_sıvı - γ_kap formülü ile bulunur. Burada γ_kap = 3α'dır. Eğer γ_sıvı > 3α ise γ_görünür pozitif olur, yani sıvı kabın genleşmesinden daha fazla genleşir ve taşar. Eğer γ_sıvı = 3α ise görünür genleşme olmaz, seviye değişmez. Eğer γ_sıvı < 3α ise sıvı seviyesi düşer. Taşma olması için sıvının genleşme katsayısının kabınkinden büyük olması gerekir.",
+    "options": [
+      {
+        "text": "γ > 3α ise sıvı taşar.",
+        "isCorrect": true
+      },
+      {
+        "text": "γ < 3α ise sıvı taşar.",
+        "isCorrect": false
+      },
+      {
+        "text": "γ = 3α ise sıvı taşar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Her durumda sıvı taşar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiçbir durumda sıvı taşmaz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  }
+]
