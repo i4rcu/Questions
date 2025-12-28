@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi insanın doğuştan sahip olduğu ve onu inanmaya yönelten içsel eğilim olarak tanımlanır?",
+    "explanation": "Fıtrat, insanın yaratılıştan gelen, Allah'ı tanıma ve O'na inanma potansiyelini ifade eden dini bir kavramdır. Bu, insanın doğasında var olan bir eğilimdir.",
+    "options": [
+      {
+        "text": "Fıtrat",
+        "isCorrect": true
+      },
+      {
+        "text": "İbadet",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahlak",
+        "isCorrect": false
+      },
+      {
+        "text": "Gelenek",
+        "isCorrect": false
+      },
+      {
+        "text": "Tevhit",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Din (İnanç)",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam'da yerine getirilmesi farz olan ve belirli şartları bulunan temel ibadet aşağıdakilerden hangisidir?",
+    "explanation": "Namaz, İslam'ın beş şartından biridir ve akıllı, ergenlik çağına gelmiş her Müslümana farz olan bir ibadettir. Belirli vakitlerde, özel hareket ve sözlerle yerine getirilir.",
+    "options": [
+      {
+        "text": "Namaz",
+        "isCorrect": true
+      },
+      {
+        "text": "Dua",
+        "isCorrect": false
+      },
+      {
+        "text": "Zekat",
+        "isCorrect": false
+      },
+      {
+        "text": "Oruç",
+        "isCorrect": false
+      },
+      {
+        "text": "Hac",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İbadet",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Hz. Muhammed (s.a.v.)'e ilk vahiy nerede ve hangi tarihte gelmiştir?",
+    "explanation": "Hz. Muhammed'e ilk vahiy, 610 yılında, Hira Mağarası'nda, Ramazan ayının Kadir Gecesi'nde gelmiştir. İlk inen ayetler Alak Suresi'nin ilk beş ayetidir.",
+    "options": [
+      {
+        "text": "610 yılında Hira Mağarası'nda",
+        "isCorrect": true
+      },
+      {
+        "text": "622 yılında Kuba'da",
+        "isCorrect": false
+      },
+      {
+        "text": "630 yılında Mekke'de",
+        "isCorrect": false
+      },
+      {
+        "text": "632 yılında Medine'de",
+        "isCorrect": false
+      },
+      {
+        "text": "605 yılında Kabe'de",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hz. Muhammed'in Hayatı",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam inancına göre, insana doğruyu yanlıştan ayırt etme yetisi veren ve dini sorumluluğun temel şartlarından biri olan ana kaynak aşağıdakilerden hangisidir?",
+    "explanation": "Akıl, insana verilen en önemli nimetlerden biridir. İslam'a göre insan, aklı sayesinde iyiyi kötüden, doğruyu yanlıştan ayırt edebilir ve dini tebliği anlayabilir. Bu nedenle akıl sahibi olmak, dini sorumluluk (mükellefiyet) için temel şarttır.",
+    "options": [
+      {
+        "text": "Akıl",
+        "isCorrect": true
+      },
+      {
+        "text": "Vahiy",
+        "isCorrect": false
+      },
+      {
+        "text": "Kutsal Kitap",
+        "isCorrect": false
+      },
+      {
+        "text": "Peygamber",
+        "isCorrect": false
+      },
+      {
+        "text": "İlham",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vahiy ve Akıl",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam düşüncesinde, başlangıcı Hz. Muhammed'in vefatından sonraki döneme dayanan, itikat ve amelle ilgili görüş ayrılıklarından doğan dini yorumlara ne ad verilir?",
+    "explanation": "Mezhep, İslam düşüncesinde, dini metinleri anlama, yorumlama ve hayata geçirme konusunda ortaya çıkan sistemleşmiş görüşler bütünüdür. İtikadi ve ameli mezhepler olarak ikiye ayrılır ve temelleri sahabeler dönemine kadar uzanır.",
+    "options": [
+      {
+        "text": "Mezhep",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarikat",
+        "isCorrect": false
+      },
+      {
+        "text": "Sünnet",
+        "isCorrect": false
+      },
+      {
+        "text": "Cemaat",
+        "isCorrect": false
+      },
+      {
+        "text": "Fıkıh",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Düşüncesi ve Yorumu",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  }
+]
