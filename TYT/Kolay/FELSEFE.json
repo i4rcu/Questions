@@ -148,5 +148,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Felsefe"
+  },
+  {
+    "text": "Felsefe ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Felsefe, varlık, bilgi, değer, akıl, zihin ve dil gibi konuları eleştirel, sistematik ve rasyonel bir şekilde inceleyen bir düşünce etkinliğidir. Temel amacı, doğru bilgiye ulaşmak ve evreni anlamlandırmaktır. Bu nedenle, felsefenin ele aldığı sorular genellikle kesin ve nihai yanıtlar vermekten çok, düşünmeyi ve sorgulamayı teşvik eder.",
+    "options": [
+      {
+        "text": "Felsefe, evreni ve insanı anlamlandırma çabasıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Felsefe, sadece dini inançları temellendirmek için vardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Felsefi soruların kesin ve değişmez yanıtları vardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Felsefe, günlük pratik problemlere anında çözüm üretir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Felsefe, sadece geçmişte yaşamış filozofların görüşlerini inceler.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Felsefe'nin Alanı",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
   }
 ]
