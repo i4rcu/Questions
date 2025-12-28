@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Felsefe, varlık, bilgi, değer gibi konuları ele alırken temel amacı aşağıdakilerden hangisidir?",
+    "explanation": "Felsefenin temel amacı, ele aldığı konular üzerine eleştirel ve sistematik bir şekilde düşünmek, sorular sormak ve akıl yürütme yoluyla tutarlı açıklamalar geliştirmektir. Bu, felsefi düşüncenin özünü oluşturur.",
+    "options": [
+      {
+        "text": "Olayları betimleyerek günlük hayata pratik çözümler sunmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Ele aldığı konular üzerine eleştirel ve sistematik bir biçimde düşünmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal düzeni sağlamak için kesin kurallar koymak",
+        "isCorrect": false
+      },
+      {
+        "text": "Dini inançları akılsal temellere dayandırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatsal yaratım sürecine rehberlik etmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Felsefe'nin Alanı",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bir öğrencinin \"Su 100 derecede kaynar.\" ifadesi ile bir fizikçinin aynı ifadeyi laboratuvar koşullarında deneylerle desteklemesi arasındaki temel fark, bilgi felsefesinde hangi kavramla açıklanır?",
+    "explanation": "Bilgi felsefesinde, gündelik yaşantı sonucu oluşan, sorgulanmamış ve kanıt gerektirmeyen bilgi türüne 'dogma' denir. Öğrencinin inancı bir dogmadır. Fizikçinin bilgisi ise deney ve gözleme dayalı, kanıtlanmış bilimsel bilgidir.",
+    "options": [
+      {
+        "text": "Sezgi",
+        "isCorrect": false
+      },
+      {
+        "text": "Olgu",
+        "isCorrect": false
+      },
+      {
+        "text": "Dogma",
+        "isCorrect": true
+      },
+      {
+        "text": "Hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Analoji",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilgi Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bilim felsefesinde, bir hipotezin bilimsel yöntem içindeki temel işlevi aşağıdakilerden hangisidir?",
+    "explanation": "Bilimsel yöntemde hipotez, gözlemlenen bir olguya ilişkin geçici ve test edilebilir bir açıklama önerisidir. Temel işlevi, probleme bir çözüm yolu önermek ve bu öneriyi kontrollü deneylerle test edilebilir kılmaktır.",
+    "options": [
+      {
+        "text": "Bir bilimsel teorinin değişmez sonucunu ifade etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Gözlemlenen bir olguya ilişkin test edilebilir bir açıklama önermek",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilim insanlarının kişisel inançlarını ortaya koymak",
+        "isCorrect": false
+      },
+      {
+        "text": "Deney sonuçlarını nihai olarak yorumlamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilimsel çalışmanın etik sınırlarını belirlemek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilim Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
+  }
+]
