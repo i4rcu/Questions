@@ -1,0 +1,715 @@
+[
+  {
+    "text": "ABCD paralelkenarında [AC] ve [BD] köşegenlerinin kesişim noktası O'dur. |AO| = 6 cm ve |OC| = 2x - 4 cm olduğuna göre, x kaçtır?",
+    "explanation": "Paralelkenarda köşegenler birbirini ortalar. Bu nedenle |AO| = |OC| olmalıdır. 6 = 2x - 4 denklemi çözülürse, 2x = 10 ve x = 5 bulunur.",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralelkenar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABCD paralelkenarında m(∠A) = 110° olduğuna göre, m(∠B) kaç derecedir?",
+    "explanation": "Paralelkenarda ardışık açılar bütünlerdir. m(∠A) + m(∠B) = 180° olduğundan, 110° + m(∠B) = 180° denklemi çözülürse m(∠B) = 70° bulunur.",
+    "options": [
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": true
+      },
+      {
+        "text": "80",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralelkenar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABCD paralelkenarında [DE] ve [CE] açıortaylardır. E noktası [AB] kenarı üzerindedir. m(∠DEC) = 90° olduğuna göre, m(∠ADC) kaç derecedir?",
+    "explanation": "Paralelkenarda komşu açıların açıortayları arasındaki açı 90° ise, paralelkenar bir dikdörtgendir ve tüm iç açıları 90° dir. Bu nedenle m(∠ADC) = 90° olur.",
+    "options": [
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "75",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": true
+      },
+      {
+        "text": "105",
+        "isCorrect": false
+      },
+      {
+        "text": "120",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralelkenar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABCD paralelkenarının çevresi 48 cm'dir. |AB|, |BC|'nin 2 katından 3 cm eksiktir. Buna göre |BC| kaç cm'dir?",
+    "explanation": "|AB| = x ve |BC| = y diyelim. Çevre = 2(x + y) = 48 ise x + y = 24'tür. Ayrıca |AB|, |BC|'nin 2 katından 3 cm eksik olduğuna göre x = 2y - 3'tür. Denklemde yerine yazarsak: (2y - 3) + y = 24 -> 3y - 3 = 24 -> 3y = 27 -> y = 9 cm.",
+    "options": [
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralelkenar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AD] açıortaydır. |AB| = 12 cm, |AC| = 18 cm ve |BD| = 4 cm olduğuna göre, |DC| kaç cm'dir?",
+    "explanation": "Açıortay teoremine göre: |BD| / |DC| = |AB| / |AC|'dir. 4 / |DC| = 12 / 18 -> 4 / |DC| = 2 / 3 -> İçler dışlar çarpımı yapılırsa: 2 * |DC| = 12 -> |DC| = 6 cm bulunur.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AD] açıortaydır. |AB| = 10 cm, |AC| = 15 cm ve |BC| = 20 cm olduğuna göre, |BD| kaç cm'dir?",
+    "explanation": "Açıortay teoremine göre: |BD| / |DC| = |AB| / |AC| = 10 / 15 = 2 / 3'tür. |BD| = 2k ve |DC| = 3k diyebiliriz. |BC| = |BD| + |DC| = 5k = 20 cm olduğundan k = 4 cm'dir. Bu durumda |BD| = 2k = 8 cm bulunur.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AD] hem kenarortay hem de açıortaydır. |AB| = 8 cm ve |AC| = 12 cm olduğuna göre, bu üçgen için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Bir üçgende bir kenara ait kenarortay aynı zamanda açıortay ise, o üçgen ikizkenar üçgendir ve kenarortayın indiği kenarın kenar uzunlukları eşittir. |AB| ≠ |AC| olduğu için böyle bir üçgen olamaz. Bu nedenle böyle bir üçgenin varlığı imkansızdır.",
+    "options": [
+      {
+        "text": "|BC| = 10 cm'dir",
+        "isCorrect": false
+      },
+      {
+        "text": "Üçgen ikizkenardır",
+        "isCorrect": false
+      },
+      {
+        "text": "Üçgen çeşitkenardır",
+        "isCorrect": false
+      },
+      {
+        "text": "Üçgen dik üçgendir",
+        "isCorrect": false
+      },
+      {
+        "text": "Böyle bir üçgen olamaz",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Üçgende Açıortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AD] açıortaydır. |AB| = 6 cm, |BD| = 4 cm ve |DC| = 5 cm olduğuna göre, |AC| kaç cm'dir?",
+    "explanation": "Açıortay teoremine göre: |BD| / |DC| = |AB| / |AC|'dir. 4 / 5 = 6 / |AC| -> İçler dışlar çarpımı yapılırsa: 4 * |AC| = 30 -> |AC| = 30 / 4 = 7.5 cm bulunur.",
+    "options": [
+      {
+        "text": "6.5",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "7.5",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "8.5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde |AB| = 8 cm, |AC| = 6 cm ve m(∠A) = 60° olduğuna göre, üçgenin alanı kaç cm²'dir?",
+    "explanation": "İki kenar ve arasındaki açı biliniyorsa alan formülü: Alan(ABC) = (1/2) * |AB| * |AC| * sin(∠A)'dır. Alan = (1/2) * 8 * 6 * sin(60°) = (1/2) * 48 * (√3/2) = 24 * (√3/2) = 12√3 cm².",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "12√2",
+        "isCorrect": false
+      },
+      {
+        "text": "12√3",
+        "isCorrect": true
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "24√3",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Alanlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir ABC üçgeninin kenar uzunlukları |AB| = 13 cm, |BC| = 14 cm ve |AC| = 15 cm'dir. Bu üçgenin çevrel çemberinin yarıçapı (R) kaç cm'dir?",
+    "explanation": "Önce üçgenin alanını bulmak için Heron formülü kullanılır. u = Çevre/2 = (13+14+15)/2 = 21 cm. Alan = √[u(u-a)(u-b)(u-c)] = √[21*(21-13)*(21-14)*(21-15)] = √[21*8*7*6] = √7056 = 84 cm². Çevrel çember yarıçapı formülü: R = (a*b*c) / (4*Alan) = (13*14*15) / (4*84) = 2730 / 336 = 65/8 = 8.125 cm.",
+    "options": [
+      {
+        "text": "6.5",
+        "isCorrect": false
+      },
+      {
+        "text": "7.25",
+        "isCorrect": false
+      },
+      {
+        "text": "65/8",
+        "isCorrect": true
+      },
+      {
+        "text": "8.5",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Alanlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC dik üçgeninde [AB] ⊥ [BC]'dir. |AB| = 5 cm ve |BC| = 12 cm olduğuna göre, üçgenin alanı kaç cm²'dir?",
+    "explanation": "Dik üçgende dik kenarlar birbirinin yüksekliğidir. Alan = (Dik kenar uzunluğu * Diğer dik kenar uzunluğu) / 2 formülü ile hesaplanır. Alan = (5 * 12) / 2 = 60 / 2 = 30 cm².",
+    "options": [
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "65",
+        "isCorrect": false
+      },
+      {
+        "text": "78",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Alanlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninin alanı 24 cm²'dir. [BC] kenarına ait yükseklik 6 cm olduğuna göre, |BC| kaç cm'dir?",
+    "explanation": "Üçgenin alan formülü: Alan = (Taban * Taban'a ait yükseklik) / 2'dir. 24 = (|BC| * 6) / 2 -> 24 = 3 * |BC| -> |BC| = 24 / 3 = 8 cm bulunur.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Alanlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde G ağırlık merkezidir. |BC| = 12 cm olduğuna göre, [BC] kenarına ait kenarortayın uzunluğu kaç cm'dir?",
+    "explanation": "Bir kenarortay, kenarı iki eşit parçaya böler. Ancak kenarortayın uzunluğu kenarın uzunluğuna bağlı değildir. Verilen bilgi kenarortayın uzunluğunu bulmak için yetersizdir. Bu nedenle soru hatalıdır veya ek bilgi gerektirir. Yaygın bir kullanım olarak, kenarortayın uzunluğu verilmeden sadece kenar uzunluğu ile bulunamaz.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu bilgi ile bulunamaz",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Üçgende Kenarortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde G ağırlık merkezidir. [AD] kenarortay olmak üzere |AG| = 8 cm olduğuna göre, |GD| kaç cm'dir?",
+    "explanation": "Ağırlık merkezi, kenarortayı tepeden tabana doğru 2:1 oranında böler. Yani |AG| : |GD| = 2 : 1'dir. |AG| = 8 cm ise |GD| = 8 / 2 = 4 cm bulunur.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Kenarortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Kenar uzunlukları 8 cm, 10 cm ve 12 cm olan bir üçgende, 10 cm'lik kenara ait kenarortayın uzunluğu kaç cm'dir?",
+    "explanation": "Kenarortay uzunluk formülü: V_a² = (2(b² + c²) - a²) / 4. Burada a=10 cm (kenarortayın indiği kenar), b=8 cm, c=12 cm alınır. V_a² = (2*(8² + 12²) - 10²) / 4 = (2*(64 + 144) - 100) / 4 = (2*208 - 100) / 4 = (416 - 100) / 4 = 316 / 4 = 79. Kenarortay uzunluğu V_a = √79 cm'dir.",
+    "options": [
+      {
+        "text": "√77",
+        "isCorrect": false
+      },
+      {
+        "text": "√78",
+        "isCorrect": false
+      },
+      {
+        "text": "√79",
+        "isCorrect": true
+      },
+      {
+        "text": "√80",
+        "isCorrect": false
+      },
+      {
+        "text": "√82",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Kenarortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dik üçgende hipotenüse ait kenarortay uzunluğu 5 cm ise, hipotenüs uzunluğu kaç cm'dir?",
+    "explanation": "Bir dik üçgende hipotenüse ait kenarortayın uzunluğu, hipotenüs uzunluğunun yarısına eşittir. Bu nedenle, hipotenüs uzunluğu 5 * 2 = 10 cm olur.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir ikizkenar dik üçgenin dik kenarlarından birinin uzunluğu 6 cm ise, hipotenüs uzunluğu kaç cm'dir?",
+    "explanation": "İkizkenar dik üçgende dik kenarlar eşit uzunluktadır. Hipotenüs, bir dik kenarın √2 katıdır. Bu nedenle, hipotenüs = 6√2 cm olur.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "6√2",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "12√2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Kenar uzunlukları 3 cm, 4 cm ve 5 cm olan bir üçgenin çevrel çemberinin yarıçapı (R) kaç cm'dir?",
+    "explanation": "3-4-5 üçgeni bir dik üçgendir (3² + 4² = 5²). Bir dik üçgende hipotenüs aynı zamanda çevrel çemberin çapıdır. Bu nedenle, çap 5 cm, yarıçap R = 5/2 = 2.5 cm olur.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "30-60-90 üçgeninde 60° lik açının karşısındaki kenar 8√3 cm ise, hipotenüs uzunluğu kaç cm'dir?",
+    "explanation": "30-60-90 üçgeninde kenar oranları kısa kenar (30° karşısı) : 1, uzun kenar (60° karşısı) : √3, hipotenüs (90° karşısı) : 2'dir. 60° karşısı 8√3 cm ise, bu değer √3'e karşılık gelir. Hipotenüs (2'ye karşılık gelir) = (8√3 / √3) * 2 = 8 * 2 = 16 cm olur.",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": true
+      },
+      {
+        "text": "8√3",
+        "isCorrect": false
+      },
+      {
+        "text": "16√3",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Koordinat düzleminde A(1, 3) ve B(4, 7) noktaları arasındaki uzaklık kaç birimdir?",
+    "explanation": "İki nokta arasındaki uzaklık formülü √[(x₂ - x₁)² + (y₂ - y₁)²]'dir. A(1,3) ve B(4,7) için: √[(4-1)² + (7-3)²] = √[3² + 4²] = √[9 + 16] = √25 = 5 birim.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Koordinat Düzlemi ve Noktanın Analitiği",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "A(2, 5) noktasının B(-1, 1) noktasına göre simetriği olan noktanın koordinatları nedir?",
+    "explanation": "Bir A(x, y) noktasının B(a, b) noktasına göre simetriği C(2a - x, 2b - y) noktasıdır. A(2,5) ve B(-1,1) için: C(2*(-1) - 2, 2*1 - 5) = C(-2 - 2, 2 - 5) = C(-4, -3).",
+    "options": [
+      {
+        "text": "(0, -3)",
+        "isCorrect": false
+      },
+      {
+        "text": "(-4, 7)",
+        "isCorrect": false
+      },
+      {
+        "text": "(4, -3)",
+        "isCorrect": false
+      },
+      {
+        "text": "(-4, -3)",
+        "isCorrect": true
+      },
+      {
+        "text": "(0, 7)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Koordinat Düzlemi ve Noktanın Analitiği",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "A(-2, k) ve B(4, 7) noktalarından geçen doğrunun eğimi 2 olduğuna göre, k kaçtır?",
+    "explanation": "İki noktası bilinen doğrunun eğimi m = (y₂ - y₁) / (x₂ - x₁) formülüyle bulunur. m=2, A(-2,k), B(4,7) için: 2 = (7 - k) / (4 - (-2)) => 2 = (7 - k) / 6 => 12 = 7 - k => k = 7 - 12 = -5.",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "-5",
+        "isCorrect": true
+      },
+      {
+        "text": "-7",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Koordinat Düzlemi ve Noktanın Analitiği",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Köşe noktaları A(1, 2), B(4, 6) ve C(7, 2) olan ABC üçgeninin [BC] kenarına ait kenarortayın uzunluğu kaç birimdir?",
+    "explanation": "Öncelikle [BC] kenarının orta noktası D'yi buluruz. B(4,6) ve C(7,2) için D((4+7)/2, (6+2)/2) = D(5.5, 4). Sonra A(1,2) ve D(5.5,4) noktaları arasındaki uzaklık hesaplanır: √[(5.5-1)² + (4-2)²] = √[(4.5)² + (2)²] = √[20.25 + 4] = √24.25 = √(97/4) = √97 / 2 birim.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "√13",
+        "isCorrect": false
+      },
+      {
+        "text": "√29",
+        "isCorrect": false
+      },
+      {
+        "text": "√97 / 2",
+        "isCorrect": true
+      },
+      {
+        "text": "√85 / 2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Koordinat Düzlemi ve Noktanın Analitiği",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  }
+]
