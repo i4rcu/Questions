@@ -1,0 +1,362 @@
+[
+  {
+    "text": "Biyolojinin alt bilim dallarından hangisi, canlıların davranışlarını ve bu davranışların nedenlerini inceler?",
+    "explanation": "Etoloji, hayvan davranışlarını inceleyen biyolojinin alt bilim dalıdır. Canlıların doğal ortamlarında gösterdikleri davranışları ve bu davranışların nedenlerini, işlevlerini ve evrimsel kökenlerini araştırır.",
+    "options": [
+      {
+        "text": "Etoloji",
+        "isCorrect": true
+      },
+      {
+        "text": "Ekoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetik",
+        "isCorrect": false
+      },
+      {
+        "text": "Fizyoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Taksonomi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, bilimsel bir problemin çözüm aşamalarından biri değildir?",
+    "explanation": "Bilimsel yöntemin temel aşamaları gözlem, hipotez kurma, kontrollü deneyler yapma, veri toplama ve analiz etme, sonuç çıkarma ve teori/kanun oluşturmadır. Hipotezi kanıtlama ifadesi yanlıştır çünkü hipotezler test edilir, mutlak olarak kanıtlanmaz; testler sonucunda desteklenir, değiştirilir veya reddedilir.",
+    "options": [
+      {
+        "text": "Gözlem yapma",
+        "isCorrect": false
+      },
+      {
+        "text": "Hipotez kurma",
+        "isCorrect": false
+      },
+      {
+        "text": "Kontrollü deneyler yapma",
+        "isCorrect": false
+      },
+      {
+        "text": "Hipotezi kanıtlama",
+        "isCorrect": true
+      },
+      {
+        "text": "Sonuç çıkarma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hücre zarından madde geçişi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Pasif taşıma, maddelerin enerji harcanmadan yüksek yoğunluktan düşük yoğunluğa doğru (konsantrasyon gradienti boyunca) gerçekleşir. Enerji harcanması aktif taşımanın özelliğidir. Bu nedenle 'Pasif taşıma enerji harcanarak gerçekleşir.' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "Difüzyon, küçük moleküllerin çok olduğu yerden az olduğu yere geçişidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmoz, su moleküllerinin difüzyonudur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aktif taşıma, maddelerin az olduğu yerden çok olduğu yere enerji harcanarak geçişidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pasif taşıma enerji harcanarak gerçekleşir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Endositoz ile büyük moleküller hücre içine alınabilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Ökaryot bir hücrede, hücre içi sindirimden ve hücrenin savunmasından sorumlu organel aşağıdakilerden hangisidir?",
+    "explanation": "Lizozom, ökaryot hücrelerde bulunan, içinde sindirim enzimleri (hidrolitik enzimler) bulunan tek katlı zarla çevrili bir organeldir. Hücre içine alınan büyük molekülleri ve yaşlanmış organelleri parçalar (hücre içi sindirim). Ayrıca, bakterileri yutarak onları parçalayarak hücre savunmasında da görev alır.",
+    "options": [
+      {
+        "text": "Golgi aygıtı",
+        "isCorrect": false
+      },
+      {
+        "text": "Lizozom",
+        "isCorrect": true
+      },
+      {
+        "text": "Ribozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Endoplazmik retikulum",
+        "isCorrect": false
+      },
+      {
+        "text": "Koful",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlı grupları ve genel özellikleri eşleştirmelerinden hangisi yanlıştır?",
+    "explanation": "Mantarlar (Fungi alemi) heterotrof canlılardır, yani kendi besinlerini üretemezler. Besinlerini bulundukları ortamdan hazır olarak alırlar. Bu nedenle 'Kendi besinini üretir (ototrof)' özelliği mantarlar için yanlış bir ifadedir. Bu özellik daha çok bitkilere aittir.",
+    "options": [
+      {
+        "text": "Bakteriler: Prokaryot hücre yapısına sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitkiler: Hücre duvarı selülozdan yapılmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hayvanlar: Aktif hareket edebilirler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantarlar: Kendi besinini üretir (ototrof).",
+        "isCorrect": true
+      },
+      {
+        "text": "Protistalar: Ökaryot hücre yapısına sahiptir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar Dünyası",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlı alemlerinden hangisinin üyeleri, besin zincirinde genellikle ayrıştırıcı (çürükçül) olarak görev yapar?",
+    "explanation": "Mantarlar (Fungi alemi), ölü organizmaların kalıntılarını ve organik atıkları parçalayarak besinlerini sağlayan önemli ayrıştırıcılardır. Bu süreç, ekosistemdeki madde döngüleri için hayati öneme sahiptir.",
+    "options": [
+      {
+        "text": "Bitkiler",
+        "isCorrect": false
+      },
+      {
+        "text": "Hayvanlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantarlar",
+        "isCorrect": true
+      },
+      {
+        "text": "Protistalar",
+        "isCorrect": false
+      },
+      {
+        "text": "Bakteriler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar Dünyası",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Mayoz bölünme ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Mayoz bölünmenin temel amaçlarından biri, kromozom sayısının yarıya indirilmesidir (redüksiyon). Diploit (2n) bir hücreden, haploit (n) kromozomlu dört yavru hücre (gamet) oluşur. Bu sayede eşeyli üremede, döllenme sonucu kromozom sayısı sabit kalır.",
+    "options": [
+      {
+        "text": "Vücut hücrelerinde görülür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kromozom sayısı yarıya iner.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bir bölünme sonucu iki yavru hücre oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tetrat ve crossing-over olayları görülmez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oluşan hücrelerin genetik yapısı birbirinin aynısıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre Bölünmeleri ve Üreme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Mitoz bölünme ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Mitoz bölünme, çok hücreli canlılarda büyüme, gelişme ve yıpranan dokuların onarımından sorumludur. Ancak, gamet (üreme hücresi) oluşumu mitoz ile değil, mayoz bölünme ile gerçekleşir. Bu nedenle 'Gamet oluşumunu sağlar.' ifadesi mitoz için yanlıştır.",
+    "options": [
+      {
+        "text": "Bir hücreden iki yavru hücre oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oluşan hücrelerin kromozom sayısı ana hücre ile aynıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Büyüme ve onarımı sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gamet oluşumunu sağlar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Çekirdek bölünmesi (karyokinez) ve sitoplazma bölünmesi (sitokinez) olmak üzere iki aşamada gerçekleşir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre Bölünmeleri ve Üreme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir karakterin kalıtımından sorumlu gen çiftine ne ad verilir?",
+    "explanation": "Alel gen, aynı karakteri (örneğin, bezelyelerde tohum rengi) kontrol eden, biri anneden diğeri babadan gelen ve homolog kromozomların aynı lokusunda (bölgesinde) bulunan gen çiftidir. Aleller aynı (homozigot) veya farklı (heterozigot) olabilir.",
+    "options": [
+      {
+        "text": "Genotip",
+        "isCorrect": false
+      },
+      {
+        "text": "Fenotip",
+        "isCorrect": false
+      },
+      {
+        "text": "Kromozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Alel gen",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kalıtım Genel İlkeleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Homozigot sarı tohumlu (SS) bir bezelye ile homozigot yeşil tohumlu (ss) bir bezelyenin çaprazlanması sonucu oluşan F1 dölünün genotipi aşağıdakilerden hangisidir? (Sarı renk, yeşil renge baskındır.)",
+    "explanation": "Homozigot baskın (SS) ve homozigot çekinik (ss) ebeveynlerin çaprazlanmasına monohibrit çaprazlama denir. Tüm F1 dölü, her iki ebeveynden birer alel alacağı için heterozigot (Ss) genotipine sahip olur. Baskın S aleli nedeniyle fenotipleri sarı olur.",
+    "options": [
+      {
+        "text": "SS",
+        "isCorrect": false
+      },
+      {
+        "text": "Ss",
+        "isCorrect": true
+      },
+      {
+        "text": "ss",
+        "isCorrect": false
+      },
+      {
+        "text": "Sarı",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeşil",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kalıtım Genel İlkeleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir ekosistemdeki üreticiler, tüketiciler ve ayrıştırıcılar arasındaki enerji ve besin akışını gösteren şemaya ne ad verilir?",
+    "explanation": "Besin zinciri, enerjinin ve besin maddelerinin bir organizmadan diğerine aktarılış sırasını gösteren lineer bir şemadır. Genellikle üreticiler (bitkiler) ile başlar, birincil tüketiciler (otoburlar), ikincil tüketiciler (etoburlar) ve daha yüksek tüketicilerle devam eder. Ayrıştırıcılar her basamaktaki ölü organizmaları parçalar.",
+    "options": [
+      {
+        "text": "Besin ağı",
+        "isCorrect": false
+      },
+      {
+        "text": "Besin zinciri",
+        "isCorrect": true
+      },
+      {
+        "text": "Enerji piramidi",
+        "isCorrect": false
+      },
+      {
+        "text": "Popülasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Komünite",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, hava kirliliğinin neden olduğu küresel çevre sorunlarından biri değildir?",
+    "explanation": "Ozon tabakasının incelmesi, su kirliliğinin değil, hava kirliliğinin bir sonucudur. Ozon tabakasını incelten başlıca kimyasallar (CFC'ler gibi) atmosfere salınan gazlardır. Biyolojik çeşitliliğin azalması ise hava kirliliği, su kirliliği, habitat kaybı, iklim değişikliği gibi birçok faktörün birleşik bir sonucu olabilen daha genel bir sorundur, doğrudan sadece su kirliliğine bağlanamaz.",
+    "options": [
+      {
+        "text": "Asit yağmurları",
+        "isCorrect": false
+      },
+      {
+        "text": "Küresel ısınma",
+        "isCorrect": false
+      },
+      {
+        "text": "Ozon tabakasının incelmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyolojik çeşitliliğin azalması",
+        "isCorrect": true
+      },
+      {
+        "text": "Hava kalitesinin düşmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  }
+]
