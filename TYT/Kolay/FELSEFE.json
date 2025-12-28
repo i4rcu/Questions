@@ -88,5 +88,65 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Felsefe"
+  },
+  {
+    "text": "Felsefe, insanın evreni ve kendi varlığını anlama çabasıdır. Bu çabayla ilgili aşağıdakilerden hangisi felsefenin temel özelliklerinden biri değildir?",
+    "explanation": "Felsefe, eleştirel, sorgulayıcı, sistemli ve rasyonel (akılcı) bir düşünme etkinliğidir. Ancak, felsefe kesin ve mutlak doğrular sunmaz; aksine, soru sormaya ve tartışmaya devam eder. Bu nedenle 'Kesin ve mutlak doğrular sunması' felsefenin bir özelliği değildir.",
+    "options": [
+      {
+        "text": "Eleştirel bir düşünme biçimi olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Sorgulayıcı ve merak duygusuna dayanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemli ve tutarlı bir bilgi olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kesin ve mutlak doğrular sunması",
+        "isCorrect": true
+      },
+      {
+        "text": "Akla ve mantığa dayalı olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Felsefe'nin Alanı",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bilgi Felsefesi (Epistemoloji), bilginin ne olduğu, kaynağı, sınırları ve geçerliliği ile ilgilenir. Bu bağlamda, bilginin doğruluğunu önermenin gerçeklikle uygunluğu olarak gören görüş aşağıdakilerden hangisidir?",
+    "explanation": "Bilgi Felsefesi'nde, bir önermenin doğru olması için gerçeklikle uyuşması gerektiğini savunan görüş 'Uygunluk (Correspondence) Teorisi'dir. Bu teoriye göre, 'Güneş parlaktır' önermesi, eğer gerçekten güneş parlaksa doğrudur.",
+    "options": [
+      {
+        "text": "Tutarlılık Teorisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Uygunluk Teorisi",
+        "isCorrect": true
+      },
+      {
+        "text": "Pragmatist Teori",
+        "isCorrect": false
+      },
+      {
+        "text": "Faydacı Teori",
+        "isCorrect": false
+      },
+      {
+        "text": "Araçsalcı Teori",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilgi Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Felsefe"
   }
 ]
