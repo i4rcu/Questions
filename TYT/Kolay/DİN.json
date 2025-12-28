@@ -148,5 +148,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi insanın doğuştan sahip olduğu ve onu inanmaya yönelten içsel eğilimi ifade eden kavramdır?",
+    "explanation": "İnsanın doğuştan sahip olduğu ve onu inanmaya yönelten içsel eğilime 'fıtrat' denir. Fıtrat, insanın yaratılışında var olan ve onu Allah'ı tanımaya, inanmaya meyilli kılan bir özelliktir. Diğer seçenekler ise bu tanıma uymamaktadır.",
+    "options": [
+      {
+        "text": "Fıtrat",
+        "isCorrect": true
+      },
+      {
+        "text": "İbadet",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahlak",
+        "isCorrect": false
+      },
+      {
+        "text": "Gelenek",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültür",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Din (İnanç)",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
   }
 ]
