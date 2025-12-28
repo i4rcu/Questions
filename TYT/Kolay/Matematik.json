@@ -898,5 +898,185 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Matematik"
+  },
+  {
+    "text": "a ve b birer pozitif tam sayı olmak üzere, a + b = 10 ise a.b çarpımının alabileceği en büyük değer kaçtır?",
+    "explanation": "Toplamları sabit olan iki pozitif tam sayının çarpımı, sayılar birbirine eşit veya en yakın olduğunda en büyük değerini alır. a + b = 10 için a = 5 ve b = 5 seçilirse çarpım 5 x 5 = 25 olur. Diğer durumlar (1x9=9, 2x8=16, 3x7=21, 4x6=24) daha küçüktür.",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": true
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Temel Kavramlar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "AB iki basamaklı bir doğal sayıdır. AB = 10A + B şeklinde yazılabildiğine göre, AB sayısının rakamları toplamı A + B = 11'dir. Bu sayının rakamları yer değiştirdiğinde oluşan BA sayısı, AB sayısından 27 eksiktir. Buna göre AB sayısı kaçtır?",
+    "explanation": "BA sayısı 10B + A şeklinde yazılır. Soruda verilenlere göre: AB - BA = 27 ve A + B = 11. (10A + B) - (10B + A) = 27 -> 9A - 9B = 27 -> 9(A - B) = 27 -> A - B = 3. A + B = 11 ve A - B = 3 denklemlerini taraf tarafa toplarsak 2A = 14, A = 7 bulunur. B = 11 - 7 = 4'tür. Dolayısıyla AB sayısı 74'tür.",
+    "options": [
+      {
+        "text": "47",
+        "isCorrect": false
+      },
+      {
+        "text": "56",
+        "isCorrect": false
+      },
+      {
+        "text": "65",
+        "isCorrect": false
+      },
+      {
+        "text": "74",
+        "isCorrect": true
+      },
+      {
+        "text": "83",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sayı Basamakları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Beş basamaklı 42A3B sayısı 4 ile kalansız bölünebilmektedir. Aynı sayı 3 ile de kalansız bölünebildiğine göre, A + B toplamı en çok kaçtır?",
+    "explanation": "Bir sayının 4'e bölünebilmesi için son iki basamağının (3B) 4'ün katı olması gerekir. B rakam olduğundan 3B, 32 veya 36 olabilir. Bu durumda B = 2 veya B = 6'dır. Sayının 3'e bölünebilmesi için rakamları toplamı (4+2+A+3+B = 9+A+B) 3'ün katı olmalıdır. B=2 için toplam 11+A olur, A en fazla 7 olabilir (11+7=18, 3'ün katı). Bu durumda A+B=9 olur. B=6 için toplam 15+A olur, A en fazla 9 olabilir (15+9=24, 3'ün katı). Bu durumda A+B=15 olur. En büyük toplam 15'tir.",
+    "options": [
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Bölme ve Bölünebilme",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "18 ve 24 sayılarının EKOK'u kaçtır?",
+    "explanation": "EKOK (En Küçük Ortak Kat), iki sayının ortak katlarının en küçüğüdür. 18'in asal çarpanları 2 x 3², 24'ün asal çarpanları 2³ x 3'tür. EKOK'u bulmak için her asal çarpandan üssü büyük olan alınır: 2³ x 3² = 8 x 9 = 72.",
+    "options": [
+      {
+        "text": "36",
+        "isCorrect": false
+      },
+      {
+        "text": "48",
+        "isCorrect": false
+      },
+      {
+        "text": "54",
+        "isCorrect": false
+      },
+      {
+        "text": "72",
+        "isCorrect": true
+      },
+      {
+        "text": "96",
+        "isCorrect": false
+      }
+    ],
+    "topic": "EBOB-EKOK",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "0,12 + 0,3 işleminin sonucu kaçtır?",
+    "explanation": "Ondalık sayılarda toplama işlemi yapılırken virgüller hizalanır. 0,12 + 0,30 = 0,42 eder.",
+    "options": [
+      {
+        "text": "0,15",
+        "isCorrect": false
+      },
+      {
+        "text": "0,32",
+        "isCorrect": false
+      },
+      {
+        "text": "0,42",
+        "isCorrect": true
+      },
+      {
+        "text": "0,45",
+        "isCorrect": false
+      },
+      {
+        "text": "0,52",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Rasyonel Sayılar-Ondalık Sayılar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "x bir gerçel sayı olmak üzere -3 < x ≤ 2 eşitsizliği veriliyor. Buna göre x'in alabileceği tam sayı değerlerinin toplamı kaçtır?",
+    "explanation": "-3'ten büyük ve 2'ye eşit veya küçük olan tam sayılar -2, -1, 0, 1, 2'dir. Bu sayıların toplamı: (-2) + (-1) + 0 + 1 + 2 = 0'dır.",
+    "options": [
+      {
+        "text": "-3",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Eşitsizlikler",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
   }
 ]
