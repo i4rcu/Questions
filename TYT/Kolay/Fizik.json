@@ -508,5 +508,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi fizik biliminin temel amacıdır?",
+    "explanation": "Fizik biliminin temel amacı, doğada gerçekleşen olayları gözlem ve deneylerle inceleyerek, bu olayları matematiksel modeller ve evrensel kanunlarla açıklamaktır. Bu sayede doğanın işleyişini anlamak ve tahmin edilebilir hale getirmek mümkün olur.",
+    "options": [
+      {
+        "text": "Doğa olaylarını gözlem ve deneylerle açıklamak",
+        "isCorrect": true
+      },
+      {
+        "text": "Canlı organizmaların yapısını incelemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimyasal bileşikler sentezlemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal davranışları analiz etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Edebi metinleri yorumlamak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fizik Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
   }
 ]
