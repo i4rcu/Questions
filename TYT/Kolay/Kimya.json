@@ -208,5 +208,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Kimya"
+  },
+  {
+    "text": "Kimya bilimi ile ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Kimya, maddenin yapısını, özelliklerini, bileşimini ve uğradığı dönüşümleri inceleyen bir bilim dalıdır. Bu nedenle 'Kimya, maddenin yapısını ve dönüşümlerini inceler.' ifadesi doğrudur.",
+    "options": [
+      {
+        "text": "Kimya, yalnızca canlı organizmaları inceler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimya, maddenin yapısını ve dönüşümlerini inceler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kimya, gezegenlerin hareketlerini açıklar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimya, sadece laboratuvarda sentezlenen maddelerle ilgilenir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimya, elektrik enerjisinin üretim yöntemlerini araştırır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya Bilimi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
   }
 ]
