@@ -148,5 +148,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi insan faaliyetlerinin doğal çevre üzerindeki olumsuz etkilerine bir örnektir?",
+    "explanation": "İnsan faaliyetleri doğal çevreyi çeşitli şekillerde etkiler. Ormanların tarım alanı açmak amacıyla tahrip edilmesi, doğal bitki örtüsünün yok olmasına, toprak erozyonuna ve biyolojik çeşitliliğin azalmasına neden olan önemli bir olumsuz etkidir. Diğer seçenekler ise olumlu veya nötr etkileri temsil eder.",
+    "options": [
+      {
+        "text": "Ormanların tarım alanı açmak amacıyla tahrip edilmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Atık suların arıtılarak doğaya bırakılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Erozyonu önlemek için ağaçlandırma yapılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğal parkların koruma altına alınması",
+        "isCorrect": false
+      },
+      {
+        "text": "Rüzgar enerjisi santrallerinin kurulması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Doğa",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
   }
 ]
