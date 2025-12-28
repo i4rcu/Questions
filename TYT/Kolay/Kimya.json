@@ -238,5 +238,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi kimya biliminin temel uğraş alanlarından biri değildir?",
+    "explanation": "Kimya bilimi, maddelerin yapısını, özelliklerini, birbirleriyle etkileşimlerini ve bu etkileşimler sırasındaki enerji değişimlerini inceler. Maddelerin hareket yasalarını incelemek ise fiziğin, özellikle mekaniğin temel uğraş alanıdır.",
+    "options": [
+      {
+        "text": "Maddelerin yapısını incelemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddelerin özelliklerini incelemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddelerin birbirine dönüşümünü incelemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddelerin hareket yasalarını incelemek",
+        "isCorrect": true
+      },
+      {
+        "text": "Kimyasal tepkimelerdeki enerji değişimlerini incelemek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya Bilimi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
   }
 ]
