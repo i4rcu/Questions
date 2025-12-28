@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Felsefe, diğer disiplinlerden farklı olarak ele aldığı problemleri nasıl bir yöntemle inceler ve bu yöntemin temel özelliği nedir?",
+    "explanation": "Felsefe, eleştirel, sorgulayıcı, rasyonel ve kapsamlı bir refleksiyon yöntemi kullanır. Diğer disiplinlerin aksine, kesin ve nihai yanıtlar vermekten çok, sorular sormak, temel varsayımları irdelemek ve kavramları analiz etmekle ilgilenir. Bu nedenle felsefi yöntemin en temel özelliği, her türlü bilgi iddiasını eleştirel bir tavırla temellendirme çabasıdır, yani eleştirel olmasıdır.",
+    "options": [
+      {
+        "text": "Deneysel verilerle hipotezleri test ederek",
+        "isCorrect": false
+      },
+      {
+        "text": "Olguları betimleyip sınıflandırarak",
+        "isCorrect": false
+      },
+      {
+        "text": "Eleştirel bir tavırla temellendirme çabasıyla",
+        "isCorrect": true
+      },
+      {
+        "text": "Dini metinleri yorumlayarak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatsal sezgi ve yaratıcılıkla",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Felsefe'nin Alanı",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bir filozof, 'Doğru bilgi mümkün müdür?' sorusuna 'İnsan zihni mutlak ve değişmez bir hakikate ulaşamaz, çünkü bilgimiz göreceli ve sınırlıdır.' yanıtını veriyor. Bu görüş, bilgi felsefesindeki hangi temel yaklaşıma örnek teşkil eder?",
+    "explanation": "Soruda verilen görüş, mutlak ve kesin bir bilginin imkansız olduğunu, insan bilgisinin göreli (izafi) ve sınırlı olduğunu savunmaktadır. Bu görüş, bilginin imkanını sorgulayan ve nihai/kesin bilgiye ulaşılamayacağını iddia eden kuşkuculuk (septisizm) akımının temel tezidir.",
+    "options": [
+      {
+        "text": "Rasyonalizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Empirizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Kritisizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Septisizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Pragmatizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilgi Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Thomas Kuhn'un 'Bilimsel Devrimlerin Yapısı' adlı eserinde öne sürdüğü, belirli bir dönemde bilim camiasının ortak kabul ettiği temel teoriler, yasalar ve varsayımlar bütününü ifade eden kavram aşağıdakilerden hangisidir?",
+    "explanation": "Thomas Kuhn, bilim tarihinin 'normal bilim' dönemleri ve bu dönemleri kesintiye uğratan 'devrimci' dönemler şeklinde ilerlediğini savunur. 'Normal bilim' dönemlerine hakim olan, bilim insanlarının üzerinde anlaştığı temel teoriler, metodolojiler ve dünya görüşlerinin oluşturduğu çerçeveye 'paradigma' adını verir.",
+    "options": [
+      {
+        "text": "Doğrulama",
+        "isCorrect": false
+      },
+      {
+        "text": "Paradigma",
+        "isCorrect": true
+      },
+      {
+        "text": "Tümevarım",
+        "isCorrect": false
+      },
+      {
+        "text": "Analitik önerme",
+        "isCorrect": false
+      },
+      {
+        "text": "Yanlışlanabilirlik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilim Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Varlığın özünün 'madde' olduğunu, her şeyin maddi temellerle açıklanabileceğini ve ruh, bilinç gibi olguların bile maddenin karmaşık bir organizasyonunun ürünü olduğunu savunan görüş aşağıdakilerden hangisidir?",
+    "explanation": "Varlık felsefesinde (ontoloji), varlığın asıl ve tek gerçekliğinin 'madde' olduğunu savunan görüşe materyalizm (maddecilik) denir. Materyalizm, idealizmin karşıtıdır ve evrendeki her şeyin, insan bilinci de dahil olmak üzere, maddi süreçlerle açıklanabileceğini öne sürer.",
+    "options": [
+      {
+        "text": "İdealizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Dualizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Materyalizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Fenomenoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Entüisyonizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Varlık Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Immanuel Kant'ın 'Ödev Ahlakı' (Deontolojik Etik) olarak bilinen ahlak teorisinin temel ilkesi aşağıdakilerden hangisidir?",
+    "explanation": "Kant'ın ahlak felsefesi, eylemin sonuçlarından (faydacılığın aksine) bağımsız olarak, eylemin dayandığı ilkeye odaklanır. Ona göre ahlaki olarak doğru eylem, sırf 'ödev' olduğu için, yani ahlak yasasına uygun olduğu için yapılan eylemdir. Bu yasanın en temel formülasyonu, 'Öyle davran ki, senin iradenin maksimi, aynı zamanda genel bir yasa olarak geçerli olabilsin.' şeklindeki kesin buyruk (kategorik imperatif) ilkesidir. Bu ilke, eylemin evrenselleştirilebilir olmasını şart koşar.",
+    "options": [
+      {
+        "text": "En fazla sayıda insana en yüksek mutluluğu sağlayan eylem doğrudur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Erdem, insanın kendi doğasına uygun olarak gelişmesidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eylem, iyi niyet ve ödev duygusuyla yapılmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahlaki eylem, bireyin kendi çıkarını gözeten eylemdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Öyle davran ki, eylemin dayanağı olan ilke genel bir yasa olabilsin.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Ahlak Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Felsefe"
+  }
+]
