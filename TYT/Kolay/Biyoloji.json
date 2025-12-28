@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Biyolojinin tanımı aşağıdakilerden hangisidir?",
+    "explanation": "Biyoloji, canlıların yapısını, işlevlerini, birbirleriyle ve çevreleriyle olan ilişkilerini inceleyen bilim dalıdır.",
+    "options": [
+      {
+        "text": "Canlıların yapısını, işlevlerini, birbirleriyle ve çevreleriyle olan ilişkilerini inceleyen bilim dalıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yalnızca bitkileri inceleyen bilim dalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca hayvanları inceleyen bilim dalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mikroskobik canlıları inceleyen bilim dalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Canlıların sadece kalıtsal özelliklerini inceleyen bilim dalıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi biyolojinin alt bilim dallarından biri değildir?",
+    "explanation": "Jeoloji, yer bilimi olup Dünya'nın katı maddesini, tarihini ve onu şekillendiren süreçleri inceleyen bir bilim dalıdır ve biyolojinin bir alt dalı değildir.",
+    "options": [
+      {
+        "text": "Botanik",
+        "isCorrect": false
+      },
+      {
+        "text": "Zooloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Mikrobiyoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Jeoloji",
+        "isCorrect": true
+      },
+      {
+        "text": "Genetik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hücrenin temel yapısal ve işlevsel birimi aşağıdakilerden hangisidir?",
+    "explanation": "Hücre zarı, hücreyi çevreleyen, hücreye şekil veren, hücreyi dış ortamdan ayıran ve madde alışverişini kontrol eden temel yapıdır.",
+    "options": [
+      {
+        "text": "Hücre zarı",
+        "isCorrect": true
+      },
+      {
+        "text": "Çekirdek",
+        "isCorrect": false
+      },
+      {
+        "text": "Mitokondri",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Golgi aygıtı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bitki hücrelerinde bulunup hayvan hücrelerinde bulunmayan temel yapı aşağıdakilerden hangisidir?",
+    "explanation": "Hücre duvarı, bitki hücrelerinde bulunan, selüloz yapılı, sert ve dayanıklı bir yapı olup hayvan hücrelerinde bulunmaz.",
+    "options": [
+      {
+        "text": "Hücre duvarı",
+        "isCorrect": true
+      },
+      {
+        "text": "Hücre zarı",
+        "isCorrect": false
+      },
+      {
+        "text": "Mitokondri",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Lizozom",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlı gruplarından hangisi prokaryot hücre yapısına sahiptir?",
+    "explanation": "Bakteriler, zarlı çekirdek ve diğer zarlı organelleri bulunmayan prokaryot canlılardır.",
+    "options": [
+      {
+        "text": "Bakteriler",
+        "isCorrect": true
+      },
+      {
+        "text": "Bitkiler",
+        "isCorrect": false
+      },
+      {
+        "text": "Hayvanlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantarlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Protistalar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar Dünyası",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlı alemlerinden hangisinin üyeleri fotosentez yaparak kendi besinini üretir?",
+    "explanation": "Bitkiler aleminin üyeleri, kloroplast organeli sayesinde fotosentez yaparak kendi besinini üreten ototrof canlılardır.",
+    "options": [
+      {
+        "text": "Bitkiler",
+        "isCorrect": true
+      },
+      {
+        "text": "Hayvanlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantarlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Bakteriler (Heterotrof olanlar)",
+        "isCorrect": false
+      },
+      {
+        "text": "Protistalar (Heterotrof olanlar)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar Dünyası",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Vücut hücrelerinin bölünerek sayısını artırmasını sağlayan ve bir hücreden iki yeni hücre oluşturan bölünme şekli aşağıdakilerden hangisidir?",
+    "explanation": "Mitoz bölünme, vücut hücrelerinde gerçekleşir, bir hücreden kalıtsal olarak birbirinin aynısı iki yeni hücre oluşturur ve büyüme, gelişme, yıpranan doku onarımını sağlar.",
+    "options": [
+      {
+        "text": "Mitoz bölünme",
+        "isCorrect": true
+      },
+      {
+        "text": "Mayoz bölünme",
+        "isCorrect": false
+      },
+      {
+        "text": "Konjugasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Rekombinasyon",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre Bölünmeleri ve Üreme",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir karakterin kalıtımından sorumlu DNA parçasına ne ad verilir?",
+    "explanation": "Gen, bir karakterin (özelliğin) kalıtımından sorumlu DNA parçasıdır ve kalıtsal bilgiyi taşıyan temel birimdir.",
+    "options": [
+      {
+        "text": "Gen",
+        "isCorrect": true
+      },
+      {
+        "text": "Kromozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Alel",
+        "isCorrect": false
+      },
+      {
+        "text": "Nükleotit",
+        "isCorrect": false
+      },
+      {
+        "text": "Fenotip",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kalıtım Genel İlkeleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir ekosistemdeki canlı ve cansız varlıkların karşılıklı etkileşim içinde bulunduğu ortama ne ad verilir?",
+    "explanation": "Ekosistem, belirli bir alanda bulunan canlılar (biyotik faktörler) ile cansız çevre (abiyotik faktörler) arasındaki karşılıklı etkileşimlerin oluşturduğu işlevsel bir bütündür.",
+    "options": [
+      {
+        "text": "Ekosistem",
+        "isCorrect": true
+      },
+      {
+        "text": "Popülasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Komünite",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyosfer",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  }
+]
