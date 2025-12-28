@@ -1,0 +1,332 @@
+[
+  {
+    "text": "Aşağıdaki bilim insanlarından hangisi, kimyayı ilk kez bir bilim dalı olarak tanımlamış ve simyadan ayırmıştır?",
+    "explanation": "Robert Boyle, 1661'de yazdığı 'The Sceptical Chymist' (Kuşkucu Kimyacı) adlı eseriyle kimyayı simyadan ayırarak modern kimyanın temellerini atmıştır. Elementin ilk bilimsel tanımını yapmış ve deney ve gözlemin önemini vurgulamıştır.",
+    "options": [
+      {
+        "text": "Robert Boyle",
+        "isCorrect": true
+      },
+      {
+        "text": "Antoine Lavoisier",
+        "isCorrect": false
+      },
+      {
+        "text": "John Dalton",
+        "isCorrect": false
+      },
+      {
+        "text": "Jabir ibn Hayyan",
+        "isCorrect": false
+      },
+      {
+        "text": "Dmitri Mendeleev",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya Bilimi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Kimya biliminin alt dalları ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "explanation": "Analitik kimya, maddelerin bileşenlerini ve miktarlarını belirlemekle ilgilenir. İlaçların sentezlenmesi ve geliştirilmesi ise farmasötik kimya veya organik kimyanın ilgi alanına girer. Bu nedenle 'İlaç sentezi - Analitik kimya' eşleştirmesi yanlıştır.",
+    "options": [
+      {
+        "text": "Polimer üretimi - Polimer kimyası",
+        "isCorrect": false
+      },
+      {
+        "text": "İlaç sentezi - Analitik kimya",
+        "isCorrect": true
+      },
+      {
+        "text": "Canlı organizmalardaki kimyasal süreçler - Biyokimya",
+        "isCorrect": false
+      },
+      {
+        "text": "Yakıtların enerji verimi - Enerji kimyası",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddelerin yapısı - Fizikokimya",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya Bilimi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir X elementinin atom numarası 19'dur. Bu element ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "Atom numarası 19 olan element potasyumdur (K). Potasyum 1A grubunda (alkali metaller) bulunur ve değerlik elektron sayısı 1'dir. Elektron dağılımı 2-8-8-1 şeklindedir, bu nedenle 4. periyotta yer alır. Ancak, alkali metaller (1A grubu) ametallerle iyonik bağ yaparak elektron verirler, kovalent bağ oluşturma eğilimleri düşüktür. Bu nedenle 'Kovalent bağlı bileşikler oluşturur.' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "4. periyotta bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Değerlik elektron sayısı 1'dir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kovalent bağlı bileşikler oluşturur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alkali metaldir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oda koşullarında katı haldedir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom ve Periyodik Sistem",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Periyodik sistemdeki gruplar (A grupları) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Periyodik cetvelde aynı grupta bulunan elementlerin değerlik elektron sayıları aynıdır. Bu, onların benzer kimyasal özellikler göstermesinin temel nedenidir. Örneğin, 1A grubundaki tüm elementlerin (alkali metaller) değerlik elektron sayısı 1'dir.",
+    "options": [
+      {
+        "text": "Aynı gruptaki elementlerin değerlik elektron sayıları aynıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aynı gruptaki elementlerin atom yarıçapları aynıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aynı gruptaki elementlerin elektron ilgileri aynıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aynı gruptaki elementlerin oksitlerinin asitlik-bazlık özellikleri farklıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aynı grupta yukarıdan aşağıya doğru iyonlaşma enerjisi artar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom ve Periyodik Sistem",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "H₂O molekülündeki O-H bağları ve H₂O molekülleri arasındaki etkileşimler için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "H₂O molekülünde oksijen ve hidrojen atomları arasında elektronların ortaklaşa kullanılmasıyla oluşan kovalent bağlar bulunur. Farklı H₂O molekülleri arasında ise, bir moleküldeki hidrojen atomu ile diğer moleküldeki oksijen atomu arasında hidrojen bağı adı verilen zayıf etkileşimler oluşur.",
+    "options": [
+      {
+        "text": "O-H bağı kovalent, moleküller arası bağ hidrojen bağıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "O-H bağı iyonik, moleküller arası bağ hidrojen bağıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "O-H bağı kovalent, moleküller arası bağ iyonik bağdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "O-H bağı metalik, moleküller arası bağ van der Waals bağıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "O-H bağı ve moleküller arası bağ her ikisi de kovalent bağdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Türler Arası Etkileşimler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi katılar için genel bir özellik değildir?",
+    "explanation": "Katılar, tanecikleri arasındaki çekim kuvvetleri çok güçlü olduğu için belirli bir şekle ve hacme sahiptir. Sıkıştırılamazlar veya çok az sıkıştırılabilirler ve genellikle kristal yapıdadırlar. Ancak, akışkan olmak (belirli bir şekli olmamak ve akabilmek) sıvıların ve gazların özelliğidir. Katılar akışkan değildir.",
+    "options": [
+      {
+        "text": "Belirli bir şekle sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tanecikleri titreşim hareketi yapar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akışkandır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sıkıştırılamaz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Özkütlesi sıvı haline göre genellikle daha büyüktür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Maddenin Halleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Su döngüsü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Su döngüsü, suyun buharlaşma, yoğuşma, yağış gibi fiziksel haller arasında gezegen ölçeğinde dolaşımıdır. Bu süreçte suyun kimyasal formülü (H₂O) değişmez, sadece fiziksel hali değişir. Bu nedenle bir fiziksel değişimdir, kimyasal değişim değildir. 'Kimyasal değişimler içerir.' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "Okyanuslardan buharlaşan su atmosfere karışır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimyasal değişimler içerir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yağmur, kar ve dolu su döngüsünün bir parçasıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Canlıların solunumu ve terlemesi de su döngüsüne katkıda bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yer altı suları su döngüsünün bir bileşenidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğa ve Kimya",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Eşit kütlede X ve Y elementlerinden oluşan bir bileşikte, kütlece birleşme oranı mX/mY = 3'tür. 24 gram X ve 16 gram Y elementleri tam verimle reaksiyona sokulduğunda kaç gram bileşik oluşur ve hangi elementten kaç gram artar?",
+    "explanation": "Kütlece birleşme oranı mX/mY = 3/1 olduğuna göre, 3 gram X ile 1 gram Y tepkimeye girer. 24 gram X ile tepkimeye girecek Y miktarı (24/3) = 8 gram'dır. Elimizde 16 gram Y olduğu için Y'den 16 - 8 = 8 gram artar. Tepkimeye giren toplam kütle 24 g X + 8 g Y = 32 gram olduğu için, kütlenin korunumu kanununa göre 32 gram bileşik oluşur.",
+    "options": [
+      {
+        "text": "32 g bileşik oluşur, 8 g Y artar.",
+        "isCorrect": true
+      },
+      {
+        "text": "40 g bileşik oluşur, 8 g X artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "24 g bileşik oluşur, 16 g Y artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "16 g bileşik oluşur, 24 g X artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "40 g bileşik oluşur, artan olmaz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyanın Temel Kanunları ve Kimyasal Hesaplamalar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Homojen karışımlar (çözeltiler) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Homojen karışımlar her noktasında aynı özelliği gösterir, bu nedenle tek bir fazdan oluşurlar. Çözünen madde miktarına bağlı olarak derişik veya seyreltik olabilirler. Ancak, homojen karışımların belirli bir erime ve kaynama noktası yoktur. Örneğin, tuzlu suyun donma noktası saf sudan daha düşüktür ve kaynama sırasında sıcaklık sabit kalmaz; bu özellikler çözeltinin derişimine bağlıdır.",
+    "options": [
+      {
+        "text": "Tek fazlıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Belirli bir erime ve kaynama noktası vardır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Çözünen madde miktarına göre derişik veya seyreltik olabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fiziksel yollarla bileşenlerine ayrılabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Örnek olarak tuzlu su verilebilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karışımlar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "pH değeri 2 olan bir asit çözeltisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "pH skalası hidrojen iyonu (H⁺) derişiminin negatif logaritmasıdır (pH = -log[H⁺]). pH=2 demek, [H⁺] = 10⁻² M = 0.01 M anlamına gelir. pH değeri 7'den küçük olduğu için çözelti asidiktir. Turnusol kağıdını kırmızıya çevirmesi asidik çözeltilerin özelliğidir.",
+    "options": [
+      {
+        "text": "H⁺ iyonu derişimi 0,01 M'dır.",
+        "isCorrect": true
+      },
+      {
+        "text": "H⁺ iyonu derişimi 0,1 M'dır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Turnusol kağıdını maviye çevirir.",
+        "isCorrect": false
+      },
+      {
+        "text": "pH değeri 7'den büyüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulu çözeltisi elektrik akımını iletmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Asitler-Bazlar ve Tuzlar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Günlük hayatta kullanılan bazı maddeler ve kimya ile ilişkileri eşleştirilmiştir. Hangisi yanlıştır?",
+    "explanation": "Sabun ve deterjanların temel çalışma prensibi yüzey aktiflik özelliğidir. Hidrofob (su sevmeyen) ve hidrofil (suyu seven) kısımları sayesinde, yağ gibi kirleri su içinde çözünür hale getirerek temizlik sağlarlar. Sabun yapımı sırasında yağların bazlarla (Kostik) reaksiyonu (sabunlaşma) gerçekleşir, ancak sabunun temizleme mekanizmasının kendisi bir kimyasal tepkime değil, fiziksel bir süreçtir (emisyon oluşturma). Bu nedenle 'Kirleri kimyasal tepkime ile temizler.' ifadesi yanlış olarak kabul edilir.",
+    "options": [
+      {
+        "text": "Diş macunu - Florür iyonları ile diş minesini güçlendirir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Şampuan - Yüzey aktif madde içerir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sabun - Kirleri kimyasal tepkime ile temizler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Çamaşır suyu - Yükseltgen etki gösterir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sirke - Zayıf bir asittir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya Her Yerde",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  }
+]
