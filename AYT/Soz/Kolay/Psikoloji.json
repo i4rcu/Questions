@@ -1,0 +1,596 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi psikolojinin tanımı olarak en kapsamlı şekilde ifade edilmiştir?",
+    "explanation": "Psikoloji, insan ve hayvan davranışlarını ve bu davranışların altında yatan zihinsel süreçleri sistematik ve bilimsel yöntemlerle inceleyen bir bilim dalıdır.",
+    "options": [
+      {
+        "text": "İnsan davranışlarını inceleyen bilim dalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsan ve hayvan davranışlarını ve zihinsel süreçlerini inceleyen bilim dalıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece normal davranışları inceleyen bir alandır.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsanın içgüdülerini araştıran bilimdir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir psikolog, bireylerin arkadaş grupları içindeki davranışlarını gözlemleyerek araştırma yapmaktadır. Bu psikolog hangi psikoloji alt dalında çalışmaktadır?",
+    "explanation": "Sosyal psikoloji, bireylerin sosyal çevrelerinden (gruplar, kültür) nasıl etkilendiğini ve bireylerin sosyal çevreyi nasıl etkilediğini inceler.",
+    "options": [
+      {
+        "text": "Klinik Psikoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal Psikoloji",
+        "isCorrect": true
+      },
+      {
+        "text": "Deneysel Psikoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Gelişim Psikolojisi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Psikolojide, bir olgunun nedenlerini araştırmak ve değişkenler arasındaki neden-sonuç ilişkisini belirlemek amacıyla kullanılan temel yöntem aşağıdakilerden hangisidir?",
+    "explanation": "Deneysel yöntem, bağımsız değişkenin manipüle edilip bağımlı değişken üzerindeki etkisinin ölçüldüğü, neden-sonuç ilişkisi kurmaya olanak tanıyan en güçlü bilimsel yöntemdir.",
+    "options": [
+      {
+        "text": "Gözlem",
+        "isCorrect": false
+      },
+      {
+        "text": "Korelasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Vaka İncelemesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Deneysel Yöntem",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "İş yerindeki verimliliği artırmak için çalışanların motivasyon, liderlik ve iş doyumu gibi faktörlerini inceleyen psikoloji alt dalı aşağıdakilerden hangisidir?",
+    "explanation": "Endüstri ve Örgüt Psikolojisi, çalışma yaşamındaki insan davranışlarını inceleyerek örgüt verimliliğini ve çalışanların refahını artırmayı hedefler.",
+    "options": [
+      {
+        "text": "Sağlık Psikolojisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Eğitim Psikolojisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Endüstri ve Örgüt Psikolojisi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilişsel Psikoloji",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Organizmanın, fiziksel çevreden gelen uyarıcıları duyu organları aracılığıyla alıp anlamlı hale getirme sürecine ne ad verilir?",
+    "explanation": "Algı, duyumların organize edilerek yorumlanması ve anlamlandırılması sürecidir. Örneğin, gözümüze gelen ışık dalgalarını (duyum) bir yüz olarak tanımamız algıdır.",
+    "options": [
+      {
+        "text": "Duyum",
+        "isCorrect": false
+      },
+      {
+        "text": "Algı",
+        "isCorrect": true
+      },
+      {
+        "text": "Dikkat",
+        "isCorrect": false
+      },
+      {
+        "text": "Güdülenme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir kişinin sınavda başarılı olmak istemesi onun için bir 'güdü' iken, sınavı kazanma isteği aşağıdaki kavramlardan hangisine örnektir?",
+    "explanation": "Güdü, davranışı başlatan, yönlendiren ve sürdüren içsel bir durumdur (örneğin, açlık, başarı ihtiyacı). Hedef ise bu güdünün yöneldiği, ulaşılmak istenen spesifik nesne veya durumdur (örneğin, yemek yemek, sınavı kazanmak).",
+    "options": [
+      {
+        "text": "Güdü",
+        "isCorrect": false
+      },
+      {
+        "text": "Dürtü",
+        "isCorrect": false
+      },
+      {
+        "text": "Hedef",
+        "isCorrect": true
+      },
+      {
+        "text": "İçgüdü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi birincil (fizyolojik) dürtülere örnek değildir?",
+    "explanation": "Birincil dürtüler, organizmanın fizyolojik dengesini (homeostazis) korumak için doğuştan gelen dürtülerdir. Başarılı olma isteği ise sosyal bir ihtiyaçtan (başarı güdüsü) kaynaklanan sonradan öğrenilmiş bir dürtüdür.",
+    "options": [
+      {
+        "text": "Susuzluk",
+        "isCorrect": false
+      },
+      {
+        "text": "Açlık",
+        "isCorrect": false
+      },
+      {
+        "text": "Cinsellik",
+        "isCorrect": false
+      },
+      {
+        "text": "Başarılı olma isteği",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir öğrencinin ders çalışırken tüm zihinsel enerjisini konuya odaklaması, aşağıdaki psikolojik süreçlerden hangisi ile açıklanır?",
+    "explanation": "Dikkat, bilinç etkinliğini belirli bir uyarıcı üzerinde toplama ve diğer uyarıcıları görmezden gelme sürecidir.",
+    "options": [
+      {
+        "text": "Algı",
+        "isCorrect": false
+      },
+      {
+        "text": "Duyum",
+        "isCorrect": false
+      },
+      {
+        "text": "Dikkat",
+        "isCorrect": true
+      },
+      {
+        "text": "Güdülenme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Pavlov'un köpekler üzerinde yaptığı klasik koşullanma deneyinde, zil sesi başlangıçta nötr bir uyarıcı iken koşullanma sonrasında hangi rolü üstlenmiştir?",
+    "explanation": "Klasik koşullanmada, başlangıçta nötr olan ve tepkiye neden olmayan uyarıcı (zil sesi), koşulsuz uyarıcı (et) ile eşleştirildikten sonra koşullu uyarıcı haline gelir ve koşullu tepkiyi (salya salgılama) tek başına ortaya çıkarır.",
+    "options": [
+      {
+        "text": "Koşulsuz Uyarıcı",
+        "isCorrect": false
+      },
+      {
+        "text": "Koşullu Uyarıcı",
+        "isCorrect": true
+      },
+      {
+        "text": "Koşulsuz Tepki",
+        "isCorrect": false
+      },
+      {
+        "text": "Koşullu Tepki",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir öğrencinin sınavdan iyi not aldığında ailesinden hediye alması, hangi tür öğrenme sürecine örnektir?",
+    "explanation": "Edimsel koşullanmada, organizma bir davranışta bulunur (sınav çalışmak) ve bu davranışın sonucu (hediye almak) davranışın tekrarlanma olasılığını artırırsa, bu olumlu bir pekiştireçtir.",
+    "options": [
+      {
+        "text": "Klasik Koşullanma",
+        "isCorrect": false
+      },
+      {
+        "text": "Model Alarak Öğrenme",
+        "isCorrect": false
+      },
+      {
+        "text": "Edimsel Koşullanma",
+        "isCorrect": true
+      },
+      {
+        "text": "Kavrayış Yoluyla Öğrenme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir telefon numarasını kısa süreliğine hatırlamak için zihinde tekrarlama süreci, bellek türlerinden hangisi ile ilgilidir?",
+    "explanation": "Kısa süreli bellek, sınırlı kapasiteye sahiptir ve bilgiyi yaklaşık 20-30 saniye tutar. Bilgiyi burada tutmak için zihinsel tekrar (rehearsal) kullanılır.",
+    "options": [
+      {
+        "text": "Duyusal Bellek",
+        "isCorrect": false
+      },
+      {
+        "text": "Kısa Süreli Bellek",
+        "isCorrect": true
+      },
+      {
+        "text": "Uzun Süreli Bellek",
+        "isCorrect": false
+      },
+      {
+        "text": "Anımsama",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir problemi çözmek için geçmişte işe yaramış bir stratejiyi yeni bir problemde de kullanma eğilimine ne ad verilir?",
+    "explanation": "Zihinsel kurulum (mental set), daha önce başarılı olunan bir çözüm yolunun yeni durumlarda da kullanılması eğilimidir. Bazen problem çözmeyi kolaylaştırsa da, bazen daha iyi bir çözümün görülmesini engelleyebilir.",
+    "options": [
+      {
+        "text": "Algoritma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sezgi",
+        "isCorrect": false
+      },
+      {
+        "text": "Zihinsel Kurulum",
+        "isCorrect": true
+      },
+      {
+        "text": "Yaratıcı Düşünme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bireyin kendi potansiyelini gerçekleştirebilmesi, kendisi ve çevresiyle uyum içinde olması durumu aşağıdaki kavramlardan hangisi ile ifade edilir?",
+    "explanation": "Ruh sağlığı, sadece hastalığın olmaması değil, aynı zamanda bireyin kendini gerçekleştirebildiği, üretken ve çevresiyle uyumlu bir yaşam sürdürebildiği bir iyilik halidir.",
+    "options": [
+      {
+        "text": "Psikoterapi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ruh Sağlığı",
+        "isCorrect": true
+      },
+      {
+        "text": "Davranış Bozukluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Uyum",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Stresle başa çıkmada, kişinin olayları olumlu yönden yeniden değerlendirerek stres etkeninin etkisini azaltmaya çalışması hangi başa çıkma yöntemine örnektir?",
+    "explanation": "Problem odaklı başa çıkma, strese neden olan problemi çözmeye yönelik stratejileri içerirken, duygu odaklı başa çıkma, strese verilen duygusal tepkileri yönetmeye çöneliktir. Olumlu yeniden değerlendirme, duruma olumlu bir anlam yükleyerek duygusal tepkiyi değiştirmeyi amaçlar ve duygu odaklı bir stratejidir.",
+    "options": [
+      {
+        "text": "Problem Odaklı Başa Çıkma",
+        "isCorrect": false
+      },
+      {
+        "text": "Duygu Odaklı Başa Çıkma",
+        "isCorrect": true
+      },
+      {
+        "text": "Kaçınma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal Destek Arama",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi ruh sağlığını koruyucu faktörlerden biri değildir?",
+    "explanation": "Ruh sağlığını koruyucu faktörler arasında gerçekçi benlik saygısı, sosyal destek, stresle başa çıkma becerileri ve sağlıklı iletişim yer alır. Mükemmeliyetçilik ise sıklıkla kaygıya ve tükenmişliğe yol açarak ruh sağlığını olumsuz etkileyebilir.",
+    "options": [
+      {
+        "text": "Gerçekçi bir benlik saygısına sahip olma",
+        "isCorrect": false
+      },
+      {
+        "text": "Güçlü sosyal destek sistemleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Esnek ve mükemmeliyetçi olma",
+        "isCorrect": true
+      },
+      {
+        "text": "Etkili stresle başa çıkma yöntemleri",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Ruh sağlığı yerinde olan bir bireyde aşağıdaki özelliklerden hangisi görülmesi beklenmez?",
+    "explanation": "Ruh sağlığı yerinde olan bireyler genellikle gerçeklerle uyumlu bir ilişki içindedir, kendilerini ve başkalarını olduğu gibi kabul ederler. Sürekli olarak başkalarının onayına ihtiyaç duymak, sağlıklı bir özgüven eksikliğine işaret edebilir ve bu durum ruh sağlığının temel göstergelerinden biri değildir.",
+    "options": [
+      {
+        "text": "Gerçekleri olduğu gibi kabul edebilme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kendini ve başkalarını sevebilme",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişen koşullara uyum sağlayabilme",
+        "isCorrect": false
+      },
+      {
+        "text": "Sürekli başkalarının onayına ihtiyaç duyma",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi ruh sağlığını olumsuz etkileyen çevresel faktörlerden biridir?",
+    "explanation": "Ruh sağlığı hem biyolojik hem de çevresel faktörlerden etkilenir. Çevresel faktörler arasında stresli yaşam olayları, sosyal destek eksikliği, işsizlik ve ekonomik zorluklar sayılabilir. Kalıtsal yatkınlık ise biyolojik bir faktördür.",
+    "options": [
+      {
+        "text": "Sosyal destek sistemlerinin güçlü olması",
+        "isCorrect": false
+      },
+      {
+        "text": "İşsizlik ve ekonomik zorluklar",
+        "isCorrect": true
+      },
+      {
+        "text": "Düzenli fiziksel aktivite",
+        "isCorrect": false
+      },
+      {
+        "text": "Kalıtsal yatkınlık",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "\"Bireyin kendi potansiyelini gerçekleştirebilmesi\" ruh sağlığının hangi temel ilkesi ile doğrudan ilişkilidir?",
+    "explanation": "Kendini gerçekleştirme, Abraham Maslow'un ihtiyaçlar hiyerarşisinin en tepesinde yer alan ve bireyin sahip olduğu potansiyeli tam olarak kullanabilmesi, yaratıcı olabilmesi anlamına gelen bir kavramdır. Bu, olumlu ruh sağlığının önemli bir göstergesidir.",
+    "options": [
+      {
+        "text": "Gerçeklik ilkesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kendini gerçekleştirme",
+        "isCorrect": true
+      },
+      {
+        "text": "Stresle başa çıkma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal uyum",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Ruh sağlığı hizmetlerinin temel amacı aşağıdakilerden hangisidir?",
+    "explanation": "Ruh sağlığı hizmetlerinin birincil amacı, bireylerin ruhsal bozukluklarını tedavi etmek ve iyileştirmenin yanı sıra, toplumun genelinde ruh sağlığını korumak ve geliştirmektir. Bu, sadece hastalıkları iyileştirmekten ziyade, sağlıklı bireylerin de psikolojik iyi oluşlarını desteklemeyi içeren koruyucu bir yaklaşımdır.",
+    "options": [
+      {
+        "text": "Sadece ağır ruhsal hastalıkları tedavi etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumda ruh sağlığını korumak ve geliştirmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Yalnızca bireysel terapi seansları düzenlemek",
+        "isCorrect": false
+      },
+      {
+        "text": "İlaç tedavilerini yaygınlaştırmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir kişinin yüzme öğrendikten sonra bisiklete binmeyi daha kolay öğrenmesi, aşağıdaki öğrenme türlerinden hangisine örnek olabilir?",
+    "explanation": "Olumlu transfer, önceden öğrenilen bir bilgi veya becerinin yeni bir öğrenmeyi kolaylaştırmasıdır. Yüzme sırasında denge ve koordinasyon becerilerinin kazanılması, bisiklet sürmek gibi benzer beceri gerektiren bir aktivitenin öğrenilmesini olumlu yönde etkileyebilir.",
+    "options": [
+      {
+        "text": "Olumsuz transfer",
+        "isCorrect": false
+      },
+      {
+        "text": "Olumlu transfer",
+        "isCorrect": true
+      },
+      {
+        "text": "Ket vurma",
+        "isCorrect": false
+      },
+      {
+        "text": "Geriye ket vurma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Alışveriş listesini kısa süreliğine aklında tutmaya çalışan bir birey, hangi bellek türünü aktif olarak kullanmaktadır?",
+    "explanation": "Kısa süreli bellek (veya çalışma belleği), bilgiyi geçici olarak (yaklaşık 20-30 saniye) tutmak ve işlemek için kullanılır. Alışveriş listesini hatırlamak gibi günlük işlerde bu bellek türü devreye girer.",
+    "options": [
+      {
+        "text": "Duyusal bellek",
+        "isCorrect": false
+      },
+      {
+        "text": "Kısa süreli bellek",
+        "isCorrect": true
+      },
+      {
+        "text": "Anımsal bellek (Epizodik)",
+        "isCorrect": false
+      },
+      {
+        "text": "Anlamsal bellek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir problemi çözmek için önceden işe yaramış bir yöntemi, yeni bir problemde de ısrarla kullanmaya ne ad verilir?",
+    "explanation": "Zihinsel set, bir problemi çözmek için geçmişte başarılı olunmuş bir stratejiye veya düşünce kalıbına sıkı sıkıya bağlı kalmak ve yeni, belki de daha basit çözüm yollarını gözden kaçırmaktır. Bu, düşünme esnekliğini engelleyen bir durumdur.",
+    "options": [
+      {
+        "text": "Yaratıcı düşünme",
+        "isCorrect": false
+      },
+      {
+        "text": "Algoritma",
+        "isCorrect": false
+      },
+      {
+        "text": "Zihinsel set",
+        "isCorrect": true
+      },
+      {
+        "text": "Sezgi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  }
+]
