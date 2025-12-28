@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Tarih biliminde, bir olayın meydana geldiği yeri ve zamanı belirleyerek olayın gerçekliğini kanıtlama yöntemi aşağıdakilerden hangisidir?",
+    "explanation": "Tarih biliminde, bir olayın gerçekliğini kanıtlamak için olayın meydana geldiği yer ve zamanın kesin olarak belirlenmesi gereklidir. Bu süreç 'Kronoloji' ve 'Coğrafya' bilimlerinden yararlanılarak yapılır ve bu işlemin adı 'Tespit' yöntemidir. Tespit, olguların belirlenmesi anlamına gelir.",
+    "options": [
+      {
+        "text": "Tenkit",
+        "isCorrect": false
+      },
+      {
+        "text": "Tasnif",
+        "isCorrect": false
+      },
+      {
+        "text": "Tercüme",
+        "isCorrect": false
+      },
+      {
+        "text": "Tespit",
+        "isCorrect": true
+      },
+      {
+        "text": "Terkip",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, Mezopotamya uygarlıkları tarafından günümüze kadar ulaşan ve hukuk alanında önemli bir eser olarak kabul edilir?",
+    "explanation": "Mezopotamya'da, Babilliler döneminde Kral Hammurabi tarafından oluşturulan 'Hammurabi Kanunları', tarihteki ilk yazılı anayasa ve en kapsamlı hukuk kuralları koleksiyonlarından biridir. 'Göz göze, diş dişe' prensibine dayanan bu kanunlar, hukuk tarihinde çok önemli bir yere sahiptir.",
+    "options": [
+      {
+        "text": "On İki Levha Kanunları",
+        "isCorrect": false
+      },
+      {
+        "text": "Magn Carta",
+        "isCorrect": false
+      },
+      {
+        "text": "Hammurabi Kanunları",
+        "isCorrect": true
+      },
+      {
+        "text": "Rodos Deniz Kanunu",
+        "isCorrect": false
+      },
+      {
+        "text": "Justinianus Kanunları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Uygarlığın Doğuşu ve İlk Uygarlıklar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Orta Asya'da kurulan ilk Türk devletlerinde, hükümdarın eşi olan hatun aşağıdaki görevlerden hangisini üstlenmiştir?",
+    "explanation": "İlk Türk devletlerinde hükümdarın eşi olan hatun, devlet yönetiminde önemli bir role sahipti. Kurultay (Toy) adı verilen meclise katılma hakkı vardı ve hükümdar olmadığı zamanlarda ona vekalet edebilirdi. Bu, Türk devlet geleneğinde kadına verilen değeri gösteren önemli bir örnektir.",
+    "options": [
+      {
+        "text": "Ordunun başkomutanlığını yapmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Vergileri toplamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Kurultay'a katılmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Dini törenleri yönetmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Elçileri kabul etmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Türk Devletleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki olaylardan hangisi Hz. Muhammed (SAV) döneminde gerçekleşmiş ve Müslümanların siyasi bir güç olarak tanınmasında önemli bir dönüm noktası olmuştur?",
+    "explanation": "Hz. Muhammed (SAV) döneminde 628 yılında Mekkeli müşriklerle yapılan Hudeybiye Antlaşması, görünüşte Müslümanların aleyhine gibi görünse de aslında çok önemli bir siyasi başarıydı. Mekkeliler, bu antlaşma ile İslam devletini resmen tanımış oldu. Bu antlaşmayı takip eden barış dönemi, İslam'ın yayılması için büyük bir fırsat yaratmıştır.",
+    "options": [
+      {
+        "text": "Bedir Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Mute Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hudeybiye Antlaşması",
+        "isCorrect": true
+      },
+      {
+        "text": "Hayber'in Fethi",
+        "isCorrect": false
+      },
+      {
+        "text": "Mekke'nin Fethi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Tarihi ve Uygarlığı",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  }
+]
