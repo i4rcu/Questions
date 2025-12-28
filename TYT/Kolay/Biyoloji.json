@@ -298,5 +298,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi biyolojinin alt bilim dallarından biri değildir?",
+    "explanation": "Biyoloji, canlıları ve yaşamı inceleyen bilim dalıdır ve alt dalları arasında botanik (bitkileri inceler), zooloji (hayvanları inceler), mikrobiyoloji (mikroorganizmaları inceler) ve genetik (kalıtımı inceler) bulunur. Jeomorfoloji ise yeryüzü şekillerini inceleyen bir fiziki coğrafya alt dalıdır ve biyolojinin bir alt bilim dalı değildir.",
+    "options": [
+      {
+        "text": "Botanik",
+        "isCorrect": false
+      },
+      {
+        "text": "Zooloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Mikrobiyoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetik",
+        "isCorrect": false
+      },
+      {
+        "text": "Jeomorfoloji",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
   }
 ]
