@@ -1,0 +1,482 @@
+[
+  {
+    "text": "Durmakta olan bir cisme etki eden net kuvvet sıfırdan farklı ise cisim için ne söylenebilir?",
+    "explanation": "Bir cisme etki eden net kuvvet sıfırdan farklıysa, Newton'un ikinci hareket yasasına (Fnet = m.a) göre cisim ivmelenir. Başlangıçta duran bir cisim için bu, harekete geçeceği anlamına gelir.",
+    "options": [
+      {
+        "text": "Hızlanır",
+        "isCorrect": true
+      },
+      {
+        "text": "Sabit hızla hareket eder",
+        "isCorrect": false
+      },
+      {
+        "text": "Yavaşlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Durmaya devam eder",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerjisi korunur",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet ve Hareket",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz bir yatay düzlemde durmakta olan 2 kg kütleli bir cisme 10 N'luk yatay bir kuvvet uygulanıyor. Cismin ivmesi kaç m/s² olur?",
+    "explanation": "Newton'un ikinci yasası F = m.a formülü ile hesaplanır. Burada F=10 N ve m=2 kg'dır. Buna göre a = F/m = 10/2 = 5 m/s² olur.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet ve Hareket",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir araba 20 m/s sabit hızla hareket ediyor. Bu araba için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Cisim sabit hızla hareket ettiğine göre ivmesi sıfırdır. Newton'un birinci yasasına göre, cisme etki eden net kuvvet de sıfır olmalıdır.",
+    "options": [
+      {
+        "text": "Net kuvvet sıfırdır",
+        "isCorrect": true
+      },
+      {
+        "text": "İvmesi pozitiftir",
+        "isCorrect": false
+      },
+      {
+        "text": "Net kuvvet hareket yönündedir",
+        "isCorrect": false
+      },
+      {
+        "text": "Hızı artmaktadır",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerjisi azalmaktadır",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet ve Hareket",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yer çekimi ivmesinin 10 m/s² olduğu bir ortamda, serbest bırakılan bir cisim 3 saniye sonra hızı kaç m/s olur?",
+    "explanation": "Serbest düşmede hız formülü v = g.t'dir. g=10 m/s² ve t=3 s için v = 10 * 3 = 30 m/s olur.",
+    "options": [
+      {
+        "text": "30",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet ve Hareket",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aynı sıcaklıktaki demir ve bakır çubukların boyları eşittir. Sıcaklıkları eşit miktarda artırıldığında hangi çubuk daha fazla uzar? (αdemir > αbakır)",
+    "explanation": "Boyca genleşme miktarı ΔL = L0 . α . ΔT formülü ile bulunur. Başlangıç boyları (L0) ve sıcaklık değişimi (ΔT) aynı olduğu için, genleşme katsayısı (α) daha büyük olan demir çubuk daha fazla uzar.",
+    "options": [
+      {
+        "text": "Demir çubuk",
+        "isCorrect": true
+      },
+      {
+        "text": "Bakır çubuk",
+        "isCorrect": false
+      },
+      {
+        "text": "İkisi de aynı uzunlukta uzar",
+        "isCorrect": false
+      },
+      {
+        "text": "Uzama miktarı kütleye bağlıdır",
+        "isCorrect": false
+      },
+      {
+        "text": "Bakır çubuk kısalır",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "0°C'deki 1 gram buz ile 0°C'deki 1 gram suyun iç enerjileri karşılaştırıldığında ne söylenebilir?",
+    "explanation": "Aynı sıcaklıkta olmalarına rağmen, buz erimek için latent (gizli) ısıya ihtiyaç duyar. Bu nedenle, suyun iç enerjisi, buzun iç enerjisinden daha fazladır.",
+    "options": [
+      {
+        "text": "Suyun iç enerjisi daha fazladır",
+        "isCorrect": true
+      },
+      {
+        "text": "Buzun iç enerjisi daha fazladır",
+        "isCorrect": false
+      },
+      {
+        "text": "İç enerjileri eşittir",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıcaklıkları aynı olduğu için karşılaştırılamaz",
+        "isCorrect": false
+      },
+      {
+        "text": "İç enerji kütleye bağlı değildir",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hangisi sıcaklık birimidir?",
+    "explanation": "Sıcaklık birimi Kelvin (K), Celsius (°C) ve Fahrenheit (°F)'dir. Joule (J) ise enerji ve iş birimidir, sıcaklık birimi değildir.",
+    "options": [
+      {
+        "text": "Joule",
+        "isCorrect": false
+      },
+      {
+        "text": "Kelvin",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Watt",
+        "isCorrect": false
+      },
+      {
+        "text": "Pascal",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir maddenin sıcaklığını 1°C artırmak için gerekli ısı miktarı aşağıdakilerden hangisi ile ifade edilir?",
+    "explanation": "Bir maddenin sıcaklığını 1°C değiştirmek için gerekli ısı miktarına o maddenin öz ısısı (ısınma ısısı) denir.",
+    "options": [
+      {
+        "text": "Öz ısı",
+        "isCorrect": true
+      },
+      {
+        "text": "İç enerji",
+        "isCorrect": false
+      },
+      {
+        "text": "Erime ısısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Buharlaşma ısısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Genleşme katsayısı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Isı, Sıcaklık ve Genleşme",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "İki iletken küre birbirine dokundurulduğunda yükler nasıl davranır?",
+    "explanation": "Aynı boyuttaki iletken küreler birbirine dokundurulduğunda, toplam yük korunur ve yükler küreler arasında eşit olarak paylaşılır.",
+    "options": [
+      {
+        "text": "Yükler eşit olarak paylaşılır",
+        "isCorrect": true
+      },
+      {
+        "text": "Pozitif yükler bir kürede toplanır",
+        "isCorrect": false
+      },
+      {
+        "text": "Negatif yükler bir kürede toplanır",
+        "isCorrect": false
+      },
+      {
+        "text": "Yükler birbirini nötrler",
+        "isCorrect": false
+      },
+      {
+        "text": "Küreler arasında yük akışı olmaz",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Direnci 10 Ω olan bir iletkenden 2 A akım geçiyor. İletkenin uçları arasındaki potansiyel fark kaç volttur?",
+    "explanation": "Ohm Yasası'na göre V = I . R'dir. I=2 A ve R=10 Ω için V = 2 * 10 = 20 V olur.",
+    "options": [
+      {
+        "text": "20 V",
+        "isCorrect": true
+      },
+      {
+        "text": "5 V",
+        "isCorrect": false
+      },
+      {
+        "text": "12 V",
+        "isCorrect": false
+      },
+      {
+        "text": "0.2 V",
+        "isCorrect": false
+      },
+      {
+        "text": "200 V",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir elektrik devresinde akımı ölçmek için kullanılan alet hangisidir?",
+    "explanation": "Ampermetre elektrik akımını ölçmek için kullanılır ve devreye seri bağlanır.",
+    "options": [
+      {
+        "text": "Ampermetre",
+        "isCorrect": true
+      },
+      {
+        "text": "Voltmetre",
+        "isCorrect": false
+      },
+      {
+        "text": "Ohmmetre",
+        "isCorrect": false
+      },
+      {
+        "text": "Dinamometre",
+        "isCorrect": false
+      },
+      {
+        "text": "Termometre",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi manyetik alan oluşturabilir?",
+    "explanation": "Hareketli yükler (akım) manyetik alan oluşturur. Sabit yük ise sadece elektrik alan oluşturur.",
+    "options": [
+      {
+        "text": "Hareketli bir elektrik yükü",
+        "isCorrect": true
+      },
+      {
+        "text": "Durgun bir elektrik yükü",
+        "isCorrect": false
+      },
+      {
+        "text": "Nötr bir cisim",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalıtılmış bir iletken",
+        "isCorrect": false
+      },
+      {
+        "text": "Plastik bir çubuk",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik ve Manyetizma",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "10 Newton'luk bir kuvvet, bir cismi kuvvet yönünde 5 metre hareket ettiriyor. Yapılan iş kaç Joule'dür?",
+    "explanation": "İş, kuvvet ve yolun çarpımına eşittir (W = F . x). F=10 N ve x=5 m için W = 10 * 5 = 50 J olur.",
+    "options": [
+      {
+        "text": "50 J",
+        "isCorrect": true
+      },
+      {
+        "text": "2 J",
+        "isCorrect": false
+      },
+      {
+        "text": "15 J",
+        "isCorrect": false
+      },
+      {
+        "text": "100 J",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 J",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir vinç 1000 Joule'lük işi 10 saniyede yapıyor. Vincin gücü kaç Watt'tır?",
+    "explanation": "Güç, işin zamana bölümüdür (P = W / t). W=1000 J ve t=10 s için P = 1000 / 10 = 100 W olur.",
+    "options": [
+      {
+        "text": "100 W",
+        "isCorrect": true
+      },
+      {
+        "text": "10 W",
+        "isCorrect": false
+      },
+      {
+        "text": "1000 W",
+        "isCorrect": false
+      },
+      {
+        "text": "10000 W",
+        "isCorrect": false
+      },
+      {
+        "text": "1 W",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yerden 4 metre yüksekte duran 2 kg kütleli bir cismin potansiyel enerjisi kaç Joule'dür? (g=10 m/s²)",
+    "explanation": "Potansiyel enerji formülü EP = m . g . h'dır. m=2 kg, g=10 m/s², h=4 m için EP = 2 * 10 * 4 = 80 J olur.",
+    "options": [
+      {
+        "text": "80 J",
+        "isCorrect": true
+      },
+      {
+        "text": "8 J",
+        "isCorrect": false
+      },
+      {
+        "text": "40 J",
+        "isCorrect": false
+      },
+      {
+        "text": "20 J",
+        "isCorrect": false
+      },
+      {
+        "text": "160 J",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Ağırlığı 50 N olan bir cisim, tamamen sıvı içine batırıldığında sıvı tarafından uygulanan kaldırma kuvveti 20 N olarak ölçülüyor. Buna göre, cismin sıvı içindeki görünen ağırlığı kaç N'dir?",
+    "explanation": "Bir cisme sıvı içinde etki eden kaldırma kuvveti, cismin ağırlığını azaltır. Görünen ağırlık, gerçek ağırlıktan kaldırma kuvvetinin çıkarılmasıyla bulunur. Bu durumda: Görünen Ağırlık = Gerçek Ağırlık - Kaldırma Kuvveti = 50 N - 20 N = 30 N.",
+    "options": [
+      {
+        "text": "30 N",
+        "isCorrect": true
+      },
+      {
+        "text": "20 N",
+        "isCorrect": false
+      },
+      {
+        "text": "50 N",
+        "isCorrect": false
+      },
+      {
+        "text": "70 N",
+        "isCorrect": false
+      },
+      {
+        "text": "10 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kaldırma Kuvveti",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  }
+]
