@@ -1,0 +1,182 @@
+[
+  {
+    "text": "Tarih biliminde, bir olayın meydana geldiği dönemin şartları, inançları ve değer yargıları göz önünde bulundurularak değerlendirilmesi gerektiğini savunan ilke aşağıdakilerden hangisidir?",
+    "explanation": "Tarih biliminde 'Objektiflik' ilkesi, olayları kendi döneminin koşulları içinde, önyargılardan uzak ve tarafsız bir şekilde değerlendirmeyi gerektirir. Bu, geçmişi bugünün değer yargılarıyla yargılamamak anlamına gelir.",
+    "options": [
+      {
+        "text": "Objektiflik",
+        "isCorrect": true
+      },
+      {
+        "text": "Nedensellik",
+        "isCorrect": false
+      },
+      {
+        "text": "Yer-Zaman Belirtme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kronoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişkenlik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, Mezopotamya uygarlıklarının dünya kültürüne yaptığı en önemli katkılardan biri olarak kabul edilir?",
+    "explanation": "Mezopotamya uygarlıkları (Sümerler başta olmak üzere) tarihte bilinen ilk yazılı kanunları oluşturmuşlardır. Hammurabi Kanunları, yazılı hukuk sisteminin en erken ve en sistemli örneklerinden biridir.",
+    "options": [
+      {
+        "text": "Yazılı hukuk kurallarını oluşturmaları",
+        "isCorrect": true
+      },
+      {
+        "text": "Mumyalama tekniğini geliştirmeleri",
+        "isCorrect": false
+      },
+      {
+        "text": "İlk parayı icat etmeleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Demokrasi yönetimini başlatmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Feodal sistemi uygulamaları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Uygarlığın Doğuşu ve İlk Uygarlıklar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Orta Asya'da kurulan ilk Türk devletlerinde, hükümdarın devleti yönetme yetkisinin Tanrı tarafından verildiğine inanılan yönetim anlayışı aşağıdakilerden hangisidir?",
+    "explanation": "İlk Türk devletlerindeki hakim yönetim anlayışı 'Kut İnancı'dır. Bu inanışa göre, hükümdarlık yetkisi (kut) Gök Tanrı tarafından verilir ve bu yetki kan yoluyla hükümdar ailesinin erkek üyelerine geçerdi.",
+    "options": [
+      {
+        "text": "Kut İnancı",
+        "isCorrect": true
+      },
+      {
+        "text": "Ülüş Sistemi",
+        "isCorrect": false
+      },
+      {
+        "text": "Federatif Sistem",
+        "isCorrect": false
+      },
+      {
+        "text": "Mutlakiyet",
+        "isCorrect": false
+      },
+      {
+        "text": "Meşrutiyet",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Türk Devletleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki olaylardan hangisi, İslam tarihinde Müslümanlar arasında ilk ayrılıkların kesin olarak ortaya çıkmasına ve mezhep ayrımının başlamasına neden olmuştur?",
+    "explanation": "Hz. Osman'ın şehit edilmesinin ardından yaşanan siyasi karışıklık, Hz. Ali ile Muaviye arasında Sıffin Savaşı'na yol açmıştır. Bu savaş sırasında ve sonrasında yaşanan Hakem Olayı, Müslümanlar arasında siyasi temelli ilk kalıcı bölünmeye (Haricilik, Şiilik) neden olmuştur.",
+    "options": [
+      {
+        "text": "Hakem Olayı",
+        "isCorrect": true
+      },
+      {
+        "text": "Bedir Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Mute Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hendek Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hudeybiye Antlaşması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Tarihi ve Uygarlığı",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Büyük Selçuklu Devleti'nde, eyaletlerdeki askeri ve idari işlerden sorumlu olan, aynı zamanda bulunduğu bölgede hükümdarı temsil eden görevli aşağıdakilerden hangisidir?",
+    "explanation": "Büyük Selçuklu Devleti'nde merkezi yönetimin taşradaki temsilcisi ve eyalet yöneticisi olan kişiye 'Melik' veya daha yaygın olarak bu görevi üstlenen hanedan üyesi olmayan kişiler için 'Şıhne' denirdi. Ancak eyaletlerin genel yöneticisi ve hükümdar naibi konumundaki kişi 'Melik'tir. Bu soruda eyalet yöneticisi anlamında en kapsayıcı terim 'Melik'tir.",
+    "options": [
+      {
+        "text": "Melik",
+        "isCorrect": true
+      },
+      {
+        "text": "Atabey",
+        "isCorrect": false
+      },
+      {
+        "text": "Kadı",
+        "isCorrect": false
+      },
+      {
+        "text": "Vezir",
+        "isCorrect": false
+      },
+      {
+        "text": "Subaşı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türk-İslam Devletleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Türklerin İslamiyet'i kabul sürecinde, savaşlar kadar ticari ve kültürel ilişkilerin de önemli bir rol oynamasının temel nedeni aşağıdakilerden hangisidir?",
+    "explanation": "Türkler ile Müslüman Araplar arasındaki uzun süreli ticari ve kültürel temas, Türklerin İslam dinini, Arap fetih ordularının bir dayatması olarak değil, yakından tanıma ve anlama fırsatı buldukları bir inanç sistemi olarak görmelerini sağlamıştır. Bu yumuşak geçiş, İslamiyet'in Türkler arasında benimsenmesini kolaylaştırmıştır.",
+    "options": [
+      {
+        "text": "İslamiyet'in özelliklerini yakından tanıma fırsatı sunması",
+        "isCorrect": true
+      },
+      {
+        "text": "Türklerin savaşlarda sürekli yenilgiye uğraması",
+        "isCorrect": false
+      },
+      {
+        "text": "Abbasi halifelerinin Türklere ekonomik yardım yapması",
+        "isCorrect": false
+      },
+      {
+        "text": "Arapça'nın resmi dil olarak kabul edilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Türk boylarının tamamının aynı anda Müslüman olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkler'in İslamiyeti Kabulü",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Tarih"
+  }
+]
