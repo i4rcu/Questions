@@ -1,0 +1,332 @@
+[
+  {
+    "text": "Bir doğru üzerinde bulunan A, B, C noktaları için |AB| = |BC|'dir. [BD, açıortay olmak üzere m(ABD) = 30° ise m(DBC) kaç derecedir?",
+    "explanation": "A, B, C noktaları doğrusal olduğu için ABC açısı 180°'dir. |AB| = |BC| olduğu belirtilmiş ancak bu uzunluk bilgisi açı hesabında doğrudan kullanılmaz. [BD, açıortay olduğuna göre, ABD açısını ve DBC açısını iki eşit parçaya ayırır. Verilen m(ABD) = 30° ise, bu zaten açıortayın oluşturduğu açılardan biridir. Açıortay tanımı gereği, m(ABD) = m(DBC) olmalıdır. Bu nedenle m(DBC) de 30°'dir.",
+    "options": [
+      {
+        "text": "30",
+        "isCorrect": true
+      },
+      {
+        "text": "45",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      },
+      {
+        "text": "120",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir ABC üçgeninde |AB| = 8 cm, |AC| = 6 cm ve |BC| = 7 cm'dir. Buna göre aşağıdaki açılardan hangisi en büyüktür?",
+    "explanation": "Bir üçgende bir kenarın karşısındaki açı, kenar uzunluğu ile doğru orantılıdır. En uzun kenarın karşısındaki açı en büyük, en kısa kenarın karşısındaki açı en küçüktür. Kenar uzunlukları 8 cm, 6 cm ve 7 cm'dir. En uzun kenar |AB| = 8 cm'dir. Bu kenarın karşısındaki açı C açısıdır. Bu nedenle en büyük açı C açısıdır.",
+    "options": [
+      {
+        "text": "A açısı",
+        "isCorrect": false
+      },
+      {
+        "text": "B açısı",
+        "isCorrect": false
+      },
+      {
+        "text": "C açısı",
+        "isCorrect": true
+      },
+      {
+        "text": "A ve B açıları eşit",
+        "isCorrect": false
+      },
+      {
+        "text": "B ve C açıları eşit",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açı-Kenar Bağıntıları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC ve DEF üçgenleri benzerdir. |AB| = 6 cm, |DE| = 18 cm ve |BC| = 5 cm'dir. Buna göre |EF| kaç cm'dir?",
+    "explanation": "ABC ve DEF üçgenleri benzer olduğu için kenar uzunlukları orantılıdır. AB kenarının DE kenarına oranı, BC kenarının EF kenarına oranına eşit olmalıdır. |AB|/|DE| = |BC|/|EF| => 6/18 = 5/|EF|. İçler dışlar çarpımı yaparsak: 6 * |EF| = 18 * 5 => 6|EF| = 90 => |EF| = 15 cm.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Benzerlik",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AN] hem kenarortay hem de açıortaydır. |AB| = 12 cm ve |AC| = 12 cm ise bu üçgen için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Bir üçgende bir kenara ait kenarortay aynı zamanda o kenarın karşısındaki köşeden çıkan açıortay ise, bu üçgen ikizkenar üçgendir. Burada [AN] hem kenarortay hem de açıortay olduğu ve |AB| = |AC| = 12 cm verildiği için üçgen zaten ikizkenardır. Bu durumda, kenarortay aynı zamanda yüksekliktir ve tabanı iki eşit parçaya böler.",
+    "options": [
+      {
+        "text": "Üçgen ikizkenardır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Üçgen çeşitkenardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "|BC| = 10 cm'dir.",
+        "isCorrect": false
+      },
+      {
+        "text": "A açısı 90°'dir.",
+        "isCorrect": false
+      },
+      {
+        "text": "[AN] yükseklik değildir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay-Kenarortay",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dik üçgenin dik kenar uzunlukları 6 cm ve 8 cm'dir. Buna göre hipotenüs uzunluğu kaç cm'dir?",
+    "explanation": "Dik üçgende hipotenüsün uzunluğu Pisagor teoremi ile bulunur: Hipotenüs² = Birinci dik kenar² + İkinci dik kenar². H² = 6² + 8² = 36 + 64 = 100. H = √100 = 10 cm.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik Üçgen",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "İkizkenar bir ABC üçgeninde |AB| = |AC|'dir. Taban açılarından biri 40° ise tepe açısı (A açısı) kaç derecedir?",
+    "explanation": "İkizkenar üçgende taban açıları eşittir. Bir taban açısı 40° ise diğer taban açısı da 40°'dir. Bir üçgenin iç açıları toplamı 180° olduğundan, tepe açısı A = 180° - (40° + 40°) = 180° - 80° = 100°'dir.",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "80",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": true
+      },
+      {
+        "text": "120",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İkizkenar Üçgen",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir eşkenar üçgenin bir kenar uzunluğu 10 cm ise çevresi kaç cm'dir?",
+    "explanation": "Eşkenar üçgenin tüm kenar uzunlukları eşittir. Bir kenarı 10 cm ise çevresi 3 * 10 cm = 30 cm'dir.",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": true
+      },
+      {
+        "text": "40",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Eşkenar Üçgen",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dik üçgenin dik kenar uzunlukları 5 cm ve 12 cm'dir. Bu üçgenin alanı kaç cm²'dir?",
+    "explanation": "Dik üçgende dik kenarlar aynı zamanda taban ve yükseklik olarak alınabilir. Alan = (Dik kenar1 * Dik kenar2) / 2 formülü ile hesaplanır. Alan = (5 cm * 12 cm) / 2 = 60 / 2 = 30 cm².",
+    "options": [
+      {
+        "text": "30",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "120",
+        "isCorrect": false
+      },
+      {
+        "text": "17",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Alan",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir düzgün beşgenin bir iç açısı kaç derecedir?",
+    "explanation": "Düzgün bir çokgenin bir iç açısının ölçüsü formülü: [(n-2) * 180] / n'dir. Burada n kenar sayısıdır. Beşgen için n=5'tir. Bir iç açı = [(5-2)*180]/5 = (3*180)/5 = 540/5 = 108°.",
+    "options": [
+      {
+        "text": "72",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      },
+      {
+        "text": "108",
+        "isCorrect": true
+      },
+      {
+        "text": "120",
+        "isCorrect": false
+      },
+      {
+        "text": "135",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çokgenler",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Aşağıdaki dörtgenlerden hangisinin köşegenleri her zaman birbirini ortalar?",
+    "explanation": "Paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin köşegenleri birbirini ortalar. Yamuğun köşegenleri birbirini ortalama zorunluluğu yoktur. Seçenekler arasında verilen ve köşegenleri her zaman birbirini ortalayan dörtgen paralelkenardır.",
+    "options": [
+      {
+        "text": "Yamuk",
+        "isCorrect": false
+      },
+      {
+        "text": "Deltoid",
+        "isCorrect": false
+      },
+      {
+        "text": "Paralelkenar",
+        "isCorrect": true
+      },
+      {
+        "text": "Herhangi bir dörtgen",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece kare",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dörtgenler",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Yamuğun tanımı aşağıdakilerden hangisidir?",
+    "explanation": "Yamuk, yalnızca iki kenarı paralel olan dörtgendir. Bu paralel kenarlara yamuğun tabanları denir.",
+    "options": [
+      {
+        "text": "Tüm kenar uzunlukları eşit olan dörtgendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karşılıklı kenarları paralel olan dörtgendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca iki kenarı paralel olan dörtgendir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tüm açıları dik olan dörtgendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Köşegenleri dik kesişen dörtgendir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yamuk-Paralelkenar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  }
+]
