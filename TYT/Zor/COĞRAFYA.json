@@ -1,0 +1,152 @@
+[
+  {
+    "text": "İnsanın doğal çevre üzerindeki etkisi, doğal sistemlerin işleyişini önemli ölçüde değiştirebilmektedir. Aşağıdaki insan faaliyetlerinden hangisi, doğadaki karbon döngüsünün dengesini bozucu etkiye sahip olmakla birlikte, küresel ısınmanın temel nedenlerinden biri olarak kabul edilmektedir?",
+    "explanation": "Fosil yakıtların (kömür, petrol, doğal gaz) yakılması, atmosfere uzun süredir toprak altında depolanmış karbonun (CO2) salınmasına neden olur. Bu durum, doğal karbon döngüsünün dengesini bozarak sera etkisini artırır ve küresel ısınmanın en önemli antropojenik (insan kaynaklı) sebebidir. Diğer seçenekler çevreye olumsuz etkileri olsa da küresel ısınmanın birincil nedeni değildir.",
+    "options": [
+      {
+        "text": "Fosil yakıtların yoğun şekilde kullanılması",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarım alanlarının genişletilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi atıklarının su kaynaklarına karışması",
+        "isCorrect": false
+      },
+      {
+        "text": "Orman yangınlarının çıkarılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kentsel yapılaşmanın artması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Doğa",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Dünya'nın ekseni etrafındaki dönüş hareketi, birçok coğrafi olgunun temel nedenidir. Aşağıdaki olgulardan hangisi, Dünya'nın bu hareketinin bir sonucu olarak meydana gelir ve aynı enlem üzerindeki tüm noktalarda aynı şekilde gözlemlenir?",
+    "explanation": "Dünya'nın kendi ekseni etrafındaki dönüşü (günlük hareket), gece ve gündüzün ardalanmasının (birbirini takip etmesinin) tek nedenidir. Bu olgu, aynı enlem üzerindeki tüm noktalarda, güneş ışınlarının geliş açısı ve gündüz süresi farklı olsa da, mutlaka gerçekleşir. Mevsimler, eksen eğikliği ve yıllık hareketin; yerel saat farkları ise boylamın sonucudur.",
+    "options": [
+      {
+        "text": "Gece ve gündüzün ardalanması",
+        "isCorrect": true
+      },
+      {
+        "text": "Mevsimlerin oluşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yerel saat farklarının ortaya çıkması",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş ışınlarının geliş açısının değişmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Muson rüzgarlarının yön değiştirmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya'nın Şekli ve Hareketleri",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Bir yerin coğrafi konumu, o yerin doğal ve beşeri özellikleri üzerinde belirleyici rol oynar. Aşağıdaki özelliklerden hangisi, bir yerin özel konum özelliklerinden biri olarak kabul edilir?",
+    "explanation": "Özel konum, bir yerin; denizlere göre konumu, yükseltisi, yer şekilleri, komşu ülkelere yakınlığı, ulaşım yolları üzerinde bulunması gibi faktörlerdir. Bir dağ yamacında yer almak, yükselti ve yer şekilleri ile ilgili olduğu için özel konumun bir sonucudur. Matematik konum ise enlem ve boylam dereceleriyle ifade edilir; güneş ışınlarının geliş açısı, çizgisel hız, gece-gündüz süre farkı gibi olgular matematik konumla doğrudan ilişkilidir.",
+    "options": [
+      {
+        "text": "Bir dağ yamacında yer alması",
+        "isCorrect": true
+      },
+      {
+        "text": "Ekvator'a uzaklığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş ışınlarının geliş açısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Çizgisel hızın değeri",
+        "isCorrect": false
+      },
+      {
+        "text": "Gece-gündüz süre farkı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Coğrafi Konum",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Haritalarda uzunluk ve alan hesaplamaları yapılırken ölçek bilgisi kritik öneme sahiptir. 1/500.000 ölçekli bir haritada 8 cm ile gösterilen bir göl, 1/200.000 ölçekli bir haritada kaç cm ile gösterilir?",
+    "explanation": "Ölçek değiştiğinde gerçek uzunluk sabit kalır. İlk ölçeğe göre gerçek uzunluk hesaplanır: Gerçek Uzunluk = Harita Uzunluğu * Ölçek Paydası = 8 cm * 500.000 = 4.000.000 cm. Bu gerçek uzunluk, yeni ölçekle harita uzunluğuna çevrilir: Yeni Harita Uzunluğu = Gerçek Uzunluk / Yeni Ölçek Paydası = 4.000.000 cm / 200.000 = 20 cm.",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12.5",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Harita Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Atmosferdeki sıcaklık dağılışını etkileyen faktörlerden biri de nemdir. Yüksek nem oranına sahip bir bölge ile kurak bir bölge aynı enlemde ve aynı güneş ışınımına maruz kalsa bile günlük sıcaklık farkları açısından farklılık gösterir. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
+    "explanation": "Nem, havadaki su buharı miktarıdır. Su buharı, güneşten gelen kısa dalga boylu ışınları çok az tutarken, yerden yansıyan uzun dalga boylu kızılötesi ışınları (yer ışıması) çok iyi tutar. Bu nedenle nemli bölgelerde, bulutsuz gecelerde yerin ısı kaybı yavaşlar ve gece ile gündüz arasındaki sıcaklık farkı (günlük sıcaklık amplitüdü) azalır. Kurak bölgelerde ise nem az olduğu için ısı kaybı hızlı olur ve günlük sıcaklık farkı fazladır.",
+    "options": [
+      {
+        "text": "Nem'in yer ışımasını tutma özelliği",
+        "isCorrect": true
+      },
+      {
+        "text": "Nem'in güneş ışınlarını daha fazla soğurması",
+        "isCorrect": false
+      },
+      {
+        "text": "Nemli havanın yoğunluğunun daha az olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Nem'in rüzgar hızını azaltıcı etkisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Nem'in albedo değerini yükseltmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atmosfer ve Sıcaklık",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  }
+]
