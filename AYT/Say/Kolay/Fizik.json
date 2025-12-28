@@ -1,0 +1,1056 @@
+[
+  {
+    "text": "Aşağıdaki cihazlardan hangisinin çalışma prensibi modern fiziğin teknolojik uygulamalarına örnek olarak gösterilemez?",
+    "explanation": "Elektrik motoru, temel olarak manyetizma ve elektromanyetizma prensiplerine dayanır ve klasik fizik kapsamında değerlendirilir. Diğer seçeneklerdeki cihazlar ise (lazer, MRI, süper iletken mıknatıs, LED) kuantum mekaniği veya görelilik gibi modern fizik teorilerinin uygulamalarıdır.",
+    "options": [
+      {
+        "text": "Lazer",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik Rezonans Görüntüleme (MRI)",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektrik motoru",
+        "isCorrect": true
+      },
+      {
+        "text": "Süper iletken mıknatıslar",
+        "isCorrect": false
+      },
+      {
+        "text": "LED (Işık Yayan Diyot)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fiziğin Teknolojideki Uygulamaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "LED'lerin (Işık Yayan Diyot) çalışma prensibi aşağıdaki modern fizik kavramlarından hangisi ile doğrudan ilişkilidir?",
+    "explanation": "LED'ler, bir yarı iletken malzeme içinde elektron ve boşlukların birleşmesi (rekombinasyonu) sonucu foton yayılması prensibiyle çalışır. Bu olay, enerji seviyeleri ve bant aralığı gibi kuantum mekaniği kavramlarına dayanır.",
+    "options": [
+      {
+        "text": "Özel görelilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Fotoelektrik olay",
+        "isCorrect": false
+      },
+      {
+        "text": "Süper iletkenlik",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji seviyeleri ve bant aralığı",
+        "isCorrect": true
+      },
+      {
+        "text": "X-ışını difraksiyonu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fiziğin Teknolojideki Uygulamaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Süper iletkenlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Süper iletkenlik, belirli malzemelerin kritik bir sıcaklığın altına soğutulduğunda elektriksel dirençlerinin tamamen sıfırlandığı ve manyetik alanı içlerinden attıkları (Meissner etkisi) bir olgudur.",
+    "options": [
+      {
+        "text": "Oda sıcaklığında süper iletkenlik gözlenir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Süper iletkenler manyetik alanı içlerine hapseder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Süper iletkenlik, belirli bir kritik sıcaklığın altında direncin sıfırlanmasıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Süper iletkenler yalnızca metallerde görülür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Süper iletkenlik klasik fizik yasaları ile tamamen açıklanabilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fiziğin Teknolojideki Uygulamaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Lazer ışığının temel özelliklerinden biri aşağıdakilerden hangisidir?",
+    "explanation": "Lazer ışığı, uyarılmış ışıma yoluyla üretildiği için tüm dalga tepeleri aynı fazdadır. Bu durum lazer ışığına yüksek bir 'dalga boyu tekdüzeliği' veya 'tek renklilik (monokromatiklik)' özelliği kazandırır.",
+    "options": [
+      {
+        "text": "Geniş bir dalga boyu aralığına sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Farklı fazlarda dalgalardan oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yüksek tekdüzelik (koherens) ve tek renklilik özelliğine sahiptir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Düşük enerji yoğunluğuna sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kendiliğinden ve dağınık olarak yayılır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fiziğin Teknolojideki Uygulamaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Manyetik alan içinde hareket eden yüklü bir parçacığa etki eden manyetik kuvvetin büyüklüğü aşağıdakilerden hangisine bağlı değildir?",
+    "explanation": "Manyetik kuvvetin formülü F = q*v*B*sinθ'dır. Burada q yük, v hız, B manyetik alan şiddeti ve θ ise hız ve manyetik alan vektörleri arasındaki açıdır. Manyetik kuvvet, parçacığın kütlesine (m) bağlı değildir.",
+    "options": [
+      {
+        "text": "Parçacığın yüküne",
+        "isCorrect": false
+      },
+      {
+        "text": "Parçacığın hızına",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik alanın şiddetine",
+        "isCorrect": false
+      },
+      {
+        "text": "Parçacığın kütlesine",
+        "isCorrect": true
+      },
+      {
+        "text": "Hız ve manyetik alan vektörleri arasındaki açıya",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Manyetik alan çizgileri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Manyetik alan çizgileri kapalı eğrilerdir. Kuzey kutbundan çıkıp güney kutbuna girerler, ancak mıknatısın içinden geçerek tekrar kuzey kutbuna dönerler, böylece bir kapalı döngü oluştururlar. Asla başlangıçsız veya sonsuz değildirler.",
+    "options": [
+      {
+        "text": "Manyetik alan çizgileri kapalı eğrilerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik alan çizgileri birbirlerini kesmezler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik alan çizgilerinin sık olduğu yerde manyetik alan şiddeti fazladır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik alan çizgileri kuzey kutbundan çıkıp güney kutbuna girer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manyetik alan çizgileri başlangıçsız ve sonsuz çizgilerdir.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sayfa düzlemine dik ve dışarı doğru yönelmiş düzgün bir manyetik alan içinde, sayfa düzleminde sağa doğru hareket eden bir protona etki eden manyetik kuvvetin yönü aşağıdakilerden hangisidir?",
+    "explanation": "Sağ el kuralı uygulanır: Sağ elin dört parmağı hız yönünde (sağa), avuç içi manyetik alan yönünü gösterecek şekilde (dışarı, avuç açık) tutulduğunda, başparmak manyetik kuvvetin yönünü gösterir. Bu durumda başparmak yukarı yönü gösterir.",
+    "options": [
+      {
+        "text": "Sayfa düzlemine dik ve içeri",
+        "isCorrect": false
+      },
+      {
+        "text": "Sayfa düzlemine dik ve dışarı",
+        "isCorrect": false
+      },
+      {
+        "text": "Sayfa düzleminde aşağı",
+        "isCorrect": false
+      },
+      {
+        "text": "Sayfa düzleminde yukarı",
+        "isCorrect": true
+      },
+      {
+        "text": "Manyetik kuvvet sıfırdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün bir manyetik alan içinde, alana dik olarak giren bir elektronun izleyeceği yol aşağıdakilerden hangisidir?",
+    "explanation": "Manyetik alana dik giren yüklü bir parçacığa etki eden manyetik kuvvet, her zaman hıza ve manyetik alana diktir. Bu, parçacığın hızının büyüklüğünü değiştirmeden yönünü değiştirir ve parçacığın düzgün dairesel hareket yapmasına neden olur.",
+    "options": [
+      {
+        "text": "Doğrusal bir yol",
+        "isCorrect": false
+      },
+      {
+        "text": "Parabolik bir yol",
+        "isCorrect": false
+      },
+      {
+        "text": "Dairesel bir yol",
+        "isCorrect": true
+      },
+      {
+        "text": "Helisel (sarmal) bir yol",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiçbir yola sapmaz, aynı doğrultuda ilerler.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hangi atom modeli, atomun pozitif yükünün ve kütlesinin merkezdeki küçük bir çekirdekte toplandığını öne sürmüştür?",
+    "explanation": "Rutherford, altın levha deneyi sonucunda atomun yapısının 'Güneş Sistemi' modeline benzediğini, yani pozitif yükün ve kütlenin büyük bir kısmının merkezdeki küçük bir çekirdekte toplandığını, elektronların ise bu çekirdeğin etrafında döndüğünü öne sürmüştür.",
+    "options": [
+      {
+        "text": "Thomson Atom Modeli (Üzümlü Kek Modeli)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bohr Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Rutherford Atom Modeli",
+        "isCorrect": true
+      },
+      {
+        "text": "Dalton Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Modern Atom Modeli (Bulut Modeli)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom Modelleri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bohr Atom Modeli'nin temel varsayımlarından biri aşağıdakilerden hangisidir?",
+    "explanation": "Bohr, elektronların çekirdek etrafında belirli enerji seviyelerine veya yörüngelere sahip olduğunu ve bu yörüngelerde dönerken enerji kaybetmeyeceklerini (ışıma yapmayacaklarını) öne sürmüştür. Elektron ancak enerji seviyeleri arasında geçiş yaparken enerji soğurur veya yayar.",
+    "options": [
+      {
+        "text": "Elektronlar herhangi bir yörüngede bulunabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar çekirdeğe düşer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar belirli enerji seviyelerinde kararlı halde bulunur ve ışıma yapmaz.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektronun yeri ve hızı aynı anda kesin olarak bilinebilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atom, pozitif yüklü bir küredir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom Modelleri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Thomson'ın 'Üzümlü Kek Modeli' olarak da bilinen atom modeline göre atomun yapısı nasıldır?",
+    "explanation": "Thomson'ın modelinde, atom pozitif yüklü bir küre (kek) olarak tasvir edilir ve negatif yüklü elektronlar (üzümler) bu pozitif yük denizinin içine rastgele dağılmış halde bulunur. Bu modelde çekirdek kavramı yoktur.",
+    "options": [
+      {
+        "text": "Pozitif yük ve kütle, küçük bir çekirdekte toplanmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atom, pozitif yüklü bir küre içine dağılmış negatif yüklerden oluşur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektronlar belirli enerji seviyelerinde döner.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar bir bulut şeklinde dağılmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atom içi mostly boşluktur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom Modelleri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Modern atom modeli (Kuantum Mekaniksel Model) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Modern atom modeli, Heisenberg'in Belirsizlik İlkesi'ni temel alır. Bu ilkeye göre, bir elektronun aynı anda hem konumu hem de momentumu (hızı) kesin olarak belirlenemez. Elektronlar orbitaller adı verilen bölgelerde bulunma olasılığı ile tanımlanır.",
+    "options": [
+      {
+        "text": "Elektronların kesin yörüngeleri vardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronun yeri ve hızı aynı anda kesin olarak bilinebilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronların bulunma olasılığının yüksek olduğu bölgelere orbital denir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Atomun yapısını klasik fizik yasaları ile açıklar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Rutherford modeli ile aynıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom Modelleri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün ve türdeş bir kare levhanın kütle merkezi nerededir?",
+    "explanation": "Simetri merkezi olan düzgün geometrik şekillerde (kare, dikdörtgen, daire, küre vb.) kütle merkezi, şeklin geometrik merkezi ile çakışır. Karenin kütle merkezi, köşegenlerin kesişim noktasıdır.",
+    "options": [
+      {
+        "text": "Bir köşesinde",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir kenarının orta noktasında",
+        "isCorrect": false
+      },
+      {
+        "text": "Geometrik merkezinde",
+        "isCorrect": true
+      },
+      {
+        "text": "Yerden yüksekliğine bağlıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Levhanın dışındadır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütleleri sırasıyla 2 kg ve 4 kg olan iki cisim, 6 metre uzunluğundaki homojen bir çubuğun uçlarına takılıyor. Bu sistemin kütle merkezi, 2 kg'lık kütleden kaç metre uzaktadır?",
+    "explanation": "Kütle merkezi formülü x_km = (m1*x1 + m2*x2) / (m1+m2) kullanılır. 2 kg'lık cismin konumu 0 m, 4 kg'lık cismin konumu 6 m alınırsa: x_km = (2*0 + 4*6) / (2+4) = 24 / 6 = 4 metre. Yani kütle merkezi, 2 kg'lık cisimden 4 metre uzaktadır.",
+    "options": [
+      {
+        "text": "2 m",
+        "isCorrect": false
+      },
+      {
+        "text": "3 m",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "6 m",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cismin kütle merkezi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Kütle merkezi, cismin tüm kütlesinin etki ettiği nokta olarak düşünülebilir. Cisim homojen ve simetrik ise kütle merkezi geometrik merkezle çakışır. Ağırlık kuvveti, bu noktadan aşağıya doğru etki eder.",
+    "options": [
+      {
+        "text": "Cismin dışında bir noktada olabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin en ağır parçasının üzerindedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin toplam kütlesinin etki ettiği noktadır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cismin konumuna bağlı değildir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Her zaman cismin tam ortasındadır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aynı düzlemde bulunan 3 N ve 4 N büyüklüğündeki iki kuvvetin bileşkesinin alabileceği en büyük değer kaç N'dur?",
+    "explanation": "İki vektörün bileşkesinin en büyük değeri, vektörler aynı yönde olduğunda elde edilir ve bu değer vektörlerin büyüklüklerinin toplamına eşittir. Bu durumda 3 N + 4 N = 7 N'dur.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir vektörün bileşenleri Fx = 6 birim ve Fy = 8 birim olarak veriliyor. Bu vektörün büyüklüğü kaç birimdir?",
+    "explanation": "Bir vektörün büyüklüğü, dik bileşenlerinin karelerinin toplamının kareköküne eşittir. Bu durumda büyüklük √(6² + 8²) = √(36 + 64) = √100 = 10 birimdir.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "48",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "28",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aynı düzlemde bulunan 5 N ve 12 N büyüklüğündeki iki kuvvet arasındaki açı 90° olduğunda bileşke kuvvetin büyüklüğü kaç N olur?",
+    "explanation": "Aralarındaki açı 90° olan iki vektörün bileşkesinin büyüklüğü, Pisagor teoremi ile √(5² + 12²) = √(25 + 144) = √169 = 13 N'dur.",
+    "options": [
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": true
+      },
+      {
+        "text": "17",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "169",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir vektörün büyüklüğü 10 birimdir. Bu vektörün yatay bileşeni 6 birim olduğuna göre, düşey bileşeni kaç birim olabilir?",
+    "explanation": "Vektörün büyüklüğü 10, yatay bileşeni 6 ise, düşey bileşen √(10² - 6²) = √(100 - 36) = √64 = 8 birim olabilir.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay bir zeminde durmakta olan 2 kg kütleli bir cisme 10 N'luk yatay bir kuvvet uygulanıyor. Cismin ivmesi kaç m/s² olur?",
+    "explanation": "Newton'un ikinci yasasına göre F = m * a'dır. Buna göre ivme a = F / m = 10 N / 2 kg = 5 m/s² olur.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Durmakta olan bir cisim, sabit bir net kuvvetin etkisiyle hareket etmeye başlar. Bu cisim için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Newton'un birinci yasasına (eylemsizlik yasası) göre, duran bir cisim üzerine net bir kuvvet etki etmedikçe durmaya devam eder. Net kuvvet etki ettiğinde ise harekete başlar. Bu durumda cisim sabit ivmeli hareket yapar.",
+    "options": [
+      {
+        "text": "Sabit hızlı hareket eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sabit ivmeli hareket eder.",
+        "isCorrect": true
+      },
+      {
+        "text": "Düzgün doğrusal hareket eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yavaşlayan hareket eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Durmaya devam eder.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cisim, üzerine etki eden net kuvvetle ters yönde ve eşit büyüklükte bir kuvvet uygular. Bu ifade Newton'un hangi hareket yasasını tanımlar?",
+    "explanation": "Newton'un üçüncü yasası (Etki-Tepki Yasası) şunu belirtir: Her etkiye karşılık eşit büyüklükte ve zıt yönde bir tepki kuvveti vardır.",
+    "options": [
+      {
+        "text": "Birinci yasa",
+        "isCorrect": false
+      },
+      {
+        "text": "İkinci yasa",
+        "isCorrect": false
+      },
+      {
+        "text": "Üçüncü yasa",
+        "isCorrect": true
+      },
+      {
+        "text": "Yerçekimi yasası",
+        "isCorrect": false
+      },
+      {
+        "text": "Eylemsizlik prensibi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütlesi 0,5 kg olan bir cisim, 4 m/s²'lik bir ivme ile hareket ediyor. Cisme etki eden net kuvvet kaç N'dur?",
+    "explanation": "Newton'un ikinci yasası F = m * a formülü ile hesaplanır. F = 0,5 kg * 4 m/s² = 2 N'dur.",
+    "options": [
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yarıçapı 2 m olan bir çember üzerinde sabit süratle dönen bir cismin merkezcil ivmesi 8 m/s² ise, cismin çizgisel sürati kaç m/s'dir?",
+    "explanation": "Merkezcil ivme formülü a = v² / r'dir. Burada a=8 m/s² ve r=2 m olduğuna göre, 8 = v² / 2 => v² = 16 => v = 4 m/s'dir.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün çembersel hareket yapan bir cisim için aşağıdakilerden hangisi sabit değildir?",
+    "explanation": "Düzgün çembersel hareket yapan bir cismin sürati (büyüklüğü) sabittir. Ancak hız vektörünün yönü sürekli değiştiği için hız vektörü sabit değildir.",
+    "options": [
+      {
+        "text": "Sürat",
+        "isCorrect": false
+      },
+      {
+        "text": "Açısal hız",
+        "isCorrect": false
+      },
+      {
+        "text": "Periyot",
+        "isCorrect": false
+      },
+      {
+        "text": "Hız vektörü",
+        "isCorrect": true
+      },
+      {
+        "text": "Merkezcil ivme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Periyodu 2 saniye olan düzgün çembersel hareket yapan bir cismin frekansı kaç Hz'dir?",
+    "explanation": "Frekans (f), periyodun (T) tersidir. f = 1 / T formülü ile hesaplanır. T=2 s ise f = 1/2 = 0,5 Hz'dir.",
+    "options": [
+      {
+        "text": "0.5",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün çembersel hareket yapan bir cisme etki eden net kuvvetin yönü nasıldır?",
+    "explanation": "Düzgün çembersel hareket yapan bir cismin ivmesi merkeze doğru olduğu için (merkezcil ivme), Newton'un ikinci yasası gereği cisme etki eden net kuvvet de merkeze doğrudur. Bu kuvvete merkezcil kuvvet denir.",
+    "options": [
+      {
+        "text": "Hareket yönünde",
+        "isCorrect": false
+      },
+      {
+        "text": "Hareketin tersi yönde",
+        "isCorrect": false
+      },
+      {
+        "text": "Merkezden dışa doğru",
+        "isCorrect": false
+      },
+      {
+        "text": "Merkeze doğru",
+        "isCorrect": true
+      },
+      {
+        "text": "Teğetsel yönde",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir kuvvetin bir noktaya göre torkunun büyüklüğü aşağıdakilerden hangisine bağlı değildir?",
+    "explanation": "Tork (τ), kuvvetin (F) dönme noktasına olan dik uzaklığı (r) ile kuvvetin bu dik bileşeninin (Fsinθ) çarpımına eşittir (τ = r * F * sinθ). Tork, kuvvetin uygulandığı cismin kütlesine bağlı değildir.",
+    "options": [
+      {
+        "text": "Kuvvetin büyüklüğüne",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuvvetin uygulandığı cismin kütlesine",
+        "isCorrect": true
+      },
+      {
+        "text": "Kuvvetin dönme noktasına olan dik uzaklığına",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuvvet ile kolu arasındaki açıya",
+        "isCorrect": false
+      },
+      {
+        "text": "Dönme noktasının konumuna",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cismin dengede olabilmesi için aşağıdaki koşullardan hangisi sağlanmalıdır?",
+    "explanation": "Bir cismin dengede olması için iki koşul gerekir: 1) Cisme etki eden net kuvvet sıfır olmalıdır (öteleme dengesi). 2) Cisme etki eden net tork sıfır olmalıdır (dönme dengesi).",
+    "options": [
+      {
+        "text": "Yalnız net kuvvet sıfır olmalı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnız net tork sıfır olmalı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Net kuvvet ve net tork sıfır olmalı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cismin potansiyel enerjisi sabit olmalı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin kinetik enerjisi sıfır olmalı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir noktaya uygulanan 10 N'luk bir kuvvetin, bu noktadan 0,5 m uzaktaki bir dönme eksenine göre torku maksimum kaç N·m olur?",
+    "explanation": "Tork τ = r * F * sinθ formülü ile hesaplanır. Torkun maksimum olması için sinθ=1 olmalıdır (θ=90°). Bu durumda τ_max = r * F = 0,5 m * 10 N = 5 N·m olur.",
+    "options": [
+      {
+        "text": "0.5",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Durmakta olan 2 kg kütleli bir cisme, 10 N büyüklüğünde bir kuvvet 4 saniye boyunca uygulanıyor. Cismin son momentumu kaç kg·m/s olur?",
+    "explanation": "İtme, kuvvet ile zamanın çarpımına eşittir ve momentum değişimine eşittir. J = F * Δt = 10 N * 4 s = 40 N·s. Cisim başlangıçta durduğu için ilk momentumu 0'dır. Son momentum, momentum değişimine eşit olacaktır: P_son = ΔP = 40 kg·m/s.",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "80",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İtme ve Momentum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Momentumu 20 kg·m/s olan bir cismin kütlesi 5 kg'dır. Bu cismin hızı kaç m/s'dir?",
+    "explanation": "Momentum (P), kütle (m) ve hızın (v) çarpımıdır: P = m * v. Verilen değerleri yerine koyarsak: 20 = 5 * v. Bu denklemi çözerek hızı buluruz: v = 20 / 5 = 4 m/s.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İtme ve Momentum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz yatay bir düzlemde durmakta olan bir cisme ait kuvvet-zaman grafiği şekildeki gibidir. Grafik, ilk 2 saniye 6 N'luk sabit kuvveti, sonraki 2 saniye ise kuvvetin sıfır olduğunu göstermektedir. 4 saniye sonunda cismin momentumundaki değişim kaç kg·m/s'dir?",
+    "explanation": "Momentum değişimi, kuvvet-zaman grafiğinin altında kalan alana eşittir. İlk 2 saniyede kuvvet 6 N'dur. Alan = Kuvvet * Zaman = 6 N * 2 s = 12 N·s. Sonraki 2 saniyede kuvvet 0 olduğu için alan 0'dır. Toplam momentum değişimi 12 kg·m/s'dir.",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İtme ve Momentum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütlesi 3 kg olan bir cisim, 15 m/s hızla düzgün bir duvara dik olarak çarpıyor ve aynı büyüklükteki hızla geri dönüyor. Çarpışma 0.1 saniye sürdüğüne göre, duvarın cisme uyguladığı ortalama kuvvet kaç Newton'dur?",
+    "explanation": "Momentum değişimi ΔP = m * (v_son - v_ilk) formülü ile bulunur. İlk hız duvara doğru +15 m/s, son hız duvardan uzaklaşacak şekilde -15 m/s alınabilir. ΔP = 3 * (-15 - 15) = 3 * (-30) = -90 kg·m/s. Kuvvetin büyüklüğü, momentum değişiminin büyüklüğünün zamana bölümüdür: F = |ΔP| / Δt = 90 / 0.1 = 900 N.",
+    "options": [
+      {
+        "text": "900",
+        "isCorrect": true
+      },
+      {
+        "text": "450",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "150",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İtme ve Momentum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  }
+]
