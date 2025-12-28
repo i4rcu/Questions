@@ -1,0 +1,932 @@
+[
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"koşul-sonuç\" anlamı vardır?",
+    "explanation": "Koşul-sonuç cümlelerinde bir eylemin gerçekleşmesi başka bir durumun gerçekleşmesine bağlıdır. \"Hava güzel olursa pikniğe gideceğiz.\" cümlesinde pikniğe gitme eylemi, havanın güzel olması koşuluna bağlanmıştır.",
+    "options": [
+      {
+        "text": "Hava güzel olursa pikniğe gideceğiz.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dün akşam çok güzel bir film izledik.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitabı okumayı henüz bitiremedim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu soruyu çözmek için biraz daha zaman lazım.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın sınav olduğunu unutmuşum.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlede Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"neden-sonuç\" anlamı vardır?",
+    "explanation": "Neden-sonuç cümlelerinde bir eylemin veya durumun gerçekleşme sebebi belirtilir. \"Yoğun kar yağışı nedeniyle yollar kapandı.\" cümlesinde yolların kapanmasının nedeni yoğun kar yağışıdır.",
+    "options": [
+      {
+        "text": "Yoğun kar yağışı nedeniyle yollar kapandı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Seni görünce çok sevindim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu konuyu daha sonra tekrar konuşalım.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oraya yürüyerek gitmek yaklaşık yarım saat sürer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınav sonuçları haftaya açıklanacak.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlede Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"karşılaştırma\" yapılmıştır?",
+    "explanation": "Karşılaştırma cümlelerinde iki varlık, kavram veya durum arasında benzerlik, farklılık veya üstünlük yönünden kıyaslama yapılır. \"Bu kitap, diğerlerinden daha sürükleyici.\" cümlesinde bir kitabın diğer kitaplarla karşılaştırılarak daha sürükleyici olduğu belirtilmiştir.",
+    "options": [
+      {
+        "text": "Bu kitap, diğerlerinden daha sürükleyici.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yemekten sonra biraz dinlenelim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplantı saat üçte başlayacak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu sorunun cevabını bilmiyorum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın için havanın yağmurlu olması bekleniyor.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlede Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"amaç-sonuç\" anlamı vardır?",
+    "explanation": "Amaç-sonuç cümlelerinde yapılan eylemin hangi amaçla yapıldığı belirtilir. \"Sahilde yürüyüş yapmak için erkenden kalktı.\" cümlesinde erkenden kalkma eyleminin amacı sahilde yürüyüş yapmaktır.",
+    "options": [
+      {
+        "text": "Sahilde yürüyüş yapmak için erkenden kalktı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bu konuda onunla aynı fikirde değilim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dün gece erken yattım.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu kadar yorgun olmamın sebebi uykusuzluk.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oraya vardığımızda bizi bekliyor olacaklar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlede Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"yan anlam\"lı bir sözcük kullanılmıştır?",
+    "explanation": "Yan anlam, bir sözcüğün temel anlamıyla bağlantılı olarak zaman içinde kazandığı ikinci anlamdır. \"Kapının kolunu sıkıca tuttu.\" cümlesindeki \"kol\" sözcüğü, insan vücudundaki organ anlamından (temel anlam) hareketle kapının tutacak yerini ifade eden yan anlamda kullanılmıştır.",
+    "options": [
+      {
+        "text": "Kapının kolunu sıkıca tuttu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Masaya vazoyu dikkatlice yerleştirdi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu olay onun hayatında bir dönüm noktası oldu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeni bir işe başlamanın heyecanını yaşıyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Soruyu çözmek için farklı bir yol denedi.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"mecaz anlam\"lı bir sözcük kullanılmıştır?",
+    "explanation": "Mecaz anlam, bir sözcüğün gerçek anlamından tamamen uzaklaşarak kazandığı soyut anlamdır. \"Bu sözlerim ona çok dokundu.\" cümlesindeki \"dokunmak\" sözcüğü, fiziksel temas anlamından (temel anlam) uzaklaşarak 'incitmek, üzmek' anlamında mecaz anlamda kullanılmıştır.",
+    "options": [
+      {
+        "text": "Bu sözlerim ona çok dokundu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Çiçekleri her gün düzenli olarak suluyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağacın dalları rüzgârda sallanıyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Arabayı garaja park etti.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ders çalışmak için odasına çekildi.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"terim anlam\"lı bir sözcük kullanılmıştır?",
+    "explanation": "Terim anlam, bir bilim, sanat, meslek dalıyla veya bir konuyla ilgili özel ve belirli bir kavramı karşılayan sözcüklerin anlamıdır. \"Şiirdeki uyağı çok başarılı buldum.\" cümlesindeki \"uyak\" (kafiye) sözcüğü edebiyat alanına ait bir terimdir.",
+    "options": [
+      {
+        "text": "Şiirdeki uyağı çok başarılı buldum.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yemekte tuz yerine baharat kullandı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Odaya yeni bir kitaplık aldık.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yolculuk sırasında pencereden manzarayı seyretti.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplantıda herkes fikrini açıkça söyledi.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "\"Düşmek\" sözcüğü aşağıdaki cümlelerin hangisinde \"rastlamak, denk gelmek\" anlamında kullanılmıştır?",
+    "explanation": "\"Düşmek\" sözcüğü birçok mecaz anlama sahiptir. \"Bu iş bana nasıl düştü?\" cümlesinde, bir iş veya görevin birine denk gelmesi, onun payına düşmesi anlamında kullanılmıştır.",
+    "options": [
+      {
+        "text": "Bu iş bana nasıl düştü?",
+        "isCorrect": true
+      },
+      {
+        "text": "Merdivenlerden düşünce ayağı incindi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akşam olunca hava sıcaklığı düştü.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gölgesi duvara düşüyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınıfta kalma tehlikesiyle karşı karşıya düştü.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"ek fiil\" görev ve anlam kayması yoluyla birleşik zamanlı fiil oluşturmuştur?",
+    "explanation": "Ek fiil (-idi, -imiş, -ise, -dir) basit zamanlı bir fiile gelerek o fiili birleşik zamanlı yapar. \"O zamanlar bu şehirde yaşıyormuş.\" cümlesinde \"yaşıyor\" (şimdiki zaman) fiiline \"-miş\" ek fiili gelmiş ve 'öğrenilen geçmiş zaman' anlamı (rivayet) katmıştır. Bu, birleşik zamanlı bir fiildir.",
+    "options": [
+      {
+        "text": "O zamanlar bu şehirde yaşıyormuş.",
+        "isCorrect": true
+      },
+      {
+        "text": "O, çok çalışkan bir öğrencidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın sınav var.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dün akşam geldi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu kitabı mutlaka okumalısın.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fill-Ek Fiil",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ek fiil, ismi yüklem yapma görevinde kullanılmıştır?",
+    "explanation": "Ek fiilin temel görevlerinden biri, isim soylu sözcükleri (isim, sıfat, zamir) yüklem yapmaktır. \"En sevdiğim mevsim ilkbahrır.\" cümlesinde \"ilkbahar\" ismine gelen \"-dır\" ek fiili, onu yüklem yapmıştır.",
+    "options": [
+      {
+        "text": "En sevdiğim mevsim ilkbahrır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yarın bizimle gelecekti.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu soruyu çözebilirmiş.",
+        "isCorrect": false
+      },
+      {
+        "text": "Koşarak yanımıza geldi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Her sabah erken kalkar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fill-Ek Fiil",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ek fiil, \"koşul\" anlamı katmak için kullanılmıştır?",
+    "explanation": "Ek fiilin şart kipi (-ise), genellikle bir koşul (şart) anlamı katmak için kullanılır. \"Hava güzelse dışarı çıkalım.\" cümlesinde \"güzelse\" sözcüğündeki \"-se\" eki, dışarı çıkma eyleminin koşulunu (havanın güzel olması) belirtmektedir.",
+    "options": [
+      {
+        "text": "Hava güzelse dışarı çıkalım.",
+        "isCorrect": true
+      },
+      {
+        "text": "O, bu olaydan habersizdi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınıfın en uzun boylusu Ayşe'ymiş.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın sınavım vardı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Burada daha önce de bulunmuştum.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fill-Ek Fiil",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ek fiil, \"başkasından duyma, öğrenme\" (rivayet) anlamı katmıştır?",
+    "explanation": "Ek fiilin rivayet kipi (-imiş), eylemin başkasından duyulduğunu, dolaylı olarak öğrenildiğini ifade eder. \"Çocukken çok yaramazmışsın.\" cümlesindeki \"yaramazmışsın\" ifadesi, kişinin yaramazlığının başkalarından duyularak öğrenildiği anlamını taşır.",
+    "options": [
+      {
+        "text": "Çocukken çok yaramazmışsın.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bu ev daha yeni yapıldı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eğer zamanın varsa seni bekleriz.",
+        "isCorrect": false
+      },
+      {
+        "text": "O kitabı ben de okudum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarınki toplantıya katılacak mısın?",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fill-Ek Fiil",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
+    "explanation": "Türkçede \"ki\" bağlacı ayrı yazılır. \"Evdeki hesap çarşıya uymaz.\" atasözündeki \"ki\" bağlacı, sıfat yapan \"-ki\" eki değildir; burada 'evde olan hesap' anlamında sıfat türeten \"-ki\" eki kullanılmıştır ve bu ek eklendiği sözcüğe bitişik yazılır. Bu cümlede yazım doğrudur. Yanlış olan seçenek \"Herkez bu konuda hem fikir.\" cümlesidir. Doğru yazım \"herkes\" şeklindedir.",
+    "options": [
+      {
+        "text": "Herkez bu konuda hem fikir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evdeki hesap çarşıya uymaz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarınki toplantıya katılacağım.",
+        "isCorrect": false
+      },
+      {
+        "text": "O kadar yorgunum ki uyuyakalmışım.",
+        "isCorrect": false
+      },
+      {
+        "text": "Buradaki manzara çok güzel.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yazım Kuralları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"de/da\" bağlacının yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "explanation": "\"de/da\" bağlacı ayrı yazılır ve kendinden önceki sözcüğün son ünlüsüne göre büyük ünlü uyumuna uyar. Cümleden çıkarıldığında anlam bozulmuyorsa bağlaçtır. \"Sinemada gidelim mi?\" cümlesindeki \"-da\" eki, çıkarıldığında anlam bozulduğu için bulunma hal (-de) ekidir ve bitişik yazılır. Bu doğru kullanımdır. Yanlış olan, \"O da bizimle gelecek.\" cümlesinde \"da\" bağlacının ayrı yazılması gerektiği halde bitişik yazılmış olmasıdır. Doğrusu \"O da bizimle gelecek.\" şeklinde ayrı yazılmalıdır. Seçeneklerde bu hata verilmiştir.",
+    "options": [
+      {
+        "text": "Oda bizimle gelecek.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sinemada gidelim mi?",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu kitabı ben de okudum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evde kimse yokmuş.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yolda onu gördüm.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yazım Kuralları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"mi\" soru edatının yazımı doğrudur?",
+    "explanation": "\"mi\" soru edatı cümleye soru anlamı katar ve kendinden önceki sözcükten ayrı yazılır. Kendinden sonra gelen eklere ise bitişik yazılır. Ünlü uyumlarına uyarak \"mı, mi, mu, mü\" şekillerini alır. \"Yarın erken kalkacak mısın?\" cümlesinde \"mi\" soru edatı, kendinden önceki sözcükten ayrı, kendinden sonra gelen eke (-sın) ise bitişik yazılmıştır. Bu yazım doğrudur.",
+    "options": [
+      {
+        "text": "Yarın erken kalkacak mısın?",
+        "isCorrect": true
+      },
+      {
+        "text": "Bu filmi daha önce izlemişmiydin?",
+        "isCorrect": false
+      },
+      {
+        "text": "Odasını topladımı rahat eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Geldimi hep bir şeyler ister.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akşam bize gelecekmi?",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yazım Kuralları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki paragrafta asıl anlatılmak istenen düşünceyi bulunuz. \"Teknoloji, hayatımızı inanılmaz derecede kolaylaştırdı. İnternet sayesinde bilgiye anında ulaşabiliyor, sosyal medya aracılığıyla dünyanın öbür ucundaki insanlarla iletişim kurabiliyoruz. Ancak, bu kolaylıklar beraberinde bazı sorunları da getirdi. Sürekli ekran başında olmak, yüz yüze iletişimi azalttı ve bireyleri yalnızlaştırdı. Bu nedenle, teknolojinin faydalarından yararlanırken, onun olumsuz etkilerini de kontrol altında tutmak gerekiyor.\"",
+    "explanation": "Paragraf, teknolojinin getirdiği kolaylıklardan bahsetse de asıl vurgu, bu kolaylıkların yanında ortaya çıkan olumsuzluklar ve bu olumsuzlukların kontrol altına alınması gerekliliği üzerinedir. Bu nedenle ana düşünce, teknolojinin faydalarından yararlanırken olumsuz etkilerini de kontrol etmek gerektiğidir.",
+    "options": [
+      {
+        "text": "Teknoloji, bilgiye ulaşmayı kolaylaştırmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal medya, insanları birbirine yakınlaştırmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Teknolojinin faydalarından yararlanırken olumsuz etkilerini de kontrol altında tutmak gerekir.",
+        "isCorrect": true
+      },
+      {
+        "text": "İnternet, iletişimi hızlandıran bir araçtır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Teknoloji, insanları tamamen yalnızlaştırmıştır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki paragrafta yazarın 'kitap' için kullandığı benzetme (eğretileme) hangi seçenekte doğru verilmiştir? \"O eski kitap, yılların yorgunluğunu taşıyan bilge bir dost gibiydi rafında. Her açılışında, sayfalarından tarihin tozlu kokusu yükselir, satır aralarında kaybolup giderdim.\"",
+    "explanation": "Paragrafta 'kitap', 'yılların yorgunluğunu taşıyan bilge bir dost' olarak nitelendirilmiştir. Bu, bir benzetme (eğretileme) sanatıdır.",
+    "options": [
+      {
+        "text": "Yılların yorgunluğunu taşıyan raf",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihin tozlu kokusu",
+        "isCorrect": false
+      },
+      {
+        "text": "Yılların yorgunluğunu taşıyan bilge bir dost",
+        "isCorrect": true
+      },
+      {
+        "text": "Satır aralarında kaybolmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Eski bir kitap",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "\"Yazar, romanında olayları anlatırken okuyucuyu sıkmamak için sade ve akıcı bir dil kullanmış.\" cümlesinde 'sade ve akıcı' sözüyle anlatılmak istenen nedir?",
+    "explanation": "Burada 'sade ve akıcı' sözü, yazarın dilinin karmaşık olmadığını, anlaşılır ve okuması kolay, pürüzsüz olduğunu ifade etmektedir. Yani anlatımın açık ve anlaşılır olduğu vurgulanmaktadır.",
+    "options": [
+      {
+        "text": "Anlatımın karmaşık ve süslü olduğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Anlatımın açık ve anlaşılır olduğu",
+        "isCorrect": true
+      },
+      {
+        "text": "Anlatımın uzun ve detaylı olduğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Anlatımın teknik terimlerle dolu olduğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Anlatımın şiirsel ve duygusal olduğu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "\"Sanatçı, son sergisinde doğanın ihtişamını tuvaline yansıtmış.\" cümlesinin ana fikri nedir?",
+    "explanation": "Cümlenin odak noktası, sanatçının ne yaptığıdır. Sanatçının yaptığı iş, 'doğanın ihtişamını tuvaline yansıtmak'tır. Bu, cümlenin verdiği asıl mesajdır.",
+    "options": [
+      {
+        "text": "Sanatçının son sergisi çok beğenilmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğa, ihtişamlı bir şekilde tuvalde yer almıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatçı, doğanın ihtişamını tuvaline yansıtmıştır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tuval, doğanın güzelliklerini sergilemek için kullanılmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Son sergi, sanatçının en önemli eseridir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'sıfat' (ön ad) kullanılmamıştır?",
+    "explanation": "Sıfat, isimlerden önce gelerek onları niteleyen veya belirten sözcük türüdür. 'Güzel çiçek'te 'güzel' sıfattır. 'Üç kalem'de 'üç' sıfattır. 'Hangi ev'te 'hangi' soru sıfatıdır. 'Bu kitap'ta 'bu' işaret sıfatıdır. 'O, dün geldi.' cümlesinde 'o' bir zamirdir (adıl), herhangi bir ismi nitelemez veya belirtmez, onun yerine kullanılır. Bu nedenle sıfat yoktur.",
+    "options": [
+      {
+        "text": "Güzel çiçekler bahçeyi süslüyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Masada üç kalem duruyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hangi evde oturuyorsunuz?",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu kitabı çok beğendim.",
+        "isCorrect": false
+      },
+      {
+        "text": "O, dün okula geldi.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'zarf' (belirteç) kullanılmıştır?",
+    "explanation": "Zarf, fiilleri, fiilimsileri, sıfatları veya başka zarfları niteler. 'Yavaş yürü.' cümlesinde 'yavaş' sözcüğü, 'yürü' fiilini nitelediği için zarftır.",
+    "options": [
+      {
+        "text": "Büyük evin bahçesi vardı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yavaş yürü, düşme.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bu araba çok hızlı.",
+        "isCorrect": false
+      },
+      {
+        "text": "İki elma yedi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hangi yoldan gideceğiz?",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'bağlaç' kullanılmıştır?",
+    "explanation": "Bağlaç, eş görevli sözcükleri veya cümleleri birbirine bağlayan sözcük türüdür. 'Kitap ve defter aldım.' cümlesinde 've' bağlacı, 'kitap' ve 'defter' isimlerini bağlamaktadır.",
+    "options": [
+      {
+        "text": "Ev ile okul arası yürüyerek yarım saat sürüyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitap ve defter aldım.",
+        "isCorrect": true
+      },
+      {
+        "text": "Seni çok özledim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Orada kimseyi göremedik.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın sinemaya gideceğiz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'edat' (ilgeç) kullanılmıştır?",
+    "explanation": "Edat, kendi başına anlamı olmayan, ancak cümlede anlam ilişkisi kurmaya yarayan sözcük türüdür. 'Sabahtan beri seni bekliyorum.' cümlesinde 'beri' edatı, 'sabahtan' sözcüğüyle birlikte kullanılarak zaman anlamı katmıştır.",
+    "options": [
+      {
+        "text": "Sabahtan beri seni bekliyorum.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kalem ve silgi istiyorum.",
+        "isCorrect": false
+      },
+      {
+        "text": "O da bu fikre katıldı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çok güzel bir resim yapmış.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın size geleceğiz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki sözcüklerden hangisi büyük ünlü uyumu kuralına uymaz?",
+    "explanation": "Büyük ünlü uyumu kuralına göre bir sözcüğün ilk hecesindeki ünlü kalınsa (a, ı, o, u) diğer hecelerdeki ünlüler de kalın; inceyse (e, i, ö, ü) diğer hecelerdeki ünlüler de ince olmalıdır. 'Televizyon' sözcüğü ('te-le-viz-yon') incelenirse, ilk hece 'te' (ince e), ikinci hece 'le' (ince e), üçüncü hece 'viz' (ince i) uyuyor ancak dördüncü hece 'yon' (o harfi Türkçede olmadığı için 'yo' olarak düşünülür, kalın o) geliyor. Kalın ünlü, ince ünlülerden sonra geldiği için kurala uymaz.",
+    "options": [
+      {
+        "text": "Kitap",
+        "isCorrect": false
+      },
+      {
+        "text": "Kalem",
+        "isCorrect": false
+      },
+      {
+        "text": "Televizyon",
+        "isCorrect": true
+      },
+      {
+        "text": "Öğrenci",
+        "isCorrect": false
+      },
+      {
+        "text": "Pencere",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ses Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki sözcüklerden hangisinde 'ünlü daralması' vardır?",
+    "explanation": "Ünlü daralması, '-a, -e' ile biten fiillere '-yor' eki geldiğinde, fiilin sonundaki geniş ünlülerin (a, e) dar ünlülere (ı, i, u, ü) dönüşmesidir. 'bekle-yor' -> 'bekliyor' örneğinde, 'bekle' fiilindeki 'e' ünlüsü, '-yor' eki geldiğinde 'i'ye darlaşmıştır.",
+    "options": [
+      {
+        "text": "Okuyor",
+        "isCorrect": false
+      },
+      {
+        "text": "Gülüyor",
+        "isCorrect": false
+      },
+      {
+        "text": "Bekliyor",
+        "isCorrect": true
+      },
+      {
+        "text": "Koşuyor",
+        "isCorrect": false
+      },
+      {
+        "text": "Yürüyor",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ses Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki sözcüklerden hangisinde 'ünsüz yumuşaması' (ünsüz değişimi) vardır?",
+    "explanation": "Ünsüz yumuşaması, sonunda 'p, ç, t, k' sert ünsüzlerinden biri bulunan sözcüklere ünlü ile başlayan bir ek geldiğinde, bu sert ünsüzlerin yumuşayarak 'b, c, d, g, ğ'ye dönüşmesidir. 'ağaç' sözcüğüne '-ı' eki geldiğinde 'ağaç-ı' -> 'ağacı' olur. 'ç' sert ünsüzü, 'c' yumuşak ünsüzüne dönüşmüştür.",
+    "options": [
+      {
+        "text": "Kitapçı",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağacı",
+        "isCorrect": true
+      },
+      {
+        "text": "İlke",
+        "isCorrect": false
+      },
+      {
+        "text": "Sokak",
+        "isCorrect": false
+      },
+      {
+        "text": "Renk",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ses Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki sözcüklerin hangisinde 'ulama' yapılabilir?",
+    "explanation": "Ulama, ünsüzle biten bir sözcükten sonra ünlüyle başlayan bir sözcük geldiğinde, bu iki sözcüğün okunuşta birleştirilmesidir. 'Akşam oldu.' cümlesinde 'akşam' sözcüğü 'm' ünsüzü ile biter, 'oldu' sözcüğü 'o' ünlüsü ile başlar. Bu nedenle bu iki sözcük arasında ulama yapılarak 'akşa-moldu' şeklinde okunabilir.",
+    "options": [
+      {
+        "text": "Evden çıktı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Okula gitti.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akşam oldu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yemek yedi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitap okudu.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ses Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "\"Ayşe, dün kütüphaneden yeni bir roman aldı.\" cümlesinin öğeleri sırasıyla hangi seçenekte doğru verilmiştir?",
+    "explanation": "Cümlenin öğeleri şöyledir: Özne: Ayşe (Yüklemdeki işi yapan), Zarf Tümleci: dün (Yüklemin zamanını belirtir), Dolaylı Tümleç: kütüphaneden (Yüklemin yer-yön bilgisini verir), Belirtili Nesne: yeni bir roman (Yüklemin etkilediği nesne, 'neyi' sorusunun cevabı), Yüklem: aldı (Cümlenin temel fiili).",
+    "options": [
+      {
+        "text": "Özne - Yüklem - Dolaylı Tümleç - Nesne",
+        "isCorrect": false
+      },
+      {
+        "text": "Özne - Zarf Tümleci - Dolaylı Tümleç - Nesne - Yüklem",
+        "isCorrect": true
+      },
+      {
+        "text": "Nesne - Özne - Zarf Tümleci - Yüklem",
+        "isCorrect": false
+      },
+      {
+        "text": "Yüklem - Özne - Nesne - Dolaylı Tümleç",
+        "isCorrect": false
+      },
+      {
+        "text": "Dolaylı Tümleç - Özne - Nesne - Yüklem",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlenin Öğeleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "\"Bu güzel şarkıyı herkes çok sevdi.\" cümlesinde 'neyi' sorusuna cevap veren öge (nesne) hangisidir?",
+    "explanation": "Nesne, yükleme sorulan 'neyi, neyi, kimi' sorularının cevabıdır. 'Herkes neyi sevdi?' sorusuna verilen cevap 'Bu güzel şarkıyı'dır. Bu, belirtili nesnedir.",
+    "options": [
+      {
+        "text": "Bu güzel şarkıyı",
+        "isCorrect": true
+      },
+      {
+        "text": "herkes",
+        "isCorrect": false
+      },
+      {
+        "text": "çok",
+        "isCorrect": false
+      },
+      {
+        "text": "sevdi",
+        "isCorrect": false
+      },
+      {
+        "text": "güzel",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlenin Öğeleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "\"Yarın sabah erkenden yola çıkacağız.\" cümlesinin yüklemi hangisidir?",
+    "explanation": "Yüklem, cümledeki iş, oluş, hareket veya durumu bildiren; cümlenin temel ögesidir. Bu cümlede 'yola çıkacağız' fiili, yapılacak olan eylemi bildirdiği için yüklemdir.",
+    "options": [
+      {
+        "text": "Yarın",
+        "isCorrect": false
+      },
+      {
+        "text": "sabah",
+        "isCorrect": false
+      },
+      {
+        "text": "erkenden",
+        "isCorrect": false
+      },
+      {
+        "text": "yola",
+        "isCorrect": false
+      },
+      {
+        "text": "çıkacağız",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Cümlenin Öğeleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisi yapısına göre basit cümledir?",
+    "explanation": "Basit cümle, içinde tek bir yargı bulunan, yan cümlesi olmayan cümledir. 'Kitabı bir solukta okudu.' cümlesinde tek bir fiil ('okudu') ve tek bir yargı vardır. Cümlenin içinde fiilimsi (isim-fiil, sıfat-fiil, zarf-fiil) bulunmaz, bu nedenle yapısı basittir.",
+    "options": [
+      {
+        "text": "Kitabı bir solukta okudu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sınavı kazanınca çok sevindi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Anlattıklarını dikkatle dinledik.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oraya gidersen onu mutlaka gör.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeni evleri hem geniş hem de aydınlıktı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümle Türleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  }
+]
