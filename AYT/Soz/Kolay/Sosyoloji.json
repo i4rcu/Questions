@@ -1,0 +1,1001 @@
+[
+  {
+    "text": "Bir bireyin toplum içinde öğrendiği, benimsediği ve uyum sağladığı davranış kalıplarına ne ad verilir?",
+    "explanation": "Toplumsallaşma, bireyin içinde yaşadığı toplumun kültürünü, değerlerini, normlarını ve davranış kalıplarını öğrenme sürecidir.",
+    "options": [
+      {
+        "text": "Toplumsallaşma",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal kontrol",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel şok",
+        "isCorrect": false
+      },
+      {
+        "text": "Rol çatışması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir bireyin toplum içinde üstlendiği ve yerine getirmesi beklenen davranışlara ne denir?",
+    "explanation": "Sosyal rol, bir bireyin belirli bir statüde bulunması nedeniyle toplum tarafından kendisinden beklenen davranış kalıplarıdır.",
+    "options": [
+      {
+        "text": "Statü",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal rol",
+        "isCorrect": true
+      },
+      {
+        "text": "Değer",
+        "isCorrect": false
+      },
+      {
+        "text": "Norm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireyin bir grubun üyesi olmaktan duyduğu güven, aidiyet ve bağlılık duygusuna ne ad verilir?",
+    "explanation": "Sosyal kimlik, bireyin belirli bir sosyal gruba aidiyet hissetmesi ve bu aidiyet üzerinden kendini tanımlamasıdır.",
+    "options": [
+      {
+        "text": "Benlik",
+        "isCorrect": false
+      },
+      {
+        "text": "Kişilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal kimlik",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal statü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir toplumda bireylerin uyması gereken yazılı olmayan, geleneksel kurallara ne denir?",
+    "explanation": "Toplumsal normlar, bir toplumda bireylerin davranışlarını düzenleyen, uyulması beklenen yazılı olmayan kurallardır.",
+    "options": [
+      {
+        "text": "Yasa",
+        "isCorrect": false
+      },
+      {
+        "text": "Örf",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal norm",
+        "isCorrect": true
+      },
+      {
+        "text": "Tabu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumun zaman içinde yaşam biçimi, değerleri ve kurumlarında meydana gelen farklılaşmaya ne ad verilir?",
+    "explanation": "Toplumsal değişme, toplumun yapısında, kurumlarında, kültüründe ve sosyal ilişkilerinde zaman içinde meydana gelen dönüşümdür.",
+    "options": [
+      {
+        "text": "Toplumsal değişme",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal gelişme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel gecikme",
+        "isCorrect": false
+      },
+      {
+        "text": "Modernleşme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Teknolojik ilerlemelerin hızlı olduğu, ancak bu ilerlemelere uyum sağlayacak kültürel değerlerin daha yavaş değiştiği durumu ifade eden kavram aşağıdakilerden hangisidir?",
+    "explanation": "Kültürel gecikme, William F. Ogburn tarafından ortaya atılan, maddi kültür ögelerindeki değişimin, manevi kültür ögelerindeki değişimden daha hızlı olması durumudur.",
+    "options": [
+      {
+        "text": "Toplumsal çözülme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel gecikme",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal hareketlilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel yayılma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir kültürün başka bir kültürden etkilenerek bazı ögeleri alması sürecine ne denir?",
+    "explanation": "Kültürel yayılma, bir kültürün maddi veya manevi ögelerinin başka bir kültüre geçmesi ve benimsenmesi sürecidir.",
+    "options": [
+      {
+        "text": "Kültürel asimilasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel yayılma",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürel şok",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel relativizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Sanayi Devrimi, toplumsal değişmeyi etkileyen faktörlerden hangisine örnek olarak verilebilir?",
+    "explanation": "Sanayi Devrimi, teknolojik bir buluş ve yenilik olarak toplumun ekonomik, sosyal ve kültürel yapısında köklü değişimlere yol açmıştır.",
+    "options": [
+      {
+        "text": "Kültürel faktör",
+        "isCorrect": false
+      },
+      {
+        "text": "Teknolojik faktör",
+        "isCorrect": true
+      },
+      {
+        "text": "Demografik faktör",
+        "isCorrect": false
+      },
+      {
+        "text": "Coğrafi faktör",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumun temel ihtiyaçlarını karşılamak üzere oluşmuş, örgütlenmiş ve süreklilik gösteren davranış kalıpları bütününe ne ad verilir?",
+    "explanation": "Toplumsal kurumlar (aile, eğitim, din, ekonomi, siyaset gibi) toplumun temel ihtiyaçlarını karşılayan, kendine özgü normları ve rolleri olan yapılardır.",
+    "options": [
+      {
+        "text": "Toplumsal grup",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal yapı",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal kurum",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal tabaka",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi birincil (birincil) toplumsal kurumlardan biri değildir?",
+    "explanation": "Medya, toplumun temel ve evrensel ihtiyaçlarını doğrudan karşılamayan, daha çok iletişim işlevi gören bir kurum olduğu için birincil kurum olarak kabul edilmez. Aile, din, ekonomi birincil kurumlardır.",
+    "options": [
+      {
+        "text": "Aile",
+        "isCorrect": false
+      },
+      {
+        "text": "Din",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomi",
+        "isCorrect": false
+      },
+      {
+        "text": "Medya",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireylere toplumun kültürünü, değerlerini ve normlarını aktaran, resmi ve planlı bir şekilde eğitim veren toplumsal kurum aşağıdakilerden hangisidir?",
+    "explanation": "Eğitim kurumu, bireylere toplumsallaşma sürecinde resmi ve planlı bir şekilde bilgi, beceri, değer ve normları aktararak onları toplum hayatına hazırlar.",
+    "options": [
+      {
+        "text": "Aile",
+        "isCorrect": false
+      },
+      {
+        "text": "Eğitim",
+        "isCorrect": true
+      },
+      {
+        "text": "Din",
+        "isCorrect": false
+      },
+      {
+        "text": "Siyaset",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumda mal ve hizmetlerin üretim, dağıtım ve tüketim süreçlerini düzenleyen toplumsal kurum aşağıdakilerden hangisidir?",
+    "explanation": "Ekonomi kurumu, toplumun kaynaklarının nasıl kullanılacağını, mal ve hizmetlerin nasıl üretilip paylaşılacağını düzenleyen kurallar bütünüdür.",
+    "options": [
+      {
+        "text": "Siyaset",
+        "isCorrect": false
+      },
+      {
+        "text": "Hukuk",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomi",
+        "isCorrect": true
+      },
+      {
+        "text": "Aile",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumdaki bireyler ve gruplar arasındaki göreli ve kalıcı ilişkiler ağını ifade eden kavram aşağıdakilerden hangisidir?",
+    "explanation": "Toplumsal yapı, bir toplumu oluşturan parçaların (birey, grup, kurum, statü, rol) birbirleriyle olan kararlı, düzenli ve örgütlü ilişkilerinin bütünüdür.",
+    "options": [
+      {
+        "text": "Toplumsal statü",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal yapı",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal kurum",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal tabakalaşma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir toplumda bireylerin eğitim, gelir, meslek gibi özelliklere göre farklı katmanlara ayrılmasına ne ad verilir?",
+    "explanation": "Toplumsal tabakalaşma, toplumun eşitsizlik temelinde hiyerarşik olarak düzenlenmiş katmanlardan oluşmasıdır.",
+    "options": [
+      {
+        "text": "Toplumsal mobilite",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal tabakalaşma",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal rol",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel farklılaşma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireyin toplum içindeki konumunu belirleyen ve ona diğer bireyler karşısında bir yer sağlayan kavram aşağıdakilerden hangisidir?",
+    "explanation": "Statü, bir bireyin toplum içindeki konumunu gösterir. Doğuştan kazanılan (verilmiş statü) veya sonradan çaba ile kazanılan (kazanılmış statü) olabilir.",
+    "options": [
+      {
+        "text": "Statü",
+        "isCorrect": true
+      },
+      {
+        "text": "Rol",
+        "isCorrect": false
+      },
+      {
+        "text": "Prestij",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınıf",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Sosyolojinin bir bilim olarak ortaya çıkışını hazırlayan temel etken aşağıdakilerden hangisidir?",
+    "explanation": "Sosyoloji, 19. yüzyılda Sanayi Devrimi ve Fransız Devrimi gibi büyük toplumsal dönüşümlerin yaşandığı bir dönemde, bu değişimleri anlama ve açıklama ihtiyacı sonucunda sistematik bir bilim dalı olarak ortaya çıkmıştır.",
+    "options": [
+      {
+        "text": "Sanayi Devrimi ve Fransız Devrimi gibi büyük toplumsal dönüşümler",
+        "isCorrect": true
+      },
+      {
+        "text": "Antik Yunan felsefesinin yeniden keşfi",
+        "isCorrect": false
+      },
+      {
+        "text": "Dini inanç sistemlerindeki değişimler",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireysel psikoloji alanındaki gelişmeler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdaki düşünürlerden hangisi sosyolojinin kurucu babalarından biri olarak kabul edilir?",
+    "explanation": "Auguste Comte, sosyoloji terimini ilk kez kullanan ve sosyolojiyi sistematik bir bilim dalı olarak kuran kişi olduğu için sosyolojinin kurucusu kabul edilir.",
+    "options": [
+      {
+        "text": "Auguste Comte",
+        "isCorrect": true
+      },
+      {
+        "text": "Sigmund Freud",
+        "isCorrect": false
+      },
+      {
+        "text": "Karl Marx",
+        "isCorrect": false
+      },
+      {
+        "text": "Immanuel Kant",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Sosyolojinin temel amacı aşağıdakilerden hangisidir?",
+    "explanation": "Sosyolojinin birincil amacı, toplumsal olguları, ilişkileri ve yapıları bilimsel yöntemlerle inceleyerek nesnel ve sistematik bir şekilde anlamak ve açıklamaktır.",
+    "options": [
+      {
+        "text": "Toplumsal olguları bilimsel yöntemlerle incelemek ve açıklamak",
+        "isCorrect": true
+      },
+      {
+        "text": "Bireylerin ruhsal sorunlarına çözüm bulmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumu ideal bir modele dönüştürmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomik sistemlerin verimliliğini artırmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir sosyolojik araştırma yöntemi değildir?",
+    "explanation": "Rüya analizi, psikoloji biliminin, özellikle de psikanalizin bir araştırma yöntemidir. Sosyolojide daha çok anket, gözlem, mülakat ve tarihsel karşılaştırma gibi yöntemler kullanılır.",
+    "options": [
+      {
+        "text": "Rüya analizi",
+        "isCorrect": true
+      },
+      {
+        "text": "Anket",
+        "isCorrect": false
+      },
+      {
+        "text": "Katılımlı gözlem",
+        "isCorrect": false
+      },
+      {
+        "text": "Mülakat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumsal değişmeyi etkileyen faktörlerden hangisi diğerlerine göre daha uzun vadeli ve kalıcı bir etkiye sahiptir?",
+    "explanation": "Teknolojik buluşlar ve yenilikler (tekerlek, matbaa, buhar makinesi, internet gibi) toplumun üretim tarzını, iletişimini ve yaşam biçimini kökten değiştirerek en uzun vadeli ve kalıcı toplumsal değişimlere yol açar.",
+    "options": [
+      {
+        "text": "Teknolojik buluşlar",
+        "isCorrect": true
+      },
+      {
+        "text": "Popüler kültür akımları",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomik krizler",
+        "isCorrect": false
+      },
+      {
+        "text": "Siyasi partilerin seçim kampanyaları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi 'kültürel gecikme' kavramını doğru şekilde tanımlar?",
+    "explanation": "Kültürel gecikme, William F. Ogburn tarafından ortaya atılan bir kavramdır. Maddi kültür öğelerindeki (teknoloji) hızlı değişime karşılık, maddi olmayan kültür öğelerinin (değerler, normlar, kurumlar) bu değişime ayak uydurmakta gecikmesi durumudur.",
+    "options": [
+      {
+        "text": "Maddi kültürün, maddi olmayan kültürden daha hızlı değişmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bir toplumun kültürünün diğer toplumlardan geri kalması",
+        "isCorrect": false
+      },
+      {
+        "text": "Genç neslin kültürünün yaşlı nesilden daha yavaş değişmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel değerlerin teknolojiden bağımsız olarak değişmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumsal gelişmenin temel göstergelerinden biri aşağıdakilerden hangisidir?",
+    "explanation": "Toplumsal gelişme, sadece ekonomik büyümeyi değil, eğitim, sağlık, özgürlükler ve yaşam kalitesi gibi insani gelişmişlik düzeyini de kapsar. Okuryazarlık oranının yükselmesi, eğitime erişimin artması anlamına gelir ve temel bir gelişme göstergesidir.",
+    "options": [
+      {
+        "text": "Okuryazarlık oranının yükselmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Nüfusun hızla artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Gelir dağılımındaki eşitsizliğin artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Geleneklerin hiç değişmeden korunması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Modernleşme sürecinin toplumsal yapıda yol açtığı değişim aşağıdakilerden hangisidir?",
+    "explanation": "Modernleşme, geleneksel tarım toplumlarından modern sanayi ve bilgi toplumlarına geçiş sürecidir. Bu süreçte, kırsal alanlardan kentlere doğru yoğun bir nüfus hareketi (kentleşme) yaşanır ve aile yapısı geniş aileden çekirdek aileye doğru evrilir.",
+    "options": [
+      {
+        "text": "Kentleşme ve çekirdek aileye geçiş",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarımsal üretimin mutlak hakimiyeti",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal tabakalaşmanın ortadan kalkması",
+        "isCorrect": false
+      },
+      {
+        "text": "Dini kurumların siyasi gücünün artması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireyin içinde yaşadığı toplumun kültürünü, değerlerini ve davranış kalıplarını öğrenme sürecine ne ad verilir?",
+    "explanation": "Sosyalleşme, bireyin toplumun bir üyesi haline gelmesi, o toplumun kültürünü, normlarını, değerlerini ve davranış biçimlerini öğrenmesi sürecidir. Bu süreç yaşam boyu devam eder.",
+    "options": [
+      {
+        "text": "Sosyalleşme",
+        "isCorrect": true
+      },
+      {
+        "text": "Bütünleşme",
+        "isCorrect": false
+      },
+      {
+        "text": "Uyum sağlama",
+        "isCorrect": false
+      },
+      {
+        "text": "İş bölümü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi birincil (birinci) sosyalleşme kurumudur?",
+    "explanation": "Birincil sosyalleşme, bireyin doğduğu andan itibaren içine girdiği ve en temel davranış kalıplarını, dilini, ilk değer yargılarını öğrendiği süreçtir. Bu süreçte en etkili kurum ailedir.",
+    "options": [
+      {
+        "text": "Aile",
+        "isCorrect": true
+      },
+      {
+        "text": "Okul",
+        "isCorrect": false
+      },
+      {
+        "text": "İş yeri",
+        "isCorrect": false
+      },
+      {
+        "text": "Siyasi parti",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplum tarafından belirlenen, bireyden beklenen davranış kalıplarına ne ad verilir?",
+    "explanation": "Sosyal normlar, bir toplumda bireylerin nasıl davranmaları gerektiğini belirleyen yazılı (kanunlar) veya yazısız (gelenek, görenek, ahlak kuralları) kurallardır.",
+    "options": [
+      {
+        "text": "Sosyal norm",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal statü",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal rol",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal kontrol",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir sosyal grubun, bireyin davranışlarını ve inançlarını doğrudan veya dolaylı olarak etkileme sürecine ne denir?",
+    "explanation": "Sosyal etki, bir grubun üyeleri üzerinde, onların düşünce, duygu ve davranışlarını değiştiren veya yönlendiren bir güç uygulamasıdır. Uyma davranışı, ikna ve otoriteye itaat gibi biçimleri vardır.",
+    "options": [
+      {
+        "text": "Sosyal etki",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal hareket",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal çatışma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal değişim",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi toplumsal yapının temel unsurlarından biri değildir?",
+    "explanation": "Bireyin kişilik özelliği toplumsal yapının bir unsuru değildir. Toplumsal yapı, toplumu oluşturan ve nispeten kalıcı olan kurumlar, gruplar, statüler, roller ve normlar gibi unsurları ifade eder. Kişilik ise bireye özgüdür.",
+    "options": [
+      {
+        "text": "Bireyin kişilik özelliği",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal statü",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal kurumlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal gruplar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumdaki saygınlık ve itibar farklılaşmasına dayanan eşitsizlik biçimi aşağıdakilerden hangisidir?",
+    "explanation": "Toplumsal tabakalaşma, toplumu oluşturan bireylerin veya grupların, gelir, eğitim, meslek, güç ve saygınlık gibi ölçütlere göre farklı katmanlara ayrılmasıdır. Bu katmanlar arasında bir eşitsizlik ve hiyerarşi bulunur.",
+    "options": [
+      {
+        "text": "Toplumsal tabakalaşma",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürel farklılaşma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal hareketlilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal iş bölümü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir sosyal kurum örneğidir?",
+    "explanation": "Sosyal kurum, toplumun temel ihtiyaçlarını karşılamak üzere oluşmuş, örgütlenmiş, süreklilik gösteren davranış kalıpları ve ilişkiler bütünüdür. Aile, eğitim, din, ekonomi ve siyaset temel sosyal kurumlardandır.",
+    "options": [
+      {
+        "text": "Aile",
+        "isCorrect": true
+      },
+      {
+        "text": "Bir futbol takımı",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir arkadaş grubu",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir konser organizasyonu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi kültürün maddi ögelerinden biridir?",
+    "explanation": "Kültür, maddi ve manevi olarak ikiye ayrılır. Maddi kültür elle tutulup gözle görülen somut ögelerden oluşur. Bir toplumun kullandığı araç-gereçler, mimari yapılar, giyim kuşam gibi unsurlar maddi kültürü oluşturur.",
+    "options": [
+      {
+        "text": "Gelenekler",
+        "isCorrect": false
+      },
+      {
+        "text": "Değerler",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir toplumun geleneksel ev mimarisi",
+        "isCorrect": true
+      },
+      {
+        "text": "Ahlak kuralları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir toplumun tarihsel süreç içinde ürettiği ve kuşaktan kuşağa aktardığı maddi ve manevi ögelerin tümüne ne ad verilir?",
+    "explanation": "Kültür, bir toplumun yaşam tarzını ifade eden, öğrenilerek kazanılan ve nesilden nesile aktarılan maddi (somut) ve manevi (soyut) değerlerin bütünüdür.",
+    "options": [
+      {
+        "text": "Medeniyet",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültür",
+        "isCorrect": true
+      },
+      {
+        "text": "Değer",
+        "isCorrect": false
+      },
+      {
+        "text": "Norm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir toplumda bireylerin davranışlarını düzenleyen yazılı olmayan kurallara ne denir?",
+    "explanation": "Toplum içinde uyulması beklenen, yazılı olmayan, geleneksel kurallara norm adı verilir. Normlar, toplumsal düzeni sağlayan manevi kültür ögelerindendir.",
+    "options": [
+      {
+        "text": "Yasa",
+        "isCorrect": false
+      },
+      {
+        "text": "Değer",
+        "isCorrect": false
+      },
+      {
+        "text": "Norm",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürleme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireyin içinde yaşadığı toplumun kültürünü öğrenmesi sürecine sosyolojide ne ad verilir?",
+    "explanation": "Kültürleme, bireyin toplumun değerlerini, normlarını ve davranış kalıplarını öğrenerek sosyalleşmesi sürecidir. Bu süreç aile, okul, arkadaş çevresi gibi farklı kurumlar aracılığıyla gerçekleşir.",
+    "options": [
+      {
+        "text": "Kültürlenme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürleşme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürleme",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültür emperyalizmi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir toplumsal kurum değildir?",
+    "explanation": "Toplumsal kurumlar, toplumun temel ihtiyaçlarını karşılamak ve toplumsal düzeni sağlamak üzere oluşmuş yapılandırılmış sistemlerdir. Aile, eğitim, din, siyaset, ekonomi temel toplumsal kurumlardır. 'Arkadaş grubu' ise birincil bir grup olmasına rağmen, temel ve yapılandırılmış bir toplumsal kurum olarak kabul edilmez.",
+    "options": [
+      {
+        "text": "Aile",
+        "isCorrect": false
+      },
+      {
+        "text": "Eğitim",
+        "isCorrect": false
+      },
+      {
+        "text": "Din",
+        "isCorrect": false
+      },
+      {
+        "text": "Arkadaş grubu",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumun neslin devamını sağlama, çocukları sosyalleştirme ve sevgi ihtiyacını karşılama gibi işlevleri olan temel toplumsal kurum aşağıdakilerden hangisidir?",
+    "explanation": "Aile kurumu, toplumun en temel ve evrensel kurumudur. Biyolojik, ekonomik, psikolojik ve toplumsal (sosyalleştirme) gibi birçok temel işlevi yerine getirir.",
+    "options": [
+      {
+        "text": "Ekonomi",
+        "isCorrect": false
+      },
+      {
+        "text": "Siyaset",
+        "isCorrect": false
+      },
+      {
+        "text": "Aile",
+        "isCorrect": true
+      },
+      {
+        "text": "Din",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumda üretim, bölüşüm, tüketim ve değişim faaliyetlerini düzenleyen toplumsal kurum aşağıdakilerden hangisidir?",
+    "explanation": "Ekonomi kurumu, toplumun mal ve hizmetlerin nasıl üretileceği, dağıtılacağı ve tüketileceği ile ilgili faaliyetleri düzenleyen kurumdur. Kaynakların kıt olması, bu kurumun ortaya çıkmasının temel nedenidir.",
+    "options": [
+      {
+        "text": "Eğitim",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekonomi",
+        "isCorrect": true
+      },
+      {
+        "text": "Hukuk",
+        "isCorrect": false
+      },
+      {
+        "text": "Aile",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  }
+]
