@@ -1052,5 +1052,1059 @@
     "section": "Say",
     "difficulty": "Kolay",
     "subject": "Fizik"
+  },
+  {
+    "text": "Bir gezegenin Güneş etrafındaki dolanım periyodu, gezegenin Güneş'e olan ortalama uzaklığının küpü ile nasıl ilişkilidir?",
+    "explanation": "Kepler'in üçüncü yasasına göre, bir gezegenin Güneş etrafındaki dolanım periyodunun karesi (T²), gezegenin Güneş'e olan ortalama uzaklığının küpü (r³) ile doğru orantılıdır. Bu, T² ∝ r³ şeklinde ifade edilir.",
+    "options": [
+      {
+        "text": "Periyodun karesi, uzaklığın küpü ile doğru orantılıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Periyodun karesi, uzaklığın karesi ile doğru orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Periyodun küpü, uzaklığın karesi ile doğru orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Periyot, uzaklığın karesi ile ters orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Periyot, uzaklık ile doğru orantılıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Çekim ve Kepler Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "İki cisim arasındaki kütle çekim kuvveti, cisimlerin kütlelerinin çarpımı ile nasıl değişir?",
+    "explanation": "Newton'un Evrensel Kütle Çekim Yasası'na göre, iki cisim arasındaki çekim kuvveti, cisimlerin kütlelerinin çarpımı (m₁·m₂) ile doğru orantılıdır.",
+    "options": [
+      {
+        "text": "Kütlelerin çarpımı ile doğru orantılıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kütlelerin çarpımı ile ters orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütlelerin toplamı ile doğru orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütlelerin farkı ile doğru orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütlelerin çarpımının karesi ile doğru orantılıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Çekim ve Kepler Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kepler'in ikinci yasası (Alanlar Yasası) hangi fiziksel niceliğin korunumu ile ilişkilidir?",
+    "explanation": "Kepler'in ikinci yasası, bir gezegeni Güneş'e bağlayan çizginin eşit zaman aralıklarında eşit alanlar taradığını söyler. Bu, açısal momentumun korunumu ilkesinin bir sonucudur.",
+    "options": [
+      {
+        "text": "Açısal momentumun korunumu",
+        "isCorrect": true
+      },
+      {
+        "text": "Enerjinin korunumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğrusal momentumun korunumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütlenin korunumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Yükün korunumu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Çekim ve Kepler Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Dünya'nın kütlesi iki katına çıkarılır, yarıçapı aynı kalırsa, yüzeyindeki çekim ivmesi (g) nasıl değişir?",
+    "explanation": "Yüzey çekim ivmesi formülü g = G*M / R²'dir. Kütle (M) iki katına çıkarılır ve yarıçap (R) sabit kalırsa, çekim ivmesi de iki katına çıkar.",
+    "options": [
+      {
+        "text": "İki katına çıkar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yarıya iner.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dört katına çıkar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dörtte birine iner.",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Çekim ve Kepler Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hangi cihaz, manyetik rezonans prensibini kullanarak vücudun iç yapısının detaylı görüntülerini oluşturur?",
+    "explanation": "Manyetik Rezonans Görüntüleme (MRI), güçlü manyetik alan ve radyo dalgaları kullanarak, özellikle yumuşak doku görüntülemede oldukça etkili olan bir tıbbi görüntüleme tekniğidir.",
+    "options": [
+      {
+        "text": "MR (Manyetik Rezonans) Cihazı",
+        "isCorrect": true
+      },
+      {
+        "text": "Röntgen Cihazı",
+        "isCorrect": false
+      },
+      {
+        "text": "Ultrason Cihazı",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilgisayarlı Tomografi (CT) Cihazı",
+        "isCorrect": false
+      },
+      {
+        "text": "PET Tarayıcı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fiziğin Teknolojideki Uygulamaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Lazerlerin çalışma prensibi, aşağıdaki modern fizik kavramlarından hangisine dayanır?",
+    "explanation": "Lazer (Işık Amplifikasyonu Uyarılmış Radyasyon Emisyonu), temel olarak atomların uyarılmış enerji seviyelerinden daha düşük enerji seviyelerine inerken foton yayması, yani 'uyarılmış emisyon' prensibi ile çalışır.",
+    "options": [
+      {
+        "text": "Uyarılmış Emisyon",
+        "isCorrect": true
+      },
+      {
+        "text": "Fotoelektrik Olay",
+        "isCorrect": false
+      },
+      {
+        "text": "Compton Saçılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Süperiletkenlik",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuantum Tünelleme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fiziğin Teknolojideki Uygulamaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Süperiletkenlik olgusunun temel özelliği aşağıdakilerden hangisidir?",
+    "explanation": "Süperiletkenlik, belirli bir kritik sıcaklığın altına soğutulan malzemelerin elektriksel direncinin sıfıra düşmesi ve manyetik alanı tamamen dışlaması (Meissner etkisi) durumudur.",
+    "options": [
+      {
+        "text": "Elektriksel direncin sıfır olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Manyetik alanı güçlendirmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Isı iletkenliğinin azalması",
+        "isCorrect": false
+      },
+      {
+        "text": "Esnekliğinin artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yoğunluğunun artması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fiziğin Teknolojideki Uygulamaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yarıiletken teknolojisi, özellikle hangi elektronik bileşenin üretiminde kullanılarak modern elektroniğin temelini oluşturmuştur?",
+    "explanation": "Transistörler, yarıiletken malzemelerden (genellikle silisyum) yapılan ve elektronik devrelerin (bilgisayar çipleri, amplifikatörler vb.) temel yapı taşı olan anahtarlama ve yükseltme elemanlarıdır.",
+    "options": [
+      {
+        "text": "Transistör",
+        "isCorrect": true
+      },
+      {
+        "text": "Direnç",
+        "isCorrect": false
+      },
+      {
+        "text": "Kondansatör",
+        "isCorrect": false
+      },
+      {
+        "text": "Bobin",
+        "isCorrect": false
+      },
+      {
+        "text": "Pil",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fiziğin Teknolojideki Uygulamaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cisme etki eden kuvvetin, cismin dönmesine neden olma eğilimine ne denir?",
+    "explanation": "Tork (veya moment), bir kuvvetin bir cismi bir eksen etrafında döndürme eğiliminin ölçüsüdür. Kuvvet ile kuvvet kolu (dönme eksenine olan dik uzaklık) çarpımına eşittir.",
+    "options": [
+      {
+        "text": "Tork",
+        "isCorrect": true
+      },
+      {
+        "text": "Kuvvet",
+        "isCorrect": false
+      },
+      {
+        "text": "İvme",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağırlık",
+        "isCorrect": false
+      },
+      {
+        "text": "Sürtünme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cisim dengedeyse, aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Denge koşullarına göre, bir cismin hem öteleme hem de dönme dengesinde olması için, cisme etki eden net kuvvetin sıfır olması (ΣF = 0) VE net torkun sıfır olması (Στ = 0) gerekir.",
+    "options": [
+      {
+        "text": "Net kuvvet ve net tork sıfırdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece net kuvvet sıfırdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece net tork sıfırdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinetik enerjisi sıfırdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Potansiyel enerjisi maksimumdur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir desteğe mesnetlenmiş bir çubuğun dengede kalabilmesi için, çubuğun ağırlık merkezi nerede olmalıdır?",
+    "explanation": "Bir cismin dengede kalabilmesi için, ağırlık merkezinden aşağıya doğru etki eden ağırlık vektörünün, cismin destek yüzeyi veya destek noktası içinde kalması gerekir. Basit bir destek noktası için ağırlık merkezi destek noktasının tam üzerinde olursa cisim dengededir.",
+    "options": [
+      {
+        "text": "Destek noktasının üzerinde veya destek yüzeyi içinde",
+        "isCorrect": true
+      },
+      {
+        "text": "Destek noktasının solunda",
+        "isCorrect": false
+      },
+      {
+        "text": "Destek noktasının sağında",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin en ucunda",
+        "isCorrect": false
+      },
+      {
+        "text": "Yerden yüksek bir noktada",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "10 N'luk bir kuvvet, 2 metre uzunluğundaki bir çubuğun ucuna, çubuğa dik olarak uygulanıyor. Bu kuvvetin çubuğun diğer ucundaki dönme noktasına göre torku kaç N·m'dir?",
+    "explanation": "Tork (τ), kuvvet (F) ile kuvvet kolu (d) çarpımına eşittir: τ = F * d. Kuvvet çubuğa dik olduğu için kuvvet kolu, kuvvetin uygulandığı nokta ile dönme noktası arasındaki mesafedir. τ = 10 N * 2 m = 20 N·m.",
+    "options": [
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hangi atom modeli, elektronların çekirdek etrafında belirli enerji seviyelerinde (yörüngelerde) dolandığını ve enerji kuantumlu olduğunu öne sürmüştür?",
+    "explanation": "Niels Bohr, 1913'te önerdiği atom modelinde, elektronların çekirdek etrafında belirli kararlı yörüngelerde dolandığını ve bu yörüngeler arasında geçiş yaparken enerji soğurup yaydıklarını belirtmiştir. Bu model, kuantum fikrini atom yapısına uygulayan ilk başarılı modeldir.",
+    "options": [
+      {
+        "text": "Bohr Atom Modeli",
+        "isCorrect": true
+      },
+      {
+        "text": "Thomson Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Rutherford Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalton Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Modern Atom Modeli",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom Modelleri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Altın levha deneyi sonucunda, atomun pozitif yükünün ve kütlesinin büyük bir kısmının çok küçük bir hacimde toplandığını öne süren atom modeli hangisidir?",
+    "explanation": "Ernest Rutherford, 1911'de yaptığı altın levha saçılma deneyi sonuçlarına dayanarak, atomun pozitif yükünün ve kütlesinin merkezde çok küçük bir çekirdekte toplandığını, elektronların ise bu çekirdeğin etrafında dolandığını öne sürmüştür.",
+    "options": [
+      {
+        "text": "Rutherford Atom Modeli",
+        "isCorrect": true
+      },
+      {
+        "text": "Bohr Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Thomson Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalton Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Modern Atom Modeli",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom Modelleri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Atomu, içine gömülü pozitif yüklü bir küre içinde dağılmış negatif yüklü elektronlar olarak tasvir eden 'üzümlü kek' modeli olarak da bilinen model hangisidir?",
+    "explanation": "J.J. Thomson, 1897'de elektronu keşfettikten sonra, atomu pozitif yüklü bir küre (kek) içine dağılmış negatif yüklü elektronlar (üzümler) olarak tasvir etmiştir. Bu modele Thomson Atom Modeli veya üzümlü kek modeli denir.",
+    "options": [
+      {
+        "text": "Thomson Atom Modeli",
+        "isCorrect": true
+      },
+      {
+        "text": "Rutherford Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Bohr Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalton Atom Modeli",
+        "isCorrect": false
+      },
+      {
+        "text": "Modern Atom Modeli",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom Modelleri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cisim basit harmonik hareket yaparken denge konumundan geçtiği anda aşağıdaki büyüklüklerden hangisi maksimum değerini alır?",
+    "explanation": "Basit harmonik hareket yapan bir cisim denge konumundan geçerken hızı maksimum, ivmesi ise sıfır olur. Çünkü denge konumunda geri çağırıcı kuvvet sıfırdır, bu nedenle ivme de sıfırdır. Hız ise bu noktada en yüksek değerine ulaşır.",
+    "options": [
+      {
+        "text": "İvme",
+        "isCorrect": false
+      },
+      {
+        "text": "Hız",
+        "isCorrect": true
+      },
+      {
+        "text": "Kütle",
+        "isCorrect": false
+      },
+      {
+        "text": "Periyot",
+        "isCorrect": false
+      },
+      {
+        "text": "Uzanım",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Harmonik Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir yay sarkacının periyodu aşağıdakilerden hangisine bağlı değildir?",
+    "explanation": "Yay sarkacının periyodu (T), T = 2π√(m/k) formülü ile verilir. Burada m cismin kütlesi, k ise yay sabitidir. Periyot, salınımın genliğine bağlı değildir; genlik küçük olduğu sürece periyot sabit kalır.",
+    "options": [
+      {
+        "text": "Cismin kütlesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yay sabiti",
+        "isCorrect": false
+      },
+      {
+        "text": "Salınım genliği",
+        "isCorrect": true
+      },
+      {
+        "text": "Yer çekimi ivmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yayın uzunluğu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Harmonik Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Basit harmonik hareket yapan bir cisim için uzanım-zaman grafiği aşağıdakilerden hangisine benzer?",
+    "explanation": "Basit harmonik hareket, periyodik ve sinüzoidal (sinüs veya kosinüs) bir harekettir. Bu nedenle, cismin denge konumuna olan uzaklığını (uzanım) zamana karşı gösteren grafik, bir sinüs veya kosinüs dalgası şeklindedir.",
+    "options": [
+      {
+        "text": "Doğrusal artan bir grafik",
+        "isCorrect": false
+      },
+      {
+        "text": "Parabolik bir grafik",
+        "isCorrect": false
+      },
+      {
+        "text": "Sinüs dalgası grafiği",
+        "isCorrect": true
+      },
+      {
+        "text": "Hiperbolik bir grafik",
+        "isCorrect": false
+      },
+      {
+        "text": "Üstel azalan bir grafik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Harmonik Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir basit sarkacın periyodu, sarkacın uzunluğu dört katına çıkarılırsa kaç katına çıkar?",
+    "explanation": "Basit sarkacın periyodu T = 2π√(L/g) formülü ile verilir. Burada L sarkacın uzunluğudur. Periyot, uzunluğun karekökü ile doğru orantılıdır. Uzunluk 4 katına çıkarsa (√4 = 2), periyot 2 katına çıkar.",
+    "options": [
+      {
+        "text": "2 katına",
+        "isCorrect": true
+      },
+      {
+        "text": "4 katına",
+        "isCorrect": false
+      },
+      {
+        "text": "8 katına",
+        "isCorrect": false
+      },
+      {
+        "text": "16 katına",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişmez",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Harmonik Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Manyetik alan içinde hareket eden bir iletken çubukta indüklenen emk'nın büyüklüğü aşağıdakilerden hangisine bağlı değildir?",
+    "explanation": "İndüklenen emk (ε) formülü ε = B * l * v ile verilir. Burada B manyetik alan şiddeti, l iletkenin uzunluğu, v ise hızın manyetik alana dik bileşenidir. İndüklenen emk, iletkenin direncine bağlı değildir. Direnç, indüklenen akımın şiddetini etkiler, ancak emk'yı etkilemez.",
+    "options": [
+      {
+        "text": "Manyetik alan şiddetine",
+        "isCorrect": false
+      },
+      {
+        "text": "İletkenin uzunluğuna",
+        "isCorrect": false
+      },
+      {
+        "text": "İletkenin hareket hızına",
+        "isCorrect": false
+      },
+      {
+        "text": "İletkenin direncine",
+        "isCorrect": true
+      },
+      {
+        "text": "Hızın manyetik alana dik bileşenine",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İndüksiyon, Alternatif Akım ve Transformatörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir transformatörün sarım sayısı iki katına çıkarılırsa, indüklenen gerilim için ne söylenebilir?",
+    "explanation": "Transformatörlerde gerilim, sarım sayıları ile doğru orantılıdır. Formül V_çıkış / V_giriş = N_çıkış / N_giriş şeklindedir. Eğer sarım sayısı iki katına çıkarılırsa, indüklenen gerilim de iki katına çıkar.",
+    "options": [
+      {
+        "text": "Yarıya iner",
+        "isCorrect": false
+      },
+      {
+        "text": "Dört katına çıkar",
+        "isCorrect": false
+      },
+      {
+        "text": "İki katına çıkar",
+        "isCorrect": true
+      },
+      {
+        "text": "Değişmez",
+        "isCorrect": false
+      },
+      {
+        "text": "Dörtte birine iner",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İndüksiyon, Alternatif Akım ve Transformatörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Alternatif akımın frekansı iki katına çıkarılırsa, endüktif reaktans (X_L) nasıl değişir?",
+    "explanation": "Endüktif reaktans, bir bobinin alternatif akıma gösterdiği dirençtir ve X_L = 2πfL formülü ile hesaplanır. Burada f frekans, L ise endüktanstır. Formüle göre endüktif reaktans, frekans ile doğru orantılıdır. Bu nedenle frekans iki katına çıkarsa, endüktif reaktans da iki katına çıkar.",
+    "options": [
+      {
+        "text": "Yarıya iner",
+        "isCorrect": false
+      },
+      {
+        "text": "İki katına çıkar",
+        "isCorrect": true
+      },
+      {
+        "text": "Dört katına çıkar",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişmez",
+        "isCorrect": false
+      },
+      {
+        "text": "Dörtte birine iner",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İndüksiyon, Alternatif Akım ve Transformatörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Manyetik akıyı değiştirmenin yollarından biri aşağıdakilerden hangisi değildir?",
+    "explanation": "Manyetik akı (Φ), Φ = B * A * cosθ formülü ile verilir ve manyetik alan şiddeti (B), alan (A) veya alanın manyetik alan ile yaptığı açı (θ) değiştirilerek değiştirilebilir. Ancak, iletkenin sıcaklığını değiştirmek manyetik akıyı doğrudan etkilemez. Sıcaklık, iletkenin direncini etkileyebilir ama manyetik akıyı değiştirmez.",
+    "options": [
+      {
+        "text": "Manyetik alan şiddetini değiştirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Alanı değiştirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Açıyı değiştirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "İletkenin sıcaklığını değiştirmek",
+        "isCorrect": true
+      },
+      {
+        "text": "İletkeni manyetik alan içinde hareket ettirmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İndüksiyon, Alternatif Akım ve Transformatörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sürtünmesiz bir ortamda duran bir cisme uygulanan kuvvet, cismi belirli bir yolda hareket ettiriyor. Yapılan iş aşağıdakilerden hangisine eşittir?",
+    "explanation": "İş, bir cisme uygulanan kuvvetin cismi kuvvet doğrultusunda yer değiştirtmesi sonucu yapılır. İşin tanımı W = F * x * cosθ'dır. Sürtünme olmadığında, cisme aktarılan enerji cismin kinetik enerjisindeki değişime eşittir. Bu, iş-enerji teoremi olarak bilinir: Net iş = Kinetik enerji değişimi.",
+    "options": [
+      {
+        "text": "Cismin potansiyel enerjisine",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin kinetik enerjisindeki değişime",
+        "isCorrect": true
+      },
+      {
+        "text": "Cisme etki eden sürtünme kuvvetine",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin ısı enerjisine",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin ağırlığına",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji II",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir vinç, 100 kg kütleli bir yükü 20 saniyede 10 metre yüksekliğe sabit hızla kaldırıyor. Vincin gücü kaç watt'tır? (g=10 m/s²)",
+    "explanation": "Güç, işin zamana oranıdır (P = W/t). Yapılan iş, yükün potansiyel enerjisindeki artışa eşittir: W = m*g*h = 100 kg * 10 m/s² * 10 m = 10.000 J. Güç ise P = 10.000 J / 20 s = 500 W olarak hesaplanır.",
+    "options": [
+      {
+        "text": "100 W",
+        "isCorrect": false
+      },
+      {
+        "text": "250 W",
+        "isCorrect": false
+      },
+      {
+        "text": "500 W",
+        "isCorrect": true
+      },
+      {
+        "text": "1000 W",
+        "isCorrect": false
+      },
+      {
+        "text": "2000 W",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji II",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kinetik enerjisi E olan bir cismin hızı iki katına çıkarılırsa, kinetik enerjisi ne olur?",
+    "explanation": "Kinetik enerji formülü E = (1/2) * m * v² şeklindedir. Kinetik enerji, hızın karesi ile doğru orantılıdır. Eğer hız iki katına (2v) çıkarsa, kinetik enerji (1/2)*m*(2v)² = (1/2)*m*4v² = 4 * [(1/2)mv²] = 4E olur. Yani kinetik enerji dört katına çıkar.",
+    "options": [
+      {
+        "text": "E",
+        "isCorrect": false
+      },
+      {
+        "text": "2E",
+        "isCorrect": false
+      },
+      {
+        "text": "4E",
+        "isCorrect": true
+      },
+      {
+        "text": "8E",
+        "isCorrect": false
+      },
+      {
+        "text": "16E",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji II",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yay sabiti k olan bir yay x kadar sıkıştırılıyor. Yayda depolanan esneklik potansiyel enerjisi nedir?",
+    "explanation": "Bir yayda depolanan esneklik potansiyel enerjisi, E = (1/2) * k * x² formülü ile hesaplanır. Burada k yay sabiti, x ise yaydaki uzama veya sıkışma miktarıdır.",
+    "options": [
+      {
+        "text": "k * x",
+        "isCorrect": false
+      },
+      {
+        "text": "(1/2) * k * x",
+        "isCorrect": false
+      },
+      {
+        "text": "(1/2) * k * x²",
+        "isCorrect": true
+      },
+      {
+        "text": "k * x²",
+        "isCorrect": false
+      },
+      {
+        "text": "2 * k * x",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İş, Güç ve Enerji II",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir araba 72 km/saat hızla giderken bu hız m/s cinsinden nedir?",
+    "explanation": "Hız birimlerini dönüştürürken 1 km/saat = (1000 m) / (3600 s) = 5/18 m/s kuralı kullanılır. 72 km/saat'i m/s'ye çevirmek için 72 ile 5/18'i çarparız: 72 * (5/18) = (72/18)*5 = 4*5 = 20 m/s.",
+    "options": [
+      {
+        "text": "10 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "15 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m/s",
+        "isCorrect": true
+      },
+      {
+        "text": "25 m/s",
+        "isCorrect": false
+      },
+      {
+        "text": "30 m/s",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Durgun halden harekete geçen bir cisim 5 saniyede 50 metre yol alıyor. Cismin ivmesi kaç m/s²'dir? (Cismin ivmesi sabittir.)",
+    "explanation": "Durgun halden (ilk hız v₀ = 0) sabit ivmeli hareket için alınan yol formülü x = (1/2) * a * t² şeklindedir. Verilenleri yerine koyarsak: 50 = (1/2) * a * (5)² -> 50 = (1/2) * a * 25 -> 50 = 12.5a -> a = 50 / 12.5 = 4 m/s².",
+    "options": [
+      {
+        "text": "2 m/s²",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m/s²",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m/s²",
+        "isCorrect": false
+      },
+      {
+        "text": "10 m/s²",
+        "isCorrect": false
+      },
+      {
+        "text": "20 m/s²",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hız-zaman grafiğinin altında kalan alan neyi verir?",
+    "explanation": "Hız-zaman grafiğinde, grafiğin altında kalan alan, cismin yer değiştirmesini (Δx) verir. İvme-zaman grafiğinin altındaki alan hız değişimini, konum-zaman grafiğinin eğimi ise hızı verir.",
+    "options": [
+      {
+        "text": "İvme",
+        "isCorrect": false
+      },
+      {
+        "text": "Hız",
+        "isCorrect": false
+      },
+      {
+        "text": "Yer değiştirme",
+        "isCorrect": true
+      },
+      {
+        "text": "Kütle",
+        "isCorrect": false
+      },
+      {
+        "text": "Zaman",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Büyük Patlama teorisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Büyük Patlama teorisi, evrenin yaklaşık 13,8 milyar yıl önce aşırı sıcak ve yoğun bir başlangıç durumundan genişlemeye başladığını öne sürer. Bu, evrenin bir başlangıcı olduğu fikrini destekleyen temel kanıttır.",
+    "options": [
+      {
+        "text": "Evrenin bir başlangıcı olduğunu öne sürer.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evrenin durağan ve sonsuz olduğunu savunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş sisteminin oluşumunu açıklar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kara deliklerin iç yapısını tanımlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atomun yapısını açıklayan bir modeldir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir radyoaktif maddenin yarı ömrü aşağıdakilerden hangisidir?",
+    "explanation": "Radyoaktif bir maddenin yarı ömrü, madde miktarının başlangıçtaki değerinin yarısına inmesi için geçen süre olarak tanımlanır. Bu, radyoaktif bozunmanın temel bir özelliğidir.",
+    "options": [
+      {
+        "text": "Madde miktarının yarıya inmesi için geçen süredir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Maddenin tamamen bozunması için geçen süredir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Madde miktarının iki katına çıkması için geçen süredir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Radyoaktif ışımanın şiddetinin maksimum olduğu süredir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddenin fiziksel halinin değiştiği süredir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Büyük Patlama'dan sonra evrenin genişlemesine kanıt olarak aşağıdakilerden hangisi gösterilir?",
+    "explanation": "Uzaktaki galaksilerden gelen ışığın tayfında gözlemlenen kırmızıya kayma, bu galaksilerin bizden uzaklaştığını ve dolayısıyla evrenin genişlediğinin bir kanıtıdır.",
+    "options": [
+      {
+        "text": "Galaksilerin ışığındaki kırmızıya kayma.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mikrodalga arkaplan ışımasının varlığı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karanlık maddenin keşfi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Süpernova patlamalarının gözlemi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütleçekimsel dalgaların tespiti.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki radyoaktif ışıma türlerinden hangisi yüksek enerjili elektromanyetik dalgadır?",
+    "explanation": "Gama (γ) ışınları, radyoaktif bozunma sırasında yayınlanan, yüksek enerjili ve dalga boyu kısa elektromanyetik dalgalardır. Alfa ve beta parçacıklarının aksine, bunlar fotonlardır.",
+    "options": [
+      {
+        "text": "Gama ışınları",
+        "isCorrect": true
+      },
+      {
+        "text": "Alfa parçacıkları",
+        "isCorrect": false
+      },
+      {
+        "text": "Beta parçacıkları",
+        "isCorrect": false
+      },
+      {
+        "text": "Nötronlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Pozitronlar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
   }
 ]
