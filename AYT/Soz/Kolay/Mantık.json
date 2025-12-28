@@ -1,0 +1,596 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi mantığın temel amacını en iyi şekilde ifade eder?",
+    "explanation": "Mantığın temel amacı, doğru düşünmenin kurallarını incelemek ve geçerli akıl yürütmeleri geçersiz olanlardan ayırt etmektir. Bu, düşüncenin biçimsel yapısıyla ilgilenir.",
+    "options": [
+      {
+        "text": "Duyguları kontrol etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğru düşünmenin kurallarını belirlemek",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilimsel deneyler yapmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatsal ifadeyi geliştirmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Bir önermenin doğru ya da yanlış olmasına ne ad verilir?",
+    "explanation": "Doğruluk değeri, bir önermenin doğru (D) veya yanlış (Y) olma durumunu ifade eden mantıksal bir özelliktir.",
+    "options": [
+      {
+        "text": "Önerme değeri",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğruluk değeri",
+        "isCorrect": true
+      },
+      {
+        "text": "Mantık değeri",
+        "isCorrect": false
+      },
+      {
+        "text": "Yargı değeri",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Bir akıl yürütmenin geçerli olması için aşağıdakilerden hangisi zorunludur?",
+    "explanation": "Bir akıl yürütmenin geçerli olması için öncüller doğruysa sonucun da zorunlu olarak doğru olması gerekir. Öncüllerin gerçekte doğru olup olmaması geçerliliği etkilemez, önemli olan biçimsel yapıdır.",
+    "options": [
+      {
+        "text": "Öncüllerin ve sonucun doğru olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Öncüller doğruysa sonucun da doğru olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Sonucun herkes tarafından kabul edilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Akıl yürütmenin kısa olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "\"Bu gün hava güneşlidir.\" ifadesi için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "\"Bu gün hava güneşlidir.\" ifadesi bir yargı bildirdiği ve doğru ya da yanlış olma özelliği taşıdığı için bir önermedir.",
+    "options": [
+      {
+        "text": "Kavramdır",
+        "isCorrect": false
+      },
+      {
+        "text": "Terimdir",
+        "isCorrect": false
+      },
+      {
+        "text": "Önermedir",
+        "isCorrect": true
+      },
+      {
+        "text": "Çıkarımdır",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Klasik mantıkta, bir kavramın içine aldığı bireylerin tümüne ne ad verilir?",
+    "explanation": "Klasik mantıkta, bir kavramın içine aldığı, kapsadığı bireylerin veya alt türlerin tümüne o kavramın kaplamı denir. Örneğin, 'kuş' kavramının kaplamı serçe, kartal, güvercin vb. tüm kuş türleridir.",
+    "options": [
+      {
+        "text": "İçlem",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaplam",
+        "isCorrect": true
+      },
+      {
+        "text": "Özlem",
+        "isCorrect": false
+      },
+      {
+        "text": "Tümel",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "\"Bazı insanlar ölümlüdür.\" önermesinin karşıtı (obversiyonu) aşağıdakilerden hangisidir?",
+    "explanation": "Karşıt (Obversiyon) işlemi, önermenin niteliğini değiştirip (olumluysa olumsuz, olumsuzsa olumlu yapıp) yüklemi olumsuzlamaktan oluşur. 'Bazı insanlar ölümlüdür' (Özel Olumlu - I) önermesinin karşıtı, niteliği olumsuz yapılarak ve yüklem olumsuzlanarak 'Bazı insanlar ölümsüz değildir' (Özel Olumsuz - O) şeklinde bulunur.",
+    "options": [
+      {
+        "text": "Bazı insanlar ölümsüzdür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiçbir insan ölümsüz değildir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bazı insanlar ölümsüz değildir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tüm insanlar ölümlüdür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdaki kıyas tiplerinden hangisi birinci şekil kıyasa örnektir?",
+    "explanation": "Birinci şekil kıyasta orta terim (M), büyük öncülde yüklem, küçük öncülde özne konumundadır. 'Tüm M'ler P'dir. / Tüm S'ler M'dir. / O halde, tüm S'ler P'dir.' kalıbındadır. Seçenekteki örnek bu kalıba uymaktadır (M=Canlı, P=Ölümlü, S=İnsan).",
+    "options": [
+      {
+        "text": "Tüm canlılar ölümlüdür. Tüm insanlar canlıdır. O halde, tüm insanlar ölümlüdür.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tüm kediler memelidir. Bazı memeliler karada yaşar. O halde, bazı kediler karada yaşar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tüm gezegenler güneş etrafında döner. Dünya bir gezegendir. O halde, Dünya güneş etrafında döner.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiçbir kuş balık değildir. Tüm serçeler kuştur. O halde, hiçbir serçe balık değildir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "\"Hiçbir gezegen yıldız değildir.\" önermesinin eşdeğeri (kontrapozisyonu) aşağıdakilerden hangisidir?",
+    "explanation": "Kontrapozisyon işlemi, önermenin evrikesi alındıktan sonra karşıtının alınmasıdır. Evrikesi: 'Hiçbir yıldız gezegen değildir.' Karşıtı (nitelik değişir, yüklem olumsuzlanır): 'Tüm yıldızlar gezegen değil değildir.' Bu da 'Tüm yıldızlar gezegendir.' anlamına gelir. Veya doğrudan E önermesinin kontrapozisyonu yine E önermesidir kuralıyla da bulunabilir.",
+    "options": [
+      {
+        "text": "Tüm gezegenler yıldızdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bazı gezegenler yıldız değildir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiçbir yıldız gezegen değildir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bazı yıldızlar gezegen değildir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi bir 'tanım' örneğidir?",
+    "explanation": "Tanım, bir kavramın özünü belirten, onu diğer kavramlardan ayıran temel özellikleri gösteren ifadedir. 'Üçgen, üç kenarı olan çokgendir.' ifadesi 'üçgen' kavramının özünü (üç kenarlı olma) belirttiği için bir tanımdır.",
+    "options": [
+      {
+        "text": "Üçgenin iç açıları toplamı 180 derecedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu şekil bir üçgendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Üçgen, üç kenarı olan çokgendir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Üçgenler eşkenar olabilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "\"Genç doktor hastayı muayene etti.\" cümlesindeki belirsizlik aşağıdaki kavramlardan hangisiyle ifade edilir?",
+    "explanation": "Bu cümlede 'genç' sıfatının 'doktor'a mı yoksa 'hasta'ya mı ait olduğu belirsizdir. Bu tür, bir ifadenin birden fazla anlama gelme durumuna 'çok anlamlılık' (anlam kayması) denir.",
+    "options": [
+      {
+        "text": "Çok anlamlılık",
+        "isCorrect": true
+      },
+      {
+        "text": "Önerme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kavram",
+        "isCorrect": false
+      },
+      {
+        "text": "Tanım",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi 'dil'in mantık açısından işlevlerinden biri değildir?",
+    "explanation": "Dilin mantık açısından temel işlevleri bilgi aktarmak (bildirim işlevi), düşünceleri ifade etmek ve iletişim kurmaktır. Duyguları ifade etmek (heyecan işlevi) dilin önemli bir işlevi olmakla birlikte, mantığın doğrudan birincil konusu değildir. Mantık daha çok bildirim işleviyle kullanılan, doğruluk değeri taşıyan ifadelerle ilgilenir.",
+    "options": [
+      {
+        "text": "Bilgi aktarmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Düşünceleri ifade etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Duyguları ifade etmek",
+        "isCorrect": true
+      },
+      {
+        "text": "İletişim kurmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Bir ifadenin günlük dildeki kullanımı ile mantıkta kazandığı teknik anlam arasındaki fark aşağıdaki kavram çiftlerinden hangisinde görülür?",
+    "explanation": "'Doğruluk' kavramı günlük dilde 'dürüstlük, gerçeklik' gibi anlamlara gelirken, mantıkta bir önermenin olgusal duruma uygun olup olmaması anlamında, yani 'doğruluk değeri' olarak teknik bir anlam kazanır. Bu bir anlam kayması örneğidir.",
+    "options": [
+      {
+        "text": "Doğruluk - Doğruluk Değeri",
+        "isCorrect": true
+      },
+      {
+        "text": "Önerme - Cümle",
+        "isCorrect": false
+      },
+      {
+        "text": "Kavram - Kelime",
+        "isCorrect": false
+      },
+      {
+        "text": "Tanım - Açıklama",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Sembolik mantıkta, 'p' önermesi doğru, 'q' önermesi yanlış ise 'p ∧ q' bileşik önermesinin doğruluk değeri nedir?",
+    "explanation": "'∧' (ve) bağlacı, bileşen önermelerin her ikisi de doğru olduğunda doğru, diğer durumlarda yanlıştır. p doğru (D), q yanlış (Y) olduğuna göre, p ∧ q önermesinin doğruluk değeri Yanlış (Y) olur.",
+    "options": [
+      {
+        "text": "Doğru",
+        "isCorrect": false
+      },
+      {
+        "text": "Yanlış",
+        "isCorrect": true
+      },
+      {
+        "text": "Belirsiz",
+        "isCorrect": false
+      },
+      {
+        "text": "Hem doğru hem yanlış",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sembolik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "'p ∨ q' önermesinin olumsuzu (değili) aşağıdakilerden hangisine eşdeğerdir?",
+    "explanation": "De Morgan kuralına göre, bir ayrımanın (veya işleminin) değili, bileşenlerin ayrı ayrı değillerinin konjunksiyonuna (ve işlemine) eşittir. Yani, ~(p ∨ q) ≡ ~p ∧ ~q.",
+    "options": [
+      {
+        "text": "~p ∨ ~q",
+        "isCorrect": false
+      },
+      {
+        "text": "p ∧ q",
+        "isCorrect": false
+      },
+      {
+        "text": "~p ∧ ~q",
+        "isCorrect": true
+      },
+      {
+        "text": "p ∨ q",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sembolik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Sembolik mantıkta '→' sembolü hangi mantıksal bağlacı ifade eder?",
+    "explanation": "Sembolik mantıkta '→' sembolü 'ise' anlamına gelen koşul (conditional) bağlacını temsil eder. 'p → q' şeklinde yazılır ve 'p ise q' diye okunur.",
+    "options": [
+      {
+        "text": "Ve",
+        "isCorrect": false
+      },
+      {
+        "text": "Veya",
+        "isCorrect": false
+      },
+      {
+        "text": "İse",
+        "isCorrect": true
+      },
+      {
+        "text": "Ancak ve ancak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sembolik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir terimin özelliklerini gösteren ve onu diğer terimlerden ayıran tanıma verilen addır?",
+    "explanation": "Bir terimin özelliklerini gösteren ve onu benzerlerinden ayıran tanım türü 'Özel Tanım'dır. Özel tanım, bir kavramın kendine has niteliklerini ortaya koyar.",
+    "options": [
+      {
+        "text": "Ad Tanımı",
+        "isCorrect": false
+      },
+      {
+        "text": "Özel Tanım",
+        "isCorrect": true
+      },
+      {
+        "text": "Açıklayıcı Tanım",
+        "isCorrect": false
+      },
+      {
+        "text": "İşlemsel Tanım",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Bir sözcüğün günlük dildeki kullanımına dayalı tanıma ne ad verilir?",
+    "explanation": "Bir sözcüğün günlük dildeki, sözlüklerde yer alan yaygın ve genel kabul görmüş anlamını ifade eden tanım türü 'Ad Tanımı'dır.",
+    "options": [
+      {
+        "text": "Özel Tanım",
+        "isCorrect": false
+      },
+      {
+        "text": "Açıklayıcı Tanım",
+        "isCorrect": false
+      },
+      {
+        "text": "Ad Tanımı",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilimsel Tanım",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "\"Bilgisayar, elektronik veri işleme makinesidir.\" ifadesi hangi tür bir tanım örneğidir?",
+    "explanation": "Bir kavramı, onun işlevi veya ne yaptığı üzerinden açıklayan tanım türü 'Açıklayıcı Tanım'dır. Bu örnekte bilgisayar, 'elektronik veri işleme' işlevi ile tanımlanmıştır.",
+    "options": [
+      {
+        "text": "Ad Tanımı",
+        "isCorrect": false
+      },
+      {
+        "text": "Özel Tanım",
+        "isCorrect": false
+      },
+      {
+        "text": "Açıklayıcı Tanım",
+        "isCorrect": true
+      },
+      {
+        "text": "İşlemsel Tanım",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Bir kavramın, onu ölçmek veya gözlemlemek için kullanılan somut işlemlerle tanımlanmasına ne denir?",
+    "explanation": "Bir kavramı, onu ölçmeye veya gözlemlemeye yarayan somut ve tekrarlanabilir işlemler aracılığıyla tanımlamak 'İşlemsel Tanım' olarak adlandırılır. Bu tanım türü bilimsel çalışmalarda sıklıkla kullanılır.",
+    "options": [
+      {
+        "text": "Ad Tanımı",
+        "isCorrect": false
+      },
+      {
+        "text": "Açıklayıcı Tanım",
+        "isCorrect": false
+      },
+      {
+        "text": "Özel Tanım",
+        "isCorrect": false
+      },
+      {
+        "text": "İşlemsel Tanım",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Mantığın temel amacı aşağıdakilerden hangisidir?",
+    "explanation": "Mantığın temel amacı, doğru düşünmenin kurallarını incelemek ve akıl yürütme süreçlerinde doğru ile yanlışı birbirinden ayırt etmektir.",
+    "options": [
+      {
+        "text": "Duyguları ifade etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatsal yaratıcılığı geliştirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğru düşünmenin kurallarını incelemek",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarihi olayları analiz etmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir önermedir?",
+    "explanation": "Bir önerme, doğru ya da yanlış olabilen anlamlı bir ifadedir. \"Bugün hava güneşli.\" ifadesi bir yargı bildirdiği ve doğrulanabilir/yanlışlanabilir olduğu için önermedir. Soru sormak, emir vermek veya ünlem ifadeleri önerme değildir.",
+    "options": [
+      {
+        "text": "Lütfen pencereyi aç.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bugün hava güneşli.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ah, ne güzel bir gün!",
+        "isCorrect": false
+      },
+      {
+        "text": "Saatin kaç olduğunu biliyor musun?",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Doğruluğu veya yanlışlığı kesin olarak bilinen, tartışmaya yer bırakmayan önermelere ne ad verilir?",
+    "explanation": "Doğruluğu veya yanlışlığı kesin olan, herkes tarafından kabul edilen, deneyime dayanmadan akıl yoluyla bilinebilen önermelere 'Analitik Önerme' denir. Örneğin, \"Bir üçgenin üç iç açısının toplamı 180 derecedir.\" ifadesi analitik bir önermedir.",
+    "options": [
+      {
+        "text": "Sentetik Önerme",
+        "isCorrect": false
+      },
+      {
+        "text": "Analitik Önerme",
+        "isCorrect": true
+      },
+      {
+        "text": "Basit Önerme",
+        "isCorrect": false
+      },
+      {
+        "text": "Bileşik Önerme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  }
+]
