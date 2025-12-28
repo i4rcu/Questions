@@ -1,0 +1,392 @@
+[
+  {
+    "text": "Bilimsel bir problemin çözümünde izlenen basamaklar sırasıyla verilmiştir. I. Kontrollü deneyler yapmak II. Hipotez kurmak III. Problem tespiti IV. Gözlem yapmak V. Teori oluşturmak Bu basamakların doğru sıralanışı aşağıdakilerden hangisidir?",
+    "explanation": "Bilimsel yöntemin doğru sırası şu şekildedir: Önce problem tespit edilir (III), ardından gözlem yapılır (IV), gözlemlere dayanarak hipotez kurulur (II), hipotezi test etmek için kontrollü deneyler yapılır (I) ve sonuçlar genellenerek teori oluşturulur (V). Bu nedenle doğru sıra III, IV, II, I, V'tir.",
+    "options": [
+      {
+        "text": "III - II - IV - I - V",
+        "isCorrect": false
+      },
+      {
+        "text": "III - IV - II - I - V",
+        "isCorrect": true
+      },
+      {
+        "text": "IV - III - I - II - V",
+        "isCorrect": false
+      },
+      {
+        "text": "II - III - IV - V - I",
+        "isCorrect": false
+      },
+      {
+        "text": "I - II - III - IV - V",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir biyolog, belirli bir bölgedeki endemik bir bitki türünün popülasyon yoğunluğunun son 10 yılda azalma nedenini araştırmaktadır. Bu araştırmayı yaparken aşağıdaki bilim dallarından hangisinin yöntem ve verilerinden en AZ yararlanması beklenir?",
+    "explanation": "Bir bitki popülasyonunun azalma nedenini araştırmak için ekoloji, botanik, genetik ve fizyoloji bilim dallarının verileri doğrudan kullanılır. Anatomi, canlıların iç yapısını inceler ve bir popülasyonun dinamiklerini anlamak için diğer dallara göre daha az doğrudan ilişkilidir. Bu nedenle en az anatomi bilim dalından yararlanılır.",
+    "options": [
+      {
+        "text": "Ekoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Botanik",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetik",
+        "isCorrect": false
+      },
+      {
+        "text": "Fizyoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Anatomi",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Biyolojik bir hipotezin 'bilimsel' kabul edilebilmesi için aşağıdaki özelliklerden hangisi mutlaka taşıması gerekmez?",
+    "explanation": "Bilimsel bir hipotez, gözlem ve mevcut bilgilerle tutarlı olmalı, test edilebilir ve yanlışlanabilir olmalı, yeni tahminlerde bulunabilmelidir. Ancak, hipotezin kesinlikle doğru olması gerekmez; aksine, test edilip yanlışlanabilir olması önemlidir. Yanlışlanan bir hipotez bilimsel sürecin bir parçasıdır ve reddedilir. Bu nedenle 'kesinlikle doğru olma' özelliği gerekmez.",
+    "options": [
+      {
+        "text": "Gözlem ve mevcut bilgilerle tutarlı olma",
+        "isCorrect": false
+      },
+      {
+        "text": "Test edilebilir ve yanlışlanabilir olma",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeni tahminlerde bulunabilme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kesinlikle doğru olma",
+        "isCorrect": true
+      },
+      {
+        "text": "Açık ve net ifade edilmiş olma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Ökaryot bir hücrede, sentriyoller ve hücre iskeleti elemanları dışında, zarsız bir organel olarak da sınıflandırılabilen yapı aşağıdakilerden hangisidir?",
+    "explanation": "Ribozom, protein sentezinden sorumlu olan ve bir zarla çevrili olmayan (zarsız) bir organeldir. Sentriyoller ve hücre iskeleti elemanları (mikrotübüller, mikrofilamentler) de zarsız yapılardır, ancak soruda sentriyoller ve hücre iskeleti elemanları dışında bir zarsız organel sorulmaktadır. Bu nedenle doğru cevap ribozomdur.",
+    "options": [
+      {
+        "text": "Golgi aygıtı",
+        "isCorrect": false
+      },
+      {
+        "text": "Lizozom",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozom",
+        "isCorrect": true
+      },
+      {
+        "text": "Peroksizom",
+        "isCorrect": false
+      },
+      {
+        "text": "Endoplazmik retikulum",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hücre zarından madde geçişi ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "explanation": "Pasif taşıma, maddelerin yüksek konsantrasyonlu ortamdan düşük konsantrasyonlu ortama enerji harcanmadan (ATP kullanılmadan) geçişidir. Difüzyon, kolaylaştırılmış difüzyon ve osmoz pasif taşıma çeşitleridir. Aktif taşıma ise enerji (ATP) harcanarak maddelerin düşük konsantrasyondan yüksek konsantrasyona taşınmasıdır. Porlardan difüzyon da enerji harcanmadan gerçekleşen bir pasif taşıma şeklidir. Dolayısıyla, 'Porlardan difüzyon ATP harcanarak gerçekleşir.' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "Kolaylaştırılmış difüzyon taşıyıcı proteinler aracılığıyla gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aktif taşımada maddeler konsantrasyon gradientine karşı taşınır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmoz, su moleküllerinin difüzyonudur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Porlardan difüzyon ATP harcanarak gerçekleşir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pinositoz ve fagositoz aktif taşıma şekilleridir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlı grupları ve özellik eşleştirmelerinden hangisi YANLIŞTIR?",
+    "explanation": "Mantarlar (Fungi) alemindeki canlılar heterotroftur, yani kendi besinlerini üretemezler ve hazır organik madde tüketirler. Bu nedenle 'Kendi besinini üretebilme (ototrof)' özelliği mantarlara ait değildir; bu özellik daha çok bitkiler ve bazı bakteriler için geçerlidir. Diğer seçeneklerdeki eşleştirmeler (Protistaların çoğunlukla tek hücreli olması, Bitkilerin hücre duvarına sahip olması, Hayvanların glikojen depolaması, Arkelerin zor koşullarda yaşayabilmesi) doğrudur.",
+    "options": [
+      {
+        "text": "Protista - Çoğunlukla tek hücreli olma",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitkiler - Hücre duvarına sahip olma",
+        "isCorrect": false
+      },
+      {
+        "text": "Hayvanlar - Glikojen depolama",
+        "isCorrect": false
+      },
+      {
+        "text": "Arkeler - Zor koşullarda yaşayabilme",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantarlar - Kendi besinini üretebilme (ototrof)",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Canlılar Dünyası",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "I. Tohum oluşturma II. İletim demetine sahip olma III. Döl almaşı göstereme IV. Çiçek oluşturma Yukarıdaki özelliklerden hangileri, karayosunları (Bryophyta) ve eğrelti otları (Pteridophyta) için ORTAK özellik değildir?",
+    "explanation": "Karayosunları ve eğrelti otları, iletim demeti (vasküler doku) bulunmayan ve bulunan bitkiler olarak ayrılırlar. Karayosunlarında iletim demeti yoktur, eğrelti otlarında ise vardır. Ayrıca, her ikisi de çiçek ve tohum oluşturmazlar (tohumlu bitkiler değildirler) ve döl almaşı (metagenez) gösterirler. Soruda ortak OLMAYAN özellik sorulduğu için, iletim demetine sahip olma özelliği ortak değildir (çünkü sadece eğreltilerde vardır). Tohum ve çiçek oluşturmama ise ortak özellikleridir.",
+    "options": [
+      {
+        "text": "Yalnız II",
+        "isCorrect": true
+      },
+      {
+        "text": "I ve II",
+        "isCorrect": false
+      },
+      {
+        "text": "II ve III",
+        "isCorrect": false
+      },
+      {
+        "text": "I, II ve IV",
+        "isCorrect": false
+      },
+      {
+        "text": "II, III ve IV",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar Dünyası",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Mayoz bölünme ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "explanation": "Mayoz bölünmenin temel amaçlarından biri, kromozom sayısını yarıya indirgemek (redüksiyon) ve genetik çeşitlilik sağlamaktır. Cross-over (parça değişimi) ve homolog kromozomların rastgele ayrılması bu çeşitliliği sağlar. Mayoz II ise mitoza benzer ve haploit hücrelerin kromatitlerini ayırır. Ancak, 'Cross-over olayı mayozun ikinci bölünmesinde gerçekleşir.' ifadesi yanlıştır. Cross-over (sinapsis sırasında gerçekleşen parça değişimi) mayoz I'in Profaz I evresinde meydana gelir.",
+    "options": [
+      {
+        "text": "Kromozom sayısının yarıya inmesini sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-over olayı mayozun ikinci bölünmesinde gerçekleşir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Homolog kromozomların rastgele ayrılması genetik çeşitlilik sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mayoz II, haploit hücrelerde gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eşey hücrelerinin (gamet) oluşumunda görev alır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre Bölünmeleri ve Üreme",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda spermatogenez ve oogenez süreçleri karşılaştırıldığında aşağıdakilerden hangisi bir FARKLILIK değildir?",
+    "explanation": "Spermatogenez ve oogenez arasındaki temel farklar şunlardır: Spermatogenezde 4 fonksiyonel sperm, oogenezde ise 1 fonksiyonel yumurta oluşur. Oogenezde sitoplazma bölünmesi eşit olmaz, bu nedenle yumurta hücresi büyük olur. Oogenezde hücre bölünmeleri mayoz sırasında duraklamalar gösterir. Ancak, 'Oluşan gametlerin kromozom sayısı haploittir (n).' ifadesi her iki süreç için de ortak bir özelliktir; hem sperm hem de yumurta haploit kromozom sayısına sahiptir. Bu bir farklılık değil, benzerliktir.",
+    "options": [
+      {
+        "text": "Spermatogenez sonucu 4, oogenez sonucu 1 fonksiyonel hücre oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oogenezde sitoplazma bölünmesi eşit değildir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oluşan gametlerin kromozom sayısı haploittir (n).",
+        "isCorrect": true
+      },
+      {
+        "text": "Oogenezde hücre bölünmeleri duraklamalar gösterir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Spermatogenez ergenlikle başlar, oogenez fetal dönemde başlar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre Bölünmeleri ve Üreme",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir karakterin kalıtımından sorumlu aleller hem anneden hem de babadan aynı olduğunda birey 'homozigot' olarak adlandırılır. Buna göre, aşağıdaki genotip ifadelerinden hangisi homozigot genotipe örnek değildir?",
+    "explanation": "Homozigot genotip, bir karakter için aynı alelden iki kopya taşıyan genotiptir (örn., AA, aa, BB, bb). Heterozigot genotip ise farklı aleller taşır (örn., Aa, Bb). 'Aa' genotipi, bir baskın (A) ve bir çekinik (a) alel içerdiği için heterozigottur. Diğer seçeneklerdeki 'AA', 'bb', 'TT' ve 'dd' ise homozigot genotipleridir.",
+    "options": [
+      {
+        "text": "AA",
+        "isCorrect": false
+      },
+      {
+        "text": "Aa",
+        "isCorrect": true
+      },
+      {
+        "text": "bb",
+        "isCorrect": false
+      },
+      {
+        "text": "TT",
+        "isCorrect": false
+      },
+      {
+        "text": "dd",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kalıtım Genel İlkeleri",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kahverengi göz (B) aleli, mavi göz (b) aleline baskındır. Heterozigot kahverengi gözlü bir baba ile mavi gözlü bir annenin olabilecek çocuklarının göz renkleri ve olasılıkları aşağıdakilerden hangisidir?",
+    "explanation": "Baba heterozigot kahverengi gözlü (Bb), anne mavi gözlü (bb) olduğuna göre, olası genotip ve fenotip dağılımını bulmak için Punnett karesi yapılır. Baba B ve b gametlerini, anne ise b ve b gametlerini üretir. Sonuç: %50 ihtimalle Bb (Kahverengi gözlü) ve %50 ihtimalle bb (Mavi gözlü) çocuk olabilir.",
+    "options": [
+      {
+        "text": "%100 Kahverengi gözlü",
+        "isCorrect": false
+      },
+      {
+        "text": "%100 Mavi gözlü",
+        "isCorrect": false
+      },
+      {
+        "text": "%50 Kahverengi, %50 Mavi gözlü",
+        "isCorrect": true
+      },
+      {
+        "text": "%75 Kahverengi, %25 Mavi gözlü",
+        "isCorrect": false
+      },
+      {
+        "text": "%25 Kahverengi, %75 Mavi gözlü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kalıtım Genel İlkeleri",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir ekosistemdeki besin zinciri ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTır?",
+    "explanation": "Bir besin zincirinde enerjinin akışı tek yönlüdür; üreticilerden (bitkiler) birincil tüketicilere (otoburlar), onlardan da ikincil tüketicilere (etoburlar) doğru ilerler ve enerjinin bir kısmı her basamakta ısı olarak kaybedilir. Bu nedenle enerji geri dönüştürülemez. Ancak, 'Besin zincirinin her basamağında biyokütle artar.' ifadesi yanlıştır. Aksine, enerji kaybı nedeniyle besin zincirinde ilerledikçe genellikle biyokütle azalır. Üreticiler en fazla biyokütleye sahiptir.",
+    "options": [
+      {
+        "text": "Enerji akışı tek yönlüdür ve geri dönüştürülemez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Besin zincirinin her basamağında biyokütle artar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Zincirdeki basamak sayısı genellikle sınırlıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Üreticiler besin zincirinin ilk halkasını oluşturur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerjinin büyük kısmı her basamakta ısı olarak kaybedilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Küresel bir çevre sorunu olan 'Ozon Tabakasının İncelmesi' ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+    "explanation": "Ozon tabakası, stratosferde bulunur ve zararlı UV-B ve UV-C ışınlarını filtreleyerek Dünya'daki yaşamı korur. Ozon tabakasının incelmesine (delinmesine) neden olan başlıca kimyasallar, kloroflorokarbonlar (CFC'ler) gibi ozon tüketen maddelerdir. Bu incelme, cilt kanseri, katarakt gibi sağlık sorunlarına ve ekosistemlere zarar verebilir. 'Ozon tabakası stratosferde yer alır ve zararlı UV ışınlarını süzer.' ifadesi bu sorunun temelini doğru şekilde açıklar.",
+    "options": [
+      {
+        "text": "Ozon tabakası troposferde yer alır ve sera etkisine neden olur.",
+        "isCorrect": false
+      },
+      {
+        "text": "İncelmenin temel nedeni kükürt dioksit (SO2) emisyonlarıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ozon tabakası stratosferde yer alır ve zararlı UV ışınlarını süzer.",
+        "isCorrect": true
+      },
+      {
+        "text": "İncelme, yeryüzündeki sıcaklıkların düşmesine neden olur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ozon tabakasını onarmak için karbondioksit salınımını azaltmak yeterlidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem Ekolojisi ve Güncel Çevre Sorunları",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  }
+]
