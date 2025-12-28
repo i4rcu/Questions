@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi insan faaliyetlerinin doğal çevre üzerindeki olumsuz etkilerinden biridir?",
+    "explanation": "İnsanların çeşitli faaliyetleri doğal çevre üzerinde olumsuz etkiler yaratabilir. Ormanların tahrip edilmesi, bu olumsuz etkilere verilebilecek en önemli örneklerden biridir. Ormanların yok edilmesi, erozyon, iklim değişikliği ve biyolojik çeşitlilik kaybı gibi ciddi sorunlara yol açar.",
+    "options": [
+      {
+        "text": "Barajların inşa edilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ormanların tahrip edilmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarım alanlarının oluşturulması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yerleşim yerlerinin kurulması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yolların yapılması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Doğa",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Dünya'nın kendi ekseni etrafındaki dönüş hareketinin bir sonucu aşağıdakilerden hangisidir?",
+    "explanation": "Dünya'nın kendi ekseni etrafında dönmesiyle gece ve gündüz oluşur. Bu dönüş, bir günlük süreyi belirler ve Güneş'in gökyüzündeki konumunun sürekli değişmesine neden olarak gündüz ve gece periyotlarını yaratır.",
+    "options": [
+      {
+        "text": "Mevsimlerin oluşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Gece ve gündüzün oluşması",
+        "isCorrect": true
+      },
+      {
+        "text": "Yıllık sıcaklık farkları",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş ışınlarının geliş açısının değişmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "İklim kuşaklarının oluşması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya'nın Şekli ve Hareketleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Bir yerin matematik konumu aşağıdakilerden hangisi ile ifade edilir?",
+    "explanation": "Bir yerin matematik konumu, o yerin Ekvator'a ve başlangıç meridyenine (Greenwich) göre olan konumunu ifade eder. Bu konum, enlem ve boylam dereceleri kullanılarak belirlenir.",
+    "options": [
+      {
+        "text": "Komşu ülkelere göre konumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Denizlere ve ana yollara göre konumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Yükselti ve yer şekillerine göre konumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Enlem ve boylam derecelerine göre konumu",
+        "isCorrect": true
+      },
+      {
+        "text": "Yerel saat farklarına göre konumu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Coğrafi Konum",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  }
+]
