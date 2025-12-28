@@ -1,0 +1,498 @@
+[
+  {
+    "text": "Bir kimyasal tepkimede, tepkime hızını etkileyen faktörlerden biri de sıcaklıktır. Sıcaklık artışının tepkime hızını artırmasının temel nedeni aşağıdakilerden hangisidir?",
+    "explanation": "Sıcaklık arttığında, moleküllerin ortalama kinetik enerjisi artar. Bu, daha fazla sayıda molekülün tepkime için gerekli olan aktivasyon enerjisini aşmasına olanak tanır, dolayısıyla etkin çarpışma sayısı ve tepkime hızı artar.",
+    "options": [
+      {
+        "text": "Aktivasyon enerjisini düşürür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Moleküllerin ortalama kinetik enerjisini artırarak etkin çarpışma sayısını artırır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tepkimenin denge sabitini değiştirir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime mekanizmasını değiştirir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ürünlerin stabilitesini azaltır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Le Chatelier İlkesi'ne göre, gaz fazında gerçekleşen ekzotermik bir denge tepkimesine aşağıdaki değişikliklerden hangisi uygulanırsa ürünlerin miktarı kesinlikle artar?",
+    "explanation": "Ekzotermik bir tepkimede sıcaklık düşürüldüğünde, sistem sıcaklık artışı yönüne, yani ekzotermik yöne (ürünler tarafına) kayarak dengeyi bu yönde değiştirir. Bu, ürünlerin miktarını kesinlikle artırır.",
+    "options": [
+      {
+        "text": "Basıncı artırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Katalizör eklemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıcaklığı düşürmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Hacmi artırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir reaktif eklemek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir kimyasal tepkimenin hız ifadesi, r = k [A]²[B] olarak verilmiştir. Buna göre bu tepkime için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Hız ifadesi r = k [A]²[B] şeklinde olduğundan, tepkimenin A'ya göre derecesi 2, B'ye göre derecesi 1'dir. Toplam derece ise 2 + 1 = 3'tür, yani tepkime üçüncü derecedendir.",
+    "options": [
+      {
+        "text": "Tepkime A'ya göre birinci derecedendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime toplamda ikinci derecedendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime toplamda üçüncü derecedendir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tepkime B'ye göre sıfırıncı derecedendir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime mekanizması tek basamaklıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Homojen bir denge tepkimesi için denge sabiti (Kc) değeri 25°C'de 1'den büyüktür. Bu bilgiye dayanarak aşağıdaki yargılardan hangisine ulaşılabilir?",
+    "explanation": "Denge sabiti (Kc), ürünlerin konsantrasyonlarının reaktiflerin konsantrasyonlarına oranını temsil eder. Kc > 1 olduğunda, denge anında ürünlerin konsantrasyonu reaktiflerin konsantrasyonundan daha fazladır, bu da tepkimenin ürünler yönünde ilerlediğini gösterir.",
+    "options": [
+      {
+        "text": "Tepkime ekzotermiktir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime dengede değildir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Denge anında ürün derişimi, reaktif derişiminden fazladır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tepkime çok yavaş gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepkime hacim artışı ile gerçekleşir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tepkimelerde Hız ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir sıvı çözeltide çözünmüş katı miktarını ifade eden derişim birimi aşağıdakilerden hangisidir?",
+    "explanation": "Çözeltilerde derişim, çözünen maddenin çözücü veya çözeltiye göre miktarını ifade eder. Yaygın olarak kullanılan birimlerden biri, bir litre çözeltide çözünmüş maddenin mol sayısını veren molardır (mol/L).",
+    "options": [
+      {
+        "text": "Yoğunluk (g/mL)",
+        "isCorrect": false
+      },
+      {
+        "text": "Molarite (mol/L)",
+        "isCorrect": true
+      },
+      {
+        "text": "Kütlece yüzde (%)",
+        "isCorrect": false
+      },
+      {
+        "text": "Mol kesri",
+        "isCorrect": false
+      },
+      {
+        "text": "Normalite",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki çözelti çiftlerinden hangisinde koligatif özelliklerden buhar basıncı düşmesi en fazla olur? (Tüm çözeltiler aynı sıcaklıkta ve eşit hacimdedir.)",
+    "explanation": "Koligatif özellikler çözünen taneciklerin sayısına bağlıdır, türüne değil. Aynı hacimdeki çözeltilerde, çözünen maddenin mol sayısı (molalitesi) en fazla olan çözeltide buhar basıncı düşmesi en fazladır. 1 mol NaCl, iyonlaştığında 2 mol tanecik oluşturduğu için etkin tanecik sayısı en fazla olan seçenektir.",
+    "options": [
+      {
+        "text": "0,1 M şeker (C₁₂H₂₂O₁₁) çözeltisi",
+        "isCorrect": false
+      },
+      {
+        "text": "0,1 M NaCl çözeltisi",
+        "isCorrect": true
+      },
+      {
+        "text": "0,1 M CaCl₂ çözeltisi",
+        "isCorrect": false
+      },
+      {
+        "text": "0,1 M alkol (C₂H₅OH) çözeltisi",
+        "isCorrect": false
+      },
+      {
+        "text": "0,05 M AlCl₃ çözeltisi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Çözünürlük, belirli koşullarda bir çözücünün çözebileceği maksimum çözünen miktarıdır. Aşağıdaki durumların hangisinde bir katının sudaki çözünürlüğü genellikle artar?",
+    "explanation": "Katıların sıvılardaki çözünürlüğü genellikle endotermik bir proses olduğu için sıcaklık arttıkça artar. Le Chatelier İlkesi'ne göre, sistem sıcaklık artışını absorbe edecek yöne, yani endotermik olan çözünme yönüne kayar.",
+    "options": [
+      {
+        "text": "Basıncın artırılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıcaklığın düşürülmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıcaklığın artırılması",
+        "isCorrect": true
+      },
+      {
+        "text": "Çözücü miktarının azaltılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Karıştırmanın durdurulması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aynı sıcaklıkta hazırlanmış 1 M NaCl ve 1 M CaCl₂ sulu çözeltileri ile ilgili aşağıdaki karşılaştırmalardan hangisi doğrudur?",
+    "explanation": "Koligatif özellikler çözeltideki toplam tanecik konsantrasyonuna bağlıdır. NaCl tamamen iyonlaşarak 2 partikül (Na⁺ ve Cl⁻), CaCl₂ ise 3 partikül (Ca²⁺ ve 2Cl⁻) oluşturur. Bu nedenle, aynı molaritede olsalar bile, CaCl₂ çözeltisinin donma noktası daha düşüktür (daha fazla donma noktası alçalması olur).",
+    "options": [
+      {
+        "text": "Donma noktaları aynıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaynama noktaları aynıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "CaCl₂ çözeltisinin donma noktası daha düşüktür.",
+        "isCorrect": true
+      },
+      {
+        "text": "NaCl çözeltisinin kaynama noktası daha yüksektir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmotik basınçları aynıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Fosil yakıtların yanması sonucu açığa çıkan ve küresel ısınmaya neden olan başlıca sera gazı aşağıdakilerden hangisidir?",
+    "explanation": "Fosil yakıtlar (kömür, petrol, doğal gaz) karbon içerir. Yanma tepkimeleri sonucunda büyük miktarda karbondioksit (CO₂) gazı açığa çıkar. CO₂, atmosferde ısı tutma özelliği ile bilinen en önemli sera gazlarından biridir ve küresel ısınmaya önemli ölçüde katkıda bulunur.",
+    "options": [
+      {
+        "text": "Karbonmonoksit (CO)",
+        "isCorrect": false
+      },
+      {
+        "text": "Kükürtdioksit (SO₂)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azotdioksit (NO₂)",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbondioksit (CO₂)",
+        "isCorrect": true
+      },
+      {
+        "text": "Metan (CH₄)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hidroelektrik enerji santrallerinin temel çalışma prensibi aşağıdakilerden hangisine dayanır?",
+    "explanation": "Hidroelektrik santraller, yüksekten düşen suyun potansiyel enerjisini önce kinetik enerjiye, sonra da türbinleri döndürerek mekanik enerjiye ve en sonunda jeneratörler vasıtasıyla elektrik enerjisine dönüştürür.",
+    "options": [
+      {
+        "text": "Nükleer fisyon reaksiyonlarına",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş ışığının direkt elektriğe dönüşümüne",
+        "isCorrect": false
+      },
+      {
+        "text": "Yüksekten düşen suyun potansiyel enerjisinin dönüşümüne",
+        "isCorrect": true
+      },
+      {
+        "text": "Yer altındaki sıcak su kaynaklarına",
+        "isCorrect": false
+      },
+      {
+        "text": "Rüzgarın kinetik enerjisinin dönüşümüne",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Yenilenebilir enerji kaynakları, doğal süreçlerle kendini yenileyebilen kaynaklardır. Aşağıdakilerden hangisi yenilenebilir bir enerji kaynağı değildir?",
+    "explanation": "Yenilenebilir enerji kaynakları sürekli olarak doğal yollarla yenilenir (güneş, rüzgar, su, biyokütle, jeotermal). Fosil yakıtlar (kömür, petrol, doğal gaz) ise milyonlarca yılda oluşmuş, sınırlı rezervlere sahip oldukları ve kullanım hızları oluşum hızlarından çok daha yüksek olduğu için yenilenemez enerji kaynakları olarak sınıflandırılır.",
+    "options": [
+      {
+        "text": "Rüzgar enerjisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş enerjisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Hidroelektrik enerji",
+        "isCorrect": false
+      },
+      {
+        "text": "Kömür",
+        "isCorrect": true
+      },
+      {
+        "text": "Jeotermal enerji",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Nükleer enerji santrallerinde elektrik üretiminde kullanılan temel reaksiyon türü aşağıdakilerden hangisidir?",
+    "explanation": "Nükleer enerji santrallerinde, uranyum gibi ağır atom çekirdeklerinin nötronlarla bombardımanı sonucu daha küçük çekirdeklere bölünmesi işlemi olan fisyon (çekirdek bölünmesi) reaksiyonu kullanılır. Bu reaksiyon sonucu açığa çıkan büyük miktardaki ısı enerjisi, elektrik enerjisine dönüştürülür.",
+    "options": [
+      {
+        "text": "Füzyon (Birleşme)",
+        "isCorrect": false
+      },
+      {
+        "text": "Fisyon (Bölünme)",
+        "isCorrect": true
+      },
+      {
+        "text": "Yanma",
+        "isCorrect": false
+      },
+      {
+        "text": "Fotosentez",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektroliz",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Karbon atomunun bağ yapma özelliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Karbon atomunun elektron dizilimi 1s² 2s² 2p² şeklindedir. Değerlik elektron sayısı 4'tür. Bu nedenle karbon, dört tane kovalent bağ yaparak oktet kuralına uyar ve kararlı hale geçer.",
+    "options": [
+      {
+        "text": "İki tane kovalent bağ yapar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Üç tane kovalent bağ yapar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dört tane kovalent bağ yapar.",
+        "isCorrect": true
+      },
+      {
+        "text": "İyonik bağ yapmayı tercih eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Beş tane kovalent bağ yapabilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki bileşiklerden hangisi alkan sınıfına ait bir hidrokarbondur?",
+    "explanation": "Alkanlar, sadece karbon (C) ve hidrojen (H) atomlarından oluşan ve tüm karbon-karbon bağları tekli bağ (C-C) olan doymuş hidrokarbonlardır. Genel formülleri CₙH₂ₙ₊₂'dir. C₃H₈ (Propan) bu formüle uyar (n=3 için C₃H₈).",
+    "options": [
+      {
+        "text": "C₂H₄ (Eten)",
+        "isCorrect": false
+      },
+      {
+        "text": "C₃H₈ (Propan)",
+        "isCorrect": true
+      },
+      {
+        "text": "C₆H₆ (Benzen)",
+        "isCorrect": false
+      },
+      {
+        "text": "C₂H₂ (Etin)",
+        "isCorrect": false
+      },
+      {
+        "text": "CH₃COOH (Asetik asit)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki fonksiyonel gruplardan hangisi bir karboksilik asit bileşiğinde bulunur?",
+    "explanation": "Karboksilik asitler, karbonil grubu (C=O) ve hidroksil grubu (-OH) aynı karbon atomuna bağlanmış olan karboksil grubu (-COOH) içeren organik bileşiklerdir. Genel formülleri R-COOH şeklindedir.",
+    "options": [
+      {
+        "text": "-OH (Hidroksil)",
+        "isCorrect": false
+      },
+      {
+        "text": "-CHO (Aldehit)",
+        "isCorrect": false
+      },
+      {
+        "text": "-COOH (Karboksil)",
+        "isCorrect": true
+      },
+      {
+        "text": "-NH₂ (Amino)",
+        "isCorrect": false
+      },
+      {
+        "text": "-COO- (Ester)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karbon Kimyası",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aynı sıcaklıkta bulunan X, Y ve Z gazları ile ilgili aşağıdaki bilgiler veriliyor:\n- X gazının özkütlesi, Y gazının özkütlesinin 2 katıdır.\n- Y gazının difüzyon hızı, Z gazının difüzyon hızının 4 katıdır.\nBuna göre, X gazının mol kütlesi (g/mol) aşağıdakilerden hangisi olabilir?",
+    "explanation": "Graham'ın difüzyon kanununa göre, gazların difüzyon hızları mol kütlelerinin karekökü ile ters orantılıdır. Y gazının difüzyon hızı Z gazınınkinin 4 katı olduğuna göre: r_Y / r_Z = √(M_Z / M_Y) = 4. Buradan, √(M_Z / M_Y) = 4 ise M_Z / M_Y = 16, yani M_Z = 16 * M_Y elde edilir. Ayrıca, aynı sıcaklıkta özkütle mol kütlesi ile doğru orantılıdır (d = P*M / R*T). X gazının özkütlesi Y gazınınkinin 2 katı ise, M_X = 2 * M_Y'dir. M_Y'yi bilmediğimiz için seçeneklerde bu ilişkiyi sağlayan bir değer aramalıyız. M_X = 2*M_Y ve M_Z = 16*M_Y ilişkisi vardır. M_Y'nin mantıklı bir değer olması için, M_X'in 2'nin katı olması ve M_Z'nin (16*M_Y) de makul bir gaz mol kütlesi (örneğin, M_Y=2 g/mol için M_Z=32 g/mol O2 gazı olabilir) olması gerekir. M_Y=2 g/mol (H2) alınırsa, M_X = 4 g/mol (He) olur. Ancak seçeneklerde 4 yok. M_Y=4 g/mol (He) alınırsa, M_X = 8 g/mol olur, bu da seçeneklerde yok. M_Y=8 g/mol alınırsa, M_X = 16 g/mol (CH4) olur ve bu seçeneklerde mevcuttur. Ayrıca M_Z=16*8=128 g/mol olur ki bu da makul bir değerdir. Bu nedenle doğru cevap 16'dır.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": true
+      },
+      {
+        "text": "32",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  }
+]
