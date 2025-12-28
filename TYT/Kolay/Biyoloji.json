@@ -268,5 +268,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "Biyoloji bilimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Biyoloji, canlıların yapısını, işlevlerini, birbirleriyle ve çevreleriyle olan ilişkilerini inceleyen bilim dalıdır. Bu nedenle, 'Canlıların yapısını ve işlevlerini inceler' ifadesi biyolojinin temel tanımını doğru bir şekilde yansıtmaktadır.",
+    "options": [
+      {
+        "text": "Yalnızca bitkileri inceler",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca hayvanları inceler",
+        "isCorrect": false
+      },
+      {
+        "text": "Canlıların yapısını ve işlevlerini inceler",
+        "isCorrect": true
+      },
+      {
+        "text": "Yalnızca mikroskobik canlıları inceler",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca kalıtım konularını inceler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
   }
 ]
