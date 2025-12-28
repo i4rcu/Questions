@@ -1,0 +1,1433 @@
+[
+  {
+    "text": "Büyük Patlama teorisine göre evrenin başlangıcı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Büyük Patlama teorisi, evrenin yaklaşık 13,8 milyar yıl önce çok sıcak ve yoğun bir noktadan genişleyerek başladığını öne sürer.",
+    "options": [
+      {
+        "text": "Evren sonsuz yoğunlukta bir noktadan genişlemeye başlamıştır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evren sabit ve değişmez bir yapıya sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evrenin başlangıcında sıcaklık mutlak sıfır seviyesindeydi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evren, galaksilerin bir araya gelmesiyle oluşmuştur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir radyoaktif maddenin yarı ömrü aşağıdakilerden hangisidir?",
+    "explanation": "Radyoaktif bir maddenin yarı ömrü, başlangıçtaki atom sayısının yarısının bozunması için geçen süredir.",
+    "options": [
+      {
+        "text": "Başlangıçtaki atomların yarısının bozunması için gereken süre.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tüm atomların bozunması için gereken süre.",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddenin kütlesinin yarıya inmesi için gereken süre.",
+        "isCorrect": false
+      },
+      {
+        "text": "Radyoaktif ışımanın şiddetinin sıfırlanması için gereken süre.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki parçacıklardan hangisi radyoaktif bir bozunma sırasında yayınlanmaz?",
+    "explanation": "Radyoaktif bozunmalarda alfa parçacığı (helyum çekirdeği), beta parçacığı (elektron veya pozitron) ve gama ışını yayınlanabilir. Proton, bu standart bozunma türlerinde serbest bir parçacık olarak yayınlanmaz.",
+    "options": [
+      {
+        "text": "Proton",
+        "isCorrect": true
+      },
+      {
+        "text": "Alfa parçacığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Beta parçacığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Gama ışını",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kozmik mikrodalga arkaplan ışıması (CMB) ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Kozmik mikrodalga arkaplan ışıması, Büyük Patlama'nın bir kalıntısı olan ve evreni dolduran bir ışımadır. Evrenin genişlemesi nedeniyle soğuyarak günümüzde yaklaşık 2,7 Kelvin sıcaklığında bir mikrodalga ışımasına dönüşmüştür.",
+    "options": [
+      {
+        "text": "Büyük Patlama'nın soğumuş bir kalıntısıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Güneş'ten gelen bir mikrodalga ışımadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yakın galaksilerden yayılan radyo dalgalarıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yıldızların birleşmesi sırasında oluşan enerjidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Büyük Patlama ve Radyoaktivite",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Fotoelektrik olayda, metal yüzeyinden elektron koparabilmek için gelen fotonun hangi özelliği belirleyicidir?",
+    "explanation": "Fotoelektrik olayda, bir elektronu metal yüzeyden koparmak için gelen fotonun enerjisi, o metal için belirli bir eşik enerjisinden (eşik frekansına karşılık gelen) büyük olmalıdır. Enerji, frekans ile doğru orantılı olduğundan belirleyici olan frekanstır.",
+    "options": [
+      {
+        "text": "Frekansı",
+        "isCorrect": true
+      },
+      {
+        "text": "Şiddeti",
+        "isCorrect": false
+      },
+      {
+        "text": "Geliş açısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hızı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fizik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Işığın tanecikli yapıda olduğunu gösteren temel olay aşağıdakilerden hangisidir?",
+    "explanation": "Fotoelektrik olay, ışığın enerji paketleri yani fotonlar halinde yayıldığını ve soğurulduğunu göstererek tanecik (parçacık) karakterini kanıtlar.",
+    "options": [
+      {
+        "text": "Fotoelektrik olay",
+        "isCorrect": true
+      },
+      {
+        "text": "Girişim",
+        "isCorrect": false
+      },
+      {
+        "text": "Kırınım",
+        "isCorrect": false
+      },
+      {
+        "text": "Kırılma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fizik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cismin sıcaklığı arttıkça yaydığı ışınımın şiddetinin en yüksek olduğu dalga boyu için ne söylenebilir?",
+    "explanation": "Wien Kayma Yasası'na göre, mutlak sıcaklığı T olan bir cismin yaydığı ışınımın maksimum şiddete ulaştığı dalga boyu (λ_max), sıcaklıkla ters orantılıdır (λ_max * T = sabit). Sıcaklık arttıkça maksimum dalga boyu kısalır.",
+    "options": [
+      {
+        "text": "Kısalır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Uzar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişmez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Önce uzar sonra kısalır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fizik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Özel görelilik teorisine göre, bir gözlemciye göre ışık hızına yakın hareket eden bir cisim için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Özel görelilik teorisine göre, bir cisim gözlemciye göre yüksek hızda hareket ediyorsa, gözlemci cismin boyunun hareket doğrultusunda kısaldığını ölçer. Buna uzunluk büzülmesi denir.",
+    "options": [
+      {
+        "text": "Hareket doğrultusundaki boyu kısalır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kütlesi azalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Zamanı gözlemciye göre hızlı geçer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hacmi artar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Fizik",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün çembersel hareket yapan bir cisim için aşağıdakilerden hangisi her zaman sıfırdan farklıdır?",
+    "explanation": "Düzgün çembersel hareket yapan bir cismin hız vektörünün büyüklüğü (sürat) sabit olmasına rağmen, yönü sürekli değişir. Yön değişikliği ivmeye neden olur. Bu ivme merkeze doğru olduğu için merkezcil ivme her zaman sıfırdan farklıdır.",
+    "options": [
+      {
+        "text": "Merkezcil ivme",
+        "isCorrect": true
+      },
+      {
+        "text": "Sürat",
+        "isCorrect": false
+      },
+      {
+        "text": "Açısal yer değiştirme",
+        "isCorrect": false
+      },
+      {
+        "text": "Teğetsel ivme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yatay düzlemde sabit süratle dönen bir cisim için merkezcil kuvveti sağlayan nedir?",
+    "explanation": "Yatay bir masa üzerinde iple bağlanmış bir cisim döndürüldüğünde, merkezcil kuvveti sağlayan ip gerilmesidir. Sürtünme yoksa, merkezcil kuvveti sağlayan tek şey ipteki gerilme kuvvetidir.",
+    "options": [
+      {
+        "text": "İp gerilmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Havanın sürtünme kuvveti",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin ağırlığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Eylemsizlik kuvveti",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün çembersel hareket yapan bir cisim için periyot (T) ve frekans (f) arasındaki ilişki nedir?",
+    "explanation": "Periyot, bir tam tur için geçen süredir. Frekans ise birim zamandaki tur sayısıdır. Bu nedenle periyot, frekansın tersine eşittir (T = 1/f).",
+    "options": [
+      {
+        "text": "T = 1 / f",
+        "isCorrect": true
+      },
+      {
+        "text": "T = f",
+        "isCorrect": false
+      },
+      {
+        "text": "T = 2π / f",
+        "isCorrect": false
+      },
+      {
+        "text": "T = 2πf",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün çembersel hareket yapan bir cisim aniden merkezcil kuvvet kaybolursa ne olur?",
+    "explanation": "Merkezcil kuvvet, cismi çembersel yörüngede tutan kuvvettir. Bu kuvvet aniden ortadan kalkarsa, cisim artık dairesel hareket yapamaz ve Newton'un birinci yasasına (eylemsizlik) göre, kuvvetin kaybolduğu andaki teğetsel hızıyla doğrusal bir yolda hareketine devam eder.",
+    "options": [
+      {
+        "text": "Teğet doğrultusunda doğrusal hareket eder.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dairesel hareketine aynen devam eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Merkeze doğru düşer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Anında durur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çembersel Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kepler'in gezegen hareketleriyle ilgili birinci yasası (Yörüngeler Yasası) neyi ifade eder?",
+    "explanation": "Kepler'in birinci yasası, her gezegenin Güneş etrafında odak noktalarından birinde Güneş'in bulunduğu bir elips yörüngede dolandığını belirtir.",
+    "options": [
+      {
+        "text": "Gezegenlerin yörüngeleri elipstir ve Güneş bu elipsin odaklarından birindedir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gezegenlerin yörüngeleri dairedir ve Güneş merkezdedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gezegenler Güneş'e eşit uzaklıktadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gezegenlerin yörünge düzlemleri aynıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Çekim ve Kepler Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kepler'in üçüncü yasasına göre, bir gezegenin yörünge periyodunun karesi (T²) ile aşağıdakilerden hangisi doğru orantılıdır?",
+    "explanation": "Kepler'in üçüncü yasası, bir gezegenin Güneş etrafındaki dolanım periyodunun karesinin (T²), yörüngenin yarı büyük ekseninin küpü (a³) ile doğru orantılı olduğunu söyler. T² / a³ = sabit.",
+    "options": [
+      {
+        "text": "Yörüngenin yarı büyük ekseninin küpü (a³) ile",
+        "isCorrect": true
+      },
+      {
+        "text": "Gezegenin kütlesi ile",
+        "isCorrect": false
+      },
+      {
+        "text": "Gezegenin hızı ile",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş'in kütlesi ile",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Çekim ve Kepler Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Newton'un Evrensel Kütle Çekim Yasası'na göre, iki cisim arasındaki çekim kuvveti aşağıdakilerden hangisine bağlıdır?",
+    "explanation": "Newton'un Evrensel Kütle Çekim Yasası, F = G * (m1*m2)/r² şeklindedir. Buna göre çekim kuvveti, cisimlerin kütleleri çarpımı ile doğru, aralarındaki uzaklığın karesi ile ters orantılıdır.",
+    "options": [
+      {
+        "text": "Kütlelerin çarpımı ve uzaklığın karesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece kütlelerin çarpımı",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece uzaklık",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütlelerin toplamı ve uzaklık",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Çekim ve Kepler Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Manyetik alan içinde hareket eden yüklü bir parçacığa etki eden manyetik kuvvetin büyüklüğü aşağıdakilerden hangisine bağlı değildir?",
+    "explanation": "Manyetik kuvvetin büyüklüğü F = q * v * B * sinθ formülü ile verilir. Burada q yük, v hız, B manyetik alan şiddeti ve θ hız ile manyetik alan vektörü arasındaki açıdır. Parçacığın kütlesi (m) bu formülde yer almaz, dolayısıyla manyetik kuvvet kütleye bağlı değildir.",
+    "options": [
+      {
+        "text": "Parçacığın yüküne",
+        "isCorrect": false
+      },
+      {
+        "text": "Parçacığın hızına",
+        "isCorrect": false
+      },
+      {
+        "text": "Parçacığın kütlesine",
+        "isCorrect": true
+      },
+      {
+        "text": "Manyetik alanın şiddetine",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sayfa düzlemine dik ve dışarı doğru olan düzgün bir manyetik alanda, sayfa düzleminde sağa doğru hareket eden pozitif yüklü bir parçacığa etki eden manyetik kuvvetin yönü nedir?",
+    "explanation": "Sağ el kuralı uygulanır: Başparmak hız yönünü (sağa), işaret parmağı manyetik alan yönünü (dışarı) gösterir. Orta parmak ise pozitif yük için kuvvetin yönünü (yukarı) verir.",
+    "options": [
+      {
+        "text": "Aşağı",
+        "isCorrect": false
+      },
+      {
+        "text": "Yukarı",
+        "isCorrect": true
+      },
+      {
+        "text": "Sayfa düzleminden içeri",
+        "isCorrect": false
+      },
+      {
+        "text": "Sayfa düzleminden dışarı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "İletken bir telden sabit bir akım geçmektedir. Telin etrafında oluşan manyetik alanın şiddeti hangisine bağlıdır?",
+    "explanation": "Biot-Savart Yasası'na göre, sonsuz uzunluktaki düz bir iletken telden geçen akımın oluşturduğu manyetik alanın şiddeti B = (μ₀ * I) / (2 * π * r) formülü ile verilir. Burada I akım şiddeti, r tele olan uzaklık, μ₀ manyetik sabittir. Manyetik alan şiddeti, telin kesit alanına bağlı değildir.",
+    "options": [
+      {
+        "text": "Akım şiddetine",
+        "isCorrect": false
+      },
+      {
+        "text": "Tele olan uzaklığa",
+        "isCorrect": false
+      },
+      {
+        "text": "Telin kesit alanına",
+        "isCorrect": true
+      },
+      {
+        "text": "Manyetik sabite (μ₀)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün bir manyetik alana dik olarak giren bir elektronun izleyeceği yol aşağıdakilerden hangisidir?",
+    "explanation": "Manyetik alana dik giren yüklü bir parçacık, manyetik kuvvet daima hıza dik olduğu için düzgün dairesel hareket yapar. Elektron negatif yüklü olduğundan, dönme yönü pozitif yükün tersinedir, ancak yine de yol daireseldir.",
+    "options": [
+      {
+        "text": "Doğrusal",
+        "isCorrect": false
+      },
+      {
+        "text": "Parabolik",
+        "isCorrect": false
+      },
+      {
+        "text": "Dairesel",
+        "isCorrect": true
+      },
+      {
+        "text": "Elips",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Manyetik Alan ve Manyetik Kuvvet",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yatay düzlemde 40 m/s hızla atılan bir cisim, atıldığı noktadan kaç metre uzakta yere düşer? (g=10 m/s², hava direnci yok)",
+    "explanation": "Cisim yatay atış hareketi yapar. Yere düşme süresi düşey hareketten bulunur: h = (1/2) * g * t² -> 45 = (1/2)*10*t² -> t²=9 -> t=3 s. Yatay menzil: x = Vx * t = 40 * 3 = 120 m.",
+    "options": [
+      {
+        "text": "80 m",
+        "isCorrect": false
+      },
+      {
+        "text": "100 m",
+        "isCorrect": false
+      },
+      {
+        "text": "120 m",
+        "isCorrect": true
+      },
+      {
+        "text": "160 m",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atışlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yerden 80 m yükseklikten yatay olarak 30 m/s hızla atılan bir cisim kaç saniye sonra yere çarpar? (g=10 m/s²)",
+    "explanation": "Yatay atışta yere düşme süresi sadece düşey yüksekliğe bağlıdır. h = (1/2) * g * t² formülü kullanılır. 80 = (1/2)*10*t² -> 80 = 5*t² -> t²=16 -> t=4 s.",
+    "options": [
+      {
+        "text": "2 s",
+        "isCorrect": false
+      },
+      {
+        "text": "4 s",
+        "isCorrect": true
+      },
+      {
+        "text": "6 s",
+        "isCorrect": false
+      },
+      {
+        "text": "8 s",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atışlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yerden 53° açı ile 50 m/s hızla atılan bir cismin menzili kaç metredir? (g=10 m/s², sin53°=0.8, cos53°=0.6, hava direnci yok)",
+    "explanation": "Menzil formülü: R = (v₀² * sin(2θ)) / g. Burada sin(2*53°) = sin106° ≈ sin74° = cos16° yerine doğrudan sin(2θ) hesaplanır: 2θ=106°. Sin106° = sin(180-106)=sin74° ≈ 0.96. R = (50² * 0.96) / 10 = (2500 * 0.96) / 10 = 2400 / 10 = 240 m.",
+    "options": [
+      {
+        "text": "200 m",
+        "isCorrect": false
+      },
+      {
+        "text": "240 m",
+        "isCorrect": true
+      },
+      {
+        "text": "300 m",
+        "isCorrect": false
+      },
+      {
+        "text": "400 m",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atışlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Serbest düşmeye bırakılan bir cisim için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Serbest düşmede cisim yalnızca yerçekimi ivmesi (g) ile hareket eder. İlk hızı sıfırdır (v₀=0). Hızı zamanla düzgün olarak artar (v = g * t). Konum-zaman bağıntısı ikinci derecedendir (h = (1/2) * g * t²).",
+    "options": [
+      {
+        "text": "İvmesi sıfırdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hızı sabittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "İlk hızı sıfırdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Konum-zaman grafiği doğrusaldır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atışlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "+4 μC'luk bir noktasal yükten 2 m uzaktaki bir noktada elektrik alan şiddeti E'dir. Aynı noktaya -2 μC'luk bir yük konulduğunda bu yüke etki eden elektriksel kuvvet kaç E'dir?",
+    "explanation": "Elektrik alan şiddeti E = k * |Q| / r² dir. +4 μC yükün oluşturduğu alan E = k * 4 / r². -2 μC'luk yük bu alana konulduğunda F = q * E formülü ile kuvvet bulunur. F = (2) * (k * 4 / r²) = 8k / r². Bu değer E cinsinden ifade edilirse: E = 4k / r² olduğundan, F = 2E olur.",
+    "options": [
+      {
+        "text": "E",
+        "isCorrect": false
+      },
+      {
+        "text": "2E",
+        "isCorrect": true
+      },
+      {
+        "text": "4E",
+        "isCorrect": false
+      },
+      {
+        "text": "8E",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik Alan ve Potansiyel",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Elektrik alan çizgileri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Elektrik alan çizgileri pozitif yükten çıkıp negatif yüke girer. Bir noktadaki alan çizgisine teğet, o noktadaki elektrik alan vektörünün yönünü gösterir. Çizgilerin sık olduğu yerde elektrik alan şiddeti büyüktür. Elektrik alan çizgileri asla birbirlerini kesmezler, kesişirlerse o noktada iki farklı alan yönü olurdu ki bu imkansızdır.",
+    "options": [
+      {
+        "text": "Pozitif yükten çıkıp negatif yüke girerler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir noktadaki alanın yönünü gösterirler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sık oldukları yerde elektrik alan şiddeti büyüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Birbirlerini kesebilirler.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Elektrik Alan ve Potansiyel",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Şekildeki gibi eşit ve zıt işaretli iki noktasal yük arasında, elektrik potansiyelinin sıfır olduğu noktaların geometrik yeri aşağıdakilerden hangisidir? (Yükler arası mesafe d'dir.)",
+    "explanation": "Elektrik potansiyel skaler bir büyüklüktür. +Q ve -Q yükleri için, bir noktadaki toplam potansiyel V = k*(+Q)/r₁ + k*(-Q)/r₂ = kQ(1/r₁ - 1/r₂)'dir. V=0 olması için 1/r₁ - 1/r₂ = 0 => r₁ = r₂ olmalıdır. Yani, noktanın her iki yüke olan uzaklığı eşit olmalıdır. Bu da yükleri birleştiren doğru parçasının dik açıortay düzlemidir.",
+    "options": [
+      {
+        "text": "Yükleri birleştiren doğru parçasının orta noktası",
+        "isCorrect": false
+      },
+      {
+        "text": "+ yükten d/4 uzaklıkta bir nokta",
+        "isCorrect": false
+      },
+      {
+        "text": "Yükleri birleştiren doğrunun dik açıortay düzlemi",
+        "isCorrect": true
+      },
+      {
+        "text": "- yükten d/3 uzaklıkta bir nokta",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik Alan ve Potansiyel",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Özdeş iki pozitif noktasal yük arasındaki uzaklık iki katına çıkarılırsa, bir yükün diğeri üzerinde oluşturduğu elektrik potansiyeli nasıl değişir?",
+    "explanation": "Bir Q yükünün r uzaklığında oluşturduğu elektrik potansiyeli V = k * Q / r formülü ile verilir. Uzaklık iki katına (2r) çıkarsa, potansiyel V' = k * Q / (2r) = V / 2 olur, yani yarıya iner.",
+    "options": [
+      {
+        "text": "Dört katına çıkar.",
+        "isCorrect": false
+      },
+      {
+        "text": "İki katına çıkar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarıya iner.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dörtte birine iner.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Elektrik Alan ve Potansiyel",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Büyüklükleri 3 N ve 4 N olan iki kuvvet arasındaki açı 90° olduğunda bileşke kuvvetin büyüklüğü kaç N'dur?",
+    "explanation": "Bileşke kuvvet, dik kenarları 3 ve 4 olan bir dik üçgenin hipotenüsüne eşittir. Pisagor teoreminden R = √(3² + 4²) = √(9 + 16) = √25 = 5 N.",
+    "options": [
+      {
+        "text": "5 N",
+        "isCorrect": true
+      },
+      {
+        "text": "7 N",
+        "isCorrect": false
+      },
+      {
+        "text": "12 N",
+        "isCorrect": false
+      },
+      {
+        "text": "1 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "A vektörü +x yönünde 5 birim, B vektörü -x yönünde 2 birimdir. A - B vektörünün büyüklüğü kaç birimdir?",
+    "explanation": "A = +5i, B = -2i. A - B = (+5i) - (-2i) = +5i + 2i = +7i. Vektörün büyüklüğü 7 birimdir.",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir vektörün bileşenleri Fx = 6 birim ve Fy = 8 birim olduğuna göre, vektörün büyüklüğü kaç birimdir?",
+    "explanation": "Vektörün büyüklüğü, bileşenlerinin kareleri toplamının kareköküne eşittir. |F| = √(Fx² + Fy²) = √(6² + 8²) = √(36 + 64) = √100 = 10 birim.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "48",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütle merkezi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Kütle merkezi, bir cismin tüm noktalarına etki eden yer çekimi kuvvetinin bileşkesinin uygulama noktasıdır. Düzgün ve homojen bir cisim için kütle merkezi, cisim simetri merkezi ise simetri merkezinde bulunur.",
+    "options": [
+      {
+        "text": "Her cismin kütle merkezi cismin içinde bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütle merkezi, cismin ağırlığının uygulandığı noktadır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kütle merkezi daima cismin geometrik merkezidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütle merkezi cismin dönme hareketinden etkilenmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütleleri sırasıyla 2 kg ve 4 kg olan iki küre, 6 metre uzunluğunda homojen bir çubuğun uçlarına şekildeki gibi tutturulmuştur. Çubuğun kütlesi önemsizdir. Sistemin kütle merkezi 2 kg'lık küreden kaç metre uzaktadır?",
+    "explanation": "Kütle merkezi formülü x_km = (m1*x1 + m2*x2) / (m1+m2) ile bulunur. Referans noktası 2 kg'lık küre (x1=0) olarak alınırsa, x2=6 m'dir. x_km = (2*0 + 4*6) / (2+4) = 24 / 6 = 4 metre. Yani kütle merkezi 2 kg'lık küreden 4 m uzaktadır.",
+    "options": [
+      {
+        "text": "2 m",
+        "isCorrect": false
+      },
+      {
+        "text": "3 m",
+        "isCorrect": false
+      },
+      {
+        "text": "4 m",
+        "isCorrect": true
+      },
+      {
+        "text": "5 m",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Düzgün ve türdeş bir karenin kütle merkezi nerededir?",
+    "explanation": "Düzgün (simetrik) ve türdeş (homojen) bir cisimde kütle merkezi, cismin geometrik merkezi (simetri merkezi) ile çakışıktır. Karenin simetri merkezi, köşegenlerinin kesişim noktasıdır.",
+    "options": [
+      {
+        "text": "Bir köşesinde",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir kenarının orta noktasında",
+        "isCorrect": false
+      },
+      {
+        "text": "Köşegenlerinin kesişim noktasında",
+        "isCorrect": true
+      },
+      {
+        "text": "Cismin dışında bir noktada",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cisim, kütle merkezinden asıldığında nasıl dengede kalır?",
+    "explanation": "Bir cisim kütle merkezinden asıldığında, ağırlık kuvvetinin desteğe göre momenti sıfır olduğu için cisim her yöne dönebilme potansiyeline rağmen dengede (rastgele bir konuda) kalır. Bu, kararlı denge anlamına gelmez.",
+    "options": [
+      {
+        "text": "Kararlı denge konumunda kalır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dengesi bozulur ve döner.",
+        "isCorrect": false
+      },
+      {
+        "text": "Her konumda dengede kalır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece yatay konumda dengede kalır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kütle Merkezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi elektromanyetik dalga değildir?",
+    "explanation": "Elektromanyetik dalgalar, elektrik ve manyetik alan salınımlarından oluşur ve boşlukta yayılabilir. Ses dalgaları ise mekanik dalgalardır; yayılmak için maddesel bir ortama ihtiyaç duyarlar.",
+    "options": [
+      {
+        "text": "Radyo dalgaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Görünür ışık",
+        "isCorrect": false
+      },
+      {
+        "text": "X-ışınları",
+        "isCorrect": false
+      },
+      {
+        "text": "Ses dalgaları",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Dalga Mekaniği ve Elektromanyetik Dalgalar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Su dalgalarının kırınıma uğraması aşağıdaki olaylardan hangisi ile açıklanır?",
+    "explanation": "Kırınım, bir dalganın engellerin kenarlarından veya dar bir aralıktan geçerken bükülmesi ve yayılma doğrultusunun değişmesi olayıdır. Bu, dalgaların karakteristik bir özelliğidir.",
+    "options": [
+      {
+        "text": "Dalganın enerji taşıması",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalganın engel etrafında bükülmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Dalganın hızının değişmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Dalganın ortam değiştirmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalga Mekaniği ve Elektromanyetik Dalgalar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Işık hangi ortamda daha hızlı yayılır?",
+    "explanation": "Işık, maddesel ortamlarda (hava, su, cam) etkileşime uğradığı için boşluktaki hızından daha yavaş hareket eder. Işığın boşluktaki hızı evrendeki en yüksek hızdır.",
+    "options": [
+      {
+        "text": "Havada",
+        "isCorrect": false
+      },
+      {
+        "text": "Su da",
+        "isCorrect": false
+      },
+      {
+        "text": "Camda",
+        "isCorrect": false
+      },
+      {
+        "text": "Boşlukta",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Dalga Mekaniği ve Elektromanyetik Dalgalar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Elektromanyetik dalgalar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Elektromanyetik dalgalar enine dalgalardır. Titreşim doğrultuları, yayılma doğrultusuna diktir. Boyuna dalgalar ise (ses dalgası gibi) titreşim doğrultusunun yayılma doğrultusuyla aynı olduğu dalgalardır.",
+    "options": [
+      {
+        "text": "Boşlukta yayılabilirler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji taşırlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Boyuna dalgalardır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hızları frekanslarına bağlı değildir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dalga Mekaniği ve Elektromanyetik Dalgalar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir basit makine için aşağıdakilerden hangisi her zaman doğrudur?",
+    "explanation": "Enerjinin korunumu yasası gereği, bir basit makinede işten kazanç olmaz. Makine, sadece kuvvetten veya yoldan kazanç sağlayabilir, ancak harcanan iş daima yapılan işe eşittir (sürtünmeler ihmal edilirse).",
+    "options": [
+      {
+        "text": "Kuvvetten kazanç sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yoldan kazanç sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "İşten kazanç sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji korunur.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Basit Makineler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Sabit bir makara ile 40 N ağırlığındaki bir yük, kaç Newton'luk bir kuvvetle dengelenebilir? (Sürtünmeler önemsizdir.)",
+    "explanation": "Sabit makara, sadece kuvvetin yönünü değiştirir, kuvvetten veya yoldan kazanç sağlamaz. Bu nedenle, yükü dengelemek için uygulanması gereken kuvvet, yükün ağırlığına eşittir.",
+    "options": [
+      {
+        "text": "10 N",
+        "isCorrect": false
+      },
+      {
+        "text": "20 N",
+        "isCorrect": false
+      },
+      {
+        "text": "40 N",
+        "isCorrect": true
+      },
+      {
+        "text": "80 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Makineler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hareketli bir makara kullanılarak 60 N'luk bir yük kaldırılmak isteniyor. Sürtünmeler önemsiz olduğuna göre, uygulanması gereken kuvvet kaç Newton'dur?",
+    "explanation": "Hareketli makarada, makarayı taşıyan ip sayısı 2'dir. Bu nedenle kuvvetten 2 kat kazanç vardır. Uygulanan kuvvet, yükün ağırlığının yarısı kadar olur. F = P / 2 = 60 N / 2 = 30 N.",
+    "options": [
+      {
+        "text": "15 N",
+        "isCorrect": false
+      },
+      {
+        "text": "30 N",
+        "isCorrect": true
+      },
+      {
+        "text": "60 N",
+        "isCorrect": false
+      },
+      {
+        "text": "120 N",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Makineler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir eğik düzlemde kuvvet kazancı aşağıdakilerden hangisine bağlıdır?",
+    "explanation": "Eğik düzlemde kuvvet kazancı, eğik düzlemin yüksekliği (h) ile uzunluğu (L) arasındaki orana bağlıdır. Kuvvet kazancı = L / h. Yükseklik sabitken, düzlem ne kadar uzun olursa kuvvet kazancı o kadar artar.",
+    "options": [
+      {
+        "text": "Eğik düzlemin uzunluğuna",
+        "isCorrect": true
+      },
+      {
+        "text": "Cismin kütlesine",
+        "isCorrect": false
+      },
+      {
+        "text": "Yüzeyin sürtünme katsayısına",
+        "isCorrect": false
+      },
+      {
+        "text": "Cismin hacmine",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Makineler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir araç 2 saatte 120 km yol alıyor. Bu aracın sürati kaç km/sa'dir?",
+    "explanation": "Sürat, alınan yolun geçen zamana oranıdır. Sürat = Toplam Yol / Toplam Zaman = 120 km / 2 sa = 60 km/sa.",
+    "options": [
+      {
+        "text": "40 km/sa",
+        "isCorrect": false
+      },
+      {
+        "text": "50 km/sa",
+        "isCorrect": false
+      },
+      {
+        "text": "60 km/sa",
+        "isCorrect": true
+      },
+      {
+        "text": "70 km/sa",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Doğrusal bir yolda sabit hızla hareket eden bir cisim için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Sabit hızlı hareket (düzgün doğrusal hareket) tanımı gereği, cismin ivmesi sıfırdır. Çünkü hızında bir değişim olmamaktadır.",
+    "options": [
+      {
+        "text": "İvmesi sıfırdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Konum-zaman grafiği eğridir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hızı zamanla artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aldığı yol zamanla azalır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Hız-zaman grafiği verilen bir hareketli için, grafiğin altında kalan alan neyi verir?",
+    "explanation": "Hız-zaman grafiğinde, belirli bir zaman aralığında grafik çizgisi ile zaman ekseni arasında kalan alan, o zaman aralığında alınan yolu (yer değiştirmeyi) verir.",
+    "options": [
+      {
+        "text": "İvme",
+        "isCorrect": false
+      },
+      {
+        "text": "Sürat",
+        "isCorrect": false
+      },
+      {
+        "text": "Alınan yol",
+        "isCorrect": true
+      },
+      {
+        "text": "Ortalama hız",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hareket",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yüzey alanları A, levhalar arası uzaklıkları d olan iki paralel levhalı kondansatörün sığası C'dir. Levhalar arası uzaklık 2d yapılırsa yeni sığa kaç C olur?",
+    "explanation": "Paralel levhalı kondansatörün sığa formülü C = ε₀ * (A/d)'dir. Burada d uzaklık iki katına çıkarsa, sığa yarıya iner. Yani yeni sığa C/2 olur.",
+    "options": [
+      {
+        "text": "C/2",
+        "isCorrect": true
+      },
+      {
+        "text": "2C",
+        "isCorrect": false
+      },
+      {
+        "text": "C/4",
+        "isCorrect": false
+      },
+      {
+        "text": "4C",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralel Levhalar ve Sığa",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir paralel levhalı kondansatörün levhaları arasına yalıtkan bir madde konduğunda sığası nasıl değişir?",
+    "explanation": "Paralel levhalı kondansatörün sığası C = κ * ε₀ * (A/d) formülü ile verilir. Burada κ yalıtkan maddenin dielektrik sabitidir ve her zaman 1'den büyüktür. Bu nedenle, yalıtkan madde konulduğunda sığa artar.",
+    "options": [
+      {
+        "text": "Artar",
+        "isCorrect": true
+      },
+      {
+        "text": "Azalır",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişmez",
+        "isCorrect": false
+      },
+      {
+        "text": "Önce artar sonra azalır",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralel Levhalar ve Sığa",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Levhaları arasındaki uzaklık d olan bir paralel levhalı kondansatör V potansiyel farkı ile yüklenmiştir. Levhalar arası uzaklık yarıya indirilirse levhalar arası potansiyel fark nasıl değişir? (Kondansatör bataryadan ayrılmış durumda)",
+    "explanation": "Kondansatör bataryadan ayrıldığı için yükü (Q) sabittir. Sığa formülü C = ε₀*A/d olduğundan, d yarıya inince sığa (C) iki katına çıkar. Potansiyel fark V = Q/C formülü ile bulunur. Q sabit, C iki katına çıkınca V yarıya iner.",
+    "options": [
+      {
+        "text": "Yarıya iner",
+        "isCorrect": true
+      },
+      {
+        "text": "İki katına çıkar",
+        "isCorrect": false
+      },
+      {
+        "text": "Dört katına çıkar",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişmez",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralel Levhalar ve Sığa",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Yüklü bir paralel levhalı kondansatörde, levhalar arası bölgede aşağıdakilerden hangisi bulunur?",
+    "explanation": "Yüklü paralel levhalar arasında, levhalara dik ve bir levhadan diğerine doğru yönelmiş düzgün bir elektrik alan oluşur.",
+    "options": [
+      {
+        "text": "Düzgün elektrik alan",
+        "isCorrect": true
+      },
+      {
+        "text": "Düzgün manyetik alan",
+        "isCorrect": false
+      },
+      {
+        "text": "Düzgün yerçekimi alanı",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişken elektrik alan",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paralel Levhalar ve Sığa",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Durmakta olan bir cisme etki eden net kuvvet sıfır ise, cisim için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Newton'un birinci hareket yasasına (Eylemsizlik Yasası) göre, bir cisme etki eden net kuvvet sıfır ise, cisim duruyorsa durmaya, hareket halindeyse sabit hızla hareketine devam eder.",
+    "options": [
+      {
+        "text": "Durmaya devam eder",
+        "isCorrect": true
+      },
+      {
+        "text": "Yavaşlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Hızlanır",
+        "isCorrect": false
+      },
+      {
+        "text": "Yön değiştirir",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cisim sabit hızla hareket etmektedir. Bu cisim için aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "explanation": "Newton'un birinci yasasına göre, cisim sabit hızla (sıfır ivme ile) hareket ediyorsa, üzerine etki eden net kuvvet sıfırdır.",
+    "options": [
+      {
+        "text": "Net kuvvet sıfırdır",
+        "isCorrect": true
+      },
+      {
+        "text": "Hiç kuvvet etki etmiyordur",
+        "isCorrect": false
+      },
+      {
+        "text": "Sürtünme kuvveti yoktur",
+        "isCorrect": false
+      },
+      {
+        "text": "İvmesi artmaktadır",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Kütlesi 2 kg olan bir cisme 10 N'luk bir kuvvet uygulanıyor. Cismin ivmesi kaç m/s² olur?",
+    "explanation": "Newton'un ikinci hareket yasası F = m * a formülü ile ifade edilir. Buna göre, a = F / m = 10 N / 2 kg = 5 m/s² olarak bulunur.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Bir cisim bir etki kuvveti uyguladığında, bu etkiye karşılık eşit büyüklükte ve zıt yönde bir tepki kuvveti oluşur. Bu ifade Newton'un hangi hareket yasasını tanımlar?",
+    "explanation": "Newton'un üçüncü hareket yasası, etki-tepki yasasıdır. Bu yasa, her etki kuvvetine karşılık eşit büyüklükte ve zıt yönde bir tepki kuvveti olduğunu belirtir.",
+    "options": [
+      {
+        "text": "Üçüncü yasa",
+        "isCorrect": true
+      },
+      {
+        "text": "Birinci yasa",
+        "isCorrect": false
+      },
+      {
+        "text": "İkinci yasa",
+        "isCorrect": false
+      },
+      {
+        "text": "Yerçekimi yasası",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Newton'un Hareket Yasaları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
+  }
+]
