@@ -1,0 +1,152 @@
+[
+  {
+    "text": "İnsanın doğal çevre üzerindeki etkilerini en aza indirmeyi ve kaynakları sürdürülebilir şekilde kullanmayı amaçlayan yaklaşım aşağıdakilerden hangisidir?",
+    "explanation": "Çevre sorunlarının artmasıyla birlikte, insanın doğa ile uyum içinde yaşamasını ve kaynakları gelecek nesillere aktarabilmesini hedefleyen yaklaşım 'Doğayla Uyumlu Yaşam' anlayışıdır. Bu yaklaşım, doğal dengeyi bozmadan, çevreye zarar vermeden ekonomik ve sosyal faaliyetlerin sürdürülmesini öngörür.",
+    "options": [
+      {
+        "text": "Doğayla Uyumlu Yaşam",
+        "isCorrect": true
+      },
+      {
+        "text": "Aşırı Tüketim",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğaya Hükmetme",
+        "isCorrect": false
+      },
+      {
+        "text": "Teknoloji Bağımlılığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Gerçekleşmemiş Ütopya",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Doğa",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Dünya'nın kendi ekseni etrafındaki dönüş hareketinin bir sonucu aşağıdakilerden hangisidir?",
+    "explanation": "Dünya'nın kendi ekseni etrafında dönmesiyle (günlük hareket) bir gün içinde gece ve gündüz oluşur. Bu dönüş, Güneş'in gökyüzündeki konumunun sürekli değişmesine ve aydınlanan (gündüz) ile karanlıkta kalan (gece) yarımkürelerin oluşmasına neden olur.",
+    "options": [
+      {
+        "text": "Gece ve gündüzün oluşması",
+        "isCorrect": true
+      },
+      {
+        "text": "Mevsimlerin oluşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş ışınlarının geliş açısının değişmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yıllık sıcaklık farklarının oluşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Matematik iklim kuşaklarının oluşması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya'nın Şekli ve Hareketleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Bir yerin matematik konumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Bir yerin matematik konumu, enlem ve boylam dereceleriyle ifade edilir. Enlem, bir yerin Ekvator'a olan uzaklığının açısal değeridir ve iklim, sıcaklık, bitki örtüsü gibi doğal özellikler üzerinde belirleyici role sahiptir. Boylam ise yerel saat farklarını belirler.",
+    "options": [
+      {
+        "text": "Enlem değeri, iklim özelliklerini belirlemede etkilidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Boylam değeri, sıcaklık dağılışını doğrudan etkiler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Özel konum ile aynı anlama gelir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca kıtaların yerini belirlemek için kullanılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yer şekillerinin engebeli olup olmadığını gösterir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Coğrafi Konum",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki harita projeksiyon tiplerinden hangisi, alan koruyarak çizildiği için büyük ölçekli topoğrafya haritalarında ve atlaslarda yaygın olarak kullanılır?",
+    "explanation": "Silindirik projeksiyon, bir silindirin yerküreyi sararak izdüşüm almasıyla oluşturulur. Özellikle 'Alan Koruyan (Ekvatoral) Silindirik Projeksiyon' (örn. Miller Silindirik Projeksiyonu), şekillerde bozulma olsa da alanların gerçeğe yakın gösterilmesini sağladığı için atlas haritalarında ve genel amaçlı kullanımlarda tercih edilir.",
+    "options": [
+      {
+        "text": "Silindirik Projeksiyon",
+        "isCorrect": true
+      },
+      {
+        "text": "Konik Projeksiyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Düzlem (Azimutal) Projeksiyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Merkator Projeksiyonu",
+        "isCorrect": false
+      },
+      {
+        "text": "Kesir Projeksiyonu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Harita Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Güneş'ten gelen enerjinin yeryüzünü ısıtması sürecinde, aşağıdaki olaylardan hangisi doğrudan 'yer radyasyonu' kavramı ile ilişkilidir?",
+    "explanation": "Yer radyasyonu (ters radyasyon), yeryüzünün Güneş'ten aldığı enerjiyi ısıya dönüştürdükten sonra, atmosfere geri yayması olayıdır. Bu olay, yeryüzünün soğumasını yavaşlatan ve gece sıcaklıklarının aşırı düşmesini engelleyen doğal bir süreçtir.",
+    "options": [
+      {
+        "text": "Yeryüzünün ısınarak atmosferi ısıtması",
+        "isCorrect": true
+      },
+      {
+        "text": "Güneş ışınlarının atmosferde dağılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Atmosferin Güneş ışınlarını emmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Rüzgarların sıcaklığı taşıması",
+        "isCorrect": false
+      },
+      {
+        "text": "Buharlaşma ile ısı kaybı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atmosfer ve Sıcaklık",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  }
+]
