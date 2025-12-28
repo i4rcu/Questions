@@ -494,5 +494,501 @@
     "section": "Say",
     "difficulty": "Kolay",
     "subject": "Kimya"
+  },
+  {
+    "text": "Aynı sıcaklık ve basınçta bulunan eşit kütleli He ve CH4 gazları için aşağıdakilerden hangisi doğrudur? (H:1, C:12, He:4)",
+    "explanation": "He gazının mol kütlesi 4 g/mol, CH4 gazının mol kütlesi ise 16 g/mol'dür. Eşit kütlede alındıklarında, mol kütlesi küçük olan He gazının mol sayısı daha fazla olacaktır. Aynı sıcaklık ve basınçta gazların mol sayıları ile hacimleri doğru orantılıdır (Avogadro Yasası). Bu nedenle He gazının hacmi daha büyüktür.",
+    "options": [
+      {
+        "text": "He gazının hacmi daha büyüktür.",
+        "isCorrect": true
+      },
+      {
+        "text": "CH4 gazının hacmi daha büyüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hacimleri eşittir.",
+        "isCorrect": false
+      },
+      {
+        "text": "He gazının özkütlesi daha büyüktür.",
+        "isCorrect": false
+      },
+      {
+        "text": "CH4 gazının molekül sayısı daha fazladır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Kapalı bir kapta bulunan bir miktar ideal gazın sıcaklığı artırıldığında aşağıdakilerden hangisi kesinlikle artar?",
+    "explanation": "Kapalı bir kapta gazın hacmi sabittir. Sıcaklık artırıldığında, gazın kinetik enerjisi artar ve tanecikler kabın çeperlerine daha şiddetli çarpar. Bu da gaz basıncının kesinlikle artmasına neden olur.",
+    "options": [
+      {
+        "text": "Basınç",
+        "isCorrect": true
+      },
+      {
+        "text": "Hacim",
+        "isCorrect": false
+      },
+      {
+        "text": "Mol sayısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Özkütle",
+        "isCorrect": false
+      },
+      {
+        "text": "Yoğunluk",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki gazlardan hangisinin 0°C ve 1 atm'deki yoğunluğu en küçüktür? (H:1, He:4, N:14, O:16, Ne:20)",
+    "explanation": "Aynı sıcaklık ve basınçta (NKŞA) gazların yoğunlukları mol kütleleri ile doğru orantılıdır. Mol kütlesi en küçük olan gazın yoğunluğu en küçüktür. H2'nin mol kütlesi 2 g/mol, He'nin 4 g/mol, N2'nin 28 g/mol, O2'nin 32 g/mol, Ne'nin 20 g/mol'dür. Bu nedenle yoğunluğu en küçük olan H2 gazıdır.",
+    "options": [
+      {
+        "text": "H2",
+        "isCorrect": true
+      },
+      {
+        "text": "He",
+        "isCorrect": false
+      },
+      {
+        "text": "N2",
+        "isCorrect": false
+      },
+      {
+        "text": "O2",
+        "isCorrect": false
+      },
+      {
+        "text": "Ne",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "İdeal gaz denklemi aşağıdakilerden hangisidir?",
+    "explanation": "İdeal gaz denklemi, basınç (P), hacim (V), mol sayısı (n), evrensel gaz sabiti (R) ve sıcaklık (T) arasındaki ilişkiyi veren P.V = n.R.T formülüdür.",
+    "options": [
+      {
+        "text": "PV = nRT",
+        "isCorrect": true
+      },
+      {
+        "text": "P/T = nRV",
+        "isCorrect": false
+      },
+      {
+        "text": "PT = nRV",
+        "isCorrect": false
+      },
+      {
+        "text": "V/T = nRP",
+        "isCorrect": false
+      },
+      {
+        "text": "nV = PRT",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki bileşiklerden hangisi alkan sınıfına ait değildir?",
+    "explanation": "Alkanlar, yalnızca karbon (C) ve hidrojen (H) atomlarından oluşan ve tüm bağları tekli bağ olan doymuş hidrokarbonlardır. C3H8 (propan) ve C4H10 (bütan) alkanlardır. C2H4 (etilen) ise bir alken olup çift bağ içerir, bu nedenle alkan değildir.",
+    "options": [
+      {
+        "text": "C2H4",
+        "isCorrect": true
+      },
+      {
+        "text": "CH4",
+        "isCorrect": false
+      },
+      {
+        "text": "C3H8",
+        "isCorrect": false
+      },
+      {
+        "text": "C4H10",
+        "isCorrect": false
+      },
+      {
+        "text": "C5H12",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki fonksiyonel gruplardan hangisi bir karboksilik asitte bulunur?",
+    "explanation": "Karboksilik asitler, -COOH (karboksil) fonksiyonel grubunu taşıyan organik bileşiklerdir. Bu grup, bir karbonil grubu (C=O) ve bir hidroksil grubundan (-OH) oluşur.",
+    "options": [
+      {
+        "text": "-COOH",
+        "isCorrect": true
+      },
+      {
+        "text": "-OH",
+        "isCorrect": false
+      },
+      {
+        "text": "-CHO",
+        "isCorrect": false
+      },
+      {
+        "text": "-NH2",
+        "isCorrect": false
+      },
+      {
+        "text": "-COO-",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hangisi bir alkol örneğidir?",
+    "explanation": "Alkoller, yapısında hidroksil (-OH) grubu bulunduran organik bileşiklerdir. CH3-CH2-OH (etanol), yaygın bilinen bir alkoldür. Diğer seçenekler sırasıyla bir eter, bir aldehit, bir keton ve bir asittir.",
+    "options": [
+      {
+        "text": "CH3-CH2-OH",
+        "isCorrect": true
+      },
+      {
+        "text": "CH3-O-CH3",
+        "isCorrect": false
+      },
+      {
+        "text": "CH3-CHO",
+        "isCorrect": false
+      },
+      {
+        "text": "CH3-CO-CH3",
+        "isCorrect": false
+      },
+      {
+        "text": "HCOOH",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Benzen halkası için aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Benzen, altı karbon ve altı hidrojen atomundan oluşan, düzlemsel yapılı ve aromatik bir hidrokarbondur. Karbon atomları arasında üç tekli ve üç çift bağın rezonans yapısı vardır, bu da onun karakteristik kararlılığını sağlar.",
+    "options": [
+      {
+        "text": "Aromatik bir hidrokarbondur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Doymuş bir hidrokarbondur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Açık zincirlidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca tekli bağlar içerir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir alken örneğidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Organik Kimya",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki enerji kaynaklarından hangisi yenilenebilir bir kaynak değildir?",
+    "explanation": "Yenilenebilir enerji kaynakları, doğal süreçlerle kendini yenileyebilen kaynaklardır. Rüzgar, güneş, biyokütle ve hidroelektrik yenilenebilir kaynaklardır. Kömür ise fosil bir yakıt olup, oluşumu milyonlarca yıl sürdüğü için yenilenebilir bir kaynak olarak kabul edilmez.",
+    "options": [
+      {
+        "text": "Kömür",
+        "isCorrect": true
+      },
+      {
+        "text": "Rüzgar",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneş",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyokütle",
+        "isCorrect": false
+      },
+      {
+        "text": "Hidroelektrik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Güneş enerjisini elektrik enerjisine dönüştüren cihaz aşağıdakilerden hangisidir?",
+    "explanation": "Fotovoltaik hücreler (güneş pilleri), üzerlerine düşen güneş ışığını doğrudan elektrik enerjisine dönüştüren yarı iletken malzemelerden yapılmış cihazlardır.",
+    "options": [
+      {
+        "text": "Güneş pili",
+        "isCorrect": true
+      },
+      {
+        "text": "Rüzgar türbini",
+        "isCorrect": false
+      },
+      {
+        "text": "Hidroelektrik santral",
+        "isCorrect": false
+      },
+      {
+        "text": "Jeneratör",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyogaz ünitesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Nükleer santrallerde elektrik enerjisi üretmek için kullanılan temel işlem aşağıdakilerden hangisidir?",
+    "explanation": "Nükleer santrallerde, uranyum veya plütonyum gibi ağır element atomlarının nötronlarla bombardımanı sonucu kontrollü bir şekilde bölünmesi (fisyon) sağlanır. Bu süreçte açığa çıkan büyük miktardaki ısı enerjisi, suyu buharlaştırmak ve bu buharın türbinleri döndürmesi için kullanılarak elektrik enerjisi üretilir.",
+    "options": [
+      {
+        "text": "Fisyon",
+        "isCorrect": true
+      },
+      {
+        "text": "Füzyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Yanma",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektroliz",
+        "isCorrect": false
+      },
+      {
+        "text": "Fotosentez",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hangisi biyokütle enerjisi kaynağına örnek olarak verilebilir?",
+    "explanation": "Biyokütle enerjisi, bitkiler ve hayvan atıkları gibi organik maddelerden elde edilen enerjidir. Odun, temel bir biyokütle kaynağıdır. Diğer seçenekler ise fosil yakıtlar veya diğer enerji türleridir.",
+    "options": [
+      {
+        "text": "Odun",
+        "isCorrect": true
+      },
+      {
+        "text": "Petrol",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğal gaz",
+        "isCorrect": false
+      },
+      {
+        "text": "Uranyum",
+        "isCorrect": false
+      },
+      {
+        "text": "Linyit",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Enerji Kaynakları ve Bilimsel Gelişmeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Bir çözücüde belirli bir sıcaklıkta çözünebilen maksimum çözünen miktarına ne ad verilir?",
+    "explanation": "Çözünürlük, sabit bir sıcaklıkta, belirli bir miktar çözücüde çözünebilen maksimum çözünen madde miktarı olarak tanımlanır.",
+    "options": [
+      {
+        "text": "Çözünürlük",
+        "isCorrect": true
+      },
+      {
+        "text": "Derişim",
+        "isCorrect": false
+      },
+      {
+        "text": "Doygunluk",
+        "isCorrect": false
+      },
+      {
+        "text": "Çökelme",
+        "isCorrect": false
+      },
+      {
+        "text": "Çözelti",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Katıların sıvılardaki çözünürlüğü genellikle sıcaklık arttıkça nasıl değişir?",
+    "explanation": "Çoğu katının sıvı içindeki çözünürlüğü, sıcaklık arttıkça artar. Bunun nedeni, yüksek sıcaklıklarda çözücü moleküllerinin katı taneciklerini daha iyi çözebilecek kadar kinetik enerjilerinin artmasıdır.",
+    "options": [
+      {
+        "text": "Artar",
+        "isCorrect": true
+      },
+      {
+        "text": "Azalır",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişmez",
+        "isCorrect": false
+      },
+      {
+        "text": "Önce artar sonra azalır",
+        "isCorrect": false
+      },
+      {
+        "text": "Önce azalır sonra artar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki çözelti türlerinden hangisinde çözünen madde miktarı, o sıcaklıktaki çözünürlük sınırından daha azdır?",
+    "explanation": "Doymamış çözelti, belirli bir sıcaklıkta, çözebileceği maksimum miktardan (çözünürlük sınırından) daha az çözünen içeren çözeltidir. Bu tür çözeltilere daha fazla çözünen eklenebilir ve çözünebilir.",
+    "options": [
+      {
+        "text": "Doymamış çözelti",
+        "isCorrect": true
+      },
+      {
+        "text": "Doygun çözelti",
+        "isCorrect": false
+      },
+      {
+        "text": "Aşırı doymuş çözelti",
+        "isCorrect": false
+      },
+      {
+        "text": "Derişik çözelti",
+        "isCorrect": false
+      },
+      {
+        "text": "Seyreltik çözelti",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sıvı Çözeltiler ve Çözünürlük",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Modern atom teorisine göre, bir atomun elektronları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Modern atom teorisi (Kuantum Mekaniği Atom Modeli), elektronların kesin bir yörüngede değil, bulunma olasılığının yüksek olduğu bölgelerde (atomik orbitaller) bulunduğunu ifade eder. Bu nedenle, elektronların belirli enerji düzeylerindeki orbitallerde bulunma olasılıklarından söz edilir, kesin yörüngelerden değil.",
+    "options": [
+      {
+        "text": "Elektronlar çekirdeğin çevresinde belirli dairesel yörüngelerde dolanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronların çekirdek etrafında bulunma olasılıklarının yüksek olduğu bölgeler vardır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bir orbitalde spinleri aynı yönde iki elektron bulunabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar hem tanecik hem de dalga karakteri gösterir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronların enerjisi sürekli değil, kuantludur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
   }
 ]
