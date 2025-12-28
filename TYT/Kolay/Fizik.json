@@ -538,5 +538,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki bilim dallarından hangisi fizik bilimi ile en doğrudan ilişkilidir?",
+    "explanation": "Astronomi, evrendeki gök cisimlerini, onların hareketlerini, fiziksel ve kimyasal özelliklerini inceleyen bir bilim dalıdır. Bu incelemeler, fizik biliminin temel prensipleri olan kütleçekim, manyetizma, termodinamik ve optik gibi konulara dayanır. Bu nedenle astronomi, fizik bilimi ile en doğrudan ilişkili olan bilim dalıdır.",
+    "options": [
+      {
+        "text": "Astronomi",
+        "isCorrect": true
+      },
+      {
+        "text": "Botanik",
+        "isCorrect": false
+      },
+      {
+        "text": "Arkeoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Psikoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyoloji",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fizik Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
   }
 ]
