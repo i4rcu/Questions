@@ -478,5 +478,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Fizik"
+  },
+  {
+    "text": "Fizik bilimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Fizik, madde ve enerji arasındaki etkileşimi inceleyen ve evrendeki olayları gözlem, deney ve matematiksel modellerle açıklamaya çalışan bir temel bilimdir. Temel amacı, doğal dünyayı anlamak ve onun işleyişine dair genel kanunlar ortaya koymaktır.",
+    "options": [
+      {
+        "text": "Fizik, madde ve enerji arasındaki etkileşimi inceleyen temel bir bilimdir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fizik, yalnızca laboratuvar ortamında kontrollü deneyler yapar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fizik, canlı sistemleri inceleyen bir bilim dalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fizik biliminin tek yöntemi teorik hesaplamalardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fizik, sadece Dünya'daki olaylarla ilgilenir, evreni konu edinmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fizik Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
   }
 ]
