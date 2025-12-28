@@ -1,0 +1,212 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi kimya biliminin alt dallarından biri değildir?",
+    "explanation": "Kimya biliminin temel alt dalları analitik kimya, biyokimya, organik kimya, anorganik kimya ve fizikokimyadır. Jeoloji ise bir yer bilimi dalıdır ve kimya biliminin alt dalı değildir.",
+    "options": [
+      {
+        "text": "Analitik kimya",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyokimya",
+        "isCorrect": false
+      },
+      {
+        "text": "Organik kimya",
+        "isCorrect": false
+      },
+      {
+        "text": "Jeoloji",
+        "isCorrect": true
+      },
+      {
+        "text": "Fizikokimya",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya Bilimi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Periyodik sistemde aynı periyotta soldan sağa doğru gidildikçe aşağıdaki özelliklerden hangisi genellikle azalır?",
+    "explanation": "Periyodik sistemde aynı periyotta soldan sağa doğru gidildikçe atom yarıçapı azalır. Bunun nedeni, proton sayısının artmasıyla çekirdek yükünün artması ve elektronların çekirdek tarafından daha kuvvetli çekilmesidir.",
+    "options": [
+      {
+        "text": "Atom numarası",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektron ilgisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Atom yarıçapı",
+        "isCorrect": true
+      },
+      {
+        "text": "Elektronegatiflik",
+        "isCorrect": false
+      },
+      {
+        "text": "İyonlaşma enerjisi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom ve Periyodik Sistem",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki moleküllerden hangisinin atomları arasındaki bağ kovalenttir?",
+    "explanation": "Kovalent bağ, ametaller arasında elektronların ortaklaşa kullanılmasıyla oluşur. Su (H₂O) molekülü, hidrojen ve oksijen ametalleri arasında kovalent bağ içerir.",
+    "options": [
+      {
+        "text": "NaCl",
+        "isCorrect": false
+      },
+      {
+        "text": "H₂O",
+        "isCorrect": true
+      },
+      {
+        "text": "MgO",
+        "isCorrect": false
+      },
+      {
+        "text": "KBr",
+        "isCorrect": false
+      },
+      {
+        "text": "CaCl₂",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyasal Türler Arası Etkileşimler",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi katılar için doğru değildir?",
+    "explanation": "Katılar, belirli bir şekle ve hacme sahiptir, tanecikleri titreşim hareketi yapar ve sıkıştırılamazlar. Ancak, akışkan özellik göstermezler; akışkanlık sıvı ve gazların özelliğidir.",
+    "options": [
+      {
+        "text": "Belirli bir şekle sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tanecikleri titreşim hareketi yapar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıkıştırılamaz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akışkan özellik gösterir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Belirli bir hacme sahiptir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Maddenin Halleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Hava kirliliğine neden olan ve asit yağmurlarının oluşumunda rol oynayan gaz aşağıdakilerden hangisidir?",
+    "explanation": "Asit yağmurları, atmosfere salınan kükürt dioksit (SO₂) ve azot oksitler (NOₓ) gibi gazların su buharı ile birleşerek sülfürik asit ve nitrik asit oluşturması sonucu meydana gelir. Kükürt dioksit (SO₂) bu gazlardan biridir.",
+    "options": [
+      {
+        "text": "Oksijen (O₂)",
+        "isCorrect": false
+      },
+      {
+        "text": "Azot (N₂)",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbon dioksit (CO₂)",
+        "isCorrect": false
+      },
+      {
+        "text": "Kükürt dioksit (SO₂)",
+        "isCorrect": true
+      },
+      {
+        "text": "Hidrojen (H₂)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğa ve Kimya",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi 'Kütlenin Korunumu Kanunu'nu ifade eder?",
+    "explanation": "Kütlenin Korunumu Kanunu'na göre, bir kimyasal reaksiyonda reaksiyona giren maddelerin kütleleri toplamı, reaksiyon sonucunda oluşan maddelerin kütleleri toplamına eşittir. Kütle yoktan var edilemez vardan yok edilemez.",
+    "options": [
+      {
+        "text": "Bir element farklı elementlerle birleşerek farklı bileşikler oluşturur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sabit oranlar kanunu bileşikler için geçerlidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir bileşiği oluşturan elementlerin kütleleri arasında sabit bir oran vardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reaksiyona giren maddelerin kütleleri toplamı, ürünlerin kütleleri toplamına eşittir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aynı şartlarda gazların hacimleri ile mol sayıları doğru orantılıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimyanın Temel Kanunları ve Kimyasal Hesaplamalar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Tuzlu su aşağıdaki karışım türlerinden hangisine örnektir?",
+    "explanation": "Tuzlu su, katı bir maddenin (tuz) bir sıvıda (su) homojen olarak dağılmasıyla oluşan bir çözeltidir. Çözeltiler homojen karışımlardır.",
+    "options": [
+      {
+        "text": "Heterojen karışım",
+        "isCorrect": false
+      },
+      {
+        "text": "Süspansiyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Emülsiyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Çözelti",
+        "isCorrect": true
+      },
+      {
+        "text": "Kolloid",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Karışımlar",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Kimya"
+  }
+]
