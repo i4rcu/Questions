@@ -148,5 +148,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Tarih"
+  },
+  {
+    "text": "Tarih biliminde, bir olayın meydana geldiği yeri ve zamanı belirleyerek neden-sonuç ilişkisi içinde inceleyen yaklaşım aşağıdakilerden hangisidir?",
+    "explanation": "Tarih biliminde olayların yer, zaman ve neden-sonuç ilişkisi içinde incelenmesi 'Kronoloji' ve 'Coğrafya' bilimlerinin yardımıyla yapılır, ancak bu tanım doğrudan 'Olay (Vak'a) Tarihi' yaklaşımını ifade eder. Olay tarihi, belirli bir olayı tüm detaylarıyla bu üç unsur çerçevesinde ele alır.",
+    "options": [
+      {
+        "text": "Öğretici Tarih",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal Tarih",
+        "isCorrect": false
+      },
+      {
+        "text": "Olay (Vak'a) Tarihi",
+        "isCorrect": true
+      },
+      {
+        "text": "Araştırıcı Tarih",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilimsel Tarih",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
   }
 ]
