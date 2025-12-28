@@ -928,5 +928,275 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"ince\" sözcüğü \"zayıf, narin\" anlamında kullanılmıştır?",
+    "explanation": "\"İnce\" sözcüğü, \"Bu kumaş çok ince, yazın serin tutar.\" cümlesinde \"kalın olmayan\" anlamında; \"İnce bir sesle konuşuyordu.\" cümlesinde \"tiz\" anlamında; \"İnce hesaplar yapmaya bayılır.\" cümlesinde \"ayrıntılı\" anlamında; \"İnce yapılı bir çocuktu.\" cümlesinde ise \"zayıf, narin\" anlamında kullanılmıştır. \"Konuya inceden inceye vakıftı.\" cümlesi ise \"ayrıntılı\" anlamını pekiştirmektedir.",
+    "options": [
+      {
+        "text": "Bu kumaş çok ince, yazın serin tutar.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnce bir sesle konuşuyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnce hesaplar yapmaya bayılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnce yapılı bir çocuktu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Konuya inceden inceye vakıftı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"için\" edatı \"amaç, uğruna\" anlamı katmıştır?",
+    "explanation": "\"İçin\" edatı, \"Bu hediye için sana çok teşekkür ederim.\" cümlesinde \"-den dolayı\" anlamında; \"Sınav için son hazırlıklarını yapıyor.\" cümlesinde \"-e yönelik\" anlamında; \"Bu araba için binlerce lira harcadı.\" cümlesinde \"-e karşılık\" anlamında; \"Ülkesi için canını feda etmeye hazırdı.\" cümlesinde \"amaç, uğruna\" anlamında kullanılmıştır. \"Senin için endişeleniyoruz.\" cümlesinde ise \"hakkında\" anlamı vardır.",
+    "options": [
+      {
+        "text": "Bu hediye için sana çok teşekkür ederim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınav için son hazırlıklarını yapıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu araba için binlerce lira harcadı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ülkesi için canını feda etmeye hazırdı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Senin için endişeleniyoruz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlede Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "(1) Bazı insanlar için sabah erken uyanmak bir işkencedir. (2) Oysa güne erken başlamanın sayısız faydası vardır. (3) Sabahın erken saatleri, zihnin en berrak olduğu zamandır. (4) Bu saatlerde yapılan işler daha verimli olur, planlar daha kolay hayata geçer. (5) Ayrıca güneşin doğuşunu izlemek, insana tarifsiz bir huzur verir.\n\nBu parçada numaralanmış cümlelerden hangisi, düşüncenin akışını bozmaktadır?",
+    "explanation": "Paragraf, erken uyanmanın zorluğundan bahsedip ardından erken kalkmanın faydalarını anlatmaktadır. Ancak beşinci cümlede aniden \"güneşin doğuşunu izlemek\" gibi estetik ve duygusal bir faydadan bahsedilmesi, paragrafın \"verimlilik, planlama, zihin berraklığı\" gibi daha rasyonel ve işlevsel faydalar üzerine kurulu akışını kesmektedir. Bu nedenle beşinci cümle düşüncenin akışını bozmaktadır.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Odaya girdiğimde her şey yerli yerindeydi. Masanın üzerinde yarım kalmış bir fincan çay, koltuğun üzerine atılmış bir hırka, kitaplıktaki kitapların düzensiz sıralanışı... Hepsi onun daha demin burada olduğunu, bir anlığına çıktığını ve birazdan geri döneceğini anlatıyordu gibiydi.\n\nBu parçada ağırlıklı olarak hangi anlatım biçimi kullanılmıştır?",
+    "explanation": "Paragrafta, bir mekan (oda) ve o mekandaki nesneler (fincan, hırka, kitaplar) ayrıntılı bir şekilde betimlenmiştir. Yazar, okuyucunun zihninde canlanması için görsel ögelere odaklanmış ve bir tasvir (betimleme) yapmıştır. Herhangi bir olay anlatılmadığı için öyküleme, bir düşünce açıklanmadığı için açıklama veya iki durum karşılaştırılmadığı için karşılaştırma söz konusu değildir.",
+    "options": [
+      {
+        "text": "Öyküleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Betimleme",
+        "isCorrect": true
+      },
+      {
+        "text": "Açıklama",
+        "isCorrect": false
+      },
+      {
+        "text": "Karşılaştırma",
+        "isCorrect": false
+      },
+      {
+        "text": "Tanımlama",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Biçimleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ünsüz yumuşaması (ünsüz değişimi) vardır?",
+    "explanation": "Ünsüz yumuşaması, sert sessizle (p, ç, t, k) biten bir sözcüğe ünlü ile başlayan bir ek geldiğinde, sondaki sert sessizin yumuşayarak (b, c, d, g, ğ) dönüşmesidir. \"Ağacın dalları rüzgarda sallanıyordu.\" cümlesindeki \"ağaç\" sözcüğü, \"-ın\" ekini aldığında sonundaki \"ç\" sert ünsüzü \"c\" yumuşak ünsüzüne dönüşmüştür (ağaç-ın -> ağacın). Diğer seçeneklerde böyle bir değişim yoktur.",
+    "options": [
+      {
+        "text": "Yeni kitabı bir solukta okudu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kapıyı hızlıca kapattı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağacın dalları rüzgarda sallanıyordu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Çocuklar bahçede top oynuyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Soruyu doğru cevapladın.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ses Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
+    "explanation": "Türkçede \"herhangi\" sözcüğü bitişik yazılır. \"Her hangi\" şeklinde ayrı yazılması yanlıştır. Diğer seçeneklerdeki \"hiçbir\", \"birkaç\", \"birtakım\" ve \"herkes\" sözcükleri doğru bir şekilde bitişik yazılmıştır.",
+    "options": [
+      {
+        "text": "Hiçbir sorun çıkmadan yolculuk bitti.",
+        "isCorrect": false
+      },
+      {
+        "text": "Birkaç gün sonra tekrar görüşelim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Birtakım insanlar bu fikre katılmıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Herkes aynı fikirde değildi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Her hangi bir problem yaşamadık.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Yazım Kuralları",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "explanation": "Noktalı virgül, öğeleri arasında virgül bulunan sıralı cümleleri ayırmak için kullanılır. \"Kitap okumayı sever; müzik dinlemekten hoşlanır.\" cümlesinde sıralı cümlelerin öğeleri arasında virgül bulunmadığı için cümleleri ayırmak için virgül kullanılmalı, noktalı virgül kullanılmamalıdır. Bu, noktalı virgülün yanlış kullanımıdır. Diğer cümlelerde noktalı virgül doğru kullanılmıştır.",
+    "options": [
+      {
+        "text": "Önce İzmir'e gideceğiz; oradan da Çeşme'ye geçeceğiz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elma, armut, muz; süt, peynir, yumurta aldık.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitap okumayı sever; müzik dinlemekten hoşlanır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dışarı çıkmak istedi; ancak hava çok soğuktu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bazıları erken gelir; bazıları ise hep geç kalır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Noktalama İşaretleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki sözcüklerden hangisi hem yapım eki hem de çekim eki almıştır?",
+    "explanation": "Bir sözcüğün hem yapım hem çekim eki almış olması için önce anlamını değiştiren bir yapım eki, sonra da hal, iyelik, çoğul gibi gramer bilgisi katan bir çekim eki alması gerekir. \"Gözlüklerim\" sözcüğü incelendiğinde: Kök: göz. Yapım Eki: -lük (göz-lük -> anlam değişti, isimden isim yapıldı). Çekim Eki 1: -ler (çoğul eki). Çekim Eki 2: -im (1. tekil şahıs iyelik eki). Diğer seçeneklerde bu durum yoktur.",
+    "options": [
+      {
+        "text": "Evler",
+        "isCorrect": false
+      },
+      {
+        "text": "Yazlık",
+        "isCorrect": false
+      },
+      {
+        "text": "Okuyucu",
+        "isCorrect": false
+      },
+      {
+        "text": "Gözlüklerim",
+        "isCorrect": true
+      },
+      {
+        "text": "Geldi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Yapı",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"mi\" soru edatı cümleye \"koşul\" anlamı katmıştır?",
+    "explanation": "\"mi\" soru edatı, bazen soru sormak dışında, cümleye farklı anlamlar katabilir. \"Koşul\" anlamı, \"eğer\" anlamı verir. \"Yarın hava güzel mi, parka gideriz.\" cümlesinde \"mi\" edatı, \"Eğer yarın hava güzel olursa, parka gideriz.\" anlamını katmıştır, yani bir koşul belirtmiştir. Diğer cümlelerde sırasıyla gerçek soru, pekiştirme, şaşırma ve zaman anlamları vardır.",
+    "options": [
+      {
+        "text": "Bu kitabı daha önce okudun mu?",
+        "isCorrect": false
+      },
+      {
+        "text": "Güzel mi güzel bir manzara vardı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın hava güzel mi, parka gideriz.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sınavı kazanmış mı, gözlerime inanamadım!",
+        "isCorrect": false
+      },
+      {
+        "text": "Akşam oldu mu, hepimiz toplanırız.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Türkçe"
   }
 ]
