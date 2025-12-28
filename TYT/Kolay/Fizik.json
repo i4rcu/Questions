@@ -598,5 +598,35 @@
     "exam": "TYT",
     "difficulty": "Kolay",
     "subject": "Fizik"
+  },
+  {
+    "text": "Aşağıdaki bilim insanlarından hangisi, modern fiziğin temellerini atan ve 'Fizik' adlı eseriyle bilimin sistematik hale gelmesine katkıda bulunan kişidir?",
+    "explanation": "Aristoteles, antik Yunan filozofu ve bilim insanıdır. 'Fizik' adlı eseri doğa bilimleri üzerine yazılmış temel bir kaynaktır ve fizik biliminin sistematik bir disiplin olarak gelişmesinde çok önemli bir rol oynamıştır. Bu nedenle modern fiziğin temellerini atan isim olarak kabul edilir.",
+    "options": [
+      {
+        "text": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "text": "Albert Einstein",
+        "isCorrect": false
+      },
+      {
+        "text": "Galileo Galilei",
+        "isCorrect": false
+      },
+      {
+        "text": "Aristoteles",
+        "isCorrect": true
+      },
+      {
+        "text": "Nikola Tesla",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fizik Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Kolay",
+    "subject": "Fizik"
   }
 ]
