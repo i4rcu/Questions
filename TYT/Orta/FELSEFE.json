@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Felsefenin temel nitelikleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Felsefe, eleştirel, sorgulayıcı ve rasyonel bir düşünme etkinliğidir. Kesin ve mutlak doğrular sunmaktan ziyade, soru sormaya ve mevcut bilgileri akıl yoluyla irdelemeye dayanır. Bu nedenle doğru ifade, felsefenin eleştirel ve sorgulayıcı bir düşünme etkinliği olduğudur.",
+    "options": [
+      {
+        "text": "Felsefe, eleştirel ve sorgulayıcı bir düşünme etkinliğidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Felsefe, dini inançların temelini oluşturur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Felsefe, deney ve gözlem yoluyla kesin bilgiye ulaşmayı amaçlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Felsefi sistemler, herkes tarafından kabul gören mutlak doğruları ifade eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Felsefe, sadece günlük yaşam pratiklerine yönelik çözümler üretir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Felsefe'nin Alanı",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bilgi Felsefesi (Epistemoloji) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Bilgi Felsefesi (Epistemoloji), bilginin kaynağı, imkanı, sınırları, ölçütleri ve doğruluğu gibi temel problemleri ele alan felsefe disiplinidir. Bilginin ne olduğunu, nasıl elde edildiğini ve ne kadar güvenilir olduğunu sorgular.",
+    "options": [
+      {
+        "text": "Bilginin kaynağı, sınırları ve doğruluğu gibi problemleri inceler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evrenin temel maddesinin ne olduğu sorusuyla ilgilenir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal düzenin ideal şeklini araştırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanat eserlerinin değerini ve güzelliğini analiz eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsanın ölümden sonraki varlığı üzerine spekülasyon yapar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilgi Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Bilim Felsefesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Bilim Felsefesi, bilimsel yöntemin ne olduğunu, bilimsel bilginin yapısını, bilimsel kuramların nasıl geliştiğini ve bilimin diğer bilgi türlerinden nasıl ayrıldığını sorgulayan felsefe dalıdır. Temel amacı, bilimin kavramsal temellerini, dayanaklarını ve işleyişini felsefi açıdan analiz etmektir.",
+    "options": [
+      {
+        "text": "Bilimsel yöntemin ve bilimsel bilginin yapısını sorgular.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilim insanlarının kişisel ahlaki sorumluluklarını belirler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilimsel bulguların dini metinlerle uyumunu araştırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihsel süreçteki bilimsel hataları listeleyip yargılar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Belirli bir bilim dalının pratik uygulamalarını öğretir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bilim Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Varlık Felsefesi (Ontoloji) aşağıdaki temel sorulardan hangisi ile ilgilenir?",
+    "explanation": "Varlık Felsefesi (Ontoloji), varlığın ne olduğu, ana maddesinin (arkhe) ne olduğu, varlığın özü ve kökeni gibi temel metafizik sorularla ilgilenir. 'Varlık var mıdır?' ve 'Varlığın asıl niteliği nedir?' gibi sorular bu alanın merkezindedir.",
+    "options": [
+      {
+        "text": "Varlığın ne olduğu ve ana maddesinin (arkhe) ne olduğu ile ilgilenir.",
+        "isCorrect": true
+      },
+      {
+        "text": "İnsanın neyi bilebileceği ve bilginin sınırları ile ilgilenir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplum içinde adil bir düzenin nasıl kurulacağı ile ilgilenir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Güzelin ne olduğu ve sanatın doğası ile ilgilenir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dil ile gerçeklik arasındaki ilişkiyi analiz eder.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Varlık Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  },
+  {
+    "text": "Ahlak Felsefesi (Etik) temel olarak neyi inceler?",
+    "explanation": "Ahlak Felsefesi (Etik), iyi ve kötü, doğru ve yanlış, erdem, ödev, sorumluluk gibi kavramları analiz eder; insan eylemlerinin ahlaki temellerini ve ilkelerini sorgular. Ahlaki yargıların dayanağını ve evrensel ahlak kurallarının olup olmadığını araştırır.",
+    "options": [
+      {
+        "text": "İyi, kötü, doğru, yanlış gibi kavramları ve ahlaki eylemlerin temellerini inceler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Devletin kökeni ve ideal yönetim biçimlerini araştırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evrenin fiziksel yasalarını ve başlangıcını açıklamaya çalışır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilginin duyular yoluyla mı yoksa akıl yoluyla mı elde edildiğini tartışır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dini inançların rasyonel temellerini değerlendirir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ahlak Felsefesi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
+  }
+]
