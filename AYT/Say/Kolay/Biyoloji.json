@@ -1,0 +1,560 @@
+[
+  {
+    "text": "Genetik şifre ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Genetik şifre, mRNA üzerindeki üç nükleotitten oluşan bir kodonun, protein sentezi sırasında belirli bir amino asiti veya durdurma sinyalini ifade etmesidir. Bu şifre tüm canlılarda aynıdır, bu nedenle evrenseldir.",
+    "options": [
+      {
+        "text": "Tüm canlılarda aynıdır (evrenseldir).",
+        "isCorrect": true
+      },
+      {
+        "text": "Her canlı türüne özgüdür.",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA'daki tek bir nükleotitten oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece başlama kodonunu ifade eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proteinlerin yapısını doğrudan belirler.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Protein sentezinin translasyon aşaması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "Translasyon, protein sentezinin sitoplazmada ribozomlar üzerinde gerçekleşen aşamasıdır. DNA'dan mRNA sentezi (transkripsiyon) ise çekirdekte gerçekleşir. Dolayısıyla translasyon çekirdekte gerçekleşmez.",
+    "options": [
+      {
+        "text": "Çekirdekte gerçekleşir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ribozomlarda gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "mRNA'nın kodonları okunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "tRNA'lar amino asitleri taşır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Amino asitler birleşerek polipeptit zinciri oluşur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir mRNA molekülündeki AUG kodonunun işlevi nedir?",
+    "explanation": "AUG kodonu, protein sentezini başlatan başlama (start) kodonudur. Aynı zamanda metionin amino asitini de şifreler.",
+    "options": [
+      {
+        "text": "Protein sentezini başlatır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Protein sentezini sonlandırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece metionin amino asidini şifreler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozomun küçük alt birimine bağlanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA'nın şifresini oluşturur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "tRNA'nın protein sentezindeki temel görevi nedir?",
+    "explanation": "tRNA (taşıyıcı RNA)'nın temel görevi, sitoplazmadaki uygun amino asitleri alıp ribozoma taşımak ve mRNA'daki kodonlara karşılık gelen antikodonu ile bu amino asitleri doğru sıraya yerleştirmektir.",
+    "options": [
+      {
+        "text": "Amino asitleri ribozoma taşımak.",
+        "isCorrect": true
+      },
+      {
+        "text": "DNA'dan bilgiyi kopyalamak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proteinlerin üç boyutlu yapısını oluşturmak.",
+        "isCorrect": false
+      },
+      {
+        "text": "mRNA'nın çekirdekten çıkışını sağlamak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozomun yapısını oluşturmak.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Merkezi sinir sistemi aşağıdakilerden hangilerini içerir?",
+    "explanation": "Merkezi sinir sistemi (MSS), beyin ve omurilikten oluşur. Çevresel sinir sistemi ise MSS'yi vücudun diğer kısımlarına bağlayan sinirlerdir.",
+    "options": [
+      {
+        "text": "Beyin ve omurilik",
+        "isCorrect": true
+      },
+      {
+        "text": "Duyu ve motor sinirler",
+        "isCorrect": false
+      },
+      {
+        "text": "Sempatik ve parasempatik sinirler",
+        "isCorrect": false
+      },
+      {
+        "text": "Kraniyal ve spinal sinirler",
+        "isCorrect": false
+      },
+      {
+        "text": "Somatal ve otonom sinirler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir nöronun impuls iletim yönü aşağıdaki sıralamalardan hangisinde doğru verilmiştir?",
+    "explanation": "Bir nöronda impuls (uyartı) dendritten alınır, hücre gövdesinden (soma) geçer ve akson terminalinden iletilir.",
+    "options": [
+      {
+        "text": "Dendrit → Hücre gövdesi → Akson",
+        "isCorrect": true
+      },
+      {
+        "text": "Akson → Hücre gövdesi → Dendrit",
+        "isCorrect": false
+      },
+      {
+        "text": "Hücre gövdesi → Dendrit → Akson",
+        "isCorrect": false
+      },
+      {
+        "text": "Akson → Dendrit → Hücre gövdesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Dendrit → Akson → Hücre gövdesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İki nöron arasındaki impuls iletiminin gerçekleştiği özelleşmiş bölgeye ne ad verilir?",
+    "explanation": "İki nöron arasında veya bir nöron ile başka bir hücre (kas, bez) arasında impuls iletiminin gerçekleştiği özelleşmiş bağlantı bölgesine sinaps denir.",
+    "options": [
+      {
+        "text": "Sinaps",
+        "isCorrect": true
+      },
+      {
+        "text": "Akson",
+        "isCorrect": false
+      },
+      {
+        "text": "Dendrit",
+        "isCorrect": false
+      },
+      {
+        "text": "Myelin kılıf",
+        "isCorrect": false
+      },
+      {
+        "text": "Ranvier boğumu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Otonom sinir sisteminin sempatik bölümünün temel işlevi nedir?",
+    "explanation": "Otonom sinir sisteminin sempatik bölümü, vücudu stres, korku veya acil durumlara hazırlayan 'savaş ya da kaç' tepkisinden sorumludur. Kalp atış hızını, solunumu artırır.",
+    "options": [
+      {
+        "text": "Vücudu stres durumuna hazırlamak.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sindirim faaliyetlerini hızlandırmak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vücudu dinlenme durumuna geçirmek.",
+        "isCorrect": false
+      },
+      {
+        "text": "İstemsiz kas hareketlerini kontrol etmek.",
+        "isCorrect": false
+      },
+      {
+        "text": "Denge ve koordinasyonu sağlamak.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda solunum sisteminin gaz alışverişinin gerçekleştiği temel yapısı nedir?",
+    "explanation": "Akciğerlerdeki alveoller, ince duvarları ve kılcal damar ağı ile oksijen ve karbondioksit değişiminin (gaz alışverişi) gerçekleştiği temel yapılardır.",
+    "options": [
+      {
+        "text": "Alveol",
+        "isCorrect": true
+      },
+      {
+        "text": "Bronş",
+        "isCorrect": false
+      },
+      {
+        "text": "Bronşiyol",
+        "isCorrect": false
+      },
+      {
+        "text": "Trakea",
+        "isCorrect": false
+      },
+      {
+        "text": "Diyafram",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Soluk verme sırasında aşağıdaki olaylardan hangisi gerçekleşir?",
+    "explanation": "Soluk verme (ekspirasyon) pasif bir süreçtir. Diyafram kası gevşeyerek kubbeleşir, göğüs kafesinin hacmi azalır ve akciğerlerdeki hava dışarı atılır.",
+    "options": [
+      {
+        "text": "Diyafram kası gevşer.",
+        "isCorrect": true
+      },
+      {
+        "text": "Diyafram kası kasılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Göğüs kafesi hacmi artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akciğerlere hava dolar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaburgalar arası kaslar kasılır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kanda taşınan karbondioksitin çoğu hangi formda bulunur?",
+    "explanation": "Karbondioksitin büyük bir kısmı (%70 civarı), plazmada bikarbonat (HCO₃⁻) iyonları şeklinde taşınır. Daha az miktarları karbaminohemoglobin olarak veya plazmada çözünmüş halde taşınır.",
+    "options": [
+      {
+        "text": "Bikarbonat iyonu (HCO₃⁻) olarak",
+        "isCorrect": true
+      },
+      {
+        "text": "Oksijenle bağlanmış olarak",
+        "isCorrect": false
+      },
+      {
+        "text": "Serbest CO₂ gazı olarak",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbominohemoglobin olarak",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbonmonoksit olarak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Solunum sisteminde havanın ısıtılması, nemlendirilmesi ve temizlenmesi gibi işlevler öncelikle hangi yapıda gerçekleşir?",
+    "explanation": "Burun boşluğu, içindeki kıllar, mukus ve kılcal damar ağı sayesinde solunan havanın temizlenmesi, ısıtılması ve nemlendirilmesi işlevlerini üstlenir.",
+    "options": [
+      {
+        "text": "Burun",
+        "isCorrect": true
+      },
+      {
+        "text": "Yutak",
+        "isCorrect": false
+      },
+      {
+        "text": "Gırtlak",
+        "isCorrect": false
+      },
+      {
+        "text": "Trakea",
+        "isCorrect": false
+      },
+      {
+        "text": "Bronş",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Solunum Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijenli solunumun genel denklemi aşağıdakilerden hangisidir?",
+    "explanation": "Oksijenli solunumun temel kimyasal denklemi: C6H12O6 (Glikoz) + 6O2 → 6CO2 + 6H2O + Enerji (ATP) şeklindedir.",
+    "options": [
+      {
+        "text": "Glikoz + Oksijen → Karbondioksit + Su + Enerji",
+        "isCorrect": true
+      },
+      {
+        "text": "Glikoz → Laktik asit + Enerji",
+        "isCorrect": false
+      },
+      {
+        "text": "Glikoz → Etil alkol + Karbondioksit + Enerji",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbondioksit + Su → Glikoz + Oksijen",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen → Su + Enerji",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijenli solunumun sitoplazmada gerçekleşen evresi aşağıdakilerden hangisidir?",
+    "explanation": "Oksijenli solunumun ilk evresi olan glikoliz, sitoplazmada gerçekleşir ve oksijen gerektirmez. Krebs döngüsü ve ETS ise mitokondride gerçekleşir.",
+    "options": [
+      {
+        "text": "Glikoliz",
+        "isCorrect": true
+      },
+      {
+        "text": "Krebs döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektron Taşıma Sistemi (ETS)",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksidatif fosforilasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Beta oksidasyon",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijensiz solunum (fermantasyon) sonucunda net kaç ATP molekülü üretilir?",
+    "explanation": "Oksijensiz solunumda (fermantasyon) sadece glikoliz evresi gerçekleşir. Glikoliz sonucunda net 2 ATP molekülü elde edilir.",
+    "options": [
+      {
+        "text": "2 ATP",
+        "isCorrect": true
+      },
+      {
+        "text": "36 ATP",
+        "isCorrect": false
+      },
+      {
+        "text": "38 ATP",
+        "isCorrect": false
+      },
+      {
+        "text": "4 ATP",
+        "isCorrect": false
+      },
+      {
+        "text": "0 ATP",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bitkilerde fotosentez olayının gerçekleştiği organel aşağıdakilerden hangisidir?",
+    "explanation": "Fotosentez, kloroplast organelinde gerçekleşen bir süreçtir. Kloroplast, içinde fotosentez için gerekli olan klorofil pigmentini bulundurur ve güneş ışığını kullanarak organik besin sentezler.",
+    "options": [
+      {
+        "text": "Kloroplast",
+        "isCorrect": true
+      },
+      {
+        "text": "Mitokondri",
+        "isCorrect": false
+      },
+      {
+        "text": "Golgi aygıtı",
+        "isCorrect": false
+      },
+      {
+        "text": "Endoplazmik retikulum",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozom",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bitki Biyolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir çiçeğin dişi üreme organının kısımlarından biri değildir?",
+    "explanation": "Bir çiçeğin dişi üreme organına pistil (dişicik) denir. Pistil; yumurtalık (ovaryum), dişicik borusu (stilus) ve tepecik (stigma) olmak üzere üç kısımdan oluşur. Erkek organ (stamen) ise başçık ve sapçıktan oluşur ve dişi üreme organının bir parçası değildir.",
+    "options": [
+      {
+        "text": "Yumurtalık",
+        "isCorrect": false
+      },
+      {
+        "text": "Tepecik",
+        "isCorrect": false
+      },
+      {
+        "text": "Dişicik borusu",
+        "isCorrect": false
+      },
+      {
+        "text": "Başçık",
+        "isCorrect": true
+      },
+      {
+        "text": "Tohum taslağı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bitki Biyolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bitkilerde su ve mineral taşınmasından sorumlu olan doku aşağıdakilerden hangisidir?",
+    "explanation": "Bitkilerde ksilem (odun borusu) dokusu, köklerden alınan su ve minerallerin yapraklara doğru taşınmasından sorümludur. Bu taşıma genellikle terleme-basınç teorisi ile açıklanır ve çoğunlukla yukarı yöndedir.",
+    "options": [
+      {
+        "text": "Floem",
+        "isCorrect": false
+      },
+      {
+        "text": "Ksilem",
+        "isCorrect": true
+      },
+      {
+        "text": "Kambiyum",
+        "isCorrect": false
+      },
+      {
+        "text": "Parankima",
+        "isCorrect": false
+      },
+      {
+        "text": "Sklerankima",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bitki Biyolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  }
+]
