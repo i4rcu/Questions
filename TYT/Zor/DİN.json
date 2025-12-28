@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi, dinin insan hayatındaki temel işlevlerinden biri olarak 'anlam arayışına cevap verme' ile doğrudan ilişkilidir?",
+    "explanation": "Din, insanın varoluşsal sorularına (Nereden geldim? Niçin varım? Nereye gidiyorum?) cevap vererek onun anlam arayışını karşılar ve hayatına bir amaç yükler. Bu, dinin en temel işlevlerinden biridir.",
+    "options": [
+      {
+        "text": "Bireye toplumsal bir kimlik kazandırması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahlaki davranışlar için bir çerçeve sunması",
+        "isCorrect": false
+      },
+      {
+        "text": "Varoluşsal sorulara cevap vererek hayata amaç katması",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal dayanışma ve bütünleşmeyi sağlaması",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireysel stres ve kaygıları azaltması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Din (İnanç)",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İnanç psikolojisi açısından, bir kişinin inanç sistemini benimsemesinde aşağıdaki faktörlerden hangisinin rolü diğerlerine göre daha temel ve belirleyici kabul edilir?",
+    "explanation": "İnanç psikolojisinde, bireyin içsel bir ihtiyaç ve arayışla, kendi özgür iradesiyle gerçekleştirdiği kişisel tecrübe ve kabul süreci (içsel arayış ve kabul), dışsal faktörlerden (aile, çevre) daha temel ve kalıcı bir belirleyici olarak görülür.",
+    "options": [
+      {
+        "text": "Ailenin dini geleneği ve yetiştirme tarzı",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumun kültürel ve dini normları",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireyin içsel arayışı ve kişisel kabul süreci",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarihsel süreklilik ve gelenekler",
+        "isCorrect": false
+      },
+      {
+        "text": "Eğitim sistemi ve müfredat içeriği",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Din (İnanç)",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam ibadet felsefesi bağlamında, aşağıdaki ibadetlerden hangisinin 'gizli (hafi)' olarak ifa edilmesi esastır ve bu özelliğiyle diğerlerinden ayrılır?",
+    "explanation": "Zekât, malî bir ibadet olması ve fakirin rencide edilmemesi gibi hassasiyetler nedeniyle, mümkün olduğunca gizli verilmesi tavsiye edilir. Nafile oruç ve nafile namaz da gizli tutulabilir ancak gizlilik onlar için 'esas' değil 'müstehap'tır. Zekâtta ise gizlilik daha temel bir esastır.",
+    "options": [
+      {
+        "text": "Cuma Namazı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hac",
+        "isCorrect": false
+      },
+      {
+        "text": "Zekât",
+        "isCorrect": true
+      },
+      {
+        "text": "Bayram Namazı",
+        "isCorrect": false
+      },
+      {
+        "text": "Cenaze Namazı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İbadet",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Hz. Muhammed'in (s.a.v.) 'El-Emin' (Güvenilir) olarak anılması, onun peygamberlik öncesi hayatıyla ilgili aşağıdaki özelliklerinden hangisini en doğru şekilde vurgular?",
+    "explanation": "'El-Emin' sıfatı, Hz. Muhammed'in peygamberlikten önce de toplum içinde son derece güvenilir, sözüne sadık, dürüst ve ahlaklı bir kişi olduğunu gösterir. Bu, onun tebliğinin güvenilirliğinin temelini oluşturan bir ahlaki zemindir.",
+    "options": [
+      {
+        "text": "Ticari başarısını ve zenginliğini",
+        "isCorrect": false
+      },
+      {
+        "text": "Soyunun asaletini ve kabilesinin konumunu",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplum nezdindeki dürüstlüğünü ve ahlaki güvenilirliğini",
+        "isCorrect": true
+      },
+      {
+        "text": "Savaşlardaki cesaretini ve liderlik vasfını",
+        "isCorrect": false
+      },
+      {
+        "text": "İlim ve bilgeliğe olan düşkünlüğünü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hz. Muhammed'in Hayatı",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Kur'an-ı Kerim'de sıkça akletmeye (düşünmeye) vurgu yapılması, vahiy-akıl ilişkisi açısından aşağıdaki yorumlardan hangisini destekler?",
+    "explanation": "Vahiy, aklı dışlayan veya onun yerine geçen bir olgu değildir. Tam aksine, vahiy aklı yönlendirir, onun doğru bir şekilde işlemesi için ilkeler sunar ve onu hakikati bulma yolunda aktif olarak kullanmaya teşvik eder. Bu, vahiy ve aklın birbirini tamamlayıcı olduğu görüşünü destekler.",
+    "options": [
+      {
+        "text": "Vahiy ve akıl birbirine alternatif iki bilgi kaynağıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahiy, aklın ürünü olan bir metindir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akıl, vahyi anlamak için yetersiz ve tali bir araçtır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahiy, aklı yönlendiren ve onu kullanmaya çağıran bir rehberdir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Akıl, vahyin hükümlerini eleştirme ve değiştirme yetkisine sahiptir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vahiy ve Akıl",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam düşünce tarihinde ortaya çıkan 'Mürcie' mezhebinin temel doktrini aşağıdakilerden hangisidir?",
+    "explanation": "Mürcie mezhebi, büyük günah işleyen müminin iman ile günahı arasında hüküm vermeyi 'erteleyen' (irca eden) bir anlayışa sahiptir. Onlara göre, büyük günah işleyen kişiye 'kâfir' denmez; nihai hükmü Allah'a bırakılır, bu dünyada tövbe etme imkânı tanınır.",
+    "options": [
+      {
+        "text": "Kader konusunda cebri (fatalist) bir görüşü benimsemeleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Büyük günah işleyen kişinin hükmünü ahirete ertelemeleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Yönetime ilişkin siyasi görüşleri ön plana çıkarmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Akıl ile naklin çeliştiği yerde aklı temel almaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Ameli, imanın bir parçası saymaları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Düşüncesi ve Yorumu",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Laiklik ilkesi, Türkiye'de din ve vicdan özgürlüğünün güvencesi olarak nasıl anlaşılmaktadır?",
+    "explanation": "Türkiye'deki laiklik anlayışı, devletin tüm inançlara eşit mesafede durması, dini gruplar arasında ayrım yapmaması ve bireylerin din ve vicdan özgürlüğünü bu tarafsızlık çerçevesinde güvence altına alması şeklinde yorumlanır. Bu, 'özgürlükçü laiklik' olarak da adlandırılabilir.",
+    "options": [
+      {
+        "text": "Devletin resmi bir dini olması ve diğer inançları kontrol altında tutması",
+        "isCorrect": false
+      },
+      {
+        "text": "Devletin dini hayatı tamamen sınırlandırması ve bireysel alana hapsetmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Devletin tüm dinlere eşit mesafede durarak bireyin din özgürlüğünü güvence altına alması",
+        "isCorrect": true
+      },
+      {
+        "text": "Devletin dini otoriteyi tanıması ve onunla iş birliği içinde olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Dini simgelerin kamusal alanda serbestçe kullanılabilmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslamda Değerler, Sanat ve Laiklik",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Yahudilikte, Tanrı'nın Sina Dağı'nda Musa peygamber aracılığıyla İsrailoğulları'na verdiği ve onlarla yaptığına inanılan sözleşmenin yazılı hali aşağıdakilerden hangisidir?",
+    "explanation": "Yahudilik inancına göre, Tanrı (Yahve) Sina Dağı'nda Musa peygamber aracılığıyla İsrailoğulları'na On Emir de dahil olmak üzere bir dizi kural ve yasa vermiş, bu da Tanrı ile halk arasında bir antlaşma (Ahit) oluşturmuştur. Bu kuralların yazılı hali 'Tevrat'tır.",
+    "options": [
+      {
+        "text": "Talmud",
+        "isCorrect": false
+      },
+      {
+        "text": "Tevrat",
+        "isCorrect": true
+      },
+      {
+        "text": "Zebur",
+        "isCorrect": false
+      },
+      {
+        "text": "Mishna",
+        "isCorrect": false
+      },
+      {
+        "text": "İncil",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşayan Dinler",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
+  }
+]
