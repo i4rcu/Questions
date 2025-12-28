@@ -2137,5 +2137,2113 @@
     "section": "Say",
     "difficulty": "Kolay",
     "subject": "Matematik"
+  },
+  {
+    "text": "Bir işçi 6 saatte 12 parça mal üretmektedir. Aynı hızla çalışan bu işçi 15 saatte kaç parça mal üretir?",
+    "explanation": "Bu bir doğru orantı problemidir. İşçinin çalışma süresi ile ürettiği mal miktarı doğru orantılıdır. 6 saatte 12 parça üretiyorsa, saatte 12/6 = 2 parça üretir. 15 saatte ise 15 * 2 = 30 parça üretir.",
+    "options": [
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "28",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": true
+      },
+      {
+        "text": "32",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Oran Orantı",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "x/y = 3/5 ve y/z = 2/7 ise, x/z oranı kaçtır?",
+    "explanation": "x/y = 3/5 ve y/z = 2/7 verilmiş. x/z oranını bulmak için bu iki oranı çarparız: (x/y) * (y/z) = x/z. (3/5) * (2/7) = 6/35. Sonuç 6/35'tir.",
+    "options": [
+      {
+        "text": "6/35",
+        "isCorrect": true
+      },
+      {
+        "text": "15/14",
+        "isCorrect": false
+      },
+      {
+        "text": "21/10",
+        "isCorrect": false
+      },
+      {
+        "text": "10/21",
+        "isCorrect": false
+      },
+      {
+        "text": "14/15",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Oran Orantı",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "a ile b doğru, b ile c ters orantılıdır. a=6 iken b=4 ve c=10 ise, a=9 iken c kaç olur?",
+    "explanation": "a ile b doğru orantılı: a = k1 * b. b ile c ters orantılı: b * c = k2. a=6, b=4 için: 6 = k1 * 4 => k1 = 6/4 = 3/2. b=4, c=10 için: 4 * 10 = k2 => k2 = 40. a=9 iken, önce b'yi bulalım: a = k1 * b => 9 = (3/2) * b => b = 9 * (2/3) = 6. Sonra c'yi bulalım: b * c = k2 => 6 * c = 40 => c = 40/6 = 20/3.",
+    "options": [
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "20/3",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Oran Orantı",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir miktar para 3, 5 ve 7 sayıları ile ters orantılı olarak üç kişiye paylaştırılıyor. En az pay alan kişi 15 TL aldığına göre, toplam para kaç TL'dir?",
+    "explanation": "Ters orantılı paylaşımda, paylar k/3, k/5, k/7 olur. En az pay, paydası en büyük olan k/7'dir. k/7 = 15 TL ise k = 15 * 7 = 105 TL. Toplam para = k/3 + k/5 + k/7 = 105/3 + 105/5 + 105/7 = 35 + 21 + 15 = 71 TL.",
+    "options": [
+      {
+        "text": "105",
+        "isCorrect": false
+      },
+      {
+        "text": "85",
+        "isCorrect": false
+      },
+      {
+        "text": "75",
+        "isCorrect": false
+      },
+      {
+        "text": "71",
+        "isCorrect": true
+      },
+      {
+        "text": "63",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Oran Orantı",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "(1/3 + 1/4) / (1/5 - 1/6) işleminin sonucu kaçtır?",
+    "explanation": "Önce payı hesaplayalım: 1/3 + 1/4 = 4/12 + 3/12 = 7/12. Sonra paydayı hesaplayalım: 1/5 - 1/6 = 6/30 - 5/30 = 1/30. Bölme işlemi: (7/12) / (1/30) = (7/12) * (30/1) = (7 * 30) / (12 * 1) = 210 / 12 = 35/2.",
+    "options": [
+      {
+        "text": "35/2",
+        "isCorrect": true
+      },
+      {
+        "text": "12/7",
+        "isCorrect": false
+      },
+      {
+        "text": "7/2",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "30/7",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Rasyonel Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "0,12 + 0,023 işleminin sonucu kaçtır?",
+    "explanation": "Ondalık sayıları toplamak için virgülleri hizalarız. 0,120 + 0,023 = 0,143 eder.",
+    "options": [
+      {
+        "text": "0,143",
+        "isCorrect": true
+      },
+      {
+        "text": "0,135",
+        "isCorrect": false
+      },
+      {
+        "text": "0,145",
+        "isCorrect": false
+      },
+      {
+        "text": "0,155",
+        "isCorrect": false
+      },
+      {
+        "text": "0,133",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Rasyonel Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "1/(x-1) + 1/(x+1) ifadesinin sadeleştirilmiş biçimi aşağıdakilerden hangisidir?",
+    "explanation": "Paydaları eşitleriz: Ortak payda (x-1)(x+1) = x²-1'dir. 1/(x-1) = (x+1)/(x²-1) ve 1/(x+1) = (x-1)/(x²-1). Toplamları: (x+1 + x-1) / (x²-1) = (2x) / (x²-1).",
+    "options": [
+      {
+        "text": "2x/(x²-1)",
+        "isCorrect": true
+      },
+      {
+        "text": "2/(x²-1)",
+        "isCorrect": false
+      },
+      {
+        "text": "1/(x²-1)",
+        "isCorrect": false
+      },
+      {
+        "text": "2x/(x²+1)",
+        "isCorrect": false
+      },
+      {
+        "text": "x/(x²-1)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Rasyonel Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "a ve b birer pozitif tam sayı olmak üzere, 1/a + 1/b = 5/6 eşitliğini sağlayan a ve b değerleri için a+b toplamı kaçtır?",
+    "explanation": "1/a + 1/b = (a+b)/(a*b) = 5/6. a ve b pozitif tam sayı olduğundan, a+b=5k ve a*b=6k olacak şekilde bir k tam sayısı vardır. Deneme yanılma ile uygun değerleri bulabiliriz. a=2 ve b=3 için: 1/2 + 1/3 = 5/6. Bu durumda a+b=5'tir. a=3 ve b=2 için de aynı sonuç çıkar.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Rasyonel Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "y = x² - 4x + 3 parabolünün tepe noktasının koordinatları nedir?",
+    "explanation": "y = ax² + bx + c formundaki bir parabolün tepe noktasının x koordinatı r = -b/(2a) formülü ile bulunur. Burada a=1, b=-4'tür. r = -(-4)/(2*1) = 4/2 = 2. y koordinatını bulmak için x=2'yi denklemde yerine koyarız: y = (2)² - 4*(2) + 3 = 4 - 8 + 3 = -1. Tepe noktası T(2, -1)'dir.",
+    "options": [
+      {
+        "text": "(2, -1)",
+        "isCorrect": true
+      },
+      {
+        "text": "(-2, 15)",
+        "isCorrect": false
+      },
+      {
+        "text": "(1, 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "(3, 0)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, 3)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Parabol",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "y = -2x² + 8x - 6 parabolünün x eksenini kestiği noktaların apsisleri toplamı kaçtır?",
+    "explanation": "Parabolün x eksenini kestiği noktalar, denklemin kökleridir. -2x² + 8x - 6 = 0 denklemini çözelim. Denklemi -2'ye bölelim: x² - 4x + 3 = 0. Bu denklem çarpanlara ayrılabilir: (x-1)(x-3)=0. Kökler x=1 ve x=3'tür. Kökler toplamı 1 + 3 = 4'tür.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Parabol",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Tepe noktası T(1, 4) olan ve y eksenini (0, 3) noktasında kesen parabolün denklemi aşağıdakilerden hangisidir?",
+    "explanation": "Tepe noktası T(r, k) olan parabolün denklemi y = a(x - r)² + k şeklindedir. T(1,4) olduğuna göre, y = a(x - 1)² + 4. Parabol y eksenini (0,3) noktasında kesiyor, yani x=0 için y=3 olmalı. 3 = a(0 - 1)² + 4 => 3 = a(1) + 4 => 3 = a + 4 => a = -1. Denklem y = -1(x - 1)² + 4 = -(x² - 2x + 1) + 4 = -x² + 2x - 1 + 4 = -x² + 2x + 3.",
+    "options": [
+      {
+        "text": "y = -x² + 2x + 3",
+        "isCorrect": true
+      },
+      {
+        "text": "y = x² - 2x + 3",
+        "isCorrect": false
+      },
+      {
+        "text": "y = -x² - 2x + 3",
+        "isCorrect": false
+      },
+      {
+        "text": "y = x² + 2x + 3",
+        "isCorrect": false
+      },
+      {
+        "text": "y = -x² + 2x - 5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Parabol",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "y = x² - 6x + m parabolü x eksenine teğet olduğuna göre, m kaçtır?",
+    "explanation": "Bir parabolün x eksenine teğet olması için, denklemin diskriminantı Δ = 0 olmalıdır. y = x² - 6x + m denkleminde a=1, b=-6, c=m'dir. Δ = b² - 4ac = (-6)² - 4*1*m = 36 - 4m. Δ = 0 => 36 - 4m = 0 => 4m = 36 => m = 9.",
+    "options": [
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Parabol",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "lim(x -> 2) (x² - 4) / (x - 2) limitinin değeri kaçtır?",
+    "explanation": "Limit doğrudan yerine koyulduğunda 0/0 belirsizliği oluşur. İfade sadeleştirilebilir. Payı çarpanlarına ayıralım: x² - 4 = (x-2)(x+2). Böylece ( (x-2)(x+2) ) / (x-2) = x+2 (x≠2 için). Limit x->2 iken x+2 ifadesinin değeri 2+2=4'tür. Sonuç 4'tür.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "Tanımsız",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Limit",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "lim(x -> 3) (5x - 1) limitinin değeri kaçtır?",
+    "explanation": "Bu bir polinom fonksiyonunun limitidir ve süreklidir. Limit değeri, fonksiyonun o noktadaki değerine eşittir. x yerine 3 koyarak hesaplanır: 5*(3) - 1 = 15 - 1 = 14.",
+    "options": [
+      {
+        "text": "14",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Limit",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "lim(x -> ∞) ( (3x² + 5x - 2) / (2x² - x + 7) ) limitinin değeri kaçtır?",
+    "explanation": "Pay ve paydadaki en yüksek dereceli terimlerin katsayılarının oranı limiti verir. Paydaki en yüksek dereceli terim 3x², paydadaki en yüksek dereceli terim 2x²'dir. Limit değeri 3/2'dir.",
+    "options": [
+      {
+        "text": "3/2",
+        "isCorrect": true
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "5/7",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "∞",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Limit",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir sınıftaki öğrenciler sıralara ikişer ikişer oturduğunda 5 öğrenci ayakta kalıyor. Üçer üçer oturduklarında ise 4 sıra boş kalıyor. Buna göre sınıfta kaç öğrenci vardır?",
+    "explanation": "Sıra sayısına x diyelim. İkişer oturduklarında öğrenci sayısı 2x+5 olur. Üçer oturduklarında 3(x-4) = 3x-12 öğrenci oturur. Öğrenci sayısı eşit olduğundan 2x+5 = 3x-12 denklemi kurulur. Buradan x=17 bulunur. Öğrenci sayısı = 2*17+5 = 39'dur.",
+    "options": [
+      {
+        "text": "39",
+        "isCorrect": true
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      },
+      {
+        "text": "42",
+        "isCorrect": false
+      },
+      {
+        "text": "45",
+        "isCorrect": false
+      },
+      {
+        "text": "48",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Problemler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir sepetteki elmalar 4'erli gruplandığında 2 elma, 5'erli gruplandığında 3 elma artıyor. Sepette 50'den fazla elma olduğuna göre, sepette en az kaç elma vardır?",
+    "explanation": "Elma sayısı A olsun. A=4k+2 ve A=5m+3 formundadır. A+2 sayısı hem 4 hem de 5 ile tam bölünür, yani 20'nin katıdır. A+2=20n olur. A>50 için n=3 alırsak A+2=60, A=58 bulunur.",
+    "options": [
+      {
+        "text": "58",
+        "isCorrect": true
+      },
+      {
+        "text": "62",
+        "isCorrect": false
+      },
+      {
+        "text": "66",
+        "isCorrect": false
+      },
+      {
+        "text": "54",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Problemler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir araç saatte 80 km hızla giderse hedefe 1 saat geç, saatte 100 km hızla giderse 1 saat erken varıyor. Buna göre, araç ile hedef arasındaki mesafe kaç km'dir?",
+    "explanation": "Mesafeye x km, planlanan süreye t saat diyelim. x/80 = t+1 ve x/100 = t-1 denklemleri kurulur. İlk denklemden t = x/80 - 1, ikinci denklemde yerine yazarsak: x/100 = (x/80 - 1) - 1 => x/100 = x/80 - 2. Paydaları eşitlersek: (4x)/400 = (5x)/400 - 2 => 4x = 5x - 800 => x=800 km bulunur.",
+    "options": [
+      {
+        "text": "800",
+        "isCorrect": true
+      },
+      {
+        "text": "750",
+        "isCorrect": false
+      },
+      {
+        "text": "600",
+        "isCorrect": false
+      },
+      {
+        "text": "900",
+        "isCorrect": false
+      },
+      {
+        "text": "1000",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Problemler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir babanın yaşı, iki çocuğunun yaşları toplamının 3 katıdır. 5 yıl sonra babanın yaşı, çocukların yaşları toplamının 2 katı olacaktır. Babanın şimdiki yaşı kaçtır?",
+    "explanation": "Çocukların yaşları toplamına c, babanın yaşına b diyelim. b=3c. 5 yıl sonra babanın yaşı b+5, çocukların yaşları toplamı c+10 olur (her çocuk 5 yaş büyür, toplam 10 artar). b+5 = 2(c+10) denklemi kurulur. b=3c yerine yazarsak: 3c+5 = 2c+20 => c=15. b=3*15=45 bulunur.",
+    "options": [
+      {
+        "text": "45",
+        "isCorrect": true
+      },
+      {
+        "text": "40",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "55",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Problemler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "a ve b pozitif tam sayılardır. a.b = 24 ve a+b = 11 olduğuna göre, a-b farkı kaçtır?",
+    "explanation": "a ve b, çarpımları 24, toplamları 11 olan sayılardır. Bu koşulu sağlayan sayılar 3 ve 8'dir (3*8=24, 3+8=11). a-b farkı |3-8|=5'tir. Sıra önemli olmadığı için mutlak değer alınır.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Temel Kavramlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "x, y, z ardışık tek sayılardır ve x < y < z'dir. x+y+z = 45 olduğuna göre, z kaçtır?",
+    "explanation": "Ardışık tek sayılar arasındaki fark 2'dir. Ortanca sayı y olsun. O halde x = y-2, z = y+2 olur. Toplam: (y-2) + y + (y+2) = 3y = 45 => y=15. z = y+2 = 17 bulunur.",
+    "options": [
+      {
+        "text": "17",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "19",
+        "isCorrect": false
+      },
+      {
+        "text": "21",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Temel Kavramlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "a, b ve c birbirinden farklı rakamlardır. a+b+c = 18 olduğuna göre, bu koşulu sağlayan en büyük üç basamaklı abc sayısı kaçtır?",
+    "explanation": "Rakamlar toplamı 18 ve birbirinden farklı olacak. En büyük sayıyı elde etmek için yüzler basamağına mümkün olan en büyük rakamı (9), onlar basamağına ikinci en büyük rakamı (8), birler basamağına da kalan rakamı yazmalıyız. 9+8=17, toplamın 18 olması için birler basamağı 1 olmalı. Rakamlar farklı (9,8,1). Sayı 981'dir.",
+    "options": [
+      {
+        "text": "981",
+        "isCorrect": true
+      },
+      {
+        "text": "972",
+        "isCorrect": false
+      },
+      {
+        "text": "963",
+        "isCorrect": false
+      },
+      {
+        "text": "954",
+        "isCorrect": false
+      },
+      {
+        "text": "945",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Temel Kavramlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "m ve n tam sayıları için m.n = m+n+5 eşitliği sağlanmaktadır. Buna göre, m'nin alabileceği değerler toplamı kaçtır?",
+    "explanation": "m.n - m - n = 5. Her iki tarafa 1 ekleyip çarpanlara ayıralım: m.n - m - n + 1 = 6 => (m-1)(n-1)=6. 6'nın tam sayı bölenleri: (1,6), (2,3), (3,2), (6,1), (-1,-6), (-2,-3), (-3,-2), (-6,-1). m-1 bu değerleri alır. m değerleri: 2, 3, 4, 7, 0, -1, -2, -5. Toplam: 2+3+4+7+0-1-2-5 = 8.",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Temel Kavramlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "A={1, 2, 3} ve B={a, b} kümeleri veriliyor. A x B kartezyen çarpım kümesinin eleman sayısı kaçtır?",
+    "explanation": "A x B kartezyen çarpım kümesi, A'nın elemanları ile B'nin elemanlarının tüm sıralı ikililerinden oluşur. s(A)=3, s(B)=2 olduğundan, s(A x B) = s(A) * s(B) = 3 * 2 = 6'dır.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kartezyen Çarpım",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "A={x | 1 < x ≤ 4, x ∈ Z} ve B={y | -1 ≤ y < 2, y ∈ Z} kümeleri veriliyor. B x A kartezyen çarpım kümesinin eleman sayısı kaçtır?",
+    "explanation": "A kümesi: 1'den büyük, 4'e eşit veya küçük tam sayılar. A={2, 3, 4} -> s(A)=3. B kümesi: -1'e eşit veya büyük, 2'den küçük tam sayılar. B={-1, 0, 1} -> s(B)=3. B x A'nın eleman sayısı = s(B) * s(A) = 3 * 3 = 9.",
+    "options": [
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kartezyen Çarpım",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "A x B = {(1,2), (1,3), (2,2), (2,3)} olduğuna göre, A ∪ B kümesinin eleman sayısı kaçtır?",
+    "explanation": "Kartezyen çarpımdaki birinci bileşenler A kümesini, ikinci bileşenler B kümesini verir. A = {1, 2}, B = {2, 3}. A ∪ B = {1, 2, 3}. Eleman sayısı 3'tür.",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kartezyen Çarpım",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "A ve B kümeleri için s(A) = 5 ve s(B) = 4'tür. (A x B) ∩ (B x A) kümesinin eleman sayısı en fazla kaç olabilir?",
+    "explanation": "(A x B) ∩ (B x A) kümesi, hem A x B'de hem de B x A'da bulunan sıralı ikililerden oluşur. Bu ikililerin birinci ve ikinci bileşenleri hem A'da hem de B'de olmalıdır, yani A ∩ B kümesinin elemanlarından oluşur. Bir (x,y) ikilisinin bu kesişimde olması için x ∈ A∩B ve y ∈ A∩B olmalı. Eleman sayısı en fazla s(A∩B) * s(A∩B) = (s(A∩B))^2 olur. s(A∩B) en fazla min(s(A), s(B)) = min(5,4)=4 olabilir. Bu durumda maksimum eleman sayısı 4^2 = 16'dır.",
+    "options": [
+      {
+        "text": "16",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kartezyen Çarpım",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir dik üçgende dar açılardan birinin sinüsü 3/5 ise, bu açının kosinüsü kaçtır?",
+    "explanation": "Sinüs = Karşı dik kenar / Hipotenüs = 3/5. Pisagor teoremine göre komşu dik kenar = √(5^2 - 3^2) = √(25-9)=√16=4. Kosinüs = Komşu dik kenar / Hipotenüs = 4/5.",
+    "options": [
+      {
+        "text": "4/5",
+        "isCorrect": true
+      },
+      {
+        "text": "3/5",
+        "isCorrect": false
+      },
+      {
+        "text": "3/4",
+        "isCorrect": false
+      },
+      {
+        "text": "4/3",
+        "isCorrect": false
+      },
+      {
+        "text": "5/4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Trigonometri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "cos30° . tan60° . sin45° işleminin sonucu kaçtır?",
+    "explanation": "Trigonometrik değerleri yerine yazalım: cos30° = √3/2, tan60° = sin60°/cos60° = (√3/2)/(1/2)=√3, sin45°=√2/2. Çarpım: (√3/2) * (√3) * (√2/2) = (3/2) * (√2/2) = (3√2)/4.",
+    "options": [
+      {
+        "text": "3√2/4",
+        "isCorrect": true
+      },
+      {
+        "text": "√6/4",
+        "isCorrect": false
+      },
+      {
+        "text": "3/4",
+        "isCorrect": false
+      },
+      {
+        "text": "√2/2",
+        "isCorrect": false
+      },
+      {
+        "text": "√3/2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Trigonometri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "sin²x + cos²x = 1 özdeşliğine göre, 2sin²x + 2cos²x ifadesinin değeri kaçtır?",
+    "explanation": "sin²x + cos²x = 1 olduğundan, 2sin²x + 2cos²x = 2(sin²x + cos²x) = 2 * 1 = 2'dir.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "1/2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Trigonometri",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "f(x) = 3x + 5 fonksiyonu için f(2) değeri kaçtır?",
+    "explanation": "f(x) = 3x + 5 fonksiyonunda x yerine 2 yazarsak: f(2) = 3*2 + 5 = 6 + 5 = 11 olur.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fonksiyonlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "f: R -> R, f(x) = x² - 4 fonksiyonunun görüntü kümesi aşağıdakilerden hangisidir?",
+    "explanation": "f(x) = x² - 4 bir parabol denklemidir. x² ifadesi her zaman 0 veya pozitif değerler alır, bu nedenle en küçük değeri x=0 iken -4'tür. Görüntü kümesi [-4, ∞) aralığıdır.",
+    "options": [
+      {
+        "text": "(-∞, -4]",
+        "isCorrect": false
+      },
+      {
+        "text": "[-4, ∞)",
+        "isCorrect": true
+      },
+      {
+        "text": "(-∞, 4]",
+        "isCorrect": false
+      },
+      {
+        "text": "[0, ∞)",
+        "isCorrect": false
+      },
+      {
+        "text": "R",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fonksiyonlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "f(x) = 2x - 1 ve g(x) = x + 3 fonksiyonları veriliyor. Buna göre (fog)(1) değeri kaçtır?",
+    "explanation": "(fog)(x) = f(g(x)) şeklinde tanımlanır. Önce g(1) hesaplanır: g(1) = 1 + 3 = 4. Sonra f(4) hesaplanır: f(4) = 2*4 - 1 = 8 - 1 = 7.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fonksiyonlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Aşağıdaki bağıntılardan hangisi bir fonksiyon belirtmez?",
+    "explanation": "Bir bağıntının fonksiyon olabilmesi için tanım kümesindeki her elemanın değer kümesinde yalnızca bir görüntüsü olmalıdır. C şıkkında, tanım kümesindeki 1 elemanının hem 4 hem de 5 olmak üzere iki farklı görüntüsü vardır. Bu nedenle bu bağıntı bir fonksiyon değildir.",
+    "options": [
+      {
+        "text": "f = {(1,2), (2,3), (3,4)}",
+        "isCorrect": false
+      },
+      {
+        "text": "g = {(a,1), (b,1), (c,2)}",
+        "isCorrect": false
+      },
+      {
+        "text": "h = {(1,4), (1,5), (2,6)}",
+        "isCorrect": true
+      },
+      {
+        "text": "k = {(x,y) | y = 2x, x ∈ {1,2,3}}",
+        "isCorrect": false
+      },
+      {
+        "text": "m = {(p,q) | q = p+1, p ∈ {0,1,2}}",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fonksiyonlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "x² - 9 ifadesinin çarpanlara ayrılmış hali aşağıdakilerden hangisidir?",
+    "explanation": "x² - 9 ifadesi iki kare farkıdır. İki kare farkı formülü: a² - b² = (a - b)(a + b). Burada a=x ve b=3'tür. Sonuç: (x - 3)(x + 3).",
+    "options": [
+      {
+        "text": "(x-3)²",
+        "isCorrect": false
+      },
+      {
+        "text": "(x+3)²",
+        "isCorrect": false
+      },
+      {
+        "text": "(x-9)(x+1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x-3)(x+3)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x-1)(x+9)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çarpanlara Ayırma",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "x² + 5x + 6 ifadesinin çarpanlara ayrılmış hali aşağıdakilerden hangisidir?",
+    "explanation": "x² + 5x + 6 ifadesini çarpanlarına ayırmak için toplamları 5, çarpımları 6 olan iki sayı aranır. Bu sayılar 2 ve 3'tür (2+3=5, 2*3=6). Sonuç: (x + 2)(x + 3).",
+    "options": [
+      {
+        "text": "(x+1)(x+6)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x+2)(x+3)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x+2)(x+4)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x-2)(x-3)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x+5)(x+1)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çarpanlara Ayırma",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "4x² - 1 ifadesinin çarpanlara ayrılmış hali aşağıdakilerden hangisidir?",
+    "explanation": "4x² - 1 ifadesi iki kare farkıdır. (2x)² - (1)² şeklinde yazılabilir. İki kare farkı formülü uygulanırsa: (2x - 1)(2x + 1) elde edilir.",
+    "options": [
+      {
+        "text": "(2x-1)²",
+        "isCorrect": false
+      },
+      {
+        "text": "(4x-1)(x+1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2x-1)(2x+1)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x-1)(4x+1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(4x-1)(4x+1)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çarpanlara Ayırma",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "P(x) = 2x³ - x² + 4x - 5 polinomunun katsayılar toplamı kaçtır?",
+    "explanation": "Bir polinomun katsayılar toplamı, polinomda x yerine 1 yazılarak bulunur. P(1) = 2*(1)³ - (1)² + 4*(1) - 5 = 2 - 1 + 4 - 5 = 0.",
+    "options": [
+      {
+        "text": "-5",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Polinomlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "P(x) = 3x + 7 polinomu veriliyor. P(2) değeri kaçtır?",
+    "explanation": "P(x) polinomunda x yerine 2 yazılır: P(2) = 3*2 + 7 = 6 + 7 = 13.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": true
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Polinomlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "P(x) bir polinom olmak üzere, P(x+1) = x² + 3x + 1 veriliyor. Buna göre P(1) kaçtır?",
+    "explanation": "P(x+1) ifadesinde P(1)'i bulmak için x+1 = 1 olmalıdır, buradan x = 0 bulunur. x yerine 0 yazılırsa: P(0+1) = P(1) = (0)² + 3*0 + 1 = 1.",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Polinomlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "P(x) = 4x² - 2x + 1 polinomunun sabit terimi kaçtır?",
+    "explanation": "Bir polinomun sabit terimi, polinomda x yerine 0 yazılarak bulunur. P(0) = 4*(0)² - 2*(0) + 1 = 1.",
+    "options": [
+      {
+        "text": "-2",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Polinomlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "A = {1, 2, 3, 4} ve B = {3, 4, 5, 6} kümeleri veriliyor. A ∪ B (A birleşim B) kümesi aşağıdakilerden hangisidir?",
+    "explanation": "İki kümenin birleşimi, her iki kümedeki tüm elemanları içeren kümedir. Ortak elemanlar tekrar yazılmaz. A ∪ B = {1, 2, 3, 4, 5, 6}.",
+    "options": [
+      {
+        "text": "{1, 2, 3, 4}",
+        "isCorrect": false
+      },
+      {
+        "text": "{3, 4, 5, 6}",
+        "isCorrect": false
+      },
+      {
+        "text": "{3, 4}",
+        "isCorrect": false
+      },
+      {
+        "text": "{1, 2, 5, 6}",
+        "isCorrect": false
+      },
+      {
+        "text": "{1, 2, 3, 4, 5, 6}",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Kümeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "A = {a, b, c} ve B = {c, d, e} kümeleri veriliyor. A ∩ B (A kesişim B) kümesi aşağıdakilerden hangisidir?",
+    "explanation": "İki kümenin kesişimi, her iki kümede de bulunan ortak elemanların kümesidir. A ve B kümelerinin ortak elemanı 'c' dir. A ∩ B = {c}.",
+    "options": [
+      {
+        "text": "{a, b}",
+        "isCorrect": false
+      },
+      {
+        "text": "{c}",
+        "isCorrect": true
+      },
+      {
+        "text": "{d, e}",
+        "isCorrect": false
+      },
+      {
+        "text": "{a, b, c, d, e}",
+        "isCorrect": false
+      },
+      {
+        "text": "{}",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kümeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "A = {x | x < 5, x ∈ N} kümesi veriliyor. Buna göre A kümesinin eleman sayısı kaçtır? (N doğal sayılar kümesi, 0 dahil kabul edilecektir.)",
+    "explanation": "A kümesi, 5'ten küçük doğal sayılardan oluşur. Doğal sayılar 0'dan başlar. 5'ten küçük doğal sayılar: 0, 1, 2, 3, 4. Toplam 5 eleman vardır.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kümeler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "p: \"2 + 3 = 5\" ve q: \"Ankara Türkiye'nin başkentidir.\" önermeleri veriliyor. p ∧ q' önermesinin doğruluk değeri nedir?",
+    "explanation": "p önermesi doğrudur (D). q önermesi de doğrudur (D), bu durumda q' önermesi (q'nun değili) yanlıştır (Y). ∧ (ve) bağlacında her iki önerme de doğru olmalıdır ki sonuç doğru olsun. p doğru, q' yanlış olduğu için p ∧ q' önermesi yanlıştır (Y).",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "p",
+        "isCorrect": false
+      },
+      {
+        "text": "q",
+        "isCorrect": false
+      },
+      {
+        "text": "Belirsiz",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "(p' ∨ q) ∧ p önermesinin en sade hali aşağıdakilerden hangisidir?",
+    "explanation": "Önermeyi sadeleştirmek için dağılma özelliği ve de Morgan kurallarını kullanabiliriz. (p' ∨ q) ∧ p ifadesi, ∧ işleminin ∨ üzerine dağılma özelliği ile (p' ∧ p) ∨ (q ∧ p) şeklinde yazılır. p' ∧ p her zaman yanlıştır (0). q ∧ p ise p ∧ q'ya eşittir. Yanlış (0) ile ∨ (veya) bağlacı, diğer önermenin değerini verir. Sonuç olarak, (0) ∨ (p ∧ q) = p ∧ q olur.",
+    "options": [
+      {
+        "text": "p ∧ q",
+        "isCorrect": true
+      },
+      {
+        "text": "p ∨ q",
+        "isCorrect": false
+      },
+      {
+        "text": "p",
+        "isCorrect": false
+      },
+      {
+        "text": "q",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "p ⇒ q önermesi yanlış olduğuna göre, aşağıdaki önermelerden hangisi doğrudur?",
+    "explanation": "p ⇒ q (p ise q) koşullu önermesi sadece p doğru ve q yanlış iken yanlıştır. Bu durumda p'nin doğruluk değeri 1 (D), q'nun doğruluk değeri 0 (Y) olmalıdır. Şıkları incelersek, p ∧ q' (p ve q'nun değili) önermesi, p doğru ve q' doğru (q yanlış olduğu için) olduğundan doğru (1) olur.",
+    "options": [
+      {
+        "text": "p ∨ q",
+        "isCorrect": false
+      },
+      {
+        "text": "p' ∨ q",
+        "isCorrect": false
+      },
+      {
+        "text": "p ∧ q'",
+        "isCorrect": true
+      },
+      {
+        "text": "p' ∧ q",
+        "isCorrect": false
+      },
+      {
+        "text": "p ⇔ q",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "p(x): \"x² - 4 = 0\" açık önermesi veriliyor. p(x) önermesinin doğruluk kümesi aşağıdakilerden hangisidir?",
+    "explanation": "p(x) açık önermesinin doğruluk kümesi, önermeyi doğru yapan x değerlerinin kümesidir. x² - 4 = 0 denklemini çözersek, x² = 4, buradan x = 2 veya x = -2 elde ederiz. Dolayısıyla doğruluk kümesi {2, -2} olur.",
+    "options": [
+      {
+        "text": "{0}",
+        "isCorrect": false
+      },
+      {
+        "text": "{2}",
+        "isCorrect": false
+      },
+      {
+        "text": "{-2}",
+        "isCorrect": false
+      },
+      {
+        "text": "{2, -2}",
+        "isCorrect": true
+      },
+      {
+        "text": "{-4, 4}",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "f(x) = 3x² - 6x + 1 fonksiyonunun x=2 noktasındaki türevinin değeri kaçtır?",
+    "explanation": "f(x) = 3x² - 6x + 1 fonksiyonunun türevini alalım. f'(x) = 2*3x^(2-1) - 1*6x^(1-1) + 0 = 6x - 6. x=2 noktasındaki türev değeri için f'(2) = 6*2 - 6 = 12 - 6 = 6 olarak bulunur.",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türev",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "f(x) = (x³ + 4x) / x fonksiyonunun türevi aşağıdakilerden hangisidir? (x ≠ 0)",
+    "explanation": "Öncelikle fonksiyonu sadeleştirelim: f(x) = (x³ + 4x) / x = x³/x + 4x/x = x² + 4. Daha sonra türevini alalım: f'(x) = 2x + 0 = 2x.",
+    "options": [
+      {
+        "text": "3x² + 4",
+        "isCorrect": false
+      },
+      {
+        "text": "2x",
+        "isCorrect": true
+      },
+      {
+        "text": "2x + 4",
+        "isCorrect": false
+      },
+      {
+        "text": "x²",
+        "isCorrect": false
+      },
+      {
+        "text": "6x",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türev",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "f(x) = 5 fonksiyonunun türevi kaçtır?",
+    "explanation": "f(x) = 5 sabit fonksiyonudur. Sabit bir fonksiyonun türevi her zaman 0'dır.",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "x",
+        "isCorrect": false
+      },
+      {
+        "text": "5x",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türev",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "f(x) = √x fonksiyonunun x=4 noktasındaki türevi kaçtır?",
+    "explanation": "f(x) = √x = x^(1/2) şeklinde yazılabilir. Türev kuralına göre f'(x) = (1/2) * x^(1/2 - 1) = (1/2) * x^(-1/2) = 1/(2√x). x=4 noktasındaki türev değeri f'(4) = 1/(2*√4) = 1/(2*2) = 1/4 olur.",
+    "options": [
+      {
+        "text": "1/2",
+        "isCorrect": false
+      },
+      {
+        "text": "1/4",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türev",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "2⁵ * 2³ işleminin sonucu kaçtır?",
+    "explanation": "Tabanları aynı olan üslü sayılar çarpılırken üsler toplanır. 2⁵ * 2³ = 2^(5+3) = 2⁸ = 256.",
+    "options": [
+      {
+        "text": "2⁸",
+        "isCorrect": false
+      },
+      {
+        "text": "2¹⁵",
+        "isCorrect": false
+      },
+      {
+        "text": "8⁸",
+        "isCorrect": false
+      },
+      {
+        "text": "256",
+        "isCorrect": true
+      },
+      {
+        "text": "64",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üslü Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "(3²)⁴ işleminin sonucu kaçtır?",
+    "explanation": "Üssün üssü alınırken üsler çarpılır. (3²)⁴ = 3^(2*4) = 3⁸ = 6561.",
+    "options": [
+      {
+        "text": "3⁶",
+        "isCorrect": false
+      },
+      {
+        "text": "9⁴",
+        "isCorrect": false
+      },
+      {
+        "text": "3⁸",
+        "isCorrect": false
+      },
+      {
+        "text": "6561",
+        "isCorrect": true
+      },
+      {
+        "text": "81",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üslü Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "16⁰.⁵ ifadesinin değeri kaçtır?",
+    "explanation": "Üslü sayılarda üs 0.5, sayının kareköküne eşittir. 16⁰.⁵ = √16 = 4.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "isCorrect": false
+      },
+      {
+        "text": "256",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üslü Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "5⁻² ifadesinin değeri kaçtır?",
+    "explanation": "Negatif üs, tabanın çarpma işlemine göre tersinin pozitif üssü anlamına gelir. 5⁻² = 1 / 5² = 1 / 25.",
+    "options": [
+      {
+        "text": "-25",
+        "isCorrect": false
+      },
+      {
+        "text": "-10",
+        "isCorrect": false
+      },
+      {
+        "text": "1/10",
+        "isCorrect": false
+      },
+      {
+        "text": "1/25",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üslü Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "x - 5 > 2 eşitsizliğini sağlayan x değerleri için aşağıdakilerden hangisi doğrudur?",
+    "explanation": "x - 5 > 2 eşitsizliğini çözelim. Her iki tarafa 5 eklersek, x > 7 elde ederiz. Bu, x'in 7'den büyük tüm reel sayılar olduğu anlamına gelir.",
+    "options": [
+      {
+        "text": "x < 7",
+        "isCorrect": false
+      },
+      {
+        "text": "x > 7",
+        "isCorrect": true
+      },
+      {
+        "text": "x > -3",
+        "isCorrect": false
+      },
+      {
+        "text": "x < -3",
+        "isCorrect": false
+      },
+      {
+        "text": "x = 7",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Eşitsizlikler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "-3x ≤ 12 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?",
+    "explanation": "-3x ≤ 12 eşitsizliğini çözmek için her iki tarafı -3'e böleriz. Negatif bir sayıya böldüğümüz için eşitsizlik yön değiştirir. x ≥ 12 / (-3) olur, bu da x ≥ -4'e eşittir.",
+    "options": [
+      {
+        "text": "x ≤ -4",
+        "isCorrect": false
+      },
+      {
+        "text": "x ≥ -4",
+        "isCorrect": true
+      },
+      {
+        "text": "x ≤ 4",
+        "isCorrect": false
+      },
+      {
+        "text": "x ≥ 4",
+        "isCorrect": false
+      },
+      {
+        "text": "x < -4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Eşitsizlikler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "2 < x ≤ 5 eşitsizliğini sağlayan x tam sayı değerlerinin toplamı kaçtır?",
+    "explanation": "2 < x ≤ 5 eşitsizliği, x'in 2'den büyük ve 5'e eşit veya küçük olduğunu belirtir. Bu aralıktaki tam sayılar 3, 4 ve 5'tir. Bu sayıların toplamı 3 + 4 + 5 = 12'dir.",
+    "options": [
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Eşitsizlikler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "log₂8 + log₃9 işleminin sonucu kaçtır?",
+    "explanation": "log₂8, 2'nin kaçıncı kuvveti 8 eder sorusuna cevap verir. 2³=8 olduğu için log₂8=3'tür. log₃9, 3'ün kaçıncı kuvveti 9 eder sorusuna cevap verir. 3²=9 olduğu için log₃9=2'dir. Toplamları 3+2=5'tir.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Logaritma",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "log(2x) = 2 denklemini sağlayan x değeri kaçtır? (log, 10 tabanındadır)",
+    "explanation": "log(2x)=2 ise, logaritmanın tanımı gereği 10² = 2x olur. 100 = 2x, buradan x = 50 bulunur.",
+    "options": [
+      {
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "200",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Logaritma",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "log₅25 - log₅5 işleminin sonucu kaçtır?",
+    "explanation": "log₅25, 5'in kaçıncı kuvveti 25 eder sorusuna cevap verir. 5²=25 olduğu için log₅25=2'dir. log₅5, 5'in kaçıncı kuvveti 5 eder sorusuna cevap verir. 5¹=5 olduğu için log₅5=1'dir. Farkları 2-1=1'dir.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Logaritma",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "∫(3x²) dx belirsiz integralinin sonucu nedir?",
+    "explanation": "∫xⁿ dx = (xⁿ⁺¹)/(n+1) + c kuralına göre, ∫3x² dx = 3 * (x²⁺¹)/(2+1) + c = 3 * (x³/3) + c = x³ + c olarak bulunur.",
+    "options": [
+      {
+        "text": "x³ + c",
+        "isCorrect": true
+      },
+      {
+        "text": "3x³ + c",
+        "isCorrect": false
+      },
+      {
+        "text": "x² + c",
+        "isCorrect": false
+      },
+      {
+        "text": "(3/2)x² + c",
+        "isCorrect": false
+      },
+      {
+        "text": "6x + c",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İntegral",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "∫₁² (2x) dx belirli integralinin değeri kaçtır?",
+    "explanation": "Önce belirsiz integral alınır: ∫2x dx = x² + c. Sonra sınırlar yerine konur: Üst sınır (2) için: (2)² = 4. Alt sınır (1) için: (1)² = 1. Fark alınır: 4 - 1 = 3.",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İntegral",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "∫(4) dx belirsiz integralinin sonucu nedir?",
+    "explanation": "Bir sabit fonksiyonun integrali, sabit ile x'in çarpımına eşittir. ∫4 dx = 4x + c olur.",
+    "options": [
+      {
+        "text": "4x + c",
+        "isCorrect": true
+      },
+      {
+        "text": "4 + c",
+        "isCorrect": false
+      },
+      {
+        "text": "x + c",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "4x² + c",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İntegral",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "√48 ifadesinin sadeleştirilmiş hali aşağıdakilerden hangisidir?",
+    "explanation": "√48, √(16*3) şeklinde yazılabilir. √16=4 olduğu için, √48 = √(16*3) = 4√3 olur.",
+    "options": [
+      {
+        "text": "4√3",
+        "isCorrect": true
+      },
+      {
+        "text": "6√2",
+        "isCorrect": false
+      },
+      {
+        "text": "8√2",
+        "isCorrect": false
+      },
+      {
+        "text": "12√2",
+        "isCorrect": false
+      },
+      {
+        "text": "2√12",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Köklü Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "√12 * √3 işleminin sonucu kaçtır?",
+    "explanation": "Köklü sayılarda çarpma kuralına göre √a * √b = √(a*b)'dir. Bu durumda √12 * √3 = √(12*3) = √36 = 6 olur.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "√15",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      },
+      {
+        "text": "2√3",
+        "isCorrect": false
+      },
+      {
+        "text": "3√4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Köklü Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
+  },
+  {
+    "text": "√75 + √27 işleminin sonucu aşağıdakilerden hangisidir?",
+    "explanation": "İlk olarak köklü ifadeler sadeleştirilir. √75 = √(25*3) = 5√3. √27 = √(9*3) = 3√3. Toplamları: 5√3 + 3√3 = 8√3 olur.",
+    "options": [
+      {
+        "text": "8√3",
+        "isCorrect": true
+      },
+      {
+        "text": "10√3",
+        "isCorrect": false
+      },
+      {
+        "text": "√102",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "6√5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Köklü Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Matematik"
   }
 ]
