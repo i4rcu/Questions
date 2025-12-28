@@ -556,5 +556,563 @@
     "section": "Say",
     "difficulty": "Kolay",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda gözde, ışığın kırılmasından ve odaklanmasından sorumlu olan yapı aşağıdakilerden hangisidir?",
+    "explanation": "Gözde ışığın kırılması ve odaklanması işlemi, göz merceği (lens) tarafından gerçekleştirilir. Mercek, göz bebeğinin arkasında bulunur ve şeklini değiştirerek (akomodasyon) nesnelerin uzaklığına göre ışığı retina üzerine düşürecek şekilde odaklar.",
+    "options": [
+      {
+        "text": "Kornea",
+        "isCorrect": false
+      },
+      {
+        "text": "Göz Merceği",
+        "isCorrect": true
+      },
+      {
+        "text": "Retina",
+        "isCorrect": false
+      },
+      {
+        "text": "İris",
+        "isCorrect": false
+      },
+      {
+        "text": "Göz Bebeği",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kulağın denge ile ilgili kısmı aşağıdakilerden hangisidir?",
+    "explanation": "İç kulakta bulunan vestibüler sistem, denge duyusundan sorumludur. Bu sistem, yarım daire kanalları, utrikül ve sakkül'den oluşur ve başın pozisyonu, dönme ve doğrusal hareketleri algılar.",
+    "options": [
+      {
+        "text": "Kohlea",
+        "isCorrect": false
+      },
+      {
+        "text": "Östaki Borusu",
+        "isCorrect": false
+      },
+      {
+        "text": "Vestibüler Sistem",
+        "isCorrect": true
+      },
+      {
+        "text": "Kulak Zarı",
+        "isCorrect": false
+      },
+      {
+        "text": "Çekiç Kemik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Tat alma tomurcukları dil üzerinde hangi yapıların içinde bulunur?",
+    "explanation": "Dilin üzerindeki küçük çıkıntılar olan papilla'ların içinde tat alma tomurcukları bulunur. Bu tomurcuklar, tat hücrelerini barındırarak tatlı, tuzlu, ekşi, acı ve umami tatlarının algılanmasını sağlar.",
+    "options": [
+      {
+        "text": "Alveoller",
+        "isCorrect": false
+      },
+      {
+        "text": "Papillalar",
+        "isCorrect": true
+      },
+      {
+        "text": "Villüsler",
+        "isCorrect": false
+      },
+      {
+        "text": "Nefronlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Foliküller",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Deride, dokunma, basınç ve sıcaklık gibi duyuları algılayan özelleşmiş hücrelere ne ad verilir?",
+    "explanation": "Deride bulunan ve çeşitli duyuları (dokunma, basınç, ağrı, sıcak, soğuk) algılamakla görevli özelleşmiş sinir hücrelerine reseptör (almaç) denir.",
+    "options": [
+      {
+        "text": "Nöron",
+        "isCorrect": false
+      },
+      {
+        "text": "Reseptör",
+        "isCorrect": true
+      },
+      {
+        "text": "Effektör",
+        "isCorrect": false
+      },
+      {
+        "text": "Antikor",
+        "isCorrect": false
+      },
+      {
+        "text": "Hormon",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Duyu Organları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Belirli bir alanda yaşayan aynı türe ait bireylerin oluşturduğu topluluğa ne denir?",
+    "explanation": "Popülasyon, belirli bir zaman diliminde, belirli bir coğrafi sınır içinde yaşayan aynı türe ait bireyler topluluğudur. Örneğin, bir göldeki sazan balıkları bir popülasyon oluşturur.",
+    "options": [
+      {
+        "text": "Komünite",
+        "isCorrect": false
+      },
+      {
+        "text": "Popülasyon",
+        "isCorrect": true
+      },
+      {
+        "text": "Ekosistem",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyosfer",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir ekosistemde farklı popülasyonların oluşturduğu topluluğa ne ad verilir?",
+    "explanation": "Komünite, belirli bir alanda karşılıklı ilişkiler içinde bir arada yaşayan farklı türlere ait popülasyonların oluşturduğu biyolojik topluluktur. Örneğin, bir ormanda yaşayan ağaç, kuş, böcek, mantar popülasyonları bir komüniteyi oluşturur.",
+    "options": [
+      {
+        "text": "Popülasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Komünite",
+        "isCorrect": true
+      },
+      {
+        "text": "Biyom",
+        "isCorrect": false
+      },
+      {
+        "text": "Niş",
+        "isCorrect": false
+      },
+      {
+        "text": "Flora",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir popülasyonun birey sayısının zaman içinde gösterdiği değişime ne denir?",
+    "explanation": "Popülasyon dinamiği, bir popülasyondaki birey sayısının (popülasyon büyüklüğünün) doğum, ölüm, göç gibi faktörlere bağlı olarak zaman içinde nasıl değiştiğini inceleyen bilim dalıdır.",
+    "options": [
+      {
+        "text": "Popülasyon Yoğunluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Popülasyon Dağılımı",
+        "isCorrect": false
+      },
+      {
+        "text": "Popülasyon Dinamiği",
+        "isCorrect": true
+      },
+      {
+        "text": "Popülasyon Genetiği",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekolojik Ayak İzi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İki farklı türün bir arada yaşadığı ve her iki türün de bu birliktelikten fayda gördüğü ilişki türü aşağıdakilerden hangisidir?",
+    "explanation": "Mutualizm (ortak yaşam), iki farklı tür arasında karşılıklı fayda sağlayan bir simbiyotik ilişki türüdür. Örnek olarak, yengeçlerin kabuğunda yaşayan deniz anemonları (yengeç korunur, anemon artıklarla beslenir) verilebilir.",
+    "options": [
+      {
+        "text": "Mutualizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Kommensalizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Parazitizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Rekabet",
+        "isCorrect": false
+      },
+      {
+        "text": "Avcılık",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Komünite ve Popülasyon Ekolojisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Canlıların yaşamlarını sürdürdükleri, besin buldukları ve üredikleri doğal ortama ne ad verilir?",
+    "explanation": "Habitat, bir organizmanın veya popülasyonun doğal olarak yaşadığı ve bulunduğu yerdir. Bir türün 'adresi' olarak düşünülebilir. Örneğin, kutup ayısının habitatı Kuzey Kutup bölgesidir.",
+    "options": [
+      {
+        "text": "Niş",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyom",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat",
+        "isCorrect": true
+      },
+      {
+        "text": "Ekosistem",
+        "isCorrect": false
+      },
+      {
+        "text": "Komünite",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir türün ekosistem içinde gerçekleştirdiği işlev ve faaliyetlerin tamamına ne denir?",
+    "explanation": "Ekolojik niş, bir türün habitat içinde ne yaptığını, nasıl yaşadığını, neyle beslendiğini, diğer türlerle olan ilişkilerini kapsayan, onun rolünü ve işlevini tanımlayan kavramdır. Yani bir türün 'mesleği'dir.",
+    "options": [
+      {
+        "text": "Habitat",
+        "isCorrect": false
+      },
+      {
+        "text": "Baskın Tür",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekolojik Niş",
+        "isCorrect": true
+      },
+      {
+        "text": "Adaptasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Süksesyon",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Canlı ve cansız çevrenin karşılıklı etkileşim içinde olduğu birime ne ad verilir?",
+    "explanation": "Ekosistem, belirli bir alandaki canlı organizmalar (komünite) ile bu canlıların yaşadığı cansız fiziksel çevrenin (toprak, hava, su, iklim) karşılıklı etkileşim içinde olduğu bir işlevsel bütündür.",
+    "options": [
+      {
+        "text": "Popülasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Komünite",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekosistem",
+        "isCorrect": true
+      },
+      {
+        "text": "Biyosfer",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyom",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Dünya üzerinde canlıların yaşadığı tüm alanların oluşturduğu en büyük ekosisteme ne denir?",
+    "explanation": "Biyosfer, Dünya'nın canlıların yaşamını sürdürebildiği ve tüm ekosistemleri içeren kabuğudur. Atmosferin alt katmanları, hidrosfer (tüm su kütleleri) ve litosferin (kara tabakası) üst kısmını kapsar.",
+    "options": [
+      {
+        "text": "Ekosistem",
+        "isCorrect": false
+      },
+      {
+        "text": "Habitat",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyom",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyosfer",
+        "isCorrect": true
+      },
+      {
+        "text": "Komünite",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar ve Çevre",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Fotosentez sırasında ışık enerjisi hangi molekülde kimyasal enerjiye dönüştürülerek depolanır?",
+    "explanation": "Fotosentezde, ışık enerjisi kullanılarak karbondioksit ve su, glikoz ve oksijene dönüştürülür. Bu süreçte ışık enerjisi, glikoz molekülünün kimyasal bağlarında kimyasal enerji olarak depolanır.",
+    "options": [
+      {
+        "text": "ATP",
+        "isCorrect": false
+      },
+      {
+        "text": "Glikoz",
+        "isCorrect": true
+      },
+      {
+        "text": "Klorofil",
+        "isCorrect": false
+      },
+      {
+        "text": "Su",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hücre içinde enerji gerektiren biyokimyasal reaksiyonlar için doğrudan kullanılan enerji molekülü aşağıdakilerden hangisidir?",
+    "explanation": "ATP (Adenozin Trifosfat), hücrenin evrensel enerji para birimidir. Glikoz gibi besin moleküllerinden elde edilen enerji, ATP'nin yüksek enerjili fosfat bağlarında depolanır ve hücre faaliyetlerinde doğrudan bu molekül kullanılır.",
+    "options": [
+      {
+        "text": "Glikoz",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA",
+        "isCorrect": false
+      },
+      {
+        "text": "ATP",
+        "isCorrect": true
+      },
+      {
+        "text": "Enzim",
+        "isCorrect": false
+      },
+      {
+        "text": "Klorofil",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijenli solunumun genel denklemi aşağıdakilerden hangisidir?",
+    "explanation": "Oksijenli solunumun genel kimyasal denklemi: Glikoz + Oksijen → Karbondioksit + Su + ATP (Enerji)'dir. Bu reaksiyon, mitokondride gerçekleşir ve besinlerde depolanmış kimyasal enerjiyi ATP'ye dönüştürür.",
+    "options": [
+      {
+        "text": "Glikoz + Su → Karbondioksit + Oksijen + Enerji",
+        "isCorrect": false
+      },
+      {
+        "text": "Glikoz + Oksijen → Karbondioksit + Su + Enerji",
+        "isCorrect": true
+      },
+      {
+        "text": "Karbondioksit + Su → Glikoz + Oksijen + Enerji",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen + Su → Glikoz + Karbondioksit + Enerji",
+        "isCorrect": false
+      },
+      {
+        "text": "Glikoz → Laktik Asit + Enerji",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılık ve Enerji",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda dişi üreme sisteminde, yumurta ve östrojen hormonunun üretildiği temel yapı aşağıdakilerden hangisidir?",
+    "explanation": "İnsan dişi üreme sisteminde, yumurta hücresi (ovum) ve östrojen hormonunun üretiminden sorumlu olan temel organ yumurtalıklardır (ovaryum). Fallop tüpleri döllenme yeridir, uterus embriyonun geliştiği yerdir, vajina doğum kanalıdır, serviks ise rahim ağzıdır.",
+    "options": [
+      {
+        "text": "Yumurtalık",
+        "isCorrect": true
+      },
+      {
+        "text": "Fallop tüpü",
+        "isCorrect": false
+      },
+      {
+        "text": "Uterus",
+        "isCorrect": false
+      },
+      {
+        "text": "Vajina",
+        "isCorrect": false
+      },
+      {
+        "text": "Serviks",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Memeli hayvanlarda embriyonik gelişim sırasında, embriyonun uterusa tutunmasını sağlayan ve daha sonra plasentayı oluşturacak olan yapı aşağıdakilerden hangisidir?",
+    "explanation": "Memeli embriyosunda, embriyonun uterusa tutunmasını (implantasyon) sağlayan ve besin alışverişi için plasentanın oluşumuna katılan yapı trofoblast tabakasıdır. Amniyon kesesi embriyoyu korur, allantoyis atık depolama ve solunumla ilgilenir, blastosöl sıvı dolu boşluktur, gastrula ise embriyonik tabakaların oluştuğu evredir.",
+    "options": [
+      {
+        "text": "Trofoblast",
+        "isCorrect": true
+      },
+      {
+        "text": "Amniyon kesesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Allantoyis",
+        "isCorrect": false
+      },
+      {
+        "text": "Blastosöl",
+        "isCorrect": false
+      },
+      {
+        "text": "Gastrula",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "İnsanda sperm üretimi (spermatogenez) aşağıdaki organların hangisinde gerçekleşir?",
+    "explanation": "İnsan erkek üreme sisteminde, sperm hücrelerinin üretim süreci olan spermatogenez, testislerin seminifer tübül adı verilen yapılarında meydana gelir. Epididimis spermlerin olgunlaştığı ve depolandığı yerdir, prostat bezi seminal sıvı üretir, vas deferens spermleri ileten kanaldır, seminal kesecik ise fruktoz içeren bir sıvı salgılar.",
+    "options": [
+      {
+        "text": "Testis",
+        "isCorrect": true
+      },
+      {
+        "text": "Epididimis",
+        "isCorrect": false
+      },
+      {
+        "text": "Prostat bezi",
+        "isCorrect": false
+      },
+      {
+        "text": "Vas deferens",
+        "isCorrect": false
+      },
+      {
+        "text": "Seminal kesecik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üreme Sistemi ve Embriyonik Gelişim",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Kolay",
+    "subject": "Biyoloji"
   }
 ]
