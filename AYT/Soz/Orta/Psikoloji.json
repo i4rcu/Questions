@@ -1,0 +1,281 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi psikolojinin bir bilim olarak kabul edilmesinde en önemli etkenlerden biridir?",
+    "explanation": "Psikolojinin bir bilim olarak kabul edilmesi, davranış ve zihinsel süreçlerin sistematik ve objektif yöntemlerle (gözlem, deney gibi) incelenmesine dayanır. Bu, öznel içe bakış yönteminden uzaklaşılarak nesnel ve ölçülebilir veriler elde edilmesini sağlamıştır.",
+    "options": [
+      {
+        "text": "Sistematik gözlem ve deneysel yöntemler kullanması",
+        "isCorrect": true
+      },
+      {
+        "text": "Felsefi spekülasyonlara dayanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece insanın içsel deneyimlerine odaklanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal normları temel alması",
+        "isCorrect": false
+      },
+      {
+        "text": "Dini inançlarla açıklama yapması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Wilhelm Wundt'un 1879'da Leipzig'de ilk psikoloji laboratuvarını kurması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Wilhelm Wundt, psikolojiyi felsefeden ayırarak deneysel bir bilim haline getirmiştir. Leipzig'de kurduğu laboratuvar, kontrollü koşullar altında zihinsel süreçleri (özellikle duyum ve algıyı) incelemeyi amaçlamış ve yapısalcılık akımının temellerini atmıştır.",
+    "options": [
+      {
+        "text": "Psikolojiyi felsefeden ayıran deneysel bir temel oluşturmuştur.",
+        "isCorrect": true
+      },
+      {
+        "text": "İnsan davranışlarının sadece gözlemlenebilir yönleriyle ilgilenmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Psikanaliz kuramının gelişmesine öncülük etmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Davranışçılık akımının kurucusu olarak kabul edilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilişsel psikolojinin ilk çalışmalarını yapmıştır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "İşlevselcilik (Fonksiyonalizm) akımı, psikolojide aşağıdaki sorulardan hangisine odaklanmıştır?",
+    "explanation": "William James öncülüğündeki İşlevselcilik akımı, zihinsel süreçlerin yapısından çok, işlevine ve organizmanın çevreye uyum sağlamasındaki rolüne odaklanmıştır. 'Zihin ne işe yarar?' sorusu bu yaklaşımın temelini oluşturur.",
+    "options": [
+      {
+        "text": "Zihinsel süreçlerin organizma için işlevi nedir?",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilinçaltı süreçler davranışı nasıl etkiler?",
+        "isCorrect": false
+      },
+      {
+        "text": "Zihnin temel yapı taşları nelerdir?",
+        "isCorrect": false
+      },
+      {
+        "text": "Davranışlar gözlem ve ödül-ceza ile nasıl şekillenir?",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsanın kendini gerçekleştirme eğilimi nedir?",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Algıyı organize etme ilkelerinden 'şekil-zemin ilişkisi' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Gestalt psikologlarına göre algı, uyaranların basit bir toplamı değildir; bir bütün olarak organize edilir. Şekil-zemin ilişkisinde, algı alanımızdaki bir nesne veya bölge (şekil) geri kalan kısımdan (zemin) daha belirgin ve odak noktası halinde algılanır. Örneğin, bir sayfadaki yazılar şekil, beyaz arka plan ise zemin olarak algılanır.",
+    "options": [
+      {
+        "text": "Algılanan nesne (şekil), arka plandan (zemin) daha belirgin görünür.",
+        "isCorrect": true
+      },
+      {
+        "text": "Birbirine yakın nesneler farklı gruplar olarak algılanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzer özellikteki nesneler aynı grupta algılanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eksik veya kesintiye uğramış şekiller tamamlanarak algılanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Basit ve simetrik şekiller karmaşık olanlara göre daha kolay algılanır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Güdülenme (Motivasyon) sürecinde, 'içgüdü' kavramı için aşağıdaki tanımlardan hangisi en uygundur?",
+    "explanation": "İçgüdü, doğuştan gelen, türe özgü, öğrenilmemiş ve belirli bir amaca yönelik karmaşık davranış kalıplarıdır. Örümceğin ağ örmesi veya kuşların göç etmesi gibi davranışlar içgüdüsel kabul edilir.",
+    "options": [
+      {
+        "text": "Doğuştan gelen, türe özgü ve öğrenilmemiş davranış kalıplarıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Birincil fizyolojik ihtiyaçların giderilmesine yönelik dürtülerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dışarıdan gelen ödüllere verilen tepkilerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireyin kendini gerçekleştirme çabasının bir sonucudur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal çevrenin etkisiyle sonradan kazanılan eğilimlerdir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Klasik koşullanma sürecinde, koşulsuz uyaranın (KU) rolü aşağıdakilerden hangisidir?",
+    "explanation": "Klasik koşullanmada, koşulsuz uyaran (KU), organizmada doğal ve otomatik bir tepki (koşulsuz tepki - KT) oluşturan uyarandır. Örneğin, Pavlov'un deneyinde et (KU), köpekte salya salgılama (KT) tepkisini doğal olarak uyandırır. Koşullanma, nötr bir uyaranın (zil sesi) bu KU ile eşleştirilerek, zamanla tek başına benzer bir tepkiyi (koşullu tepki) uyandırmasıdır.",
+    "options": [
+      {
+        "text": "Organizmada doğal ve otomatik bir tepki oluşturur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Koşullanma sonucunda tepki verilen uyarandır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Öğrenilmiş bir davranışı pekiştirmek için kullanılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Davranışın sonucunu ifade eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nötr uyaranın ilk halidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Uzun süreli bellekte depolanan bilgiye ulaşmada yaşanan güçlük aşağıdaki bellek sorunlarından hangisi ile ifade edilir?",
+    "explanation": "Geri getirme (retrieval), uzun süreli bellekte depolanmış bilginin geri çağrılması sürecidir. Bu süreçte yaşanan ve bilginin hatırlanamadığı ancak daha sonra hatırlanabildiği geçici başarısızlık durumu 'uçta olma' (tip of the tongue) fenomeni olarak bilinir ve bir geri getirme hatasıdır. Unutmanın temel nedenlerinden biri olarak kabul edilir.",
+    "options": [
+      {
+        "text": "Geri getirme (Retrieval) hatası",
+        "isCorrect": true
+      },
+      {
+        "text": "Kodlama (Encoding) hatası",
+        "isCorrect": false
+      },
+      {
+        "text": "Bellek izinin sönmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ket vurma (Interference)",
+        "isCorrect": false
+      },
+      {
+        "text": "Organik nedenli unutma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Abraham Maslow'un İhtiyaçlar Hiyerarşisi'ne göre, 'kendini gerçekleştirme' ihtiyacı aşağıdaki özelliklerden hangisi ile en iyi şekilde tanımlanır?",
+    "explanation": "Maslow'a göre kendini gerçekleştirme, bireyin potansiyelini tam olarak kullanma, yaratıcı olma ve kendi olabilme sürecidir. Fizyolojik, güvenlik, ait olma-sevgi ve saygınlık gibi daha temel ihtiyaçlar karşılandıktan sonra ortaya çıkan en üst düzey ihtiyaçtır.",
+    "options": [
+      {
+        "text": "Bireyin potansiyelini tam olarak kullanma ve geliştirme arzusudur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sevilmek, bir gruba ait hissetmek ihtiyacıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fiziksel ve ekonomik güvenceye sahip olma isteğidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Başarılı olarak takdir edilme ve statü kazanma ihtiyacıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Açlık, susuzluk gibi temel fizyolojik dürtülerin giderilmesidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Ruh sağlığını olumsuz etkileyen stres kaynakları (stresörler) arasında 'günlük sıkıntılar' (hassasiyetler) için aşağıdaki tanımlardan hangisi doğrudur?",
+    "explanation": "Stresörler majör yaşam olayları (iş kaybı, evlilik) ve günlük sıkıntılar olarak ikiye ayrılabilir. Günlük sıkıntılar, trafik, ev-aile sorunları, zaman baskısı gibi günlük hayatta sıkça karşılaşılan, kronik ancak daha düşük şiddetteki olaylardır. Bu tür sürekli stresörler, ruh sağlığı üzerinde birikimli ve zararlı bir etkiye sahip olabilir.",
+    "options": [
+      {
+        "text": "Günlük hayatta sık karşılaşılan, kronik ve düşük şiddetli olaylardır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yaşamı temelden değiştiren büyük olaylardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kişinin fizyolojik dengesini bozan hastalıklardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece iş yerinde yaşanan çatışmalardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ani ve beklenmedik felaketlerdir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Psikoloji"
+  }
+]
