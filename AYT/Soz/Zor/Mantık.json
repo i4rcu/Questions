@@ -1,0 +1,281 @@
+[
+  {
+    "text": "Bir önermenin 'doğru' veya 'yanlış' olarak değerlendirilebilmesi için temel koşul nedir?",
+    "explanation": "Mantıkta bir ifadenin önerme olabilmesi ve dolayısıyla bir doğruluk değeri (doğru veya yanlış) taşıyabilmesi için, o ifadenin anlamlı ve yargı bildiriyor olması gerekir. Ancak en temel koşul, ifadenin bir yargı bildirmesidir; çünkü anlamlı olup yargı bildirmeyen ifadeler (örneğin soru cümleleri, ünlemler) önerme olamaz.",
+    "options": [
+      {
+        "text": "Anlamlı olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yargı bildirmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Kısa ve net olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Matematiksel bir sembolle ifade edilebilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Herkes tarafından kabul edilmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi mantık biliminin temel inceleme alanlarından biri DEĞİLDİR?",
+    "explanation": "Mantık, doğru düşünmenin kurallarını inceler. Doğru düşünme ise geçerli çıkarımlarla, yani öncüllerden zorunlu sonuç çıkarma yöntemleriyle ilgilidir. Önermelerin doğruluk değerleri ve önermeler arasındaki ilişkiler (çıkarım kuralları) mantığın temel konusudur. Bir argümanın 'ikna ediciliği' ise daha çok retorik veya psikolojinin alanına girer; mantık, argümanın geçerli olup olmadığıyla, yani biçimsel doğruluğuyla ilgilenir, psikolojik etkisiyle değil.",
+    "options": [
+      {
+        "text": "Önermelerin doğruluk değerleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Çıkarımların geçerliliği",
+        "isCorrect": false
+      },
+      {
+        "text": "Argümanların ikna edicilik düzeyi",
+        "isCorrect": true
+      },
+      {
+        "text": "Akıl yürütme biçimleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Kavramlar ve terimler arasındaki ilişkiler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Mantık"
+  },
+  {
+    "text": "\"Bu cümle yanlıştır.\" ifadesi mantıkta hangi temel problemi örnekler?",
+    "explanation": "\"Bu cümle yanlıştır.\" ifadesi, kendi kendine referans veren bir ifadedir ve bir paradoksa yol açar. Eğer cümle doğru kabul edilirse, söylediği şey gereği yanlış olmalıdır. Eğer yanlış kabul edilirse, o zaman söylediği şey doğru olmalıdır. Bu çelişki, önermenin ne doğru ne de yanlış bir değer alamayacağını gösterir. Bu durum, mantıkta 'kendi kendine referans' ve 'doğruluk değeri atanamama' problemlerini, diğer bir deyişle paradoks problemini örnekler.",
+    "options": [
+      {
+        "text": "Önerme ekleme problemi",
+        "isCorrect": false
+      },
+      {
+        "text": "Tümevarımın sınırlılığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Paradoks problemi",
+        "isCorrect": true
+      },
+      {
+        "text": "Dil ve gerçeklik uyumsuzluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Sembolik gösterim karmaşıklığı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Klasik mantıkta, bir kategorik önermenin 'döndürme' (conversion) işlemine tabi tutulabilmesi için aşağıdaki koşullardan hangisi gereklidir?",
+    "explanation": "Klasik mantıkta döndürme işlemi, önermenin özne ve yükleminin yer değiştirmesidir. Ancak bu işlem her önerme türü için geçerli değildir. A tipi (Tümel Olumlu) önermelerin sınırlı döndürmesi yapılabilirken, E tipi (Tümel Olumsuz) ve I tipi (Tikel Olumlu) önermelerin basit döndürmesi yapılır. O tipi (Tikel Olumsuz) önermelerin ise hiçbir şekilde döndürmesi yapılamaz. Bu nedenle, bir önermenin döndürülebilir olması için 'Tikel olumsuz (O tipi) olmaması' temel koşullardan biridir.",
+    "options": [
+      {
+        "text": "Önermenin tümel olumlu olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Önermenin yükleminin olumsuz olmaması",
+        "isCorrect": false
+      },
+      {
+        "text": "Önermenin tikel olumsuz (O tipi) olmaması",
+        "isCorrect": true
+      },
+      {
+        "text": "Önermenin öznesinin somut bir kavram olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Önermenin doğru bir önerme olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aristoteles'in Kare of Opposition (Karşıtlık Karesi)'nde, 'A' ve 'O' tipi önermeler arasındaki ilişki nedir?",
+    "explanation": "Aristoteles'in Karşıtlık Karesi'nde, A (Tümel Olumlu: Tüm S'ler P'dir) ve O (Tikel Olumsuz: Bazı S'ler P değildir) önermeleri arasındaki ilişki 'çelişki' (contradictory) ilişkisidir. Çelişki ilişkisinde, önermeler aynı anda hem doğru hem de yanlış olamaz. Biri doğruysa diğeri mutlaka yanlış, biri yanlışsa diğeri mutlaka doğrudur. Bu, karenin en temel ve kesin ilişkisidir.",
+    "options": [
+      {
+        "text": "Altıklık (Subalternation)",
+        "isCorrect": false
+      },
+      {
+        "text": "Üstüklük (Superalternation)",
+        "isCorrect": false
+      },
+      {
+        "text": "Karşıtlık (Contrariety)",
+        "isCorrect": false
+      },
+      {
+        "text": "Altkarşıtlık (Subcontrariety)",
+        "isCorrect": false
+      },
+      {
+        "text": "Çelişki (Contradiction)",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdaki cümlelerden hangisinde 'dil'in 'göndergesel' işlevi ağır basmaktadır?",
+    "explanation": "Dilin göndergesel (veya bilgisel) işlevi, nesnel gerçekliği, olguları olduğu gibi aktarmak, bilgi vermek amacıyla kullanılmasıdır. Bu işlevde dil, daha çok 'nesne dili' olarak iş görür ve iletinin içeriği ön plandadır. 'Su, deniz seviyesinde 100 derecede kaynar.' cümlesi, nesnel, test edilebilir bir bilgiyi, yani bir olguyu aktardığı için dilin göndergesel işlevine en iyi örnektir.",
+    "options": [
+      {
+        "text": "Lütfen pencereyi açar mısın?",
+        "isCorrect": false
+      },
+      {
+        "text": "Ah, ne güzel bir manzara!",
+        "isCorrect": false
+      },
+      {
+        "text": "Su, deniz seviyesinde 100 derecede kaynar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bu kitabı okumanı tavsiye ederim.",
+        "isCorrect": false
+      },
+      {
+        "text": "\"Kalem\" kelimesi beş harflidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Mantık açısından, 'üçgen' kavramı ile 'üç açılı şekil' kavramı arasındaki ilişki aşağıdakilerden hangisidir?",
+    "explanation": "Mantıkta, bir kavramın içlem'i, o kavramın taşıdığı temel, ayırt edici özelliklerdir. 'Üçgen' kavramının içleminde 'üç kenarlı olma', 'üç açılı olma', 'iç açıları toplamının 180 derece olması' gibi özellikler vardır. 'Üç açılı şekil' ifadesi ise, 'üçgen' kavramının tanımını oluşturan bu temel özelliklerden biridir. Dolayısıyla, 'üç açılı şekil' ifadesi, 'üçgen' kavramının içlemine işaret eder.",
+    "options": [
+      {
+        "text": "Eşanlamlılık ilişkisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaplam-içlem ilişkisi",
+        "isCorrect": false
+      },
+      {
+        "text": "İçleme işaret etme ilişkisi",
+        "isCorrect": true
+      },
+      {
+        "text": "Dil ve meta-dil ilişkisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Önerme ve yargı ilişkisi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Sembolik mantıkta, (p ∧ q) → r önermesinin olumsuzu (değili) aşağıdakilerden hangisine eşdeğerdir?",
+    "explanation": "Sembolik mantıkta, bir koşullu (conditional) önermenin olumsuzu, ön bileşenin olumsuzlanmamış hali ile art bileşenin olumsuzunun konjunksiyonuna eşdeğerdir. Yani, (p → q) önermesinin olumsuzu ¬(p → q) ≡ p ∧ ¬q'dur. Burada önermemiz (p ∧ q) → r'dir. Ön bileşen (p ∧ q), art bileşen ise r'dir. Buna göre olumsuzu: ¬((p ∧ q) → r) ≡ (p ∧ q) ∧ ¬r olur.",
+    "options": [
+      {
+        "text": "¬p ∨ ¬q ∨ ¬r",
+        "isCorrect": false
+      },
+      {
+        "text": "(p ∧ q) ∧ ¬r",
+        "isCorrect": true
+      },
+      {
+        "text": "¬(p ∧ q) → ¬r",
+        "isCorrect": false
+      },
+      {
+        "text": "p ∨ q → ¬r",
+        "isCorrect": false
+      },
+      {
+        "text": "¬p ∧ ¬q ∧ r",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sembolik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Mantık"
+  },
+  {
+    "text": "p ⇒ (q ∨ r) ve ¬q önermeleri verildiğinde, aşağıdaki çıkarımlardan hangisi geçerlidir?",
+    "explanation": "p ⇒ (q ∨ r) önermesi, 'p doğru ise, q veya r'den en az biri doğrudur' anlamına gelir. ¬q önermesi ise 'q yanlıştır' anlamındadır. Bu iki önerme doğru kabul edilirse, eğer p doğru ise (q ∨ r) doğru olmak zorundadır. Ancak q'nun yanlış olduğu verilmiştir. Bu durumda, (q ∨ r)'nin doğru olabilmesi için r'nin doğru olması gerekir. Bu çıkarım, ayrıca 'olumsuzlama kuralı' (modus tollens) ve 'ayrıntılı ayrılık kuralı' (disjunctive syllogism) ile de desteklenir. Bu nedenle, p'nin doğru olduğu durumda r'nin doğru olması zorunludur, yani p ⇒ r çıkarımı geçerlidir.",
+    "options": [
+      {
+        "text": "p ⇒ q",
+        "isCorrect": false
+      },
+      {
+        "text": "r ⇒ p",
+        "isCorrect": false
+      },
+      {
+        "text": "p ⇒ r",
+        "isCorrect": true
+      },
+      {
+        "text": "¬p ⇒ r",
+        "isCorrect": false
+      },
+      {
+        "text": "q ⇒ r",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sembolik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Mantık"
+  }
+]
