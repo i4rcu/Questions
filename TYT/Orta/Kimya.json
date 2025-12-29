@@ -328,5 +328,35 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Kimya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi kimya biliminin temel çalışma alanlarından biri DEĞİLDİR?",
+    "explanation": "Kimya bilimi, maddelerin yapısını, özelliklerini, birbirleriyle etkileşimlerini ve dönüşümlerini inceler. Maddenin hareket yasalarını ve enerji ile ilişkisini incelemek ise fiziğin temel çalışma alanıdır. Bu nedenle, maddenin hareket yasalarını incelemek kimya biliminin doğrudan bir çalışma alanı değildir.",
+    "options": [
+      {
+        "text": "Maddelerin yapısını incelemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddelerin özelliklerini incelemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddelerin birbirine dönüşümünü incelemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddelerin hareket yasalarını incelemek",
+        "isCorrect": true
+      },
+      {
+        "text": "Maddelerin etkileşimlerini incelemek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya Bilimi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Kimya"
   }
 ]
