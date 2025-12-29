@@ -148,5 +148,35 @@
     "exam": "TYT",
     "difficulty": "Zor",
     "subject": "Coğrafya"
+  },
+  {
+    "text": "İnsanın doğal çevre üzerindeki etkileri incelendiğinde, bazı faaliyetlerin geri dönüşü olmayan değişimlere yol açtığı görülmektedir. Aşağıdakilerden hangisi, bu tür kalıcı ve onarılması zor çevresel bozulmalara örnek olarak gösterilebilir?",
+    "explanation": "Büyük barajların inşası, su ekosistemlerini ve nehir ağı yapısını temelden değiştirir. Suyun akış rejimi, sediment taşınımı, balık göç yolları ve vadi ekolojisi kalıcı olarak bozulur. Bu değişiklikler geri döndürülmesi son derece zor, hatta imkansız etkiler yaratır. Diğer seçeneklerdeki faaliyetler ise uygun politikalar ve restorasyon çalışmaları ile kısmen veya tamamen telafi edilebilir niteliktedir.",
+    "options": [
+      {
+        "text": "Büyük barajların inşası",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarım alanlarında nöbetleşe ekim yapılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kentsel atık suların arıtılarak deşarj edilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Orman yangını sonrası ağaçlandırma çalışmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Rüzgar enerjisi santrallerinin kurulması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Doğa",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
   }
 ]
