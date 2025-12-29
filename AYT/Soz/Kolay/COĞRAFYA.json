@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Aşağıdaki şehirlerden hangisinin gelişmesinde ve büyümesinde liman fonksiyonu diğerlerine göre daha az etkili olmuştur?",
+    "explanation": "Şehirlerin gelişiminde liman fonksiyonu önemli bir etkendir. İstanbul, İzmir ve Mersin önemli liman şehirleridir. Ankara ise bir iç şehir olup, gelişiminde liman fonksiyonunun bir etkisi yoktur.",
+    "options": [
+      {
+        "text": "İstanbul",
+        "isCorrect": false
+      },
+      {
+        "text": "İzmir",
+        "isCorrect": false
+      },
+      {
+        "text": "Mersin",
+        "isCorrect": false
+      },
+      {
+        "text": "Ankara",
+        "isCorrect": true
+      },
+      {
+        "text": "Samsun",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir yerleşme yerinin dağınık olmasında etkili olan faktörlerden biri değildir?",
+    "explanation": "Dağınık yerleşme, su kaynaklarının bol ve dağınık olduğu, arazinin engebeli olduğu yerlerde görülür. Tarım alanlarının birbirinden uzak olması da dağınık yerleşmeyi teşvik eder. Ancak, ulaşımın kolay olması genellikle toplu yerleşmelerin gelişmesini sağlar, dağınık yerleşmeyi engelleyici bir faktördür.",
+    "options": [
+      {
+        "text": "Su kaynaklarının bol ve dağınık olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Arazinin engebeli olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarım alanlarının parçalı ve dağınık olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ulaşımın kolay olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Yağış miktarının fazla olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de aşağıdaki dağlardan hangisinin oluşumu diğerlerinden farklıdır?",
+    "explanation": "Türkiye'deki dağların oluşumu genellikle orojenez (dağ oluşumu) hareketlerine bağlıdır. Toroslar, Kuzey Anadolu Dağları ve Canik Dağları Alp-Himalaya orojenik kuşağına bağlı olarak oluşmuş kıvrım dağlarıdır. Karadağ ise volkanik bir dağdır, oluşumu diğerlerinden farklıdır.",
+    "options": [
+      {
+        "text": "Toros Dağları",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuzey Anadolu Dağları",
+        "isCorrect": false
+      },
+      {
+        "text": "Canik Dağları",
+        "isCorrect": false
+      },
+      {
+        "text": "Karadağ",
+        "isCorrect": true
+      },
+      {
+        "text": "Ilgaz Dağları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de seracılığın Akdeniz ve Ege kıyılarında yoğunlaşmasının temel nedeni aşağıdakilerden hangisidir?",
+    "explanation": "Seracılık, düşük kış sıcaklıklarından olumsuz etkilenen bir tarım faaliyetidir. Akdeniz ve Ege kıyılarında kış mevsiminin ılıman geçmesi, don olaylarının az görülmesi, seracılık için ideal bir ortam oluşturur. Bu nedenle seracılık bu bölgelerde yoğunlaşmıştır.",
+    "options": [
+      {
+        "text": "Yaz kuraklığının şiddetli olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kış mevsiminin ılıman geçmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Yağış rejiminin düzenli olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Toprak verimliliğinin yüksek olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Pazara yakın olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki bölgesel kalkınma projelerinden hangisi Doğu Anadolu Bölgesi'nde uygulanmaktadır?",
+    "explanation": "Türkiye'de farklı bölgelerin kalkınmasını sağlamak için çeşitli projeler yürütülmektedir. Doğu Anadolu Projesi (DAP), Doğu Anadolu Bölgesi'nde uygulanan bir bölgesel kalkınma projesidir.",
+    "options": [
+      {
+        "text": "Doğu Karadeniz Projesi (DOKAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Zonguldak-Bartın-Karabük Projesi (ZBK)",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Projesi (DAP)",
+        "isCorrect": true
+      },
+      {
+        "text": "Güneydoğu Anadolu Projesi (GAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeşilırmak Havzası Gelişim Projesi (YHGP)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi 'yüksek gelirli petrol ekonomileri' grubunda yer alır?",
+    "explanation": "Dünya Bankası sınıflandırmasında, kişi başına düşen milli geliri çok yüksek olan ve ekonomisi büyük ölçüde petrol ihracatına dayanan ülkeler 'yüksek gelirli petrol ekonomileri' grubunda değerlendirilir. Suudi Arabistan bu grubun tipik bir örneğidir.",
+    "options": [
+      {
+        "text": "Türkiye",
+        "isCorrect": false
+      },
+      {
+        "text": "Brezilya",
+        "isCorrect": false
+      },
+      {
+        "text": "Suudi Arabistan",
+        "isCorrect": true
+      },
+      {
+        "text": "Hindistan",
+        "isCorrect": false
+      },
+      {
+        "text": "Güney Kore",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisinin nüfus artış hızını düşürmek için uyguladığı 'tek çocuk politikası' uzun yıllar devam etmiştir?",
+    "explanation": "Çin, 1979'dan itibaren nüfus artış hızını kontrol altına almak için 'tek çocuk politikası'nı uygulamıştır. Bu politika 2016 yılına kadar devam etmiştir.",
+    "options": [
+      {
+        "text": "Hindistan",
+        "isCorrect": false
+      },
+      {
+        "text": "Japonya",
+        "isCorrect": false
+      },
+      {
+        "text": "Çin",
+        "isCorrect": true
+      },
+      {
+        "text": "Rusya",
+        "isCorrect": false
+      },
+      {
+        "text": "Endonezya",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ülkeler Coğrafyası",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir madde döngüsü değildir?",
+    "explanation": "Doğada su, karbon, azot, fosfor gibi maddeler sürekli bir döngü içindedir. Enerji akışı ise bir döngü değildir; enerji bir yönlü akış gösterir, besin zinciri yoluyla aktarılır ve sonunda ısı olarak uzaya yayılır.",
+    "options": [
+      {
+        "text": "Su döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbon döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Azot döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji akışı",
+        "isCorrect": true
+      },
+      {
+        "text": "Fosfor döngüsü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi hava kirliliğini azaltmaya yönelik bir önlemdir?",
+    "explanation": "Hava kirliliğini azaltmanın en etkili yollarından biri, fosil yakıt kullanımını azaltmaktır. Toplu taşıma araçlarının yaygınlaştırılması, özel araç kullanımını ve dolayısıyla egzoz emisyonlarını azaltarak hava kirliliğini önlemeye yardımcı olur.",
+    "options": [
+      {
+        "text": "Termik santrallerin sayısını artırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi tesislerini şehir merkezlerine kurmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplu taşıma araçlarını yaygınlaştırmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Orman alanlarını azaltmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Dizel araç kullanımını teşvik etmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çevre ve İnsan",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki doğal afetlerden hangisinin oluşumunda insan faaliyetlerinin rolü diğerlerine göre daha azdır?",
+    "explanation": "Doğal afetlerin bazılarının oluşumunda insan faaliyetleri tetikleyici veya şiddetlendirici rol oynar. Örneğin, heyelan, sel ve çığ afetlerinde yanlış arazi kullanımı etkili olabilir. Deprem ise tamamen doğal, yer kabuğundaki hareketler sonucu oluşur; insan faaliyetlerinin doğrudan bir etkisi yoktur.",
+    "options": [
+      {
+        "text": "Heyelan",
+        "isCorrect": false
+      },
+      {
+        "text": "Sel",
+        "isCorrect": false
+      },
+      {
+        "text": "Çığ",
+        "isCorrect": false
+      },
+      {
+        "text": "Deprem",
+        "isCorrect": true
+      },
+      {
+        "text": "Orman yangını",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğal Afetler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  }
+]
