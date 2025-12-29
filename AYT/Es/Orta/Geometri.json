@@ -1,0 +1,591 @@
+[
+  {
+    "text": "Yarıçap uzunluğu 10 cm olan bir dairenin merkezinden 6 cm uzaklıkta bulunan bir kirişin uzunluğu kaç cm'dir?",
+    "explanation": "Merkezden kirişe indirilen dikme kirişi iki eşit parçaya böler. Hipotenüsü yarıçap (10 cm), dik kenarlarından biri merkez-kiriş uzaklığı (6 cm) olan dik üçgende Pisagor teoremi uygulanır: (Kirişin yarısı)^2 = 10^2 - 6^2 = 100 - 36 = 64. Kirişin yarısı = 8 cm. Kirişin tamamı = 2 * 8 = 16 cm.",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Daire",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dairede, merkez açısının ölçüsü 60° olan bir yayın uzunluğu 4π cm ise, bu dairenin çevresi kaç cm'dir?",
+    "explanation": "Merkez açı 360° olduğunda yay uzunluğu çevreye (2πr) eşittir. 60°'lik açı için yay uzunluğu 4π cm ise, oran kurulur: 60/360 = 4π / (2πr). Bu denklem çözülür: 1/6 = 4π / (2πr) => 1/6 = 2/r => r = 12 cm. Çevre = 2πr = 2π*12 = 24π cm.",
+    "options": [
+      {
+        "text": "12π",
+        "isCorrect": false
+      },
+      {
+        "text": "18π",
+        "isCorrect": false
+      },
+      {
+        "text": "20π",
+        "isCorrect": false
+      },
+      {
+        "text": "24π",
+        "isCorrect": true
+      },
+      {
+        "text": "30π",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Daire",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Yarıçapı 5 cm olan bir dairenin içine çizilebilen en büyük alanlı dikdörtgenin alanı kaç cm²'dir?",
+    "explanation": "Daire içindeki en büyük alanlı dikdörtgen karedir. Karenin köşegeni dairenin çapına eşittir (10 cm). Karenin köşegen uzunluğu, bir kenarı a olmak üzere a√2'dir. a√2 = 10 => a = 10/√2 = 5√2 cm. Alan = a² = (5√2)² = 25 * 2 = 50 cm².",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": false
+      },
+      {
+        "text": "45",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "75",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Daire",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Merkezleri aynı olan iki daireden büyüğün yarıçapı 13 cm, küçüğün yarıçapı 5 cm'dir. Bu iki daire arasında kalan halkanın alanı kaç π cm²'dir?",
+    "explanation": "Halka (daire dilimi) alanı, büyük daire alanından küçük daire alanı çıkarılarak bulunur. Büyük daire alanı: π*(13)² = 169π. Küçük daire alanı: π*(5)² = 25π. Halka alanı = 169π - 25π = 144π cm².",
+    "options": [
+      {
+        "text": "120π",
+        "isCorrect": false
+      },
+      {
+        "text": "132π",
+        "isCorrect": false
+      },
+      {
+        "text": "144π",
+        "isCorrect": true
+      },
+      {
+        "text": "156π",
+        "isCorrect": false
+      },
+      {
+        "text": "168π",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Daire",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dik üçgenin dik kenar uzunlukları 6 cm ve 8 cm'dir. Bu üçgenin çevrel çemberinin yarıçapı kaç cm'dir?",
+    "explanation": "Dik üçgenin hipotenüsü, çevrel çemberin çapıdır. Hipotenüs, dik kenarlar 6 ve 8 cm olduğuna göre Pisagor teoreminden √(6² + 8²) = √(36+64) = √100 = 10 cm'dir. Yarıçap (r) = Hipotenüs / 2 = 10 / 2 = 5 cm.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir ikizkenar dik üçgenin dik kenarlarından birinin uzunluğu 7 cm olduğuna göre, hipotenüs uzunluğu kaç cm'dir?",
+    "explanation": "İkizkenar dik üçgende dik kenarlar eşittir. Hipotenüs, bir dik kenarın √2 katıdır. Dik kenar 7 cm ise, hipotenüs = 7√2 cm'dir.",
+    "options": [
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "7√2",
+        "isCorrect": true
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "7√3",
+        "isCorrect": false
+      },
+      {
+        "text": "14√2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir üçgenin kenar uzunlukları 5 cm, 12 cm ve 13 cm'dir. Bu üçgenin çeşidi nedir?",
+    "explanation": "Kenar uzunlukları verilen üçgende 5² + 12² = 25 + 144 = 169 ve 13² = 169 olduğu için 5² + 12² = 13² eşitliği sağlanır. Bu, Pisagor teoreminin tersi gereği üçgenin dik üçgen olduğunu gösterir.",
+    "options": [
+      {
+        "text": "Dar açılı üçgen",
+        "isCorrect": false
+      },
+      {
+        "text": "Dik üçgen",
+        "isCorrect": true
+      },
+      {
+        "text": "Geniş açılı üçgen",
+        "isCorrect": false
+      },
+      {
+        "text": "Eşkenar üçgen",
+        "isCorrect": false
+      },
+      {
+        "text": "İkizkenar üçgen",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "30°-60°-90° üçgeninde, 30°'nin karşısındaki kenar 4 cm ise, hipotenüsün uzunluğu kaç cm'dir?",
+    "explanation": "30°-60°-90° üçgeninde kenar oranları 1 : √3 : 2'dir. 1 sayısına karşılık gelen 30°'nin karşısındaki kenar 4 cm ise, 2 sayısına karşılık gelen hipotenüs 2 * 4 = 8 cm'dir.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "4√3",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [DE] // [BC]'dir. |AD| = 3 cm, |DB| = 6 cm ve |DE| = 5 cm ise, |BC| kaç cm'dir?",
+    "explanation": "[DE] // [BC] olduğu için ABC ve ADE üçgenleri benzerdir. Benzerlik oranı |AD| / |AB| = 3 / (3+6) = 3/9 = 1/3'tür. Karşılıklı kenarlar bu oranda olduğundan |DE| / |BC| = 1/3'tür. 5 / |BC| = 1/3 => |BC| = 15 cm.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Eşlik ve Benzerlik",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC ve DEF üçgenleri eş üçgenlerdir. |AB| = 10 cm, |BC| = 12 cm ve |AC| = 14 cm'dir. [AB] kenarı [DE] kenarına eşit olduğuna göre, |EF| kaç cm'dir?",
+    "explanation": "Üçgenler eş olduğu için karşılıklı kenar uzunlukları eşittir. [AB] kenarı [DE] kenarına eşitse, kenar eşlemesi A-D, B-E, C-F şeklindedir. Bu durumda |BC| kenarı |EF| kenarına eşittir. |BC| = 12 cm olduğundan |EF| = 12 cm'dir.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Eşlik ve Benzerlik",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AD] açıortaydır. |AB| = 8 cm, |AC| = 12 cm ve |BD| = 4 cm ise, |DC| kaç cm'dir?",
+    "explanation": "Açıortay teoremine göre, bir üçgende bir açıortay karşı kenarı komşu kenarların oranında böler. Yani, |BD| / |DC| = |AB| / |AC|'dir. 4 / |DC| = 8 / 12 => 4 / |DC| = 2 / 3. İçler dışlar çarpımı yapılır: 4 * 3 = |DC| * 2 => 12 = 2|DC| => |DC| = 6 cm.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Eşlik ve Benzerlik",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde G ağırlık merkezidir. [AD] kenarortay olmak üzere |AG| = 6 cm ise, |GD| ve |AD|'nin uzunlukları toplamı kaç cm'dir?",
+    "explanation": "Ağırlık merkezi kenarortayı 2:1 oranında böler. Uzun parça köşededir. |AG| = 6 cm ise, bu uzun parçadır ve toplam uzunluğun 2/3'üdür. |AG| = 2k = 6 => k=3. |GD| = k = 3 cm. |AD| = |AG| + |GD| = 6 + 3 = 9 cm. Soruda |GD| + |AD| = 3 + 9 = 12 cm.",
+    "options": [
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Eşlik ve Benzerlik",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dik üçgende dar açılardan birinin sinüs değeri 3/5'tir. Bu açının komşu dik kenarı 8 cm ise, hipotenüs uzunluğu kaç cm'dir?",
+    "explanation": "Sinüs = Karşı dik kenar / Hipotenüs. Sinüs=3/5 ise, karşı dik kenar 3k, hipotenüs 5k'dır. Komşu dik kenar Pisagor teoreminden √((5k)² - (3k)²) = √(25k² - 9k²) = √(16k²) = 4k'dır. Komşu dik kenar 8 cm verilmiş: 4k = 8 => k=2. Hipotenüs = 5k = 5*2 = 10 cm.",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Trigonometri",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "cos30° + sin60° toplamının değeri kaçtır?",
+    "explanation": "cos30° = √3/2 ve sin60° = √3/2'dir. Toplamları: √3/2 + √3/2 = (2√3)/2 = √3'tür.",
+    "options": [
+      {
+        "text": "1/2",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "√3",
+        "isCorrect": true
+      },
+      {
+        "text": "√3/2",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Trigonometri",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "tan45° + cot45° toplamının değeri kaçtır?",
+    "explanation": "tan45° = 1 ve cot45° = 1'dir. Toplamları: 1 + 1 = 2'dir.",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "√2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Trigonometri",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dikdörtgenin çevresi 40 cm ve kenar uzunlukları santimetre cinsinden tam sayılardır. Bu dikdörtgenin alanı en fazla kaç cm² olabilir?",
+    "explanation": "Dikdörtgenin çevresi 40 cm ise, kenar uzunlukları toplamı 20 cm'dir. Kenar uzunlukları a ve b tam sayıları olmak üzere a + b = 20 ve alan A = a * b'dir. Alanın maksimum değeri için kenar uzunlukları birbirine mümkün olduğunca yakın seçilmelidir. Tam sayı koşuluyla, a = 10 ve b = 10 seçilemez çünkü bu bir karedir ve soru dikdörtgen istemektedir. Bu nedenle, alanı maksimize eden tam sayı kenar çiftleri a = 9, b = 11 veya a = 11, b = 9'dur. Bu durumda alan 9 * 11 = 99 cm² olur. a = 8, b = 12 için alan 96 cm², a = 10, b = 10 için alan 100 cm²'dir ancak bu bir kare olduğu için geçerli değildir. Dolayısıyla dikdörtgen için en büyük alan 99 cm²'dir.",
+    "options": [
+      {
+        "text": "96",
+        "isCorrect": false
+      },
+      {
+        "text": "99",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "91",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dikdörtgen",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Köşegen uzunluğu 10 cm olan bir dikdörtgenin alanı 48 cm² ise, bu dikdörtgenin çevresi kaç cm'dir?",
+    "explanation": "Dikdörtgenin kenar uzunlukları a ve b olsun. Köşegen uzunluğu Pisagor teoremine göre √(a² + b²) = 10 cm'dir, yani a² + b² = 100. Alan a * b = 48 cm²'dir. (a + b)² = a² + 2ab + b² formülünü kullanabiliriz. Bilinen değerleri yerine koyarsak: (a + b)² = (a² + b²) + 2*(a*b) = 100 + 2*48 = 100 + 96 = 196. Buradan a + b = √196 = 14 cm bulunur (uzunluk pozitif olduğu için). Çevre ise 2*(a + b) = 2 * 14 = 28 cm'dir.",
+    "options": [
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "28",
+        "isCorrect": true
+      },
+      {
+        "text": "32",
+        "isCorrect": false
+      },
+      {
+        "text": "34",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dikdörtgen",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Çevresi 30 cm olan bir dikdörtgenin alanı 54 cm² olduğuna göre, köşegen uzunluğu kaç cm'dir?",
+    "explanation": "Dikdörtgenin kenar uzunlukları a ve b olsun. Çevre: 2a + 2b = 30, yani a + b = 15 cm. Alan: a * b = 54 cm². Köşegen uzunluğu d = √(a² + b²) formülüyle bulunur. (a + b)² = a² + 2ab + b² olduğundan, a² + b² = (a + b)² - 2ab şeklinde yazılabilir. Değerleri yerine koyalım: a² + b² = (15)² - 2*(54) = 225 - 108 = 117. Köşegen d = √(a² + b²) = √117 = √(9*13) = 3√13 cm olur.",
+    "options": [
+      {
+        "text": "5√13",
+        "isCorrect": false
+      },
+      {
+        "text": "4√13",
+        "isCorrect": false
+      },
+      {
+        "text": "3√13",
+        "isCorrect": true
+      },
+      {
+        "text": "6√13",
+        "isCorrect": false
+      },
+      {
+        "text": "2√13",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dikdörtgen",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dikdörtgenin kısa kenarı 6 cm, uzun kenarı 8 cm'dir. Bu dikdörtgenin köşegenine ait yüksekliği kaç cm'dir?",
+    "explanation": "Dikdörtgenin köşegenine ait yükseklik, köşegenin karşı köşeden indirilen dikmenin uzunluğudur. Dikdörtgenin alanı iki şekilde hesaplanabilir: 1) Kenarlarla: 6 cm * 8 cm = 48 cm². 2) Köşegen ve köşegene ait yükseklikle: (Köşegen * Köşegenin Yüksekliği) / 2. Öncelikle köşegeni bulalım. Köşegen d = √(6² + 8²) = √(36 + 64) = √100 = 10 cm. Alan formülünü kullanarak: (10 * h) / 2 = 48 -> 5h = 48 -> h = 48/5 = 9.6 cm.",
+    "options": [
+      {
+        "text": "4.8",
+        "isCorrect": true
+      },
+      {
+        "text": "5.2",
+        "isCorrect": false
+      },
+      {
+        "text": "6.0",
+        "isCorrect": false
+      },
+      {
+        "text": "7.2",
+        "isCorrect": false
+      },
+      {
+        "text": "8.0",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dikdörtgen",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  }
+]
