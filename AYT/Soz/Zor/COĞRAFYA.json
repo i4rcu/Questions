@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Aşağıdaki şehirlerden hangisinin gelişiminde ve fonksiyonel özelliklerinin şekillenmesinde liman faaliyetlerinin belirleyici rol oynaması, diğerlerine göre daha azdır?",
+    "explanation": "Şehirlerin fonksiyonel özellikleri, onların gelişim sürecinde öne çıkan ekonomik faaliyetlere göre şekillenir. İstanbul, tarihsel süreçte hem bir liman kenti hem de bir başkent olması, ardından sanayi, ticaret, finans ve kültür merkezi haline gelmesi nedeniyle çok fonksiyonludur. Liman, İstanbul'un gelişiminde önemli bir faktör olsa da, tek ve en belirleyici faktör değildir. Buna karşılık, Samsun, Zonguldak, İskenderun ve Mersin gibi şehirlerin kuruluş ve büyüme süreçlerinde liman faaliyetleri çok daha belirgin ve birincil bir rol oynamıştır.",
+    "options": [
+      {
+        "text": "Samsun",
+        "isCorrect": false
+      },
+      {
+        "text": "Zonguldak",
+        "isCorrect": false
+      },
+      {
+        "text": "İskenderun",
+        "isCorrect": false
+      },
+      {
+        "text": "Mersin",
+        "isCorrect": false
+      },
+      {
+        "text": "İstanbul",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Sanayi Devrimi sonrasında ortaya çıkan yeni ulaşım teknolojileri ve üretim modelleri, şehirlerin mekansal organizasyonunda köklü değişikliklere neden olmuştur. Aşağıdakilerden hangisi, bu dönüşüm sürecinde 'banliyöleşme' olgusunun temel nedenleri arasında gösterilemez?",
+    "explanation": "Banliyöleşme, sanayileşmiş kentlerde merkezdeki yoğun nüfus, yüksek kiralar, kirlilik ve gürültü gibi olumsuzluklardan kaçan orta ve üst gelir gruplarının, kent çevresinde daha düşük yoğunluklu yerleşim alanları oluşturmasıdır. Otomobil ve toplu taşıma sistemlerinin gelişmesi (A), merkezdeki konut stoğunun yetersiz ve pahalı olması (B), merkezdeki çevre kirliliği ve kalabalıktan uzaklaşma isteği (C) ve sanayi tesislerinin kent dışına kayması (D) banliyöleşmeyi tetikleyen temel faktörlerdir. Ancak, tarım arazilerinin korunmasına yönelik politikalar (E) banliyöleşmeyi engellemeye yönelik bir çaba olup, bu olgunun bir nedeni değildir; aksine, banliyöleşme genellikle tarım arazilerinin yerleşime açılmasıyla sonuçlanır.",
+    "options": [
+      {
+        "text": "Otomobil ve toplu taşıma sistemlerinin yaygınlaşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kent merkezlerinde konut arzının yetersiz ve maliyetli olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kent merkezindeki hava kirliliği ve gürültü gibi olumsuzluklar",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi tesislerinin kent dışına taşınmaya başlaması",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarım arazilerinin korunmasına yönelik kentsel politikalar",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'nin farklı bölgelerinde yer alan aşağıdaki göllerden hangisinin oluşum nedeni, diğer dördünden farklıdır?",
+    "explanation": "Göllerin oluşum nedenleri çeşitlidir. Bafa Gölü, Büyük Menderes Nehri'nin taşıdığı alüvyonlarla Ege Denizi'nden ayrılarak oluşmuş bir 'lagün' gölüdür. Diğer seçeneklerdeki göller ise tektonik hareketlerle oluşmuş 'tektonik' göllerdir. Van Gölü, Nemrut volkanik dağının püskürmesi sonucu oluşan bir set gölü olarak da sınıflandırılabilir ancak ana çanağının oluşumu tektonik kökenlidir. Soru, oluşum nedeni farklı olanı sorduğu için lagün gölü olan Bafa Gölü doğru cevaptır.",
+    "options": [
+      {
+        "text": "Burdur Gölü",
+        "isCorrect": false
+      },
+      {
+        "text": "Van Gölü",
+        "isCorrect": false
+      },
+      {
+        "text": "Bafa Gölü",
+        "isCorrect": true
+      },
+      {
+        "text": "Acıgöl",
+        "isCorrect": false
+      },
+      {
+        "text": "Hazar Gölü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de tarımsal üretim deseni üzerinde etkili olan faktörler düşünüldüğünde, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "explanation": "Tarımsal üretim deseni iklim, toprak, yeryüzü şekilleri, su kaynakları, pazar ve ulaşım gibi faktörlere bağlıdır. Karadeniz kıyılarında yağışın bol, bulutlanmanın fazla ve güneşlenme süresinin nispeten az olması, bu bölgede çay tarımı için ideal koşulları sağlar. Çay, bol su ve yıkanmış, asitli toprak ister; bu koşullar Karadeniz ikliminde doğal olarak bulunur. Bu nedenle, 'Karadeniz kıyılarında güneşlenme süresinin kısa olması → Çay tarımının yaygınlaşması' eşleştirmesi doğru bir ilişkiyi ifade eder ve yanlış değildir. Yanlış eşleştirme, 'İç Anadolu'da yaz kuraklığının belirgin olması → Şeker pancarı tarımının yaygınlaşması' şeklindedir. Şeker pancarı aslında yaz döneminde suya fazla ihtiyaç duyan bir bitkidir. İç Anadolu'da şeker pancarı tarımının yapılabilmesi, ancak sulama olanaklarının geliştirilmesiyle mümkün olmuştur. Doğal koşullar (yaz kuraklığı) şeker pancarı tarımını sınırlandırıcı bir faktördür, teşvik edici değildir.",
+    "options": [
+      {
+        "text": "Ege Bölgesi'nde kıyı ovalarının varlığı → Tütün ve zeytin tarımının yaygınlaşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Marmara Bölgesi'nde ulaşım ve pazar olanaklarının gelişmiş olması → Sebze-meyve tarımının yaygınlaşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneydoğu Anadolu Projesi (GAP) ile sulamanın artması → Pamuk tarımının yaygınlaşması",
+        "isCorrect": false
+      },
+      {
+        "text": "İç Anadolu'da yaz kuraklığının belirgin olması → Şeker pancarı tarımının yaygınlaşması",
+        "isCorrect": true
+      },
+      {
+        "text": "Karadeniz kıyılarında güneşlenme süresinin kısa olması → Çay tarımının yaygınlaşması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de uygulanan bölgesel kalkınma projeleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Türkiye'deki bölgesel kalkınma projeleri, geri kalmış bölgelerdeki sosyo-ekonomik farklılıkları azaltmayı hedefler. Doğu Anadolu Projesi (DAP), temel olarak Erzurum, Erzincan, Bayburt, Ağrı, Kars, Iğdır, Ardahan gibi illeri kapsar ve tarım, hayvancılık, turizm ve enerji alanlarında yatırımları öngörür. Zonguldak, Bartın, Karabük ise Batı Karadeniz'de yer alır ve bu bölge için ayrı bir kalkınma ajansı (ZOBKA) bulunmaktadır. Zonguldak, DAP'ın kapsam alanı içinde değildir. Bu nedenle DAP'ın Zonguldak'taki kömür havzalarının modernizasyonunu hedeflemesi yanlış bir ifadedir.",
+    "options": [
+      {
+        "text": "GAP, enerji üretimi ve sulamaya dayalı tarımı geliştirmeyi amaçlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "DOKAP, Doğu Karadeniz'deki ekolojik potansiyeli sürdürülebilir kalkınma ile birleştirmeyi hedefler.",
+        "isCorrect": false
+      },
+      {
+        "text": "KOP, İç Anadolu'nun tarım ve hayvancılık potansiyelini artırmaya yöneliktir.",
+        "isCorrect": false
+      },
+      {
+        "text": "DAP, Zonguldak'taki taşkömürü havzalarının modernizasyonunu ve bölge ekonomisini çeşitlendirmeyi hedefler.",
+        "isCorrect": true
+      },
+      {
+        "text": "YEKAP, Yenilenebilir enerji kaynaklarının kullanımını yaygınlaştırmayı amaçlayan bir projedir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Küresel ticaret rotalarının değişiminde teknolojik gelişmeler ve jeopolitik olaylar kritik rol oynamıştır. Aşağıdaki ifadelerden hangisi, Süveyş Kanalı'nın açılmasının küresel ticaret ve bölgeler üzerindeki etkileriyle ilgili olarak yanlıştır?",
+    "explanation": "Süveyş Kanalı 1869'da açılarak Avrupa ile Asya arasındaki deniz yolculuğunu önemli ölçüde kısaltmış, Ümit Burnu rotasını gereksiz kılmıştır. Bu durum, Akdeniz limanlarının (örneğin İskenderun, Mersin, Pire) önemini yeniden artırmıştır. Ancak, kanalın açılması Güney Afrika'daki Ümit Burnu çevresindeki liman kentlerinin (örneğin Cape Town) stratejik önemini ve ticari canlılığını azaltmıştır. Bu limanlar, artık uzun ve zahmetli Ümit Burnu rotasının ana uğrak noktaları olma özelliklerini kaybetmiştir. Dolayısıyla, 'Güney Afrika'daki liman kentlerinin ticari önemini artırmıştır' ifadesi, kanalın açılmasının neden olduğu etkinin tam tersi bir durumu ifade etmektedir ve bu nedenle yanlıştır.",
+    "options": [
+      {
+        "text": "Avrupa ile Asya arasındaki deniz yolunu yaklaşık 8.000 km kısaltmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akdeniz'in jeopolitik ve ticari önemini yeniden artırmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Güney Afrika'daki liman kentlerinin ticari önemini artırmıştır.",
+        "isCorrect": true
+      },
+      {
+        "text": "İngiltere'nin Hindistan ve Uzak Doğu'daki sömürgeleriyle bağlantısını güçlendirmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortadoğu bölgesinin stratejik değerine yeni bir boyut kazandırmıştır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi, hem yüksek teknoloji ürünleri ihracatında dünya sıralamasında üst basamaklarda yer alması hem de nüfusunun büyük bir bölümünün tarım sektöründe çalışıyor olması açısından diğer dördünden belirgin şekilde ayrılır?",
+    "explanation": "Güney Kore, Japonya ve Almanya gibi ülkeler gelişmiş sanayi ve yüksek teknoloji ekonomilerine sahiptir ve tarımda çalışan nüfus oranları oldukça düşüktür (%5'in altında). Brezilya ise önemli bir tarım ülkesidir ve tarımda çalışan nüfus oranı nispeten yüksektir, ancak yüksek teknoloji ihracatındaki payı Güney Kore veya Japonya kadar dominant değildir. Hindistan ise, uzay teknolojisi, yazılım ve ilaç sektörlerinde ilerleme kaydetmiş olsa da, ekonomisi halen büyük ölçüde tarım ve hizmet sektörlerine dayanır. Nüfusunun yaklaşık %40'ından fazlası tarım sektöründe çalışmaktadır. Bu özelliği ile hem yüksek teknoloji alanında varlık gösteren hem de nüfusunun önemli bir kısmı tarımla uğraşan bir ülke konumundadır ve bu açıdan diğer gelişmiş ülkelerden ayrılır.",
+    "options": [
+      {
+        "text": "Japonya",
+        "isCorrect": false
+      },
+      {
+        "text": "Almanya",
+        "isCorrect": false
+      },
+      {
+        "text": "Güney Kore",
+        "isCorrect": false
+      },
+      {
+        "text": "Hindistan",
+        "isCorrect": true
+      },
+      {
+        "text": "Brezilya",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ülkeler Coğrafyası",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Ekosistemdeki madde döngüleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Madde döngüleri, elementlerin canlı ve cansız çevre arasındaki dolaşımını ifade eder. Karbon döngüsünde, atmosferdeki karbondioksit (CO2) fotosentez yoluyla bitkiler tarafından organik maddeye dönüştürülür. Organik karbon, besin zinciri yoluyla canlılar arasında aktarılır. Solunum, ayrışma ve yanma süreçleriyle CO2 tekrar atmosfere döner. Bu nedenle, 'Karbon döngüsünde karbon, sadece fotosentez ve solunum yoluyla canlılar ve atmosfer arasında el değiştirir' ifadesi yanlıştır. Çünkü karbonun döngüsüne ayrışma, yanma (orman yangınları, fosil yakıt kullanımı), okyanus-atmosfer gaz alışverişi ve karbonatlı kayaçların oluşumu/çözünmesi gibi birçok başka süreç de dahildir. İfade, döngüyü aşırı basitleştirerek ve diğer kritik süreçleri görmezden gelerek hatalıdır.",
+    "options": [
+      {
+        "text": "Azot döngüsünde, atmosferdeki serbest azotu bağlayabilen canlılar sadece bazı bakteri türleridir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fosfor döngüsü, gaz fazını içermez ve fosforun ana kaynağı kayaçlardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Su döngüsü, enerjisini büyük ölçüde Güneş'ten alır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbon döngüsünde karbon, sadece fotosentez ve solunum yoluyla canlılar ve atmosfer arasında el değiştirir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Oksijen döngüsü, fotosentez ve solunum süreçleriyle yakından ilişkilidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "'Sürdürülebilir kalkınma' anlayışı çerçevesinde, aşağıdaki uygulamalardan hangisi 'çevre-insan' ilişkisini dengeli bir şekilde yönetmeye örnek olarak gösterilemez?",
+    "explanation": "Sürdürülebilir kalkınma, gelecek nesillerin ihtiyaçlarını karşılama yeteneğinden ödün vermeden, bugünün ihtiyaçlarını karşılamayı hedefler. Bu bağlamda, doğal kaynakların korunması, yenilenebilir enerji kullanımı, geri dönüşüm ve atık yönetimi, ekolojik tarım gibi uygulamalar dengeli bir çevre-insan ilişkisini yansıtır. Ancak, 'yoğun talep gören bir kıyı bölgesinde, konut ve turizm ihtiyacını karşılamak amacıyla geniş bir alandaki kumul ve orman ekosisteminin tamamen dönüştürülerek yeni bir tatil sitesi inşa edilmesi', kısa vadeli ekonomik kazanç uğruna geri dönüşü zor olan ekolojik tahribata yol açar. Kumul ve orman ekosistemlerinin yok edilmesi, biyolojik çeşitlilik kaybı, erozyon ve mikroiklim değişikliği gibi ciddi sorunlar doğurur. Bu uygulama, sürdürülebilirlik ilkeleriyle bağdaşmaz ve çevre-insan dengesini bozan bir örnek teşkil eder.",
+    "options": [
+      {
+        "text": "Tarım arazilerinde monokültür yerine nöbetleşe ekim yapılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Atık suların arıtılarak tarımda kullanılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yoğun talep gören bir kıyı bölgesinde, konut ve turizm ihtiyacını karşılamak amacıyla geniş bir alandaki kumul ve orman ekosisteminin tamamen dönüştürülerek yeni bir tatil sitesi inşa edilmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Enerji ihtiyacının bir kısmının rüzgar ve güneş santrallerinden karşılanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kentsel ulaşımda toplu taşımanın ve bisiklet kullanımının teşvik edilmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çevre ve İnsan",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de görülen doğal afetler düşünüldüğünde, aşağıdaki bölge-afet eşleştirmelerinden hangisi, afetin oluşumunu hazırlayan temel coğrafi faktör açısından diğerlerinden farklıdır?",
+    "explanation": "Doğal afetlerin dağılışı, bölgelerin coğrafi özellikleriyle doğrudan ilişkilidir. Karadeniz Bölgesi'nde heyelan, Marmara Bölgesi'nde deprem, Doğu Anadolu Bölgesi'nde çığ ve Ege Bölgesi'nde orman yangını eşleştirmelerinin hepsi, afetin oluşumundaki temel faktör olarak 'fiziki coğrafya' özelliklerini (eğim, fay hatları, yüksek ve engebeli arazi, kurak-yaz iklimi ve bitki örtüsü) işaret eder. Ancak, 'İç Anadolu Bölgesi - Kuraklık' eşleştirmesi farklıdır. Kuraklığın temel nedeni, bölgenin yarı kurak iklim özellikleri göstermesidir; yani 'iklim' faktörü diğerlerinden ayrılarak ön plana çıkar. Diğer afetlerde jeomorfolojik yapı daha belirleyici iken, kuraklıkta klimatolojik koşullar birincil nedendir.",
+    "options": [
+      {
+        "text": "Karadeniz Bölgesi - Heyelan",
+        "isCorrect": false
+      },
+      {
+        "text": "Marmara Bölgesi - Deprem",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Bölgesi - Çığ",
+        "isCorrect": false
+      },
+      {
+        "text": "Ege Bölgesi - Orman Yangını",
+        "isCorrect": false
+      },
+      {
+        "text": "İç Anadolu Bölgesi - Kuraklık",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Doğal Afetler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  }
+]
