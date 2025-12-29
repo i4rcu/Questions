@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi, bir yerleşim yerinin fonksiyonel özelliklerinden biri değildir?",
+    "explanation": "Bir yerleşim yerinin fonksiyonel özellikleri, o yerleşimin ekonomik ve sosyal hayattaki rolünü ifade eder. Tarım, sanayi, ticaret, turizm, idari ve askeri fonksiyonlar bu kapsamdadır. Yerleşim yerinin kurulduğu arazinin eğimi ise bir beşeri sistem özelliği değil, fiziki coğrafya (yer şekilleri) özelliğidir.",
+    "options": [
+      {
+        "text": "Tarım şehri olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi şehri olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Turizm şehri olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kurulduğu arazinin eğimi",
+        "isCorrect": true
+      },
+      {
+        "text": "İdari merkez olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Sanayi Devrimi sonrasında şehirleşme hızı artmış ve nüfusun büyük bölümü sanayi şehirlerinde toplanmaya başlamıştır. Bu durum aşağıdaki beşeri süreçlerden hangisine en iyi örnektir?",
+    "explanation": "Sanayi Devrimi, üretim biçimini ve ekonomik yapıyı kökten değiştirerek insanların yaşam alanlarını ve geçim kaynaklarını etkilemiştir. Kırsal alanlardan sanayi şehirlerine doğru yaşanan büyük nüfus hareketi, beşeri coğrafyada 'nüfusun yeniden dağılışı' sürecinin en belirgin örneklerinden biridir.",
+    "options": [
+      {
+        "text": "Doğal nüfus artışı",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel yayılma",
+        "isCorrect": false
+      },
+      {
+        "text": "Nüfusun yeniden dağılışı",
+        "isCorrect": true
+      },
+      {
+        "text": "Ekonomik gelişme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kentsel dönüşüm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'nin aşağıda verilen özelliklerinden hangisi, onun jeopolitik ve jeostratejik önemini artıran temel faktörlerden biri değildir?",
+    "explanation": "Türkiye'nin jeopolitik önemi; Asya ve Avrupa kıtalarını birleştiren boğazlara sahip olması, Ortadoğu, Kafkaslar ve Balkanlar gibi önemli bölgelere komşu olması ve enerji nakil hatları üzerinde bulunması gibi faktörlerle açıklanır. Tarım ürünü çeşitliliği ise ülkenin ekonomik potansiyeli ile ilgili olup, doğrudan jeopolitik önemini belirleyen bir unsur değildir.",
+    "options": [
+      {
+        "text": "Asya ve Avrupa kıtaları arasında köprü konumunda olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Önemli enerji nakil hatlarına ev sahipliği yapması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortadoğu ve Kafkasya gibi hassas bölgelere komşu olması",
+        "isCorrect": false
+      },
+      {
+        "text": "İstanbul ve Çanakkale boğazlarına sahip olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarım ürünleri çeşitliliğinin fazla olması",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de modern tarım yöntemlerinin ve sulamanın yaygınlaşması aşağıdaki sonuçlardan hangisine yol açmamıştır?",
+    "explanation": "Modern tarım yöntemleri ve sulamanın yaygınlaşması, birim alandan alınan verimi ve ürün çeşitliliğini artırmış, nadas uygulamasının azalmasını sağlamıştır. Ancak, bu durum aşırı su tüketimine ve yer altı sularının azalması gibi olumsuz çevresel etkilere de neden olabilmektedir. Tarımda çalışan nüfus oranı ise, makineleşme arttıkça genel olarak azalma eğilimindedir, artmaz.",
+    "options": [
+      {
+        "text": "Birim alandan alınan verimin artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Nadas uygulamasının azalması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ürün çeşitliliğinin artması",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarımda çalışan nüfus oranının artması",
+        "isCorrect": true
+      },
+      {
+        "text": "Yer altı sularının azalması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki bölgesel kalkınma projelerinden hangisi, temel amacı ve etki alanı bakımından diğerlerinden farklıdır?",
+    "explanation": "Doğu Anadolu Projesi (DAP), Güneydoğu Anadolu Projesi (GAP), Doğu Karadeniz Projesi (DOKAP) ve Zonguldak-Bartın-Karabük Projesi (ZBK) belirli bir coğrafi bölgeyi kalkındırmayı hedefleyen projelerdir. Kıyı Ege Turizm Projesi ise, turizm sektörünü geliştirmeye yönelik olup, etki alanı bir bölgenin tamamından ziyade Ege kıyılarıyla sınırlıdır ve sektörel bir kalkınma projesi karakteri taşır.",
+    "options": [
+      {
+        "text": "Güneydoğu Anadolu Projesi (GAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Projesi (DAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Karadeniz Projesi (DOKAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Zonguldak-Bartın-Karabük Projesi (ZBK)",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıyı Ege Turizm Projesi",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Küresel ticaret ağlarında, hammaddesi ağır ve ucuz, üretim sürecinde ağırlık kaybeden ürünlerin genellikle hammadde kaynağına yakın yerlerde işlendiği görülür. Aşağıdaki sanayi kollarından hangisi bu duruma örnek olarak gösterilebilir?",
+    "explanation": "Demir-çelik sanayisi, hammaddesi (demir cevheri ve kömür) ağır ve taşıma maliyeti yüksek olan bir sektördür. Üretim sürecinde hammadde ağırlık kaybeder. Bu nedenle, bu tür sanayiler genellikle hammadde kaynaklarına (maden yataklarına ve enerji kaynaklarına) yakın bölgelerde kurulur. Bu, 'ağırlık kaybı' prensibine tipik bir örnektir.",
+    "options": [
+      {
+        "text": "Biyoteknoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Demir-çelik sanayisi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bilişim teknolojileri",
+        "isCorrect": false
+      },
+      {
+        "text": "Tekstil sanayisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Otomotiv sanayisi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi, hem gelişmiş sanayisi hem de geniş tarım alanları ve zengin doğal kaynakları ile 'çekirdek bölge' olarak nitelendirilen ülkeler arasında yer alır?",
+    "explanation": "Dünya ekonomik sisteminde 'çekirdek bölge' ülkeleri, sanayi, teknoloji, finans ve hizmet sektörlerinde son derece gelişmiş, küresel ekonomiye yön veren ülkelerdir. Almanya, bu özelliklere sahip olan ve aynı zamanda verimli tarım alanları ile de bilinen bir Avrupa ülkesidir. Diğer seçeneklerdeki ülkeler ise daha çok 'çevre' veya 'yarı-çevre' ülkeler kategorisinde değerlendirilir.",
+    "options": [
+      {
+        "text": "Brezilya",
+        "isCorrect": false
+      },
+      {
+        "text": "Hindistan",
+        "isCorrect": false
+      },
+      {
+        "text": "Almanya",
+        "isCorrect": true
+      },
+      {
+        "text": "Türkiye",
+        "isCorrect": false
+      },
+      {
+        "text": "Mısır",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ülkeler Coğrafyası",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Su döngüsü (hidrolojik döngü) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Su döngüsü, suyun okyanuslardan, karalardan ve canlılardan buharlaşarak atmosfere yükselmesi, soğuyarak yoğunlaşması (yağış) ve tekrar yeryüzüne dönmesi sürecidir. Fotosentez, su döngüsünün bir parçası değildir. Fotosentez, bitkilerin su, karbondioksit ve güneş ışığını kullanarak besin (glikoz) ürettiği biyokimyasal bir süreçtir ve daha çok karbon döngüsü ile ilişkilidir.",
+    "options": [
+      {
+        "text": "Okyanuslar buharlaşmanın ana kaynağıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitkilerden terleme yoluyla su atmosfere karışır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Su döngüsü, Güneş enerjisi ile hareket kazanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fotosentez, su döngüsünün temel aşamalarından biridir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yağış, suyun atmosferden yeryüzüne dönüş şeklidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Sürdürülebilir kalkınma anlayışı aşağıdaki uygulamalardan hangisi ile doğrudan çelişir?",
+    "explanation": "Sürdürülebilir kalkınma, bugünün ihtiyaçlarını, gelecek nesillerin kendi ihtiyaçlarını karşılama olanağından ödün vermeden karşılamayı hedefler. Ormanlık alanların tarım arazisine dönüştürülmesi, kısa vadeli bir kazanç için uzun vadede geri dönüşü zor olan ekolojik tahribata (erozyon, biyolojik çeşitlilik kaybı, iklim dengesinin bozulması) yol açar ve sürdürülebilir kalkınma ilkeleriyle doğrudan çelişir.",
+    "options": [
+      {
+        "text": "Atık suların arıtılarak tarımda kullanılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji verimliliği yüksek binaların inşa edilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ormanlık alanların tarım arazisine dönüştürülmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Rüzgar ve güneş enerjisi santrallerinin kurulması",
+        "isCorrect": false
+      },
+      {
+        "text": "Geri dönüşüm sistemlerinin yaygınlaştırılması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çevre ve İnsan",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de heyelan olayının en fazla görüldüğü bölge aşağıdakilerden hangisidir?",
+    "explanation": "Heyelan (toprak kayması) için en önemli faktörler; eğim, yağış miktarı ve arazi yapısıdır (özellikle killi tabakalar). Karadeniz Bölgesi, dik yamaçlı arazisi, bol yağış alması ve killi toprak yapısı nedeniyle Türkiye'de heyelan olaylarının en sık ve yaygın olarak görüldüğü bölgedir.",
+    "options": [
+      {
+        "text": "İç Anadolu Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Karadeniz Bölgesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Güneydoğu Anadolu Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ege Bölgesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Akdeniz Bölgesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğal Afetler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  }
+]
