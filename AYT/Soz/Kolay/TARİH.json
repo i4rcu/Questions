@@ -1,0 +1,405 @@
+[
+  {
+    "text": "Tarih biliminde, bir olayın meydana geldiği yeri ve zamanı belirleyerek olayın gerçekliğini kanıtlama yöntemi aşağıdakilerden hangisidir?",
+    "explanation": "Tarih biliminde, bir olayın gerçekliğini kanıtlamak için kullanılan temel yöntemlerden biri 'Kronoloji' ve 'Coğrafya'dır. Soruda bahsedilen, olayın yerini ve zamanını belirleme işlemi, bu iki bilim dalının tarihe sağladığı katkıyı ifade eder. Doğru cevap, bu kavramları en iyi şekilde tanımlayan 'Yer ve Zaman' ifadesidir.",
+    "options": [
+      {
+        "text": "Yer ve Zaman",
+        "isCorrect": true
+      },
+      {
+        "text": "Tenkit",
+        "isCorrect": false
+      },
+      {
+        "text": "Tasnif",
+        "isCorrect": false
+      },
+      {
+        "text": "Terkip",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaynak Arama",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki uygarlıklardan hangisi, hukuk alanında yaptığı düzenlemelerle, tarihteki ilk yazılı kanunları oluşturmuştur?",
+    "explanation": "Tarihte bilinen ilk yazılı kanunlar, Babillerin kralı Hammurabi tarafından oluşturulan Hammurabi Kanunları'dır. Bu kanunlar, 'kısasa kısas' prensibine dayanır ve Sümer kanunlarından etkilenmiş olsa da, sistemli bir şekilde derlenip yazıya geçirilmesiyle önem kazanmıştır.",
+    "options": [
+      {
+        "text": "Sümerler",
+        "isCorrect": false
+      },
+      {
+        "text": "Babiller",
+        "isCorrect": true
+      },
+      {
+        "text": "Asurlular",
+        "isCorrect": false
+      },
+      {
+        "text": "Hititler",
+        "isCorrect": false
+      },
+      {
+        "text": "İbraniler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Çağ Medeniyetleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İslam öncesi Türk devletlerinde, hükümdarın oturduğu ve devletin yönetim merkezi olan çadıra ne ad verilirdi?",
+    "explanation": "İslam öncesi Türk devletlerinde, hükümdarın ikametgahı ve aynı zamanda devletin yönetim merkezi olan büyük çadıra 'Otağ' adı verilirdi. Otağ, kağanın gücünün ve devletin merkezi otoritesinin bir simgesiydi.",
+    "options": [
+      {
+        "text": "Kurultay",
+        "isCorrect": false
+      },
+      {
+        "text": "Yuğ",
+        "isCorrect": false
+      },
+      {
+        "text": "Otağ",
+        "isCorrect": true
+      },
+      {
+        "text": "Kün",
+        "isCorrect": false
+      },
+      {
+        "text": "Balbal",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Öncesi Türk Tarihi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki savaşlardan hangisi, İslamiyet'in Arap Yarımadası'nda yayılmasının önündeki en büyük engeli kaldırmıştır?",
+    "explanation": "Hz. Muhammed döneminde 630 yılında yapılan Huneyn Savaşı, İslamiyet'e karşı oluşan son büyük direnişi kırmış ve Arap Yarımadası'ndaki kabilelerin büyük çoğunluğunun Müslüman olmasını sağlayarak İslam'ın yayılışında dönüm noktası olmuştur. Ancak, İslam tarihinde en kritik savaş olarak kabul edilen ve İslamiyet'in varlığını garantileyen savaş Hendek Savaşı'dır, fakat yayılma önündeki en büyük engeli kaldıran savaş genellikle Huneyn Savaşı olarak anılır. Bu soru için en doğru ve kesin cevap, İslam'ın Arap Yarımadası'nda kesin hakimiyetini sağlayan 'Huneyn Savaşı'dır.",
+    "options": [
+      {
+        "text": "Bedir Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Uhud Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hendek Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Huneyn Savaşı",
+        "isCorrect": true
+      },
+      {
+        "text": "Mute Savaşı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Tarihi ve Medeniyeti",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Karahanlı Devleti, Türk-İslam tarihindeki hangi özelliği ile öne çıkmıştır?",
+    "explanation": "Karahanlı Devleti, Orta Asya'da kurulan ilk Müslüman Türk devleti olmasıyla Türk-İslam tarihinde son derece önemli bir yere sahiptir. Bu özelliği, onu diğer ilk dönem Türk-İslam devletlerinden ayıran en temel niteliktir.",
+    "options": [
+      {
+        "text": "İlk Müslüman Türk devleti olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Anadolu'yu Türk yurdu haline getirmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Denizcilikte ilerlemiş olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Başkentini İstanbul'a taşıması",
+        "isCorrect": false
+      },
+      {
+        "text": "Haçlı Seferleri'ne karşı mücadele etmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Türk İslam Devletleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Anadolu Selçuklu Devleti'nde, devlet işlerinin görüşüldüğü ve bugünkü Bakanlar Kurulu'na benzeyen divana ne ad verilirdi?",
+    "explanation": "Anadolu Selçuklu Devleti'nde, siyasi, idari, askeri ve mali işlerin görüşülüp karara bağlandığı en yüksek kurul 'Divan-ı Saltanat' veya kısaca 'Divan' olarak adlandırılırdı. Bu kurul, sultanın başkanlık ettiği ve devletin önemli meselelerinin tartışıldığı bir yönetim organıydı.",
+    "options": [
+      {
+        "text": "Divan-ı Saltanat",
+        "isCorrect": true
+      },
+      {
+        "text": "Divan-ı Arz",
+        "isCorrect": false
+      },
+      {
+        "text": "Divan-ı İstifa",
+        "isCorrect": false
+      },
+      {
+        "text": "Divan-ı İnşa",
+        "isCorrect": false
+      },
+      {
+        "text": "Divan-ı Mezalim",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye Tarihi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Orta Çağ Avrupası'nda, bir senyöre bağlı olarak toprağı işleyen ve toprağa bağlı olan köylü sınıfına ne ad verilirdi?",
+    "explanation": "Orta Çağ Avrupası'ndaki feodal düzende, toprağı işleme hakkına karşılık senyörün koruması altında olan ve toprakla birlikte alınıp satılabilen köylü sınıfına 'Serf' adı verilirdi. Serfler, özgür olmayan, toprağa bağımlı bir sınıfı temsil eder.",
+    "options": [
+      {
+        "text": "Senyör",
+        "isCorrect": false
+      },
+      {
+        "text": "Şövalye",
+        "isCorrect": false
+      },
+      {
+        "text": "Serf",
+        "isCorrect": true
+      },
+      {
+        "text": "Burjuva",
+        "isCorrect": false
+      },
+      {
+        "text": "Vassal",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Orta Çağ'da Avrupa",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Beyliği'nin kısa sürede büyüyerek güçlü bir devlet haline gelmesinin temel nedenlerinden biri aşağıdakilerden hangisidir?",
+    "explanation": "Osmanlı Beyliği'nin güçlü bir devlet haline gelmesindeki en önemli faktörlerden biri, uyguladığı 'Hoşgörülü ve İskân Politikası'dır. Fethedilen bölgelere Türkmen nüfusun yerleştirilmesi (iskân) ve gayrimüslim halka dini hoşgörü gösterilmesi, bölgedeki huzur ve istikrarı sağlamış, beylik için sağlam bir sosyal zemin oluşturmuştur.",
+    "options": [
+      {
+        "text": "Bizans İmparatorluğu'nun çok güçlü olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Haçlı Seferleri'ne katılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Hoşgörülü ve İskân Politikası",
+        "isCorrect": true
+      },
+      {
+        "text": "Moğol İstilası'na karşı koyması",
+        "isCorrect": false
+      },
+      {
+        "text": "Denizcilikte çok ileri olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beylikten Devlete",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Devleti'nin üç kıtaya yayılan topraklarda uzun süre hakimiyet kurmasını sağlayan ve farklı milletleri bir arada yönetmesine olanak veren temel yönetim anlayışı aşağıdakilerden hangisidir?",
+    "explanation": "Osmanlı Devleti'nin çok uluslu ve çok dinli yapısını yüzyıllarca bir arada tutmayı başaran temel yönetim felsefesi 'Ümmetçi' anlayıştır. Bu anlayış, İslam hukukuna dayanır ve Müslüman olmayan topluluklara (zimmi) belirli bir özerklik tanıyarak onları devlet sistemi içinde yaşatmayı hedefler.",
+    "options": [
+      {
+        "text": "Milliyetçilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Laiklik",
+        "isCorrect": false
+      },
+      {
+        "text": "Ümmetçi Anlayış",
+        "isCorrect": true
+      },
+      {
+        "text": "Federalizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Mutlakiyet",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya Gücü: Osmanlı Devleti",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "17. yüzyılda Osmanlı Devleti'nde, devletin bozulan kurumlarını düzeltmek amacıyla yapılan ilk ciddi ve kapsamlı girişim aşağıdaki padişahlardan hangisi döneminde başlamıştır?",
+    "explanation": "Osmanlı Devleti'nde 17. yüzyılda başlayan ve 'Arayış Yılları' olarak adlandırılan dönemde, ilk ciddi ve sistematik ıslahat girişimleri IV. Mehmet döneminde, Köprülü ailesinden sadrazamlar tarafından (Köprülü Mehmet Paşa ve Köprülü Fazıl Ahmet Paşa) gerçekleştirilmiştir. Bu dönem 'Köprülüler Era'sı olarak bilinir.",
+    "options": [
+      {
+        "text": "II. Osman",
+        "isCorrect": false
+      },
+      {
+        "text": "IV. Murat",
+        "isCorrect": false
+      },
+      {
+        "text": "IV. Mehmet",
+        "isCorrect": true
+      },
+      {
+        "text": "III. Selim",
+        "isCorrect": false
+      },
+      {
+        "text": "II. Mahmut",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Arayış Yılları",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki olaylardan hangisi, Yeni Çağ'ın başlangıcı kabul edilen olaylardan biridir?",
+    "explanation": "Tarihçiler tarafından Yeni Çağ'ın başlangıcı olarak genellikle 1453 yılındaki 'İstanbul'un Fethi' veya 1492 yılındaki 'Amerika'nın Keşfi' kabul edilir. Bu olaylar, Avrupa'nın siyasi, ekonomik ve kültürel yapısında köklü değişikliklere yol açmış ve dünya tarihinde yeni bir dönemi başlatmıştır. Soru Yeni ve Yakın Çağ'da Avrupa konusunu kapsadığı için, Avrupa tarihini doğrudan etkileyen 'İstanbul'un Fethi' en uygun cevaptır.",
+    "options": [
+      {
+        "text": "Fransız İhtilali",
+        "isCorrect": false
+      },
+      {
+        "text": "Coğrafi Keşifler",
+        "isCorrect": false
+      },
+      {
+        "text": "İstanbul'un Fethi",
+        "isCorrect": true
+      },
+      {
+        "text": "Reform Hareketleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi İnkılabı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yeni ve Yakın Çağ'da Avrupa",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "18. yüzyılda Osmanlı Devleti, kaybettiği toprakları geri almak ve eski gücüne kavuşmak amacıyla ağırlıklı olarak hangi alanda ıslahatlar yapmıştır?",
+    "explanation": "18. yüzyıl (Lale Devri dahil), Osmanlı Devleti'nin askeri alandaki yenilgilerinin ardından öncelikli olarak 'Askeri' alanda ıslahatlar yapmaya başladığı bir dönemdir. Bu yüzyılda Avrupa'nın askeri üstünlüğü kabul edilmiş ve ordunun modernleştirilmesi temel hedef haline gelmiştir.",
+    "options": [
+      {
+        "text": "Eğitim",
+        "isCorrect": false
+      },
+      {
+        "text": "Hukuk",
+        "isCorrect": false
+      },
+      {
+        "text": "Askeri",
+        "isCorrect": true
+      },
+      {
+        "text": "Ekonomi",
+        "isCorrect": false
+      },
+      {
+        "text": "İdari",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yüzyıl Değişim ve Diploması",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  },
+  {
+    "text": "19. yüzyılda Osmanlı Devleti'nde, devleti dağılmaktan kurtarmak amacıyla ortaya çıkan ve Osmanlıcılık fikrine dayanan resmi ideoloji aşağıdakilerden hangisidir?",
+    "explanation": "19. yüzyıl, Osmanlı Devleti için 'En Uzun Yüzyıl' olarak adlandırılır. Bu yüzyılda devleti çöküşten kurtarmak için çeşitli fikir akımları ortaya çıkmıştır. Bunlardan ilki ve resmi devlet politikası haline gelen, tüm Osmanlı tebaasını din ve ırk farkı gözetmeksizin 'Osmanlı' kimliği altında birleştirmeyi hedefleyen 'Osmanlıcılık' fikridir.",
+    "options": [
+      {
+        "text": "Türkçülük",
+        "isCorrect": false
+      },
+      {
+        "text": "İslamcılık",
+        "isCorrect": false
+      },
+      {
+        "text": "Batıcılık",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmanlıcılık",
+        "isCorrect": true
+      },
+      {
+        "text": "Adem-i Merkeziyetçilik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "En Uzun Yüzyıl",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Tarih"
+  }
+]
