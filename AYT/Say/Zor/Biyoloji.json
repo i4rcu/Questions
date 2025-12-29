@@ -1,0 +1,653 @@
+[
+  {
+    "text": "Kemik dokusunun yapısı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Kemik dokusunun sıkı (kompakt) kemik bölümünde, kan damarları ve sinirlerin geçtiği Havers kanalları bulunur. Volkmann kanallı ise Havers kanallarını birbirine bağlar, besin maddelerinin yatay dağılımını sağlar. Ancak, osteositlerin beslenmesi için gerekli difüzyon, lakün adı verilen boşluklar aracılığıyla olur, Havers kanalları doğrudan difüzyonun ana yolu değildir. Osteositler, lakünlerde bulunur ve kanallikül adı verilen ince kanalcıklar aracılığıyla besin alışverişi yapar. Bu nedenle, 'Havers kanalları, osteositlerin beslenmesi için gerekli difüzyonun ana yoludur' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "Osteositler, kemik matriksinde lakün adı verilen boşluklarda bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Süngerimsi kemik dokusu, uzun kemiklerin epifiz bölgelerinde bulunur ve kemik iliği için destek sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Havers kanalları, osteositlerin beslenmesi için gerekli difüzyonun ana yoludur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kemik yapımından sorumlu hücreler osteoblast, yıkımından sorumlu hücreler ise osteoklastlardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Periost, kemiğin en dışında bulunan ve kemiğin enine büyümesini sağlayan bağ dokudur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Destek ve Hareket Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir insanda, bir kemiğin boyuna uzaması aşağıdaki yapılardan hangisinin aktivitesi sonucunda gerçekleşir?",
+    "explanation": "Uzun kemiklerin boyuna uzaması, epifiz plağı (büyüme plağı) adı verilen bölgedeki kıkırdak hücrelerinin (kondrositlerin) bölünerek çoğalması ve daha sonra kemikleşmesi (osifikasyon) ile gerçekleşir. Epifiz plağı, kemiklerin diafiz (gövde) ve epifiz (uç) bölgeleri arasında bulunur. Bu plaktaki hücrelerin mitoz bölünme aktivitesi kemiğin uzamasını sağlar. Ergenlik dönemi sonunda bu plak kapanır ve boy uzaması durur.",
+    "options": [
+      {
+        "text": "Diafizdeki sıkı kemik dokusunun kalınlaşması",
+        "isCorrect": false
+      },
+      {
+        "text": "Periostun altındaki osteoblastların aktivitesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Epifiz plağındaki kıkırdak hücrelerinin bölünmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Kemik iliğindeki hematopoietik kök hücrelerin çoğalması",
+        "isCorrect": false
+      },
+      {
+        "text": "Metafiz bölgesindeki osteoklastların aktivitesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Destek ve Hareket Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Eklem çeşitleri ve özellikleri ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "explanation": "Oynamaz (fibröz) eklemler, kemiklerin birbirine sıkıca bağlandığı ve hareketin neredeyse imkansız olduğu eklemlerdir. Kafatası kemikleri arasındaki suturlar bu tip eklemlere örnektir. Yarı oynar (kartilaginöz) eklemler ise sınırlı hareket imkanı sunar, omurlar arasındaki diskler bu tiptir. 'Kafatası suturları - Yarı oynar eklem' eşleştirmesi yanlıştır çünkü kafatası suturları oynamaz eklem sınıfına girer.",
+    "options": [
+      {
+        "text": "Oynar eklem - Sinovyal sıvı içerir",
+        "isCorrect": false
+      },
+      {
+        "text": "Omurlar arası diskler - Yarı oynar eklem",
+        "isCorrect": false
+      },
+      {
+        "text": "Kafatası suturları - Yarı oynar eklem",
+        "isCorrect": true
+      },
+      {
+        "text": "Dirsek eklemi - Oynar eklem",
+        "isCorrect": false
+      },
+      {
+        "text": "Leğen kemiği eklemleri - Oynamaz eklem",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Destek ve Hareket Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Kasılma sırasında iskelet kası lifinde meydana gelen bir dizi olay aşağıdakilerden hangisinde doğru sıralanmıştır?",
+    "explanation": "Kasılma, sinir uyarısının motor uç plakta asetilkolin salınımı ile başlar. Bu, sarkolemmada aksiyon potansiyeli oluşturur. Aksiyon potansiyeli T tübüller boyunca iletilir ve sarkoplazmik retikulumdan Ca++ iyonlarının salınmasını tetikler. Salınan Ca++ iyonları, troponin kompleksine bağlanır ve tropomiyozin konumunu değiştirerek aktin filamentlerindeki miyozin bağlanma bölgelerini açar. Ardından miyozin başı, aktine bağlanır, ATP hidrolizi ile enerji sağlanır ve çapraz köprü oluşumu ile kayma gerçekleşir. Bu nedenle doğru sıra: Aksiyon potansiyeli oluşumu -> Ca++ salınımı -> Troponin-Ca++ etkileşimi -> Çapraz köprü oluşumu -> Filament kayması şeklindedir.",
+    "options": [
+      {
+        "text": "Aksiyon potansiyeli oluşumu -> Ca++ salınımı -> Troponin-Ca++ etkileşimi -> Çapraz köprü oluşumu -> Filament kayması",
+        "isCorrect": true
+      },
+      {
+        "text": "Ca++ salınımı -> Aksiyon potansiyeli oluşumu -> Çapraz köprü oluşumu -> Troponin-Ca++ etkileşimi -> Filament kayması",
+        "isCorrect": false
+      },
+      {
+        "text": "Çapraz köprü oluşumu -> Aksiyon potansiyeli oluşumu -> Ca++ salınımı -> Filament kayması -> Troponin-Ca++ etkileşimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Filament kayması -> Çapraz köprü oluşumu -> Ca++ salınımı -> Troponin-Ca++ etkileşimi -> Aksiyon potansiyeli oluşumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Troponin-Ca++ etkileşimi -> Aksiyon potansiyeli oluşumu -> Filament kayması -> Çapraz köprü oluşumu -> Ca++ salınımı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Destek ve Hareket Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir ökaryot hücrede, DNA'daki bir genin ifade edilmesi sürecinde aşağıdaki moleküllerden hangisi hem transkripsiyon hem de translasyon aşamalarında doğrudan görev almaz?",
+    "explanation": "Transkripsiyon sırasında DNA şablonu kullanılarak mRNA sentezlenir, bu süreçte RNA polimeraz enzimi görev alır. Translasyon sırasında ise mRNA ribozoma bağlanır ve tRNA'lar uygun amino asitleri getirir. DNA'nın kendisi, transkripsiyon sırasında şablon olarak kullanılmasına rağmen, translasyon aşamasında doğrudan bir rol oynamaz. Translasyon, sitoplazmada ribozomlar üzerinde, mRNA, tRNA ve rRNA'nın katılımıyla gerçekleşir.",
+    "options": [
+      {
+        "text": "mRNA",
+        "isCorrect": false
+      },
+      {
+        "text": "tRNA",
+        "isCorrect": false
+      },
+      {
+        "text": "DNA",
+        "isCorrect": true
+      },
+      {
+        "text": "RNA polimeraz",
+        "isCorrect": false
+      },
+      {
+        "text": "Ribozomal RNA (rRNA)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki durumların hangisinde, bir proteinin amino asit dizisinde mutlaka bir değişiklik meydana gelir?",
+    "explanation": "Genetik kod yozlaşmış (degenerate) olduğu için, bir amino asit genellikle birden fazla kodon tarafından şifrelenir. Bu nedenle, bir baz çifti değişimi (nokta mutasyonu) sonucu oluşan yeni kodon, orijinal kodonla aynı amino asidi kodlayabilir (sessiz mutasyon). Ancak, bir çerçeve kayması (frameshift) mutasyonu (bir veya iki bazın eklenmesi veya çıkarılması), mutasyon noktasından sonraki tüm kodonların okunma çerçevesini kaydırır. Bu, amino asit dizisinin tamamen değişmesine neden olur ve genellikle işlevsiz bir proteinle sonuçlanır. Bu nedenle çerçeve kayması mutasyonu, amino asit dizisinde mutlaka bir değişikliğe yol açar.",
+    "options": [
+      {
+        "text": "DNA'daki bir intron bölgesinde tek nükleotid değişimi (substitüsyon)",
+        "isCorrect": false
+      },
+      {
+        "text": "mRNA'daki bir kodonun üçüncü bazında meydana gelen sessiz mutasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Genin kodlayıcı bölgesinde (ekson) bir çerçeve kayması (frameshift) mutasyonu",
+        "isCorrect": true
+      },
+      {
+        "text": "Promotor bölgede meydana gelen bir nükleotid değişimi",
+        "isCorrect": false
+      },
+      {
+        "text": "tRNA geninde meydana gelen ve antikodonu etkilemeyen bir mutasyon",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Protein sentezinin düzenlenmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Transkripsiyonel düzenleme, gen ifadesinin kontrol edilmesinin en yaygın ve enerji açısından en verimli seviyesidir. mRNA sentezlenmeden önce düzenleme yapıldığı için, gereksiz transkripsiyon ve translasyon için enerji harcanmamış olur. Translasyonel düzenleme ise mRNA zaten sentezlendikten sonra onun proteine çevrilme oranını kontrol eder. Bu nedenle, 'Translasyonel düzenleme, transkripsiyonel düzenlemeden daha enerji verimlidir' ifadesi yanlıştır. Tam tersi, transkripsiyonel düzenleme daha verimlidir.",
+    "options": [
+      {
+        "text": "Ökaryotlarda transkripsiyonel düzenleme, transkripsiyon faktörlerinin promotor bölgeye bağlanması ile gerçekleşebilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Translasyonel düzenleme, transkripsiyonel düzenlemeden daha enerji verimlidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "miRNA'lar, mRNA'yı degrade ederek veya translasyonunu engelleyerek gen ifadesini düzenler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir operon yapısında, represör proteinin bağlanması transkripsiyonu engeller.",
+        "isCorrect": false
+      },
+      {
+        "text": "Epigenetik modifikasyonlar (örn., DNA metilasyonu) gen ifadesini transkripsiyonel seviyede düzenleyebilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir bakteri hücresinde, lac operonunun düzenlenmesi ile ilgili aşağıdaki senaryolardan hangisinde β-galaktozidaz enzimi sentezlenmez?",
+    "explanation": "Lac operonu, glikoz ve laktoz varlığına göre düzenlenir. Represör protein, operatör bölgeye bağlandığında transkripsiyonu engeller. Laktoz, represör proteine bağlanarak onun operatör bölgeden ayrılmasını sağlar (indükler). Ancak, glikoz varlığı cAMP seviyesini düşürür. cAMP, aktivator protein (CAP) ile kompleks oluşturarak transkripsiyonu pozitif olarak düzenler. Glikoz yoksa cAMP yüksektir ve CAP transkripsiyonu artırır. Senaryoda 'Ortamda laktoz YOK, glikoz VAR' ise, represör protein operatöre bağlıdır (laktoz olmadığı için indüklenme yok) ve CAP aktif değildir (glikoz varlığında cAMP düşük). Bu durumda operon tamamen kapalıdır ve β-galaktozidaz sentezlenmez.",
+    "options": [
+      {
+        "text": "Ortamda laktoz VAR, glikoz YOK",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortamda laktoz VAR, glikoz VAR",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortamda laktoz YOK, glikoz YOK",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortamda laktoz YOK, glikoz VAR",
+        "isCorrect": true
+      },
+      {
+        "text": "Represör proteinin mutasyona uğrayıp operatöre bağlanamadığı ve glikozun olmadığı bir ortam",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Genetik Şifre ve Protein Sentezi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Nefronun yapısı ve işlevi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Bowman kapsülü, glomerulusun etrafını saran yapıdır ve ultrafiltrasyonun gerçekleştiği yerdir. Proksimal tübül, filtre edilen sıvıdaki su, glikoz, amino asitler ve iyonların büyük kısmının (%65-70) geri emiliminden sorumludur. Henle kulpu, hipertonik özellikteki renal medullayı oluşturarak suyun geri emilimine yardımcı olur. Distal tübül ve toplayıcı kanal, aldosteron ve ADH (vazopressin) hormonlarının etkisiyle su ve iyon dengesinin ince ayarını yapar. Ancak, 'Henle kulpunun inen kolu suya geçirgen değildir' ifadesi yanlıştır. Tam tersine, Henle kulpunun inen kolu suya yüksek oranda geçirgendir, bu sayede su osmoz ile dışarı çıkar ve filtrat konsantre olmaya başlar. Çıkan kol ise suya geçirgen değildir ama iyonları aktif olarak taşır.",
+    "options": [
+      {
+        "text": "Bowman kapsülü, glomerulusdan filtrasyonla gelen sıvıyı toplar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proksimal tübül, filtre edilen sıvıdaki besin maddelerinin çoğunun geri emildiği yerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Henle kulpunun inen kolu suya geçirgen değildir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Distal tübül, iyon dengesinin (Na+, K+) hormonlar aracılığıyla düzenlendiği bölgedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplayıcı kanallar, birkaç nefronun filtratını toplayarak renal pelvise taşır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki hormonlardan hangisinin kandaki konsantrasyonunun artması, böbreklerden su geri emilimini doğrudan artırır?",
+    "explanation": "Antidiüretik hormon (ADH) veya vazopressin, hipotalamusta sentezlenip hipofiz arka lobundan salgılanır. Temel işlevi böbreklerdeki toplayıcı kanalların suya geçirgenliğini artırmaktır. ADH seviyesi arttığında, toplayıcı kanallardan daha fazla su geri emilir, idrar miktarı azalır ve idrar konsantre hale gelir. Bu, vücudun su dengesini korumak için hayati bir mekanizmadır.",
+    "options": [
+      {
+        "text": "Aldosteron",
+        "isCorrect": false
+      },
+      {
+        "text": "Glukagon",
+        "isCorrect": false
+      },
+      {
+        "text": "Parathormon (PTH)",
+        "isCorrect": false
+      },
+      {
+        "text": "Antidiüretik hormon (ADH)",
+        "isCorrect": true
+      },
+      {
+        "text": "Kortizol",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Böbreklerin asit-baz dengesini düzenleme mekanizmaları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Böbrekler, kan pH'sını düzenlemek için birkaç önemli mekanizma kullanır. Bunlardan biri, hidrojen iyonlarını (H+) idrara doğrudan salgılamaktır. Bir diğer önemli mekanizma ise bikarbonat iyonlarının (HCO3-) geri emilimini artırmaktır. Proksimal tübül hücreleri, karbondioksit ve suyu karbonik asite dönüştüren karbonik anhidraz enzimini kullanır. Karbonik asit, H+ ve HCO3- iyonlarına ayrılır. H+ iyonu idrara salgılanırken, HCO3- iyonu kana geri emilir. Bu süreç kanın pH'sını yükseltir (asitliği azaltır). Ayrıca, amonyum iyonu (NH4+) üretimi ve fosfat tamponlama gibi mekanizmalar da vardır.",
+    "options": [
+      {
+        "text": "Böbrekler, asit-baz dengesini sadece hidrojen iyonu salgılayarak düzenler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bikarbonat iyonlarının geri emilimi, kan pH'sını düşürür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karbonik anhidraz enzimi, proksimal tübül hücrelerinde H+ salgılanması ve HCO3- geri emilimi için gereklidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Böbrekler, kan pH'sını düzenlemede solunum sisteminden daha hızlı ancak daha az etkili bir role sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Asidoz durumunda, böbrekler idrara daha fazla bikarbonat iyonu salgılar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Juxtaglomeruler aparat (JGA) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Juxtaglomeruler aparat (JGA), böbreğin kan basıncını ve filtrasyon hızını düzenleyen özelleşmiş bir hücre grubudur. Distal tübülün glomerulusa temas eden kısmındaki makula densa hücreleri ve afferent arteriyol duvarındaki juxtaglomeruler hücrelerden oluşur. Makula densa hücreleri, distal tübülden geçen sıvının NaCl konsantrasyonunu algılar. Düşük filtrasyon hızı veya düşük NaCl seviyeleri algılandığında, juxtaglomeruler hücreler renin enzimini salgılar. Renin, anjiyotensinojeni anjiyotensin I'e dönüştürerek, kan basıncını ve dolayısıyla glomeruler filtrasyon hızını (GFH) artıran renin-anjiyotensin-aldosteron sistemini (RAAS) başlatır. Ancak, 'JGA'nın temel işlevi idrarın asitlik seviyesini düzenlemektir' ifadesi yanlıştır. Asit-baz düzenlemesi daha çok proksimal tübül ve toplayıcı kanallarda gerçekleşir.",
+    "options": [
+      {
+        "text": "Afferent arteriyol duvarında bulunan juxtaglomeruler hücreler renin salgılar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Makula densa hücreleri, distal tübüldeki sıvının iyon konsantrasyonunu izler.",
+        "isCorrect": false
+      },
+      {
+        "text": "JGA, glomeruler filtrasyon hızının (GFH) otoregülasyonunda rol oynar.",
+        "isCorrect": false
+      },
+      {
+        "text": "JGA'nın temel işlevi idrarın asitlik seviyesini düzenlemektir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Renin salgılanması, sistemik kan basıncını artıran bir hormonal kaskadı tetikler.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üriner Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Hipofiz bezi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Hipofiz bezi, ön lob (adenohipofiz) ve arka lob (nörohipofiz) olmak üzere iki kısımdan oluşur. Ön lob, hipotalamustan gelen salgılatıcı ve durdurucu hormonların kontrolü altında kendi hormonlarını sentezler ve salgılar. Bu hormonlar arasında Büyüme Hormonu (GH), TSH, ACTH, FSH, LH ve Prolaktin bulunur. Arka lob ise hipotalamusta sentezlenen hormonları (ADH ve oksitosin) depolar ve gerektiğinde kana salgılar, kendi hormonunu sentezlemez.",
+    "options": [
+      {
+        "text": "Hipofiz ön lobu, hipotalamusta sentezlenen ADH ve oksitosini depolar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hipofiz arka lobu, kendi hormonlarını sentezler ve salgılar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hipofiz ön lobunun salgıladığı hormonlar, hipotalamusun salgılatıcı hormonları tarafından düzenlenir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hipofiz bezi, endokrin sistemin merkezi olarak tek başına çalışır ve hipotalamustan bağımsızdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Büyüme hormonu (GH), hipofiz arka lobundan salgılanır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Tiroid hormonlarının sentezi ve işlevi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Tiroid hormonları T3 (triiyodotironin) ve T4 (tiroksin) sentezi için iyot gereklidir. Tiroid peroksidaz enzimi, iyotun organifikasyonu (tiroglobuline bağlanması) ve hormonların sentezinde kritik rol oynar. Bu hormonlar bazal metabolizma hızını artırır, büyüme ve gelişme için gereklidir. Tiroid hormonlarının salgılanması, hipotalamusun TRH'sı ve hipofizin TSH'sı tarafından negatif geri bildirim mekanizması ile düzenlenir. Ancak, 'Tiroid hormonları, kalsiyum ve fosfat metabolizmasının birincil düzenleyicisidir' ifadesi yanlıştır. Kalsiyum metabolizmasının birincil düzenleyicisi paratiroid bezlerinden salgılanan parathormon (PTH) ve tiroidin C hücrelerinden salgılanan kalsitonindir.",
+    "options": [
+      {
+        "text": "Tiroid hormon sentezi için diyette iyot alınması esastır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiroid peroksidaz enziminin inhibisyonu, guatr oluşumuna neden olabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiroid hormonları, bazal metabolizma hızını artırır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiroid hormonları, kalsiyum ve fosfat metabolizmasının birincil düzenleyicisidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "TSH seviyeleri, T3 ve T4 seviyeleri tarafından negatif geri bildirimle kontrol edilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Pankreasın endokrin fonksiyonu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Pankreas hem ekzokrin (sindirim enzimleri) hem de endokrin fonksiyona sahiptir. Endokrin kısmı Langerhans adacıklarıdır. Alfa hücreleri glukagon, beta hücreleri insülin salgılar. Glukagon, kan şekeri düşük olduğunda salgılanır ve karaciğerde glikojenoliz (glikojen yıkımı) ve glukoneogenezi (yeni glikoz sentezi) uyararak kan şekerini yükseltir. İnsülin ise kan şekeri yüksek olduğunda salgılanır ve hücrelerin glikoz alımını artırarak kan şekerini düşürür.",
+    "options": [
+      {
+        "text": "Pankreasın beta hücreleri, kan şekerini yükselten glukagon hormonunu salgılar.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsülin, karaciğerde glikojen sentezini inhibe eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Glukagon salgılanması, kan şekeri yüksek olduğunda artar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Langerhans adacıklarının alfa hücreleri, kan şekerini yükseltici etki gösteren glukagonu salgılar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pankreasın endokrin fonksiyonu, sadece sindirim enzimlerinin salgılanmasını kontrol etmektir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir nöronun akson terminalinde presinaptik zarın depolarizasyonu sonucu voltaj kapılı kalsiyum kanalları açılır ve Ca²⁺ iyonları hücre içine girer. Bu durumun ardından aşağıdaki olaylardan hangisi gerçekleşir?",
+    "explanation": "Presinaptik nöronda kalsiyum iyonlarının içeri girmesi, sinaptik keseciklerin hücre zarına füzyonunu tetikler. Bu füzyon, keseciklerin içindeki nörotransmitter maddelerin sinaptik aralığa salınmasına neden olur. Bu olay ekzositoz mekanizması ile gerçekleşir.",
+    "options": [
+      {
+        "text": "Sinaptik kesecikler ekzositoz ile nörotransmitter salgılar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aksiyon potansiyeli sinaptik aralığı geçer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Postsinaptik zarda sodyum kanalları kapanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nörotransmitterler presinaptik nöron tarafından geri emilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Akson boyunca miyelin kılıfı oluşumu başlar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Merkezi sinir sisteminde, kan-beyin bariyerinin temel işlevi aşağıdakilerden hangisidir?",
+    "explanation": "Kan-beyin bariyeri, endotel hücrelerinin sıkı bağlantılarından oluşan seçici geçirgen bir bariyerdir. Temel işlevi, kandan beyin omurilik sıvısına ve beyin dokusuna geçişi kontrol ederek, kan dolaşımındaki potansiyel toksinler, patojenler ve bazı iyonların merkezi sinir sistemine girişini engellemek ve homeostazı korumaktır.",
+    "options": [
+      {
+        "text": "Kan dolaşımındaki zararlı maddelerin beyne geçişini sınırlandırmak.",
+        "isCorrect": true
+      },
+      {
+        "text": "Beyinden kana metabolik atıkların geçişini hızlandırmak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nöronlar arasında impuls iletim hızını artırmak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Beyin omurilik sıvısının üretimini düzenlemek.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijenin nöronlara difüzyonunu kolaylaştırmak.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Otonom sinir sisteminin sempatik ve parasempatik bölümleri birçok organda zıt etkiler gösterir. Aşağıdaki organ-etki eşleştirmelerinden hangisi YANLIŞTIR?",
+    "explanation": "Otonom sinir sisteminde sempatik bölüm 'savaş ya da kaç' tepkisinden sorumludur ve göz bebeğini genişletir (midriyazis). Parasempatik bölüm ise 'dinlen ve sindir' durumundan sorumludur ve göz bebeğini daraltır (miyozis). Bu nedenle, 'Göz Bebeği - Sempatik: Daralma' ifadesi yanlıştır, çünkü sempatik sistem daraltmaz, genişletir.",
+    "options": [
+      {
+        "text": "Kalp Atım Hızı - Sempatik: Artar / Parasempatik: Azalır",
+        "isCorrect": false
+      },
+      {
+        "text": "Bronşlar - Sempatik: Genişler / Parasempatik: Daralır",
+        "isCorrect": false
+      },
+      {
+        "text": "Göz Bebeği - Sempatik: Daralma / Parasempatik: Genişleme",
+        "isCorrect": true
+      },
+      {
+        "text": "Tükürük Salgısı - Sempatik: Azalır (yoğun) / Parasempatik: Artar (sulu)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bağırsak Hareketleri - Sempatik: Yavaşlar / Parasempatik: Hızlanır",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijenli solunumun elektron taşıma sistemi (ETS) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Elektron taşıma sistemi, mitokondrinin iç zarında (krista) bulunur. ETS'de elektronlar, giderek daha yüksek bir elektron ilgisine (daha pozitif redoks potansiyeline) sahip taşıyıcılar aracılığıyla aktarılır. Bu süreçte, elektronların enerjisi kullanılarak protonlar (H⁺ iyonları) matristen zarlar arası bölgeye pompalanır, böylece bir proton gradyanı oluşturulur. Bu gradyan, ATP sentaz enzimi için itici güç sağlar.",
+    "options": [
+      {
+        "text": "ETS elemanları, mitokondri iç zarında bulunur ve proton gradyanı oluşturur.",
+        "isCorrect": true
+      },
+      {
+        "text": "ETS'deki kompleksler matris sıvısında serbest halde bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar, ETS boyunca giderek daha düşük enerji seviyelerine sahip taşıyıcılara aktarılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "ETS'nin temel işlevi, sitozolde ADP'yi doğrudan fosforile etmektir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oksijen, ETS'nin başlangıcında elektronları kabul eden terminal elektron alıcısıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir glikoz molekülünün oksijenli solunumunda, substrat düzeyinde fosforilasyon ile toplam kaç ATP (net) üretilir?",
+    "explanation": "Oksijenli solunumda substrat düzeyinde fosforilasyon, bir enzim reaksiyonu sırasında bir substrattan doğrudan ADP'ye fosfat grubu aktarılmasıyla ATP sentezlenmesidir. Bu olay glikoliz evresinde (2 ATP), pirüvatın asetil CoA'ya dönüşümünde (0 ATP) ve Krebs döngüsünde (2 ATP) gerçekleşir. Glikolizde brüt 4 ATP üretilir ancaz 2 ATP harcandığı için net 2 ATP kalır. Krebs döngüsünde ise 2 GTP (ATP'ye eşdeğer) üretilir. Toplamda substrat düzeyinde fosforilasyon ile net 4 ATP (2'si glikolizden, 2'si Krebs döngüsünden) üretilir.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "34",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Oksijenli solunumda, Krebs döngüsünün bir ara ürünü olan okzaloasetat ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "explanation": "Krebs döngüsü, asetil CoA'nın okzaloasetat ile kondenzasyonuyla başlar ve sitratı oluşturur. Döngü tamamlandığında, okzaloasetat rejenerasyonu gerçekleşir, yani başlangıçtaki okzaloasetat molekülü yeniden oluşturulur. Bu nedenle okzaloasetat, döngü sırasında tükenmez ve katalitik bir rol oynar. 'Krebs döngüsü sırasında tamamen tükenir ve yeniden sentezlenmez' ifadesi bu nedenle yanlıştır.",
+    "options": [
+      {
+        "text": "Asetil CoA ile birleşerek sitratı oluşturur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Krebs döngüsü sırasında tamamen tükenir ve yeniden sentezlenmez.",
+        "isCorrect": true
+      },
+      {
+        "text": "Döngünün hem başlangıç hem de son ürünüdür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Döngüde katalitik miktarda bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pirüvat karboksilaz enzimi ile pirüvattan sentezlenebilir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücresel Solunum",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  }
+]
