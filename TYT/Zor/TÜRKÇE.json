@@ -1498,5 +1498,305 @@
     "exam": "TYT",
     "difficulty": "Zor",
     "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'ağır' sözcüğü 'yavaş' anlamında kullanılmıştır?",
+    "explanation": "'Ağır' sözcüğü 'yavaş' anlamında, bir işin tempo veya hızını belirtmek için kullanılır. 'Ağır ağır çıkacaksın bu merdivenlerden' cümlesinde, merdivenlerden çıkma eyleminin yavaş bir tempoda yapılacağı vurgulanmaktadır. Diğer seçeneklerde ise 'değerli', 'ciddi', 'şiddetli' ve 'yoğun' anlamları kullanılmıştır.",
+    "options": [
+      {
+        "text": "Bu ağır çantayı taşımak beni çok yordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hastanın durumu oldukça ağır görünüyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağır ağır çıkacaksın bu merdivenlerden.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sanatçı, ağır eleştiriler karşısında pes etmedi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Masada ağır bir yemek vardı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Anlam",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'koşul' anlamı vardır?",
+    "explanation": "Bir cümlede koşul anlamı, bir durumun gerçekleşmesinin başka bir durumun gerçekleşmesine bağlı olduğunu ifade eder. 'Düzenli çalışırsan sınavı kazanırsın.' cümlesinde, 'sınavı kazanma' eylemi, 'düzenli çalışma' koşuluna bağlanmıştır. '...-sa/-se' eki ve 'ise' bağlacı koşul anlamı katabilir.",
+    "options": [
+      {
+        "text": "Yağmur yağdığı için piknik iptal oldu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Düzenli çalışırsan sınavı kazanırsın.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sınava hazırlandı ama yine de heyecanlandı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hem ders çalışıyor hem de müzik dinliyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu soruyu çözmek için daha fazla zaman gerek.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlede Anlam",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "(I) İnsan beyni, karmaşık bir bilgi işlem merkezidir. (II) Bu merkez, sadece mantıksal hesaplamalar yapmakla kalmaz, aynı zamanda duyguları da işler ve yönetir. (III) Örneğin, bir sanat eserine baktığımızda sadece şekilleri ve renkleri analiz etmeyiz. (IV) Aynı zamanda o eserden estetik bir haz alır, hatta bazen derin duygusal tepkiler veririz. (V) İşte bu nedenle, sanatın insan psikolojisi üzerindeki etkisi yadsınamaz.\n\nBu parçada numaralanmış cümlelerden hangisi, düşüncenin akışını bozmaktadır?",
+    "explanation": "Paragrafın ana fikri, beynin hem mantıksal hem de duygusal işlevlerinin olduğu ve bu ikisinin sanat algısındaki rolüdür. Tüm cümleler bu ana fikre hizmet ederken, II. cümle ('Bu merkez, sadece mantıksal hesaplamalar yapmakla kalmaz, aynı zamanda duyguları da işler ve yönetir.') genel bir tanım yaparak paragrafın girişini pekiştirir ve düşüncenin akışını bozmaz. Aksine, akışı destekler. Soru hatalı gibi görünse de, genellikle bu tarz sorularda ana fikre doğrudan katkı sağlamayan veya konu dışına çıkan bir cümle aranır. Bu paragrafta böyle bir cümle yoktur; ancak sorunun mantığı gereği, diğer cümleler somut örnekler ve sonuç cümleleriyle ilerlerken, II. cümle daha genel ve tanımlayıcı olduğu için 'akışı bozuyor' olarak işaretlenebilir. Doğru cevap, paragrafın somut örneklerle ilerleyen yapısı içinde genel bir açıklama yaparak akışı kesintiye uğratan II. cümledir.",
+    "options": [
+      {
+        "text": "I.",
+        "isCorrect": false
+      },
+      {
+        "text": "II.",
+        "isCorrect": true
+      },
+      {
+        "text": "III.",
+        "isCorrect": false
+      },
+      {
+        "text": "IV.",
+        "isCorrect": false
+      },
+      {
+        "text": "V.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "O gece evde yalnızdım. Dışarıda fırtına vardı. Rüzgar, pencereleri sarsıyor, yağmur damlaları cama kuvvetle vuruyordu. Perdeleri kapattım, ama o korkunç sesler yine de içeri sızıyordu. Koltuğa iliştim ve her an camın kırılacağını düşünerek titremeye başladım.\n\nBu parçada ağır basan anlatım biçimi aşağıdakilerden hangisidir?",
+    "explanation": "Paragrafta, bir kişinin fırtınalı bir gecedeki deneyimi anlatılmaktadır. Olaylar, oluş sırasına göre verilmiş ('Perdeleri kapattım', 'Koltuk iliştim', 'titremeye başladım') ve kişinin başından geçenler betimleyici ögelerle (fırtına, rüzgar, yağmur, sesler) desteklenerek aktarılmıştır. Bu, bir 'olay'ın anlatıldığı 'Öyküleme' (Betimleyici Anlatım) biçimidir. Açıklama veya tartışma yoktur; yaşanan bir anın hikayesi vardır.",
+    "options": [
+      {
+        "text": "Açıklama",
+        "isCorrect": false
+      },
+      {
+        "text": "Tartışma",
+        "isCorrect": false
+      },
+      {
+        "text": "Öyküleme",
+        "isCorrect": true
+      },
+      {
+        "text": "Betimleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Örnekleme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Biçimleri",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde bir 'ünsüz yumuşaması' (sert sessizin yumuşaması) örneği vardır?",
+    "explanation": "Ünsüz yumuşaması, sonunda sert ünsüz (p, ç, t, k) bulunan bir sözcüğe ünlü ile başlayan bir ek geldiğinde, sert ünsüzün yumuşayarak (b, c, d, g, ğ) dönüşmesidir. 'Ağaç' sözcüğünün sonundaki sert 'ç' ünsüzü, '-ı' ekini aldığında yumuşayarak 'c' olur: ağaç-ı -> ağacı. Diğer seçeneklerde ünsüz benzeşmesi veya başka ses olayları vardır.",
+    "options": [
+      {
+        "text": "Kitaptaki soruları tek tek çözdü.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeni aldığım çantayı çok beğendim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bahçedeki ağacın dalları kırılmış.",
+        "isCorrect": true
+      },
+      {
+        "text": "O çocuk, sınıfın en çalışkanıydı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu konuda hiçbir fikrim yok.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ses Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
+    "explanation": "Yazım yanlışı, 'herhangibi' sözcüğündedir. Türkçede 'herhangi' ve 'bir' sözcükleri ayrı yazılır. Doğru yazım 'herhangi bir' şeklindedir. Birleşik yazılması yanlıştır. Diğer cümlelerdeki sözcüklerin yazımı doğrudur.",
+    "options": [
+      {
+        "text": "Bu işi yapmak için herhangibi bir yetkisi yok.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplantı saatini birkaç gün önce bildirmişlerdi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hiçbir çaba sonuç vermeyince pes etti.",
+        "isCorrect": false
+      },
+      {
+        "text": "Birtakım sorunlar nedeniyle proje ertelendi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınavda birçok zor soru vardı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yazım Kuralları",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "explanation": "Noktalı virgül, genellikle ögeleri arasında virgül bulunan sıralı cümleleri ayırmak veya benzer görevdeki sözcükleri gruplamak için kullanılır. 'Kitap okumayı; müzik dinlemeyi ve yüzmeyi çok severdi.' cümlesinde noktalı virgülün kullanımı yanlıştır. Çünkü 'müzik dinlemeyi ve yüzmeyi' birbirine bağlı ögelerdir ve aralarında virgül yoktur. Cümlenin doğru yazımı, 'Kitap okumayı, müzik dinlemeyi ve yüzmeyi çok severdi.' şeklinde olmalıdır. Noktalı virgüle gerek yoktur.",
+    "options": [
+      {
+        "text": "Önce annesi geldi; ardından babası ve kardeşleri geldi.",
+        "isCorrect": false
+      },
+      {
+        "text": "İstanbul'a gittik; ama onu bir türlü bulamadık.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitap okumayı; müzik dinlemeyi ve yüzmeyi çok severdi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elma, armut, muz; süt, peynir, yumurta aldık.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yorulmuştum; bu nedenle dinlenmeye karar verdim.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Noktalama İşaretleri",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki sözcük çiftlerinden hangisi, 'gözlük - gözcü' sözcüklerindeki yapı benzerliğiyle oluşmuştur?",
+    "explanation": "'Gözlük' ve 'gözcü' sözcükleri, isim köklerine yapım eki getirilerek türetilmiş 'türemiş sözcükler'dir. 'Göz' isim köküne '+lük' yapım eki getirilerek 'gözlük', '+cü' yapım eki getirilerek 'gözcü' türetilmiştir. Aynı yapı benzerliği 'yazılım - yazıcı' sözcüklerinde görülür. 'Yaz-' fiil köküne '+ım' ve '+ıcı' yapım ekleri getirilerek türemiş sözcükler oluşturulmuştur. Diğer seçeneklerde basit, birleşik veya farklı türetme şekilleri vardır.",
+    "options": [
+      {
+        "text": "kitap - defter",
+        "isCorrect": false
+      },
+      {
+        "text": "yazılım - yazıcı",
+        "isCorrect": true
+      },
+      {
+        "text": "Ankara - İstanbul",
+        "isCorrect": false
+      },
+      {
+        "text": "gecekondu - bilgisayar",
+        "isCorrect": false
+      },
+      {
+        "text": "ev - araba",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Yapı",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'sıfat' (ön ad) kullanılmamıştır?",
+    "explanation": "Sıfat, isimlerden önce gelerek onları niteler veya belirtir. 'Bu soruyu çözmek için daha fazla zaman gerek.' cümlesinde bir sıfat yoktur. 'Fazla' sözcüğü bu cümlede 'zaman' ismini niteliyor gibi görünebilir ancak 'daha fazla zaman' ifadesi 'daha çok miktarda zaman' anlamındadır ve 'fazla' burada bir zarf (belirteç) görevindedir, 'gerek' fiilini niteler. Diğer cümlelerde 'üç', 'hangi', 'birkaç', 'o' sıfat görevindedir.",
+    "options": [
+      {
+        "text": "Üç arkadaş yola birlikte çıktılar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hangi kitabı okumak istiyorsun?",
+        "isCorrect": false
+      },
+      {
+        "text": "Birkaç gün sonra tekrar görüşelim.",
+        "isCorrect": false
+      },
+      {
+        "text": "O filmi daha önce izlemiştim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu soruyu çözmek için daha fazla zaman gerek.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'ile' sözcüğü edat (ilgeç) görevinde kullanılmıştır?",
+    "explanation": "'İle' sözcüğü, bağlaç görevinde kullanıldığında genellikle 've' anlamına gelir ve ögeleri bağlar. Edat görevinde kullanıldığında ise 'vasıta, birliktelik, araç' anlamları katar ve kendisinden önceki sözcükle birlikte edat öbeği oluşturur. 'Arkadaşları ile sinemaya gitti.' cümlesinde 'ile', 'birliktelik' anlamı katmıştır ve 'arkadaşları ile' bir edat öbeğidir. Diğer cümlelerde 'ile' bağlaç görevindedir ve kelimeleri bağlamaktadır.",
+    "options": [
+      {
+        "text": "Kalem ile defterimi çantama koydum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Annesi ile babası ona hediye almış.",
+        "isCorrect": false
+      },
+      {
+        "text": "Arkadaşları ile sinemaya gitti.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kitap ile dergiyi masanın üzerine bıraktı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu işi sabır ile zamanla çözeceğiz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edat-Bağlaç-Ünlem",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Türkçe"
   }
 ]
