@@ -1,0 +1,281 @@
+[
+  {
+    "text": "Bir ülkenin nüfus piramidinde, genç nüfusun (0-14 yaş) oranının hızla azaldığı, çalışma çağındaki nüfusun (15-64 yaş) en geniş paya sahip olduğu ve yaşlı nüfusun (65+) oranının belirgin şekilde arttığı görülmektedir. Bu durum, aşağıdaki nüfus politikalarından hangisinin uygulanmasını zorunlu kılar?",
+    "explanation": "Nüfus piramidinde genç nüfusun azalması, doğurganlık hızının düşük olduğunu; çalışma çağındaki nüfusun fazla, yaşlı nüfusun ise artmakta olduğunu gösterir. Bu demografik yapı, nüfusun yaşlanmakta olduğuna işaret eder ve gelecekteki emeklilik, sağlık gibi sosyal güvenlik sistemleri üzerinde baskı oluşturur. Bu nedenle, bu durumla başa çıkmak için 'Nüfusun yaşlanmasına yönelik sosyal güvenlik sistemlerini güçlendirici politikalar' uygulanması gereklidir.",
+    "options": [
+      {
+        "text": "Nüfus artış hızını yükseltmeye yönelik teşvik politikaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Çalışma çağındaki nüfusun yurt dışına göçünü özendirici politikalar",
+        "isCorrect": false
+      },
+      {
+        "text": "Nüfusun yaşlanmasına yönelik sosyal güvenlik sistemlerini güçlendirici politikalar",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarım sektöründe genç nüfusu istihdam etmeye yönelik politikalar",
+        "isCorrect": false
+      },
+      {
+        "text": "Aile planlaması hizmetlerini yaygınlaştırıcı politikalar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de, yüksek dağ sıralarının kıyıya paralel uzandığı kıyı bölgeleri ile dağların kıyıya dik uzandığı kıyı bölgeleri arasında hem fiziki hem de beşeri coğrafya özellikleri açısından önemli farklar bulunmaktadır. Aşağıdakilerden hangisi, dağların kıyıya paralel uzandığı bir bölgenin, dağların kıyıya dik uzandığı bir bölgeye kıyasla daha belirgin özelliğidir?",
+    "explanation": "Dağların kıyıya paralel uzandığı bölgelerde (Karadeniz ve Akdeniz kıyılarında olduğu gibi), yüksek ve sürekli dağ sıraları, denizel etkilerin iç kesimlere girişini büyük ölçüde engeller. Bu nedenle, kıyı ile iç kesim arasında iklim, bitki örtüsü, tarım ürünleri ve yerleşme özellikleri bakımından çok keskin farklar (kontrast) oluşur. Dağların kıyıya dik uzandığı Ege Bölgesi'nde ise deniz etkisi, vadi boylarında iç kesimlere daha kolay sokulabildiğinden, bu farklar daha az belirgindir.",
+    "options": [
+      {
+        "text": "Kıyı ile iç kesim arasında iklim ve bitki örtüsü farklılıklarının daha az olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıyıda girinti ve çıkıntının (koy ve körfez sayısının) daha fazla olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıyı ile iç kesim arasında ulaşımın daha kolay sağlanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıyı ile iç kesim arasında fiziki ve beşeri özellikler bakımından daha keskin farklar (kontrast) görülmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Delta oluşumuna uygun düz alanların daha geniş yer tutması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de tarım işletmelerinin büyük bir kısmı küçük ve parçalı arazi yapısına sahiptir. Bu durum, tarım sektöründe verimlilik ve pazara yönelik üretim açısından çeşitli sorunlara neden olmaktadır. Aşağıdakilerden hangisi, bu sorunların çözümüne doğrudan katkı sağlayacak bir uygulamadır?",
+    "explanation": "Küçük ve parçalı tarım arazileri, modern tarım makinelerinin kullanımını zorlaştırır, maliyetleri artırır ve ölçek ekonomisinden yararlanmayı engeller. Arazi toplulaştırma çalışmaları, bu küçük parsellerin birleştirilerek daha büyük, düzenli ve tek parça işletmelere dönüştürülmesini sağlar. Bu da modern tarım tekniklerinin uygulanmasına, sulama sistemlerinin kurulmasına, verimliliğin artmasına ve dolayısıyla pazara yönelik üretimin gelişmesine doğrudan katkıda bulunur.",
+    "options": [
+      {
+        "text": "Tarım ürünleri için ihracat kotalarının artırılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kırsal alanda konut kooperatiflerinin yaygınlaştırılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Gübre ve tohumda dışa bağımlılığı azaltacak Ar-Ge çalışmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Arazi toplulaştırma çalışmalarının hızlandırılması",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarım ürünlerinde depolama kapasitelerinin artırılması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de uygulanan bölgesel kalkınma projeleri, belirli bölgelerin sosyoekonomik gelişimini hızlandırmayı ve bölgeler arası gelişmişlik farklarını azaltmayı hedefler. Aşağıdaki proje-bölge eşleştirmelerinden hangisi yanlıştır?",
+    "explanation": "Doğu Anadolu Projesi (DAP), temel olarak Doğu Anadolu Bölgesi'ndeki illeri (Ağrı, Kars, Iğdır, Erzurum, Bingöl, Muş, Van, Hakkâri, Bitlis, Erzincan, Tunceli, Elazığ, Malatya) kapsayan bir bölgesel kalkınma projesidir. Zonguldak, Bartın, Karabük ise Karadeniz Bölgesi'nde yer alır ve bu bölge için Batı Karadeniz Kalkınma Ajansı (BAKA) gibi farklı kurumsal yapılar bulunmaktadır. DAP'ın kapsamına Batı Karadeniz illeri dahil değildir.",
+    "options": [
+      {
+        "text": "Doğu Karadeniz Projesi (DOKAP) - Trabzon, Rize, Artvin, Giresun",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeşilırmak Havza Gelişim Projesi - Samsun, Amasya, Tokat, Çorum",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Projesi (DAP) - Ağrı, Kars, Zonguldak, Bartın",
+        "isCorrect": true
+      },
+      {
+        "text": "Zeytindalı Kalkınma Projesi - Balıkesir, Çanakkale, İzmir",
+        "isCorrect": false
+      },
+      {
+        "text": "Güneydoğu Anadolu Projesi (GAP) - Şanlıurfa, Mardin, Diyarbakır, Gaziantep",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Küresel ticaret ağlarında, ülkelerin dış ticaret yapısı ve hacmi üzerinde coğrafi konumunun yanı sıra sahip olduğu kaynaklar ve üretim kapasitesi de belirleyici olmaktadır. Aşağıdaki ülke-ekonomik özellik eşleştirmelerinden hangisi, o ülkenin küresel ticaretteki uzmanlaşma alanını ve gücünü doğru bir şekilde yansıtmaktadır?",
+    "explanation": "Japonya, ham madde kaynakları kısıtlı olmasına rağmen, yüksek teknoloji, Ar-Ge yatırımları ve nitelikli iş gücü sayesinde otomotiv, elektronik ve robotik gibi ileri teknoloji ürünlerinin üretiminde ve ihracatında dünyanın önde gelen ülkelerinden biridir. Bu, onun küresel ticaretteki uzmanlık alanını ve rekabet gücünü en iyi şekilde tanımlar.",
+    "options": [
+      {
+        "text": "Rusya Federasyonu - İleri teknoloji ürünleri ihracatında dünya lideri",
+        "isCorrect": false
+      },
+      {
+        "text": "Suudi Arabistan - Yüksek katma değerli tarım ürünleri ihracatçısı",
+        "isCorrect": false
+      },
+      {
+        "text": "Japonya - Yüksek teknolojiye dayalı sanayi ürünleri ihracatçısı",
+        "isCorrect": true
+      },
+      {
+        "text": "Brezilya - Petrol ve doğalgaz ihracatında küresel pazar hakimiyeti",
+        "isCorrect": false
+      },
+      {
+        "text": "Hindistan - Ağır sanayi ham maddeleri (kömür, demir) ihracatında birincil üretici",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Bir ülkenin nüfusunun büyük bir bölümünün başkent ve çevresinde toplanması, diğer bölgelerin ise nispeten seyrek nüfuslu kalması durumu 'başşehir priması' olarak adlandırılır. Aşağıdaki ülkelerden hangisinde, diğerlerine kıyasla 'başşehir priması' olgusunun etkileri en belirgin şekilde gözlemlenir?",
+    "explanation": "Başşehir priması, bir ülkenin siyasi, ekonomik, kültürel ve idari fonksiyonlarının aşırı derecede başkentte yoğunlaşması sonucu ortaya çıkar. Fransa'da Paris, İngiltere'de Londra gibi merkeziyetçi yapıya sahip ülkelerde bu durum belirgindir. Ancak, Mısır'da Kahire ve İskenderiye gibi büyük şehirler olmasına rağmen, nüfusun ve ekonomik faaliyetlerin ülke geneline dağılımı diğer seçeneklere göre daha dengelidir. Güney Kore'de Seul, Arjantin'de Buenos Aires ve Mısır'da Kahire, ülkelerinin nüfus ve ekonomisinde çok büyük bir paya sahiptir. Seul metropol bölgesi, Güney Kore nüfusunun yaklaşık yarısını barındırır, bu oran diğer ülkelere göre çok daha yüksektir ve başşehir primasının en şiddetli yaşandığı örneklerden biridir.",
+    "options": [
+      {
+        "text": "Almanya",
+        "isCorrect": false
+      },
+      {
+        "text": "Mısır",
+        "isCorrect": false
+      },
+      {
+        "text": "Güney Kore",
+        "isCorrect": true
+      },
+      {
+        "text": "Kanada",
+        "isCorrect": false
+      },
+      {
+        "text": "Brezilya",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ülkeler Coğrafyası",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Ekosistemlerdeki madde döngüleri, canlı yaşamının sürekliliği için hayati öneme sahiptir. İnsan faaliyetleri bu döngüleri önemli ölçüde etkileyebilmektedir. Aşağıdaki insan faaliyeti-madde döngüsü eşleştirmelerinden hangisi, ilgili döngü üzerindeki olumsuz etki bakımından doğru değildir?",
+    "explanation": "Fosfor döngüsü, temel olarak kayaçların aşınmasıyla başlar ve fosforun karalardan denizlere doğru tek yönlü bir akışı vardır. İnsan faaliyetleri, fosfor döngüsünü en çok, fosfatlı gübrelerin aşırı kullanımı ve kanalizasyon atıkları yoluyla su kaynaklarına karışan fosforun ötrofikasyona neden olması şeklinde olumsuz etkiler. Endüstriyel tesislerden kaynaklanan kükürtdioksit (SO2) emisyonları ise asit yağmurlarına neden olarak kükürt döngüsünü bozar, fosfor döngüsünü doğrudan bozan birincil etken değildir. Fosfor döngüsünün bozulmasında endüstriyel kükürt emisyonları birincil etken değildir.",
+    "options": [
+      {
+        "text": "Fosil yakıt kullanımı - Karbon döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Azotlu gübre kullanımı - Azot döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Ormansızlaşma - Su döngüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Endüstriyel kükürt emisyonları - Fosfor döngüsü",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarımda drenaj kanalları açılması - Su döngüsü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ekosistem ve Madde Döngüleri",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Sürdürülebilir kalkınma anlayışı, çevresel kaynakların korunmasını ekonomik büyümenin bir ön koşulu olarak görür. Aşağıdaki uygulamalardan hangisi, 'sürdürülebilir kalkınma' ilkeleriyle doğrudan çelişmektedir?",
+    "explanation": "Sürdürülebilir kalkınma, gelecek nesillerin ihtiyaçlarını karşılama yeteneğinden ödün vermeden, bugünün ihtiyaçlarını karşılamayı hedefler. Biyolojik çeşitlilik açısından zengin ve geri dönüşüm süresi çok uzun olan doğal orman ekosistemlerinin, kısa vadeli kereste üretimi amacıyla tamamen kesilerek tarım arazisine dönüştürülmesi, bu ekosistemi ve biyolojik çeşitliliği geri dönüşümsüz şekilde tahrip eder. Bu durum, sürdürülebilirlik ilkesiyle açıkça çelişir. Diğer seçeneklerdeki uygulamalar ise kaynak verimliliğini artırmaya, atığı azaltmaya veya yenilenebilir enerjiye yönelmeye hizmet eder.",
+    "options": [
+      {
+        "text": "Atık suyun arıtılarak tarımda yeniden kullanılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji verimliliği yüksek binaların inşa edilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyolojik çeşitlilik açısından zengin doğal ormanların kesilerek tarım arazisine dönüştürülmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Rüzgar ve güneş enerjisi santrallerinin yaygınlaştırılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ürün rotasyonu ve organik tarım yöntemlerinin uygulanması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çevre ve İnsan",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye, farklı doğal afet türlerine maruz kalan bir ülkedir. Bu afetlerin ortaya çıkışında, Türkiye'nin jeolojik ve jeomorfolojik yapısı belirleyici bir rol oynar. Aşağıdaki doğal afet-oluşumunu kolaylaştıran ana faktör eşleştirmelerinden hangisi yanlıştır?",
+    "explanation": "Kütle hareketleri (heyelan, kaya düşmesi vb.) öncelikle eğim, litolojik yapı (zeminin cinsi) ve yağış gibi faktörlere bağlıdır. Türkiye'de heyelanların en yoğun görüldüğü bölge, yağışın bol, eğimlerin fazla ve killi arazilerin yaygın olduğu Doğu Karadeniz'dir. Ege Bölgesi'nde ise genellikle eğimler daha az, yağış miktarı daha düşük ve jeolojik yapı farklıdır. Bu nedenle, Ege Bölgesi heyelan afetinin 'en yoğun' görüldüğü bölge olarak nitelendirilemez. En yoğun görüldüğü bölge Doğu Karadeniz Bölümü'dür.",
+    "options": [
+      {
+        "text": "Deprem - Aktif fay hatları üzerinde bulunma",
+        "isCorrect": false
+      },
+      {
+        "text": "Sel - Aşırı yağış ve arazi kullanımındaki yanlışlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Kütle hareketleri (heyelan) - Ege Bölgesi'nde en yoğun görülmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Kuraklık - Yağış rejiminin düzensizliği ve iklim değişikliği",
+        "isCorrect": false
+      },
+      {
+        "text": "Çığ - Yüksek ve engebeli dağlık alanlar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğal Afetler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Coğrafya"
+  }
+]
