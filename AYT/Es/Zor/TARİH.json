@@ -1,0 +1,374 @@
+[
+  {
+    "text": "Tarih biliminde, bir olayın meydana geldiği dönemin koşulları, düşünce yapısı ve değer yargıları göz önünde bulundurularak değerlendirilmesi gerektiğini savunan ve böylece objektifliği sağlamayı hedefleyen temel ilke aşağıdakilerden hangisidir?",
+    "explanation": "Tarih biliminde objektifliği sağlamak için olayları kendi döneminin koşulları içinde değerlendirmek esastır. Bu, 'Tarihsel Olayları Değerlendirirken Dönemin Koşullarını Göz Önünde Bulundurma' ilkesi olarak ifade edilir ve anakronizm hatasına düşmemek için gereklidir.",
+    "options": [
+      {
+        "text": "Olayları günümüz değer yargıları ile yorumlama",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihsel Olayları Değerlendirirken Dönemin Koşullarını Göz Önünde Bulundurma",
+        "isCorrect": true
+      },
+      {
+        "text": "Olaylar arasında neden-sonuç ilişkisi kurma",
+        "isCorrect": false
+      },
+      {
+        "text": "Birincil kaynaklara öncelik verme",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihi olguları kronolojik sıraya koyma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki İlk Çağ medeniyetlerinden hangisi, hukuk alanında kısasa kısas prensibini içeren ve toplum sınıfları arasında kesin ayrımlar gösteren, aynı zamanda 'gözün gözü, dişin dişi' şeklinde özetlenebilecek ceza anlayışına sahip olan Hammurabi Kanunları ile ünlüdür?",
+    "explanation": "Hammurabi Kanunları, Babil Kralı Hammurabi tarafından oluşturulmuş, kısasa kısas (talion) prensibini barındıran ve toplumu sınıflara ayıran sert bir hukuk sistemidir. Bu kanunlar Sümer kanunlarından etkilenmiş olsa da, en kapsamlı ve sistematik haliyle Babil Medeniyeti'ne aittir.",
+    "options": [
+      {
+        "text": "Sümerler",
+        "isCorrect": false
+      },
+      {
+        "text": "Babiller",
+        "isCorrect": true
+      },
+      {
+        "text": "Asurlular",
+        "isCorrect": false
+      },
+      {
+        "text": "Hititler",
+        "isCorrect": false
+      },
+      {
+        "text": "İbraniler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Çağ Medeniyetleri",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İslam öncesi Türk devletlerinde hükümdarın otoritesinin ve kut anlayışının bir tezahürü olarak, devleti yönetme yetkisinin Tanrı tarafından verildiğine inanılırdı. Aşağıdaki Türk devletlerinden hangisinde hükümdar unvanı olarak, bu kutsal yetkiyi vurgulayan 'İdikut' unvanı kullanılmıştır?",
+    "explanation": "'İdikut' unvanı, 'kut' sahibi, yani Tanrı tarafından devlet yönetme yetkisi bahşedilmiş anlamına gelir. Bu unvan, Uygur Devleti'nde hükümdarlar tarafından kullanılmıştır ve onların devlet anlayışını yansıtır.",
+    "options": [
+      {
+        "text": "Hun İmparatorluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Göktürk Kağanlığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Uygur Devleti",
+        "isCorrect": true
+      },
+      {
+        "text": "Hazar Kağanlığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Avrupa Hun Devleti",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Öncesi Türk Tarihi",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Hz. Muhammed'in vefatının ardından İslam toplumunda ortaya çıkan siyasi ayrılıklar, zamanla mezhepsel farklılaşmalara yol açmıştır. Aşağıdaki olaylardan hangisi, Sünni ve Şii ayrışmasının kesin ve sembolik başlangıç noktası olarak kabul edilir?",
+    "explanation": "Sünni ve Şii ayrışmasının en belirgin ve sembolik dönüm noktası, Hz. Muhammed'in torunu Hz. Hüseyin'in ve yanındakilerin Kerbela'da şehit edilmesidir (680). Bu olay, siyasi ihtilafı kalıcı bir mezhep farkına dönüştürmüştür.",
+    "options": [
+      {
+        "text": "Cemel Vakası (Deve Olayı)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıffin Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hakem Olayı",
+        "isCorrect": false
+      },
+      {
+        "text": "Kerbela Olayı",
+        "isCorrect": true
+      },
+      {
+        "text": "Hz. Osman'ın şehit edilmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Tarihi ve Medeniyeti",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Türk-İslam sentezinin önemli eserlerinden biri olan ve Yusuf Has Hacip tarafından Karahanlı hükümdarı Tabgaç Buğra Han'a sunulan, devlet yönetimi, ahlak ve toplum düzeni hakkında bilgiler veren siyasetname türündeki eser aşağıdakilerden hangisidir?",
+    "explanation": "Yusuf Has Hacip'in 11. yüzyılda Karahanlılar döneminde yazdığı Kutadgu Bilig (Mutluluk Veren Bilgi), Türk-İslam edebiyatının ve siyaset düşüncesinin ilk ve en önemli eserlerinden biridir. Eser, ideal bir devletin nasıl yönetilmesi gerektiğini alegorik bir dille anlatır.",
+    "options": [
+      {
+        "text": "Divan-ı Lügati't-Türk",
+        "isCorrect": false
+      },
+      {
+        "text": "Atabetü'l-Hakayık",
+        "isCorrect": false
+      },
+      {
+        "text": "Kutadgu Bilig",
+        "isCorrect": true
+      },
+      {
+        "text": "Divan-ı Hikmet",
+        "isCorrect": false
+      },
+      {
+        "text": "Siyasetname (Nizamülmülk)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Türk İslam Devletleri",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Anadolu Selçuklu Devleti'nin Moğol İlhanlılar'a karşı 1243'teki Kösedağ Savaşı'nda yaşadığı ağır yenilgi, Anadolu'daki siyasi dengeyi temelden sarsmıştır. Bu yenilginin Anadolu Türk siyasi birliği üzerindeki en önemli ve doğrudan sonucu aşağıdakilerden hangisidir?",
+    "explanation": "Kösedağ Savaşı'nın (1243) en önemli siyasi sonucu, Anadolu Selçuklu Devleti'nin merkezi otoritesinin büyük ölçüde kaybolması ve Moğol egemenliği altına girmesidir. Bu süreç, Anadolu'da birçok Türk beyliğinin bağımsız hareket etmeye başlamasına, yani Türk Siyasi Birliği'nin Bozulması'na yol açmıştır.",
+    "options": [
+      {
+        "text": "Bizans İmparatorluğu'nun Anadolu'da toprak kazanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Haçlı Seferleri'nin yeniden başlaması",
+        "isCorrect": false
+      },
+      {
+        "text": "Türk Siyasi Birliği'nin Bozulması",
+        "isCorrect": true
+      },
+      {
+        "text": "Anadolu'da iktisadi hayatın canlanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Beyliklerin Moğollara karşı ittifak kurması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye Tarihi",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Orta Çağ Avrupası'nda, toprak sahibi soylular (senyör) ile toprağı işleyen köylüler (serf) arasındaki karşılıklı hak ve yükümlülüklere dayalı sosyal, ekonomik ve siyasi düzene ne ad verilir?",
+    "explanation": "Orta Çağ Avrupası'nın temel sistemlerinden biri olan Feodalite (Derebeylik), merkezi otoritenin zayıfladığı bir ortamda, toprağa bağlı ve hiyerarşik bir ilişkiler ağıdır. Senyör koruma ve toprak sağlarken, serf de bunun karşılığında çalışma ve çeşitli yükümlülükleri yerine getirirdi.",
+    "options": [
+      {
+        "text": "Merkezi Monarşi",
+        "isCorrect": false
+      },
+      {
+        "text": "Feodalite",
+        "isCorrect": true
+      },
+      {
+        "text": "Rönesans",
+        "isCorrect": false
+      },
+      {
+        "text": "Korporasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Skolastik Düşünce",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Orta Çağ'da Avrupa",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Beyliği'nin kısa sürede bir devlete dönüşmesinde, komşu Bizans İmparatorluğu'nun içinde bulunduğu durum önemli bir fırsat yaratmıştır. Aşağıdakilerden hangisi, Osmanlıların Bizans'a karşı izlediği ve beylikten devlete geçişi hızlandıran temel stratejilerden biri DEĞİLDİR?",
+    "explanation": "Osmanlı Beyliği'nin güçlenme stratejisi, Bizans'a karşı doğrudan büyük bir saldırıdan ziyade, sistemli bir şekilde sınırları genişletme, siyasi evlilikler yapma, gaza ve cihat politikası izleme gibi yöntemlere dayanıyordu. 'Bizans İmparatorluğu'na Karşı Tek Seferde Büyük Bir Taarruz Başlatmak' erken dönem için gerçekçi bir strateji değildi; daha çok kademeli bir ilerleme söz konusuydu.",
+    "options": [
+      {
+        "text": "Bizans sınırlarındaki kale ve yerleşim yerlerini kademeli olarak ele geçirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Fethedilen bölgelerdeki Hristiyan halka hoşgörülü davranarak onların desteğini kazanmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Anadolu'daki diğer Türk beylikleriyle mücadele yerine genellikle uzlaşmacı bir politika izlemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Bizans İmparatorluğu'na Karşı Tek Seferde Büyük Bir Taarruz Başlatmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Gaza ve cihat anlayışını birleştirerek dini ve siyasi bir motivasyon oluşturmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beylikten Devlete",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Kanuni Sultan Süleyman döneminde, Osmanlı Devleti hem doğuda hem de batıda büyük fetihler gerçekleştirmiştir. Aşağıdaki gelişmelerden hangisi, bu dönemde Osmanlı Devleti'nin Hint Okyanusu'ndaki deniz hakimiyeti mücadelesi ve Portekizlilerle olan çatışması ile doğrudan ilişkilidir?",
+    "explanation": "Kanuni döneminde, Osmanlı Devleti Portekiz'in Hint Okyanusu'ndaki ticari üstünlüğünü kırmak ve Müslüman hacıların yol güvenliğini sağlamak amacıyla seferler düzenlemiştir. Bu kapsamda, ünlü denizci Piri Reis'in hazırladığı Hint Deniz Seferleri önemli bir girişimdir.",
+    "options": [
+      {
+        "text": "Preveze Deniz Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Mohaç Meydan Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "İnebahtı Deniz Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hint Deniz Seferleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Kıbrıs'ın Fethi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya Gücü: Osmanlı Devleti",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "17. yüzyıl, Osmanlı Devleti için bir 'Arayış Yılları' dönemidir. Bu yüzyılda yaşanan ve devletin askeri yapısındaki bozulmayı açıkça ortaya koyan, Yeniçeri Ocağı'nın disiplinsizliği ve siyasete müdahalesinin en çarpıcı örneklerinden biri aşağıdaki olaylardan hangisidir?",
+    "explanation": "17. yüzyıldaki 'Arayış Yılları'nın en önemli iç olaylarından biri, padişah IV. Murat'ın tahta çıktığı sırada ve sonrasında yaşanan, Yeniçerilerin ve Sipahilerin çıkardığı büyük isyandır. Bu isyan, merkezi otoritenin zayıflığını ve klasik sistemin çözülme belirtilerini gösterir.",
+    "options": [
+      {
+        "text": "Celali İsyanları",
+        "isCorrect": false
+      },
+      {
+        "text": "Patrona Halil İsyanı",
+        "isCorrect": false
+      },
+      {
+        "text": "Kabakçı Mustafa İsyanı",
+        "isCorrect": false
+      },
+      {
+        "text": "II. Osman'ın Tahttan İndirilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "IV. Murat Döneminde Yaşanan Büyük Yeniçeri İsyanı",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Arayış Yılları",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Yeni ve Yakın Çağ'da Avrupa'da mutlak monarşilerin güçlendiği bir dönemde, İngiltere'de 1688'de gerçekleşen ve kralın yetkilerinin parlamento tarafından kısıtlandığı, aynı zamanda hanedan değişikliğiyle sonuçlanan, kan dökülmeden gerçekleştiği için bu isimle anılan olay aşağıdakilerden hangisidir?",
+    "explanation": "1688'de İngiltere'de yaşanan Şanlı Devrim (Glorious Revolution), Kral II. James'in tahttan indirilip yerine III. William ve eşi Mary'nin getirilmesiyle sonuçlanmıştır. Bu olayla birlikte kabul edilen Haklar Bildirgesi (Bill of Rights) ile kralın yetkileri sınırlandırılmış ve anayasal monarşiye geçişin temeli atılmıştır.",
+    "options": [
+      {
+        "text": "Fransız İhtilali",
+        "isCorrect": false
+      },
+      {
+        "text": "Amerikan Bağımsızlık Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi Devrimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Şanlı Devrim",
+        "isCorrect": true
+      },
+      {
+        "text": "Otuz Yıl Savaşları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yeni ve Yakın Çağ'da Avrupa",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "20. yüzyılın başlarında Osmanlı Devleti, Trablusgarp Savaşı'nın ardından imzalanan Uşi Antlaşması ile önemli bir toprak kaybı daha yaşamıştır. Bu antlaşmanın Osmanlı Devleti açısından en dikkat çekici ve geleceğe yönelik ipuçları taşıyan maddesi aşağıdakilerden hangisidir?",
+    "explanation": "Uşi Antlaşması'nın (1912) en önemli maddelerinden biri, Trablusgarp'ı kaybeden Osmanlı Devleti'nin, bölgeyle dini bağını sürdürmek amacıyla padişahın 'halife' sıfatıyla bölgeye bir naip gönderme hakkını saklı tutmasıdır. Bu madde, Osmanlı diplomasisinin 'Pan-İslamizm' politikasını yansıtması açısından önemlidir.",
+    "options": [
+      {
+        "text": "Trablusgarp ve Bingazi'nin İtalya'ya bırakılması",
+        "isCorrect": false
+      },
+      {
+        "text": "12 Ada'nın geçici olarak İtalya'ya bırakılması",
+        "isCorrect": false
+      },
+      {
+        "text": "İtalyanlara kapitülasyonların kaldırılması için tazminat ödenmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Osmanlı Padişahının Halife Sıfatıyla Bölgeye Naip Gönderme Hakkının Saklı Tutulması",
+        "isCorrect": true
+      },
+      {
+        "text": "On İki Ada'nın Yunanistan'a verilmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yüzyıl Değişim ve Diploması",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  }
+]
