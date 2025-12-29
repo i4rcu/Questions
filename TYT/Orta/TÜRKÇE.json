@@ -1408,5 +1408,245 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"ince\" sözcüğü \"zayıf, narin\" anlamında kullanılmıştır?",
+    "explanation": "\"İnce\" sözcüğü, \"Bu iş için ince bir çubuk bulmalıyız.\" cümlesinde, fiziksel olarak \"zayıf, narin\" anlamı taşımaz; \"dar, kalın olmayan\" anlamındadır. \"Sanatçı, ince bir sesle şarkı söylüyordu.\" cümlesinde ise \"tiz, yüksek perdeden\" anlamındadır. \"Çok ince düşünceli bir insandı.\" cümlesinde \"düşünceli, nazik\" anlamındadır. \"Kumaşın ince olduğunu ancak dokunduğunuzda anlarsınız.\" cümlesinde \"kalınlığı az\" anlamındadır. Doğru cevap olan \"Kız, ince bedeniyle hemen dikkat çekti.\" cümlesinde ise \"ince\" sözcüğü \"zayıf, narin\" anlamında kullanılmıştır.",
+    "options": [
+      {
+        "text": "Bu iş için ince bir çubuk bulmalıyız.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatçı, ince bir sesle şarkı söylüyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çok ince düşünceli bir insandı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kumaşın ince olduğunu ancak dokunduğunuzda anlarsınız.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kız, ince bedeniyle hemen dikkat çekti.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Sözcükte Anlam",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde \"ihtimal\" anlamı vardır?",
+    "explanation": "\"Bu soruyu çözmek için daha çok çalışmalısın.\" cümlesinde \"gereklilik\", \"Bu konuyu anlamak için tekrar oku.\" cümlesinde \"emir\", \"Bu kitabı okumalı, çok güzel.\" cümlesinde \"tavsiye\", \"Yarın sınav olabilir, ders çalışıyorum.\" cümlesinde \"ihtimal\" anlamı vardır. \"Bu projeyi zamanında teslim etmeliyiz.\" cümlesinde ise \"zorunluluk\" anlamı vardır.",
+    "options": [
+      {
+        "text": "Bu soruyu çözmek için daha çok çalışmalısın.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu konuyu anlamak için tekrar oku.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu kitabı okumalı, çok güzel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın sınav olabilir, ders çalışıyorum.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bu projeyi zamanında teslim etmeliyiz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümlede Anlam",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "(1) Bazı insanlar için kitap okumak, sadece bir bilgi edinme aracı değildir. (2) Onlar için kitaplar, farklı dünyalara açılan kapılardır. (3) Bir romanın sayfalarında kaybolmak, yeni karakterlerle tanışmak, olayların içinde yaşamak, onlara tarifsiz bir haz verir. (4) Bu haz, sıradan bir günü olağanüstü kılar. (5) İşte bu yüzden, gerçek bir kitap kurdu için kitaplar vazgeçilmez bir tutkudur.\n\nBu parçada numaralanmış cümlelerden hangisi, düşüncenin akışını bozmaktadır?",
+    "explanation": "Paragraf, kitap okumanın bilgi edinmenin ötesinde bir tutku ve haz kaynağı olduğu fikri üzerine kuruludur. (1), (2), (3) ve (5) numaralı cümleler bu ana fikri destekler niteliktedir. Ancak (4) numaralı cümle olan \"Bu haz, sıradan bir günü olağanüstü kılar.\" ifadesi, paragrafın genel anlam akışı içinde beklenmedik bir şekilde \"sıradan bir gün\" vurgusu yaparak düşünce akışını geçici olarak kesmekte ve konu bütünlüğünü zayıflatmaktadır. Diğer cümleler daha tutarlı bir şekilde birbirine bağlanır.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Paragrafta Anlam",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Müzeye girdiğimizde karşımıza devasa bir heykel çıktı. Heykel, tamamen bronzdan yapılmıştı ve yüksekliği neredeyse üç metreyi buluyordu. Sanatçı, her bir kas detayını olağanüstü bir titizlikle işlemişti. Heykelin yüz ifadesi ise hem güçlü hem de hüzünlü bir havaya sahipti. Sağ elinde tuttuğu kılıç, onun bir savaşçı olduğunu açıkça gösteriyordu.\n\nBu parçada ağırlıklı olarak hangi anlatım biçimi kullanılmıştır?",
+    "explanation": "Paragraf, bir heykelin fiziksel özelliklerini (malzemesi, yüksekliği, detayları, yüz ifadesi, elindeki nesne) ayrıntılı bir şekilde betimlemektedir. Okuyucunun zihninde canlandırması için görsel öğeler ön plandadır. Herhangi bir olay anlatılmamakta (öyküleme), bir kavram açıklanmamakta (açıklama) veya bir düşünce kanıtlanmaya çalışılmamaktadır (tartışma). Bu nedenle parçada ağırlıklı olarak \"Betimleme (Tanımlama)\" anlatım biçimi kullanılmıştır.",
+    "options": [
+      {
+        "text": "Öyküleme (Hikaye Etme)",
+        "isCorrect": false
+      },
+      {
+        "text": "Betimleme (Tanımlama)",
+        "isCorrect": true
+      },
+      {
+        "text": "Açıklama",
+        "isCorrect": false
+      },
+      {
+        "text": "Tartışma",
+        "isCorrect": false
+      },
+      {
+        "text": "Örnekleme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Biçimleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ünsüz yumuşaması (sert sessiz yumuşaması)na bir örnek vardır?",
+    "explanation": "Ünsüz yumuşaması, sert sessizlerle (p, ç, t, k) biten bir sözcüğe ünlü ile başlayan bir ek geldiğinde, sondaki sert sessizin yumuşayarak (b, c, d, g, ğ) olmasıdır. \"Ağacın dalları rüzgârda sallanıyordu.\" cümlesinde, \"ağaç\" sözcüğüne \"-ın\" ilgi eki geldiğinde, sondaki \"ç\" sert ünsüzü \"c\"ye dönüşerek \"ağacın\" olur. Bu bir ünsüz yumuşamasıdır. Diğer seçeneklerde böyle bir ses olayı yoktur.",
+    "options": [
+      {
+        "text": "Yeni kitabını okulda unutmuş.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çocuk, parkta oynuyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağacın dalları rüzgârda sallanıyordu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kapıyı hızlıca kapattı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Soruyu doğru cevapladı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ses Bilgisi",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
+    "explanation": "Türkçede \"ki\" bağlacı ayrı yazılır. Ancak \"herkes\" sözcüğündeki \"-ki\" bir ek olduğu için sözcüğe bitişik yazılır ve doğru yazım \"herkesi\" şeklindedir. \"Herkezi\" yazımı yanlıştır. Diğer seçeneklerdeki sözcükler doğru yazılmıştır: \"herhangi\" (bitişik), \"bir şey\" (ayrı), \"hiçbiri\" (bitişik), \"birkaç\" (bitişik).",
+    "options": [
+      {
+        "text": "Bu konuda herhangi bir fikrim yok.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sana söylediğim herkezi davet ettim.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ona bir şey söylemek istiyorum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gelenlerin hiçbiri beni tanımıyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Masada birkaç kitap vardı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yazım Kuralları",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "explanation": "Noktalı virgül, genellikle cümle içinde virgüllerle ayrılmış tür veya takımları birbirinden ayırmak için kullanılır. \"Kitap, defter, kalem; bunların hepsi çantada duruyor.\" cümlesinde, \"kitap, defter, kalem\" sıralı bir nesne grubudur ve bu grubu cümlenin geri kalanından ayırmak için virgül yeterlidir. Noktalı virgül kullanımı burada gereksiz ve yanlıştır. Doğru kullanım \"Kitap, defter, kalem, bunların hepsi çantada duruyor.\" şeklinde olmalıdır. Diğer cümlelerde noktalı virgül doğru kullanılmıştır.",
+    "options": [
+      {
+        "text": "Kitap, defter, kalem; bunların hepsi çantada duruyor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sabah erken kalktı; kahvaltısını yaptı; işe gitti.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elma, armut, muz; meyveleri çok severdi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dışarı çıkmak istedi; ancak hava çok soğuktu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Öğrenciler geldi; öğretmen derse başladı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Noktalama İşaretleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki sözcüklerden hangisi hem yapım eki hem de çekim eki almıştır?",
+    "explanation": "Bir sözcüğün hem yapım eki hem de çekim eki alıp almadığını anlamak için kök/gövdeye gelen ekleri incelemek gerekir. Yapım eki, yeni anlamlı sözcük türetir. Çekim eki, sözcüğün cümle içindeki görevini belirler. \"Göz-lük-çü-ler\" sözcüğünü incelersek: Kök: göz. Yapım Eki: -lük (gözlük: yeni anlamlı sözcük). Yapım Eki: -çü (gözlükçü: yeni anlamlı sözcük). Çekim Eki: -ler (çoğul eki). Dolayısıyla bu sözcük hem yapım hem de çekim eki almıştır. Diğer seçeneklerde bu durum yoktur.",
+    "options": [
+      {
+        "text": "Evler",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilgili",
+        "isCorrect": false
+      },
+      {
+        "text": "Gözlükçüler",
+        "isCorrect": true
+      },
+      {
+        "text": "Kitapçı",
+        "isCorrect": false
+      },
+      {
+        "text": "Okuyacak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcükte Yapı",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
   }
 ]
