@@ -1,0 +1,498 @@
+[
+  {
+    "text": "Toplumsal yapıyı oluşturan temel unsurlar arasında aşağıdakilerden hangisi yer almaz?",
+    "explanation": "Toplumsal yapı, bir toplumun kalıcı ve düzenli ilişkiler bütünüdür ve temel unsurları arasında statü, rol, grup ve kurumlar bulunur. 'Gündelik alışkanlıklar' ise toplumsal yapının temel ve kalıcı bir unsuru olarak kabul edilmez, daha çok günlük yaşam pratiklerine işaret eder.",
+    "options": [
+      {
+        "text": "Statü",
+        "isCorrect": false
+      },
+      {
+        "text": "Rol",
+        "isCorrect": false
+      },
+      {
+        "text": "Grup",
+        "isCorrect": false
+      },
+      {
+        "text": "Kurumlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Gündelik alışkanlıklar",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir bireyin toplum içinde işgal ettiği konuma ne ad verilir?",
+    "explanation": "Statü, bir bireyin toplum içinde sahip olduğu konumu ifade eder. Bu konum, bireye belirli haklar ve sorumluluklar yükler. Rol ise bir statüye bağlı olarak beklenen davranış kalıplarıdır.",
+    "options": [
+      {
+        "text": "Statü",
+        "isCorrect": true
+      },
+      {
+        "text": "Rol",
+        "isCorrect": false
+      },
+      {
+        "text": "Değer",
+        "isCorrect": false
+      },
+      {
+        "text": "Norm",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültür",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi toplumsal bir kurum değildir?",
+    "explanation": "Toplumsal kurumlar, toplumun temel ihtiyaçlarını karşılamak üzere oluşmuş, örgütlenmiş ve süreklilik arz eden yapılardır. Aile, eğitim, din, ekonomi ve siyaset temel toplumsal kurumlardandır. 'Arkadaş grubu' ise birincil bir grup olmasına rağmen, toplumsal bir kurum olarak tanımlanmaz.",
+    "options": [
+      {
+        "text": "Aile",
+        "isCorrect": false
+      },
+      {
+        "text": "Eğitim",
+        "isCorrect": false
+      },
+      {
+        "text": "Din",
+        "isCorrect": false
+      },
+      {
+        "text": "Arkadaş grubu",
+        "isCorrect": true
+      },
+      {
+        "text": "Siyaset",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumsal tabakalaşma sistemlerinden hangisi, statülerin doğuştan kazanıldığı ve değiştirilmesinin neredeyse imkansız olduğu kapalı bir sistemdir?",
+    "explanation": "Kast sistemi, bireyin statüsünün doğuştan belirlendiği ve hayatı boyunca değiştiremediği, son derece katı ve kapalı bir tabakalaşma sistemidir. Geleneksel Hindistan toplumu bu sistemin tipik bir örneğidir.",
+    "options": [
+      {
+        "text": "Sınıf Sistemi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kast Sistemi",
+        "isCorrect": true
+      },
+      {
+        "text": "Kölelik",
+        "isCorrect": false
+      },
+      {
+        "text": "Zümre Sistemi",
+        "isCorrect": false
+      },
+      {
+        "text": "Meritokrasi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireyin içinde yaşadığı toplumun değerlerini, normlarını ve davranış kalıplarını öğrenme sürecine ne ad verilir?",
+    "explanation": "Sosyalleşme (Toplumsallaşma), bireyin toplumun bir üyesi olabilmesi için gerekli olan bilgi, beceri, değer ve davranış kalıplarını öğrendiği yaşam boyu devam eden bir süreçtir.",
+    "options": [
+      {
+        "text": "Sosyalleşme",
+        "isCorrect": true
+      },
+      {
+        "text": "Uyum",
+        "isCorrect": false
+      },
+      {
+        "text": "İş birliği",
+        "isCorrect": false
+      },
+      {
+        "text": "Çatışma",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürlenme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Birincil grupların temel özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+    "explanation": "Birincil gruplar (örn. aile, yakın arkadaş çevresi) yüz yüze, samimi, duygusal ve informal ilişkilerin olduğu küçük gruplardır. 'Resmi ve yazılı kurallara dayalı olma' özelliği ise birincil gruplara değil, resmi (ikincil) gruplara aittir.",
+    "options": [
+      {
+        "text": "Yüz yüze ilişkiler",
+        "isCorrect": false
+      },
+      {
+        "text": "Samimiyet",
+        "isCorrect": false
+      },
+      {
+        "text": "İnformal ilişkiler",
+        "isCorrect": false
+      },
+      {
+        "text": "Resmi ve yazılı kurallara dayalı olma",
+        "isCorrect": true
+      },
+      {
+        "text": "Duygusal bağlar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumun, bireylerin davranışlarını düzenleyen yazılı ve yazısız kurallarına ne denir?",
+    "explanation": "Normlar, bir toplumda bireylerin nasıl davranmaları gerektiğine dair beklentileri ifade eden yazılı (hukuk kuralları) veya yazısız (gelenek, görenek, ahlak kuralları) kurallardır.",
+    "options": [
+      {
+        "text": "Değer",
+        "isCorrect": false
+      },
+      {
+        "text": "Norm",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültür",
+        "isCorrect": false
+      },
+      {
+        "text": "Yaptırım",
+        "isCorrect": false
+      },
+      {
+        "text": "Statü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireyin üyesi olduğu grubun veya toplumun standartlarını benimsemesi ve ona göre davranması sürecine ne ad verilir?",
+    "explanation": "Uyum (Konformite), bireyin, içinde bulunduğu grubun veya toplumun normlarına, değerlerine ve beklentilerine uygun şekilde davranmasıdır. Sosyal etkinin önemli bir sonucudur.",
+    "options": [
+      {
+        "text": "Sapma",
+        "isCorrect": false
+      },
+      {
+        "text": "İş birliği",
+        "isCorrect": false
+      },
+      {
+        "text": "Uyum",
+        "isCorrect": true
+      },
+      {
+        "text": "Çatışma",
+        "isCorrect": false
+      },
+      {
+        "text": "Özümseme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Sosyolojinin bir bilim olarak ortaya çıkışı hangi dönemde ve hangi temel olayla yakından ilişkilidir?",
+    "explanation": "Sosyoloji, 19. yüzyılda, Sanayi Devrimi ve Fransız Devrimi gibi toplumsal yapıda köklü değişimlere yol açan olayların ardından, bu değişimleri anlama ve açıklama ihtiyacından doğmuştur. Auguste Comte, bu disipline 'sosyoloji' adını veren kişidir.",
+    "options": [
+      {
+        "text": "18. yüzyıl - Aydınlanma Çağı",
+        "isCorrect": false
+      },
+      {
+        "text": "19. yüzyıl - Sanayi Devrimi",
+        "isCorrect": true
+      },
+      {
+        "text": "Orta Çağ - Feodalizm",
+        "isCorrect": false
+      },
+      {
+        "text": "20. yüzyıl - Küreselleşme",
+        "isCorrect": false
+      },
+      {
+        "text": "Rönesans - Reform",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Sosyolojinin 'toplumu bilimsel yöntemlerle inceleyen bilim dalı' olarak tanımlanması, onun hangi özelliğini vurgular?",
+    "explanation": "Sosyolojinin bilimsel yöntemler (gözlem, veri toplama, hipotez kurma, analiz vb.) kullanması, onun bir 'pozitif bilim' olma özelliğini vurgular. Bu, sosyolojinin sistematik, nesnel ve ampirik (deneysel/deneyimsel) bir disiplin olduğu anlamına gelir.",
+    "options": [
+      {
+        "text": "Felsefi olmasını",
+        "isCorrect": false
+      },
+      {
+        "text": "Pozitif bilim olmasını",
+        "isCorrect": true
+      },
+      {
+        "text": "Öznel olmasını",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihsel olmasını",
+        "isCorrect": false
+      },
+      {
+        "text": "Yoruma dayalı olmasını",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi sosyolojinin temel araştırma yöntemlerinden biri değildir?",
+    "explanation": "Sosyolojinin temel araştırma yöntemleri arasında anket, gözlem, mülakat ve sosyal deney gibi yöntemler bulunur. 'Arkeolojik kazı' ise daha çok arkeoloji bilimine özgü bir araştırma yöntemidir ve sosyolojinin doğrudan bir yöntemi olarak kabul edilmez.",
+    "options": [
+      {
+        "text": "Anket",
+        "isCorrect": false
+      },
+      {
+        "text": "Gözlem",
+        "isCorrect": false
+      },
+      {
+        "text": "Mülakat",
+        "isCorrect": false
+      },
+      {
+        "text": "Arkeolojik kazı",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal deney",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumsal olguları 'sosyal dayanışma' kavramı üzerinden açıklayan ve mekanik ile organik dayanışma ayrımını yapan klasik sosyolog aşağıdakilerden hangisidir?",
+    "explanation": "Émile Durkheim, modern sosyolojinin kurucularındandır. 'Toplumsal İş Bölümü' adlı eserinde, geleneksel toplumlardaki 'mekanik dayanışma' ile modern toplumlardaki 'organik dayanışma' ayrımını yapmıştır.",
+    "options": [
+      {
+        "text": "Karl Marx",
+        "isCorrect": false
+      },
+      {
+        "text": "Max Weber",
+        "isCorrect": false
+      },
+      {
+        "text": "Émile Durkheim",
+        "isCorrect": true
+      },
+      {
+        "text": "Auguste Comte",
+        "isCorrect": false
+      },
+      {
+        "text": "Alexis de Tocqueville",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir toplumun maddi ve manevi ögelerinden oluşan, kuşaktan kuşağa aktarılan yaşam tarzının bütününe ne ad verilir?",
+    "explanation": "Kültür, bir toplumun sahip olduğu maddi (araç-gereç, mimari, teknoloji) ve manevi (inanç, değer, norm, dil) ögelerin tümünü kapsayan, öğrenilerek kuşaktan kuşağa aktarılan bir bütündür.",
+    "options": [
+      {
+        "text": "Medeniyet",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültür",
+        "isCorrect": true
+      },
+      {
+        "text": "Değer",
+        "isCorrect": false
+      },
+      {
+        "text": "Norm",
+        "isCorrect": false
+      },
+      {
+        "text": "Gelenek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Farklı kültürlerin bir araya gelerek etkileşime girmesi ve yeni bir kültürel sentez oluşturması süreci aşağıdakilerden hangisidir?",
+    "explanation": "Kültürel birleşme (kültürel füzyon), iki veya daha fazla farklı kültürün uzun süreli etkileşimi sonucunda, bu kültürlerin ögelerinin kaynaşarak yeni ve farklı bir kültürel bütün oluşturması sürecidir.",
+    "options": [
+      {
+        "text": "Kültürel şok",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel yayılma",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel birleşme",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürel gecikme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel relativizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumda genel kabul gören, soyut ve temel inançlar ile iyi-kötü, doğru-yanlış hakkındaki fikirler aşağıdaki kavramlardan hangisi ile ifade edilir?",
+    "explanation": "Değerler, bir toplum veya grup tarafından paylaşılan, arzu edilen, iyi, doğru ve güzel kabul edilen soyut genel ilkeler ve standartlardır. Normlar ise bu değerlerin somut davranış kurallarına dönüşmüş halidir.",
+    "options": [
+      {
+        "text": "Normlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Değerler",
+        "isCorrect": true
+      },
+      {
+        "text": "Semboller",
+        "isCorrect": false
+      },
+      {
+        "text": "Gelenekler",
+        "isCorrect": false
+      },
+      {
+        "text": "Yaptırımlar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, toplumsal kurumların temel özelliklerinden biri değildir?",
+    "explanation": "Toplumsal kurumlar, toplumun sürekliliğini sağlayan, organize olmuş, norm ve kurallarla desteklenen yapılardır. Bireylerin kişisel tercihleri, toplumsal bir kurumun yapısal ve kalıcı özelliği değildir; kurumlar bireylerden bağımsız olarak varlığını sürdürür. Bu nedenle doğru cevap, toplumsal kurumların bireylerin kişisel tercihleri sonucu oluşmasıdır.",
+    "options": [
+      {
+        "text": "Toplumun temel ihtiyaçlarını karşılar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Normlar ve kurallar ile desteklenir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Zaman içinde değişime uğrayabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireylerin kişisel tercihleri sonucu oluşur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal düzeni sağlamaya yöneliktir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Sosyoloji"
+  }
+]
