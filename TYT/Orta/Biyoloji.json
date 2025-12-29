@@ -358,5 +358,35 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "Biyoloji bilimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Biyoloji, canlıların yapısını, işlevlerini, birbirleriyle ve çevreleriyle olan ilişkilerini inceleyen pozitif bir bilim dalıdır. Pozitif bilimler, gözlem ve deneye dayalı olarak nesnel verilerle ilerler. Diğer seçeneklerdeki ifadeler hatalıdır: Biyoloji sadece bitkileri değil tüm canlıları inceler, sadece laboratuvarda değil doğal ortamda da çalışır, hipotezler mutlaka kanunlara dönüşmez ve biyolojik bilgiler kesin ve değişmez değildir; yeni bulgularla değişebilir.",
+    "options": [
+      {
+        "text": "Canlıların yapısını, işlevlerini ve çevreyle ilişkilerini inceleyen pozitif bir bilimdir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece bitkileri ve hayvanları inceleyen bir bilim dalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yalnızca laboratuvar ortamında kontrollü deneyler yapar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortaya atılan her hipotez, zamanla kanun haline gelir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyolojik bilgiler kesindir ve asla değişmez.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
   }
 ]
