@@ -1,0 +1,498 @@
+[
+  {
+    "text": "Auguste Comte'un sosyolojiyi 'fizik' temelinde inşa etme çabası ve pozitivizm anlayışı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Auguste Comte, sosyolojinin kurucusu olarak kabul edilir ve toplumsal olguların doğa bilimlerinde olduğu gibi gözlem ve deney yoluyla incelenebileceğini savunmuştur. Ona göre sosyoloji, toplumun 'toplumsal fizik' yasalarını keşfetmelidir. Bu nedenle doğru ifade, sosyolojinin toplumsal olguları doğa bilimlerindeki gibi inceleyerek toplumun yasalarını keşfetmeyi amaçladığıdır.",
+    "options": [
+      {
+        "text": "Toplumsal olguların metafizik spekülasyonlarla açıklanması gerektiğini savunmuştur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyolojinin, toplumsal olguları doğa bilimlerindeki gibi inceleyerek toplumun yasalarını keşfetmeyi amaçladığını öne sürmüştür.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal değişmenin ancak tarihsel diyalektik ile anlaşılabileceğini iddia etmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireyin öznel deneyimlerinin sosyolojik analizin temeli olduğunu vurgulamıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumun ancak dini inançlar temelinde bir uyum içinde olabileceğini savunmuştur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Max Weber'in 'anlama' (Verstehen) yöntemi ile ilgili aşağıdakilerden hangisi söylenebilir?",
+    "explanation": "Max Weber, sosyolojide pozitivist yaklaşıma eleştiri getirerek, toplumsal eylemin ancak eylemin öznel anlamı anlaşılarak açıklanabileceğini savunur. 'Anlama' yöntemi, bireylerin kendi eylemlerine yükledikleri anlamları yorumlayarak sosyal olguları kavramayı hedefler. Bu, nedensel açıklamadan farklı olarak, eylemin içsel mantığını anlamaya çalışan yorumsamacı bir yaklaşımdır.",
+    "options": [
+      {
+        "text": "Toplumsal eylemlerin sadece gözlemlenebilir nedensel ilişkilerle açıklanması gerektiğini savunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireylerin eylemlerine yükledikleri öznel anlamları yorumlayarak toplumsal gerçekliği kavramayı hedefler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal yapıların bireyin bilincinden bağımsız olduğunu ve onu belirlediğini iddia eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tüm toplumsal olguların ekonomik temelli sınıf çatışmasının bir ürünü olduğunu öne sürer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal araştırmalarda sadece nicel veri analizinin kullanılmasını önerir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Emile Durkheim'ın 'toplumsal olgu' kavramını tanımlarken vurguladığı temel özellik aşağıdakilerden hangisidir?",
+    "explanation": "Emile Durkheim, toplumsal olguyu, bireyin dışında bulunan, ona baskı yapabilen ve nesnel olarak incelenebilen bir olgu olarak tanımlar. Ona göre toplumsal olgular (örneğin, hukuk kuralları, ahlak normları) bireylerden bağımsız bir varlığa sahiptir ve bireyler üzerinde zorlayıcı bir etki gösterir. Bu 'dışsallık' ve 'baskı' özelliği, toplumsal olguyu bireysel psikolojik olgulardan ayıran temel kriterdir.",
+    "options": [
+      {
+        "text": "Toplumsal olgular, bireylerin öznel tercihlerinin toplamıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal olgular, bireyin dışında olup ona baskı yapan ve nesnel olarak incelenebilen olgulardır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal olgular, ancak tarihsel süreç içinde diyalektik olarak kavranabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal olguların temelinde bireyler arasındaki sembolik etkileşim yatar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal olgular, ekonomik üretim ilişkilerinin doğrudan bir yansımasıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Karl Marx'ın tarihsel materyalizm teorisinin sosyolojiye temel katkısı aşağıdakilerden hangisidir?",
+    "explanation": "Karl Marx'ın tarihsel materyalizm teorisi, toplumsal yapı ve tarihsel değişimin temel dinamiğini, üretim ilişkileri ve bu ilişkiler etrafında şekillenen sınıf çatışmalarında arar. Teori, ekonomik alt yapının (üretim tarzı) siyasi, hukuki, kültürel üst yapıyı belirlediğini savunur. Bu yaklaşım, sosyolojide toplumsal eşitsizlik, iktidar ve çatışma analizine odaklanan çatışma teorisinin temelini oluşturmuştur.",
+    "options": [
+      {
+        "text": "Toplumsal düzenin, ortak değer ve normlar üzerinden nasıl sağlandığını açıklamıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal değişmenin dinamiğini, üretim ilişkileri ve sınıf çatışmasına dayandırmıştır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal eylemin anlamını, bireylerin öznel yorumları üzerinden kavramayı önermiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal kurumların işlevlerini, toplumun bir bütün olarak sürekliliğini sağlamak açısından analiz etmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Modern toplumlardaki rasyonalizasyon ve bürokratikleşme süreçlerini irdelemiştir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Sosyalleşme sürecinde 'birincil sosyalleşme' ile 'ikincil sosyalleşme' arasındaki temel fark aşağıdakilerden hangisidir?",
+    "explanation": "Sosyalleşme, bireyin toplumun değerlerini, normlarını ve davranış kalıplarını öğrenme sürecidir. Birincil sosyalleşme, çocukluk döneminde aile gibi yakın ve informal ilişkilerin olduğu gruplarda gerçekleşir ve kişiliğin temelini oluşturur. İkincil sosyalleşme ise okul, işyeri gibi daha formel kurumlarda gerçekleşir ve bireye toplumdaki belirli rolleri öğretir. Temel fark, birincil sosyalleşmenin kişiliğin temel inşası, ikincil sosyalleşmenin ise daha sonraki özel rol edinimleri üzerinedir.",
+    "options": [
+      {
+        "text": "Birincil sosyalleşme bilinçli, ikincil sosyalleşme bilinçsiz bir süreçtir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Birincil sosyalleşme kişiliğin temel inşasını, ikincil sosyalleşme ise daha sonraki özel rol edinimlerini içerir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Birincil sosyalleşme sadece okulda, ikincil sosyalleşme sadece ailede gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Birincil sosyalleşme yetişkinlikte, ikincil sosyalleşme çocuklukta gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Birincil sosyalleşme toplumsal normlara uyumu, ikincil sosyalleşme ise bu normlara isyanı sağlar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumsal bir grubun üyesi olmanın birey üzerindeki 'biz' bilincini oluşturma etkisi aşağıdaki kavramlardan hangisi ile ifade edilir?",
+    "explanation": "'Biz' bilinci, bir grubun üyeleri arasında dayanışma, aidiyet ve ortak kimlik duygusunu ifade eder. Bireyin kendisini bir grubun parçası olarak hissetmesi ve grubun diğer üyeleriyle bir 'biz' duygusu paylaşması, 'grup kimliği' kavramı ile açıklanır. Bu kimlik, bireyin benlik algısını şekillendirir ve grup normlarına uyum sağlamasında etkili olur.",
+    "options": [
+      {
+        "text": "Toplumsal Rol",
+        "isCorrect": false
+      },
+      {
+        "text": "Grup Kimliği",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürel Görelilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal Kontrol",
+        "isCorrect": false
+      },
+      {
+        "text": "Statü Çatışması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir bireyin toplum içinde birden fazla statüye sahip olması durumunda, bu statülerin getirdiği rol beklentilerinin birbiriyle çelişmesi durumuna ne ad verilir?",
+    "explanation": "Her birey toplum içinde birden çok statüye sahiptir (örneğin, anne, mühendis, sendika üyesi). Her statünün beraberinde getirdiği davranış beklentilerine 'rol' denir. Eğer bir bireyin farklı statülerinden kaynaklanan rol beklentileri birbiriyle uyumsuz veya çelişkili ise, bu durum 'rol çatışması' olarak adlandırılır. Örneğin, çalışan bir annenin işteki uzun mesai beklentisi ile evdeki çocuk bakımı rolünün çatışması.",
+    "options": [
+      {
+        "text": "Statü Çatışması",
+        "isCorrect": false
+      },
+      {
+        "text": "Rol Çatışması",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültür Şoku",
+        "isCorrect": false
+      },
+      {
+        "text": "Benlik Bölünmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Norm Aşınması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Sembolik Etkileşimcilik teorisine göre, toplumsal davranışların ve 'benlik' kavramının oluşumunda temel belirleyici aşağıdakilerden hangisidir?",
+    "explanation": "Sembolik Etkileşimcilik (Mead, Blumer), bireylerin kendileri, başkaları ve toplumsal dünya hakkındaki anlamları semboller (dil, jestler) aracılığıyla oluşturduğunu ve bu anlamlar üzerinden etkileşime girdiğini savunur. Bu teoriye göre 'benlik' (self), bireyin kendi eylemlerini başkalarının bakış açısından görebilme ve yorumlayabilme kapasitesi üzerinden, sosyal etkileşim sürecinde inşa edilir. Dolayısıyla, benliğin oluşumundaki temel belirleyici sosyal etkileşimdir.",
+    "options": [
+      {
+        "text": "Ekonomik üretim ilişkileri",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal sınıf konumu",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyolojik ve genetik faktörler",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal kurumların işlevsel zorunlulukları",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireyler arasındaki sembolik iletişim ve sosyal etkileşim",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumsal tabakalaşma sistemlerinden 'kapalı sınıf sistemi' ile 'açık sınıf sistemi' arasındaki temel fark aşağıdakilerden hangisidir?",
+    "explanation": "Toplumsal tabakalaşma, toplumdaki birey ve grupların eşitsiz bir şekilde hiyerarşik olarak düzenlenmesidir. Kapalı sınıf sisteminde (örneğin, kast sistemi) bireylerin statüleri doğuştan belirlenir ve yaşamları boyunca değişmez; sosyal hareketlilik neredeyse imkansızdır. Açık sınıf sisteminde (örneğin, modern sınıf sistemleri) ise bireyler yetenek, eğitim, çaba gibi faktörlerle statülerini değiştirebilir; dikey sosyal hareketlilik mümkündür. Temel fark, sosyal hareketliliğin olanaklı olup olmamasıdır.",
+    "options": [
+      {
+        "text": "Kapalı sistemde eşitsizlik yoktur, açık sistemde eşitsizlik vardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kapalı sistemde statü kazanılmış, açık sistemde statü verilmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kapalı sistemde sosyal hareketlilik yok denecek kadar azken, açık sistemde sosyal hareketlilik mümkündür.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kapalı sistem demokratik, açık sistem otoriterdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kapalı sistem sanayi toplumlarında, açık sistem tarım toplumlarında görülür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Ferdinand Tönnies'in 'cemaat' (Gemeinschaft) ve 'cemiyet' (Gesellschaft) ayrımı aşağıdaki toplumsal yapı özelliklerinden hangisini temel alır?",
+    "explanation": "Ferdinand Tönnies, toplumsal yapıyı iki ideal tipe ayırır: Cemaat (Gemeinschaft) ve Cemiyet (Gesellschaft). Cemaat, geleneksel toplumlarda görülen, akrabalık, komşuluk, ortak inanç gibi bağlara dayalı, samimi, organik ve dayanışmacı ilişkileri ifade eder. Cemiyet ise modern toplumlarda görülen, bireyci, rasyonel çıkar ilişkilerine dayalı, geçici ve resmi ilişkileri tanımlar. Bu ayrımın temelini, toplumsal ilişkilerin niteliği (samimi/duygusal vs. rasyonel/çıkara dayalı) oluşturur.",
+    "options": [
+      {
+        "text": "Ekonomik üretim biçimleri (tarım vs. sanayi)",
+        "isCorrect": false
+      },
+      {
+        "text": "Siyasi yönetim şekilleri (demokrasi vs. monarşi)",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal ilişkilerin niteliği (samimi/dayanışmacı vs. rasyonel/çıkarcı)",
+        "isCorrect": true
+      },
+      {
+        "text": "Nüfusun yerleşim özellikleri (kırsal vs. kentsel)",
+        "isCorrect": false
+      },
+      {
+        "text": "Teknolojik gelişmişlik düzeyi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumsal kontrol mekanizmaları içinde 'resmi (formel) kontrol' ile 'gayriresmi (enformel) kontrol' arasındaki fark aşağıdakilerden hangisinde doğru verilmiştir?",
+    "explanation": "Toplumsal kontrol, birey ve grupların toplumun normlarına uygun davranmasını sağlayan mekanizmalardır. Resmi (formel) kontrol, yasalar, polis, mahkemeler gibi yazılı kurallara ve örgütlü yaptırımlara dayanır. Gayriresmi (enformel) kontrol ise aile, arkadaş grubu, komşuluk gibi birincil gruplarda işleyen ve alay, ayıplama, dışlama gibi yazılı olmayan yaptırımları içerir. Temel fark, kuralların ve yaptırımların yazılı/organize olup olmamasıdır.",
+    "options": [
+      {
+        "text": "Resmi kontrol bireysel, gayriresmi kontrol toplumsaldır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Resmi kontrol modern toplumlarda, gayriresmi kontrol geleneksel toplumlarda görülür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Resmi kontrol yazılı kurallara ve örgütlü yaptırımlara, gayriresmi kontrol ise yazılı olmayan normlara ve günlük etkileşimlere dayanır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Resmi kontrol etkisiz, gayriresmi kontrol etkilidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Resmi kontrol sadece cezalandırıcı, gayriresmi kontrol sadece ödüllendiricidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Max Weber'in 'toplumsal tabakalaşma' analizinde, 'sınıf', 'statü' ve 'güç' (parti) kavramlarıyla vurguladığı temel nokta aşağıdakilerden hangisidir?",
+    "explanation": "Karl Marx'ın ekonomik determinizmine karşı çıkan Max Weber, toplumsal eşitsizliğin ve tabakalaşmanın tek bir faktörle (sınıf) açıklanamayacağını savunur. Ona göre toplumsal konum üç boyutludur: 1) Sınıf: Pazardaki mal ve emek üzerindeki kontrolle ilişkili ekonomik boyut. 2) Statü: Toplumdaki saygınlık, prestij ve yaşam tarzıyla ilişkili sosyal boyut. 3) Güç (Parti): Siyasi kararları etkileme kapasitesiyle ilişkili siyasi boyut. Weber, bu üç boyutun birbirinden bağımsız olarak analiz edilmesi gerektiğini vurgular.",
+    "options": [
+      {
+        "text": "Toplumsal eşitsizliğin tek ve belirleyici faktörünün ekonomik sınıf olduğunu savunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal konumun ekonomik (sınıf), sosyal (statü) ve siyasi (güç) olmak üzere birbirinden bağımsız boyutları olduğunu öne sürer.",
+        "isCorrect": true
+      },
+      {
+        "text": "Statü ve gücün, her zaman ekonomik sınıf konumu tarafından belirlendiğini iddia eder.",
+        "isCorrect": false
+      },
+      {
+        "text": "Modern toplumlarda statü farklarının ortadan kalktığını, sadece sınıf farklarının kaldığını savunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal tabakalaşmanın sadece prestij (statü) temelinde analiz edilmesi gerektiğini belirtir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Max Weber, modern toplumlardaki 'bürokrasi'yi ideal bir örgütlenme modeli olarak tanımlarken, aynı zamanda onun hangi olumsuz sonucuna dikkat çekmiştir?",
+    "explanation": "Max Weber, bürokrasiyi hiyerarşi, uzmanlaşma, yazılı kurallar ve rasyonellik gibi özellikleriyle modern örgütler için en etkili ve verimli model olarak görür. Ancak Weber, bu rasyonel sistemin bir 'demir kafes' (iron cage) haline gelebileceği uyarısında bulunur. Bürokrasinin aşırı rasyonalizasyonu ve genişlemesi, bireysel özgürlüğü, yaratıcılığı ve insani değerleri boğabilir, insanları kuralların ve makinalaşmış sistemin pasif bir parçası haline getirebilir.",
+    "options": [
+      {
+        "text": "Bürokrasinin verimsiz ve plansız olduğunu savunmuştur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürokrasinin sadece totaliter rejimlere özgü olduğunu iddia etmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürokrasinin bireysel özgürlükleri kısıtlayan bir 'demir kafes' oluşturabileceğine işaret etmiştir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bürokrasinin toplumsal eşitsizliği tamamen ortadan kaldırdığını öne sürmüştür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bürokrasinin iletişim teknolojileriyle birlikte anlamsızlaştığını belirtmiştir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aile kurumundaki 'çekirdek aile' modelinden 'geniş aile' modeline geçişte, aşağıdaki toplumsal değişme süreçlerinden hangisinin etkisi en belirleyici olmuştur?",
+    "explanation": "Sanayileşme ve kentleşme süreçleri, geleneksel tarım toplumlarında yaygın olan geniş aile (birden çok kuşağın aynı evde yaşadığı) yapısını derinden etkilemiştir. Sanayi toplumunda, işgücünün hareketliliği, kentlere göç, konut koşulları ve bireyciliğin artması gibi faktörler, daha küçük ve mobil olan çekirdek aile (anne, baba, çocuklar) modelinin yaygınlaşmasına neden olmuştur. Bu nedenle, bu geçişteki en belirleyici süreç sanayileşme ve buna bağlı kentleşmedir.",
+    "options": [
+      {
+        "text": "Dini inançların değişmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Siyasi rejim değişiklikleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayileşme ve kentleşme",
+        "isCorrect": true
+      },
+      {
+        "text": "Eğitim süresinin kısalması",
+        "isCorrect": false
+      },
+      {
+        "text": "Göçmen kabul politikaları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Émile Durkheim, din kurumunun temel işlevini aşağıdakilerden hangisi olarak tanımlamıştır?",
+    "explanation": "Émile Durkheim, dinin toplumsal kökenlerine odaklanır. Ona göre din, kutsal ve profan ayrımı üzerine kuruludur. Dinin en temel işlevi, toplumsal dayanışmayı sağlamak ve güçlendirmektir. Ortak inançlar, ritüeller ve semboller aracılığıyla bireyler arasında bir kolektif bilinç oluşturur ve toplumsal bağları pekiştirir. Din, toplumu bir arada tutan, norm ve değerleri meşrulaştıran bir sosyal çimento işlevi görür.",
+    "options": [
+      {
+        "text": "Bireylere ölüm sonrası yaşam hakkında umut vermek",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal dayanışmayı sağlamak ve toplumsal bağları güçlendirmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Ekonomik eşitsizliği dini doktrinlerle meşrulaştırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilimsel gelişmelerin önündeki engelleri kaldırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireylerin metafizik sorulara kişisel cevaplar bulmasını sağlamak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, toplumsal değişmeyi açıklayan 'Kültürel Gecikme' (Cultural Lag) kuramının temel argümanını ifade eder?",
+    "explanation": "William F. Ogburn tarafından geliştirilen Kültürel Gecikme kuramı, toplumsal değişme sürecinde maddi kültür ögelerinin (teknoloji, üretim araçları) değişim hızının, manevi kültür ögelerine (değerler, normlar, kurumlar) göre daha hızlı olduğunu ve bu durumun toplumda bir uyumsuzluk ve gerginliğe yol açtığını savunur. Bu nedenle doğru cevap, maddi kültürün manevi kültürden daha hızlı değiştiği ve bunun bir uyumsuzluğa yol açtığı argümanıdır.",
+    "options": [
+      {
+        "text": "Toplumsal değişme, ekonomik temeldeki çelişkilerin bir ürünüdür ve kaçınılmaz olarak sınıf çatışmasına yol açar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumlar organik bir yapıya benzer ve evrimsel bir süreç içinde basitten karmaşığa doğru değişir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Maddi kültür ögelerindeki değişim, manevi kültür ögelerindeki değişimden daha hızlıdır ve bu durum toplumsal uyumsuzluğa neden olur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal değişme, karizmatik liderlerin ortaya çıkışıyla başlayan bir otorite döngüsü içinde gerçekleşir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Değişmenin temel dinamiği, toplumun farklı kesimleri arasındaki fonksiyonel bağımlılık ve iş bölümüdür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Değişme ve Gelişme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Sosyoloji"
+  }
+]
