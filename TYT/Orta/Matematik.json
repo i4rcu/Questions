@@ -1408,5 +1408,185 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Matematik"
+  },
+  {
+    "text": "a, b ve c birbirinden farklı pozitif tam sayılardır. a + b + c = 12 olduğuna göre, a.b.c çarpımının alabileceği en büyük değer kaçtır?",
+    "explanation": "Toplamları sabit olan pozitif tam sayıların çarpımını en büyük yapmak için sayılar birbirine mümkün olduğunca yakın seçilmelidir. 12'yi üç sayıya böldüğümüzde, sayılar 4, 4, 4 olursa çarpım 64 olur. Ancak soruda sayıların birbirinden farklı olması gerektiği belirtilmiştir. Bu durumda sayıları 3, 4, 5 seçersek toplam 12 ve çarpım 3*4*5=60 olur. 5, 4, 3'ten daha yakın bir kombinasyon (örneğin 3, 4, 5) çarpımı en büyük yapar. 2, 4, 6'nın çarpımı 48, 1, 5, 6'nın çarpımı 30'dur. Dolayısıyla en büyük çarpım 60'tır.",
+    "options": [
+      {
+        "text": "48",
+        "isCorrect": false
+      },
+      {
+        "text": "54",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": true
+      },
+      {
+        "text": "64",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Temel Kavramlar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "AB ve BA iki basamaklı doğal sayılardır. AB - BA = 27 olduğuna göre, kaç farklı AB sayısı yazılabilir?",
+    "explanation": "AB sayısı 10A + B, BA sayısı ise 10B + A şeklinde yazılır. Verilen denklem: (10A + B) - (10B + A) = 27. Bu denklem sadeleştirilirse 9A - 9B = 27, yani 9(A - B) = 27 ve A - B = 3 bulunur. A ve B birer rakam olduğundan (1'den 9'a kadar, ancak B sıfır olabilir çünkü BA iki basamaklı bir sayıdır, bu nedenle B 0 olamaz, çünkü BA iki basamaklı olmazdı. BA iki basamaklı olduğu için B 0 olamaz. A rakamı 1-9, B rakamı 1-9 arasındadır ve A > B olmalıdır. A - B = 3 koşulunu sağlayan (A, B) ikilileri: (4,1), (5,2), (6,3), (7,4), (8,5), (9,6). Bu 6 farklı ikili vardır, dolayısıyla 6 farklı AB sayısı yazılabilir.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sayı Basamakları",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Beş basamaklı 42A3B sayısı 36 ile tam bölünebildiğine göre, A + B toplamı kaçtır?",
+    "explanation": "Bir sayının 36 ile tam bölünebilmesi için 4 ve 9 ile tam bölünebilmesi gerekir (36 = 4 x 9 ve 4 ile 9 aralarında asal). 4 ile bölünebilme kuralı: Son iki basamağın oluşturduğu sayı 4'e bölünmelidir. Son iki basamak 3B'dir. 3B'nin 4'e bölünebilmesi için B rakamı 2 veya 6 olmalıdır (32 ve 36 4'e bölünür). 9 ile bölünebilme kuralı: Rakamlar toplamı 9'un katı olmalıdır. Rakamlar toplamı: 4 + 2 + A + 3 + B = 9 + A + B. Bu toplamın 9'un katı olması gerekir. B için iki durumu deneyelim: 1) B=2 ise rakamlar toplamı 9+A+2=11+A. 11+A'nın 9'un katı olması için A=7 olmalıdır (11+7=18). 2) B=6 ise rakamlar toplamı 9+A+6=15+A. 15+A'nın 9'un katı olması için A=3 olmalıdır (15+3=18). Her iki durumda da A+B toplamını hesaplayalım: Durum 1: A+B=7+2=9. Durum 2: A+B=3+6=9. Her iki durumda da toplam 9'dur.",
+    "options": [
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bölme ve Bölünebilme",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Boyutları 12 cm, 18 cm ve 30 cm olan dikdörtgenler prizması şeklindeki tuğlalardan, hiç boşluk kalmayacak şekilde bir küp yapılmak isteniyor. En az kaç tuğla gereklidir?",
+    "explanation": "Küpün bir kenar uzunluğu, tuğlanın boyutlarının ortak katı olmalıdır. En küçük küpü elde etmek için tuğlanın boyutlarının EKOK'unu alırız. EKOK(12, 18, 30) hesaplanır. 12=2^2*3, 18=2*3^2, 30=2*3*5. EKOK = 2^2 * 3^2 * 5 = 4 * 9 * 5 = 180 cm. Küpün hacmi: 180 * 180 * 180. Bir tuğlanın hacmi: 12 * 18 * 30. Gerekli tuğla sayısı = Küpün Hacmi / Bir Tuğlanın Hacmi = (180*180*180) / (12*18*30). Sadeleştirme yaparsak: (180/12)=15, (180/18)=10, (180/30)=6. Sonuç: 15 * 10 * 6 = 900 tuğla gereklidir.",
+    "options": [
+      {
+        "text": "450",
+        "isCorrect": false
+      },
+      {
+        "text": "600",
+        "isCorrect": false
+      },
+      {
+        "text": "750",
+        "isCorrect": false
+      },
+      {
+        "text": "900",
+        "isCorrect": true
+      },
+      {
+        "text": "1080",
+        "isCorrect": false
+      }
+    ],
+    "topic": "EBOB-EKOK",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "0,12 + 0,3 / 0,5 işleminin sonucu kaçtır?",
+    "explanation": "İşlem sırasına dikkat edilmelidir. Önce bölme işlemi yapılır, sonra toplama işlemi. Bölme işlemi: 0,3 / 0,5 = 3/10 ÷ 5/10 = (3/10) * (10/5) = 3/5 = 0,6. Daha sonra toplama: 0,12 + 0,6 = 0,72. Sonuç 0,72'dir.",
+    "options": [
+      {
+        "text": "0,18",
+        "isCorrect": false
+      },
+      {
+        "text": "0,42",
+        "isCorrect": false
+      },
+      {
+        "text": "0,62",
+        "isCorrect": false
+      },
+      {
+        "text": "0,72",
+        "isCorrect": true
+      },
+      {
+        "text": "0,84",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Rasyonel Sayılar-Ondalık Sayılar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "-4 < x < 3 ve -2 < y < 5 olduğuna göre, x² - y² ifadesinin alabileceği en büyük tam sayı değeri kaçtır?",
+    "explanation": "x² - y² = (x-y)(x+y). En büyük değeri bulmak için x²'yi mümkün olduğunca büyük, y²'yi mümkün olduğunca küçük seçmeliyiz. x²'nin en büyük değeri, x'in mutlak değerce en büyük olduğu durumda olur. x aralığı (-4, 3) olduğundan, x'in mutlak değerce en büyük değeri -4'e yakın değerlerdedir, ancak -4 dahil değil. x²'nin üst sınırı 16'ya yakındır (16'dan küçük). y²'nin en küçük değeri ise y=0 olduğunda 0'dır. Bu durumda x² - y² ifadesi 16'ya yakın bir değer alabilir. Ancak tam sayı değeri sorulduğu için, x=-4'e çok yakın bir değer (örneğin -3.999) alırsak x² yaklaşık 15.992 olur, y=0 için sonuç yaklaşık 15.992 olur. Bu da 15'ten büyük 16'dan küçüktür. x=-3.9 alalım, x²=15.21, y=0 için sonuç 15.21, en büyük tam sayı değeri 15 olabilir. 16'yı geçemez çünkü x hiçbir zaman -4 veya 4 olamaz. Ayrıca y² negatif olamayacağı için ifadenin değeri x²'den büyük olamaz. Dolayısıyla en büyük tam sayı değeri 15'tir.",
+    "options": [
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Eşitsizlikler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
   }
 ]
