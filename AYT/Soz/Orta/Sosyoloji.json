@@ -1,0 +1,498 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi toplumsal kurumların temel özelliklerinden biri değildir?",
+    "explanation": "Toplumsal kurumlar, toplumun sürekliliğini sağlayan, organize olmuş, norm ve kuralları olan yapılardır. Toplumun temel ihtiyaçlarını karşılarlar ve zaman içinde yavaş değişirler. Ancak, 'bireylerin kişisel tercihlerine göre şekillenmeleri' bir özellik değildir; aksine, kurumlar bireylerden bağımsız, nesnel ve toplumsal yapılardır.",
+    "options": [
+      {
+        "text": "Toplumun temel ihtiyaçlarını karşılarlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Zaman içinde yavaş bir değişim gösterirler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Normlar, kurallar ve rollerden oluşurlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireylerin kişisel tercihlerine göre şekillenirler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal düzeni ve sürekliliği sağlarlar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aile kurumu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Aile, toplumun en temel kurumlarından biridir. Neslin devamını sağlama, çocukların sosyalleşmesi, sevgi ve güven ihtiyacının karşılanması gibi işlevleri vardır. Ancak, 'toplumdaki tüm ekonomik faaliyetleri düzenleme' ailenin temel işlevi değildir; bu işlev daha çok ekonomi kurumu tarafından yerine getirilir.",
+    "options": [
+      {
+        "text": "Neslin devamını sağlama işlevi vardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çocukların birincil sosyalleşmesini üstlenir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireylere sevgi ve güven ortamı sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumdaki tüm ekonomik faaliyetleri düzenler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal cinsiyet rollerinin öğrenildiği ilk yerdir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Siyaset kurumunun temel işlevi aşağıdakilerden hangisidir?",
+    "explanation": "Siyaset kurumu, toplumda sosyal düzeni sağlamak, çatışmaları çözmek ve toplumsal hedeflere ulaşmak için gücün meşru kullanımını düzenler. Temel işlevi, 'toplumsal düzeni sağlamak ve toplumu yönetmek'tir. Diğer seçenekler eğitim, ekonomi veya aile kurumlarının işlevlerine daha yakındır.",
+    "options": [
+      {
+        "text": "Bireylere mesleki beceriler kazandırmak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mal ve hizmetlerin üretim ve dağıtımını organize etmek.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal düzeni sağlamak ve toplumu yönetmek.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürel değerleri kuşaktan kuşağa aktarmak.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireylere manevi destek ve rehberlik sunmak.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Din kurumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Din kurumunun temel işlevleri arasında bireylere manevi destek sağlamak, anlam arayışına cevap vermek, toplumsal dayanışmayı güçlendirmek ve belirli ahlaki normlar sunmak yer alır. 'Toplumsal dayanışma ve bütünleşmeyi artırır' ifadesi, Emile Durkheim'ın da vurguladığı gibi, dinin önemli bir sosyal işlevidir.",
+    "options": [
+      {
+        "text": "Sadece bireysel inançlarla ilgilenir, toplumsal bir yönü yoktur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal dayanışma ve bütünleşmeyi artırır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Her zaman siyaset kurumunu destekler ve onunla çatışmaz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi toplumlarında tamamen ortadan kalkmıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tek işlevi, bireylere ölüm sonrası hakkında açıklama getirmektir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Kurumlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Sosyolojinin bir bilim olarak ortaya çıkışını hazırlayan temel tarihsel gelişme aşağıdakilerden hangisidir?",
+    "explanation": "Sosyoloji, 19. yüzyılda, Sanayi Devrimi ve Fransız Devrimi gibi büyük dönüşümlerin yaşandığı bir dönemde ortaya çıkmıştır. Bu devrimler, geleneksel toplum yapısını altüst etmiş ve yeni sosyal problemler (kentleşme, sınıf çatışmaları vb.) doğurmuştur. Auguste Comte gibi düşünürler, bu karmaşık toplumsal olguları bilimsel yöntemlerle inceleyecek yeni bir bilim dalına ihtiyaç olduğunu savunmuşlardır.",
+    "options": [
+      {
+        "text": "Rönesans ve Hümanizm hareketleri.",
+        "isCorrect": false
+      },
+      {
+        "text": "Coğrafi Keşifler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanayi Devrimi ve Fransız Devrimi.",
+        "isCorrect": true
+      },
+      {
+        "text": "İlk çağ Yunan felsefesinin canlanması.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reform hareketleri.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdaki kavramlardan hangisi Auguste Comte ile en doğrudan ilişkilidir?",
+    "explanation": "Fransız düşünür Auguste Comte, sosyolojinin kurucusu olarak kabul edilir ve 'Pozitivizm' kavramını sosyolojiye kazandırmıştır. Pozitivizm, toplumsal olguların da doğa bilimlerinde olduğu gibi gözlem, deney ve karşılaştırma gibi bilimsel yöntemlerle incelenebileceğini savunan bir yaklaşımdır.",
+    "options": [
+      {
+        "text": "Toplumsal Darwinizm.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pozitivizm.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarihsel Materyalizm.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal Eylem.",
+        "isCorrect": false
+      },
+      {
+        "text": "İdeal Tip.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir sosyologun, bir toplumsal grubu uzun süre gözlemleyerek ve grubun üyeleriyle iç içe yaşayarak araştırma yapması aşağıdaki yöntemlerden hangisine örnektir?",
+    "explanation": "Katılımcı gözlem, sosyolojide nitel bir araştırma yöntemidir. Araştırmacının, incelediği grubun içine girerek, onlarla birlikte yaşayıp etkileşimde bulunarak veri toplamasını ifade eder. Bu yöntem, grubun doğal ortamında derinlemesine bir anlayış kazanmayı amaçlar.",
+    "options": [
+      {
+        "text": "Anket.",
+        "isCorrect": false
+      },
+      {
+        "text": "Katılımcı gözlem.",
+        "isCorrect": true
+      },
+      {
+        "text": "Deneysel yöntem.",
+        "isCorrect": false
+      },
+      {
+        "text": "İçerik analizi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyometri.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Sosyolojide, toplumsal olguları 'sosyal faklar' olarak ele alıp, bir şeyi dışarıdan zorlayan dışsal güçler olarak inceleyen yaklaşım aşağıdaki düşünürlerden hangisine aittir?",
+    "explanation": "Emile Durkheim, sosyolojinin kurucularındandır ve onun metodolojisinin temelini 'toplumsal olgular' kavramı oluşturur. Durkheim'a göre toplumsal olgular, bireylerden bağımsız, dışsal ve bireyler üzerinde zorlayıcı etkisi olan olgulardır. Bu olgular, bireyden önce var olur ve birey onlara uymak zorundadır.",
+    "options": [
+      {
+        "text": "Karl Marx.",
+        "isCorrect": false
+      },
+      {
+        "text": "Max Weber.",
+        "isCorrect": false
+      },
+      {
+        "text": "Emile Durkheim.",
+        "isCorrect": true
+      },
+      {
+        "text": "Auguste Comte.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alexis de Tocqueville.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sosyolojiye Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi kültürün 'maddi' ögelerine bir örnek değildir?",
+    "explanation": "Kültür, maddi ve manevi olmak üzere ikiye ayrılır. Maddi kültür, somut, elle tutulur gözle görülür ürünleri içerir (örn. binalar, araçlar, giysiler). Manevi kültür ise soyut olan değerler, normlar, inançlar ve geleneklerden oluşur. 'Bir toplumdaki saygı anlayışı' soyut bir değer olduğu için manevi kültüre girer, maddi kültüre örnek değildir.",
+    "options": [
+      {
+        "text": "Geleneksel bir ev tipi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Halk oyunlarındaki kıyafetler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarımda kullanılan bir alet.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir toplumdaki saygı anlayışı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ulusal bir anıt.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Kültürün kuşaktan kuşağa aktarılması sürecine ne ad verilir?",
+    "explanation": "Kültürel birikim, bir toplumun kültürünün zaman içinde yeni kuşaklara aktarılarak zenginleşmesi ve süreklilik kazanması sürecidir. Bu süreç sayesinde her yeni kuşak, kültürü sıfırdan öğrenmek zorunda kalmaz; önceki kuşakların bilgi, deneyim ve birikimlerini devralır.",
+    "options": [
+      {
+        "text": "Kültürel gecikme.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürleme.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel birikim.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürel şok.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel yayılma.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "William Ogburn'un, teknolojik değişmenin hızlı, buna karşılık manevi kültür ögelerinin (değerler, normlar) daha yavaş değişmesi sonucu ortaya çıkan uyumsuzluk durumuna verdiği ad aşağıdakilerden hangisidir?",
+    "explanation": "William Ogburn'un 'kültürel gecikme' (cultural lag) teorisi, maddi kültürün (teknoloji gibi) değişim hızı ile manevi kültürün (kurumlar, değerler) değişim hızı arasındaki farktan kaynaklanan uyumsuzluğu ifade eder. Örneğin, internet teknolojisinin hızla gelişmesine karşılık, bu teknolojinin etik ve hukuki kurallarının daha yavaş oluşması bir kültürel gecikme örneğidir.",
+    "options": [
+      {
+        "text": "Kültür emperyalizmi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alt kültür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel gecikme.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürel asimilasyon.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel relativizm.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir toplumun kendi kültürünü diğer kültürlerden üstün görmesi ve diğer kültürleri kendi kültürüne göre değerlendirmesi aşağıdaki kavramlardan hangisi ile ifade edilir?",
+    "explanation": "Etnosentrizm (Budunmerkezcilik), bir bireyin veya grubun kendi kültürünü merkeze alarak, diğer kültürleri kendi kültürünün değer yargılarıyla değerlendirmesi ve kendi kültürünü üstün görmesi eğilimidir. Bu durum, kültürler arası önyargı ve anlaşmazlıklara yol açabilir.",
+    "options": [
+      {
+        "text": "Kültürel relativizm.",
+        "isCorrect": false
+      },
+      {
+        "text": "Etnosentrizm.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kültürel yozlaşma.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kültürel şok.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karşı kültür.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplum ve Kültür",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bir bireyin, içinde yaşadığı toplumun kültürünü, değerlerini, normlarını ve davranış kalıplarını öğrenmesi süreci aşağıdaki kavramlardan hangisi ile adlandırılır?",
+    "explanation": "Sosyalleşme (Toplumsallaşma), bireyin toplumun bir üyesi haline gelmesi, o toplumun kültürünü, dilini, inançlarını, değerlerini ve kabul gören davranış biçimlerini öğrenmesi sürecidir. Bu süreç yaşam boyu devam eder ve aile, okul, akran grupları, medya gibi farklı kurumlar aracılığıyla gerçekleşir.",
+    "options": [
+      {
+        "text": "Sosyal kontrol.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal etkileşim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal rol.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyalleşme.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal statü.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumun, bireylerin davranışlarını sınırlayan ve toplumsal düzeni sağlamaya yönelik resmi ve resmi olmayan mekanizmalarına ne ad verilir?",
+    "explanation": "Sosyal kontrol, toplumun üyelerinin normlara uygun davranmasını sağlamak için kullandığı yöntemler ve mekanizmalar bütünüdür. Resmi sosyal kontrol mekanizmaları yasalar, polis, mahkemeler gibi kurumları içerirken, resmi olmayan mekanizmalar ise ayıplama, alay etme, dışlama, gelenek ve görenekler gibi informal yaptırımlardır.",
+    "options": [
+      {
+        "text": "Sosyal tabakalaşma.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal değişme.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal kontrol.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal grup.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sosyal hareket.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Bireyin, toplum içinde birden fazla statüye sahip olması durumunda, bu statülerin getirdiği rollerin birbiriyle çatışmasına ne ad verilir?",
+    "explanation": "Rol çatışması, bir bireyin aynı anda sahip olduğu farklı statülerden kaynaklanan rollerin birbiriyle uyumsuz olması ve bireyden birbirine zıt davranışlar beklemesi durumudur. Örneğin, çalışan bir annenin, iş yerindeki yoğun mesai gerekliliği (iş rolü) ile çocuğuna daha fazla zaman ayırma isteği (anne rolü) arasında kalması bir rol çatışmasıdır.",
+    "options": [
+      {
+        "text": "Statü çatışması.",
+        "isCorrect": false
+      },
+      {
+        "text": "Rol çatışması.",
+        "isCorrect": true
+      },
+      {
+        "text": "Rol pekiştirmesi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Statü kaybı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimlik bunalımı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Birey ve Toplum",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  },
+  {
+    "text": "Toplumsal yapı, bir toplumu oluşturan ve birbirine bağlı olan unsurların düzenli ilişkiler bütünüdür. Aşağıdakilerden hangisi toplumsal yapının temel unsurlarından biri olarak kabul edilmez?",
+    "explanation": "Toplumsal yapının temel unsurları arasında toplumsal statü, toplumsal rol, toplumsal grup, toplumsal kurum ve toplumsal tabakalaşma yer alır. 'Toplumsal değişme' ise, bu yapıda zaman içinde meydana gelen dönüşümleri ifade eden bir süreçtir. Bu nedenle, değişme bir süreç olduğu için yapının kendisini oluşturan temel bir unsur değildir.",
+    "options": [
+      {
+        "text": "Toplumsal statü",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal rol",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal kurum",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal değişme",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal tabakalaşma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Toplumsal Yapı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Sosyoloji"
+  }
+]
