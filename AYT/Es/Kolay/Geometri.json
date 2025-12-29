@@ -1,0 +1,591 @@
+[
+  {
+    "text": "ABC üçgeninde, [DE] // [BC] ve |AD| = 4 cm, |DB| = 6 cm, |DE| = 8 cm'dir. Buna göre |BC| kaç cm'dir?",
+    "explanation": "Temel Benzerlik Teoremi'ne göre, |AD|/|AB| = |DE|/|BC|'dir. |AB| = |AD| + |DB| = 4 + 6 = 10 cm'dir. O halde 4/10 = 8/|BC| eşitliği kurulur. İçler dışlar çarpımı yapılırsa 4*|BC| = 80, buradan |BC| = 20 cm bulunur.",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Eşlik ve Benzerlik",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [DE] // [BC]'dir. |AD| = 3 cm, |AE| = 5 cm ve |EC| = 10 cm olduğuna göre, |BD| kaç cm'dir?",
+    "explanation": "Temel Benzerlik Teoremi'ne göre, |AD|/|BD| = |AE|/|EC|'dir. Verilen değerler yerine konulursa: 3/|BD| = 5/10. Buradan 3/|BD| = 1/2 olur. İçler dışlar çarpımı yapılırsa |BD| = 6 cm bulunur.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Eşlik ve Benzerlik",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC ve DEF üçgenleri için m(A) = m(D) = 50°, m(B) = m(E) = 70° ve |AB| = 6 cm, |DE| = 9 cm'dir. Bu üçgenlerin benzerlik oranı nedir?",
+    "explanation": "İki üçgenin ikişer açısı eşit olduğu için (A.A. Benzerlik Kuralı) benzerdirler. Benzerlik oranı, karşılıklı kenar uzunluklarının oranıdır. |AB| ve |DE| karşılıklı kenarlar olduğuna göre benzerlik oranı k = |AB|/|DE| = 6/9 = 2/3'tür.",
+    "options": [
+      {
+        "text": "1/2",
+        "isCorrect": false
+      },
+      {
+        "text": "2/3",
+        "isCorrect": true
+      },
+      {
+        "text": "3/4",
+        "isCorrect": false
+      },
+      {
+        "text": "3/2",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Eşlik ve Benzerlik",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [DE] // [BC]'dir. |AD| = 2 cm, |DB| = 3 cm ve |BC| = 15 cm olduğuna göre, |DE| kaç cm'dir?",
+    "explanation": "Temel Benzerlik Teoremi'ne göre, |AD|/|AB| = |DE|/|BC|'dir. |AB| = |AD| + |DB| = 2 + 3 = 5 cm'dir. O halde 2/5 = |DE|/15 eşitliği kurulur. İçler dışlar çarpımı yapılırsa 5*|DE| = 30, buradan |DE| = 6 cm bulunur.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "7.5",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Eşlik ve Benzerlik",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AN] açıortaydır. |AB| = 12 cm, |AC| = 18 cm ve |BC| = 15 cm olduğuna göre, |BN| kaç cm'dir?",
+    "explanation": "Açıortay teoremine göre, |BN|/|NC| = |AB|/|AC|'dir. Buradan |BN|/|NC| = 12/18 = 2/3 olur. |BN| = 2k ve |NC| = 3k diyelim. |BC| = |BN| + |NC| = 2k + 3k = 5k = 15 cm olduğundan, k = 3 cm bulunur. Sonuç olarak |BN| = 2k = 2*3 = 6 cm'dir.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AN] açıortaydır. |AB| = 10 cm, |AC| = 15 cm ve |BN| = 4 cm olduğuna göre, |NC| kaç cm'dir?",
+    "explanation": "Açıortay teoremine göre, |BN|/|NC| = |AB|/|AC|'dir. Verilen değerler yerine konulursa: 4/|NC| = 10/15. Buradan 4/|NC| = 2/3 olur. İçler dışlar çarpımı yapılırsa 2*|NC| = 12, buradan |NC| = 6 cm bulunur.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AN] açıortaydır. |AB| = 8 cm, |AC| = 12 cm ve |BC| = 10 cm olduğuna göre, |BN| uzunluğu kaç cm'dir?",
+    "explanation": "Açıortay teoremine göre, |BN|/|NC| = |AB|/|AC| = 8/12 = 2/3'tür. |BN| = 2k ve |NC| = 3k diyelim. |BC| = |BN| + |NC| = 2k + 3k = 5k = 10 cm olduğundan, k = 2 cm bulunur. Sonuç olarak |BN| = 2k = 2*2 = 4 cm'dir.",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde [AN] açıortaydır. |BN| = 5 cm, |NC| = 7 cm ve |AB| = 10 cm olduğuna göre, |AC| kaç cm'dir?",
+    "explanation": "Açıortay teoremine göre, |BN|/|NC| = |AB|/|AC|'dir. Verilen değerler yerine konulursa: 5/7 = 10/|AC|. İçler dışlar çarpımı yapılırsa 5*|AC| = 70, buradan |AC| = 14 cm bulunur.",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay Bağıntıları",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Koordinat düzleminde A(2, 5) ve B(8, 11) noktaları veriliyor. Buna göre |AB| uzunluğu kaç birimdir?",
+    "explanation": "İki nokta arasındaki uzaklık formülü: |AB| = √((x₂ - x₁)² + (y₂ - y₁)²). A(2,5) ve B(8,11) noktaları için: |AB| = √((8-2)² + (11-5)²) = √(6² + 6²) = √(36 + 36) = √72 = 6√2 birim.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "6√2",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Koordinat Düzlemi ve Noktanın Analitiği",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "A(1, 3) ve B(4, 7) noktaları veriliyor. [AB]'nin orta noktasının koordinatları nedir?",
+    "explanation": "Orta nokta formülü: ((x₁ + x₂)/2, (y₁ + y₂)/2). A(1,3) ve B(4,7) noktaları için orta nokta: ((1+4)/2, (3+7)/2) = (5/2, 10/2) = (2.5, 5).",
+    "options": [
+      {
+        "text": "(2, 4)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2.5, 5)",
+        "isCorrect": true
+      },
+      {
+        "text": "(3, 5)",
+        "isCorrect": false
+      },
+      {
+        "text": "(3, 6)",
+        "isCorrect": false
+      },
+      {
+        "text": "(5, 10)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Koordinat Düzlemi ve Noktanın Analitiği",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "A(-2, 4) ve B(6, -2) noktaları veriliyor. [AB] doğru parçasının orta noktasının koordinatları nedir?",
+    "explanation": "Orta nokta formülü: ((x₁ + x₂)/2, (y₁ + y₂)/2). A(-2,4) ve B(6,-2) noktaları için orta nokta: ((-2+6)/2, (4+(-2))/2) = (4/2, 2/2) = (2, 1).",
+    "options": [
+      {
+        "text": "(0, 1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(1, 2)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, 1)",
+        "isCorrect": true
+      },
+      {
+        "text": "(2, 3)",
+        "isCorrect": false
+      },
+      {
+        "text": "(4, 2)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Koordinat Düzlemi ve Noktanın Analitiği",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Koordinat düzleminde A(3, 1) ve B(9, 7) noktaları arasındaki uzaklık kaç birimdir?",
+    "explanation": "İki nokta arasındaki uzaklık formülü: |AB| = √((x₂ - x₁)² + (y₂ - y₁)²). A(3,1) ve B(9,7) noktaları için: |AB| = √((9-3)² + (7-1)²) = √(6² + 6²) = √(36 + 36) = √72 = 6√2 birim.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "6√2",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Koordinat Düzlemi ve Noktanın Analitiği",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir üçgenin iç açılarının ölçüleri oranı 2:3:4'tür. Buna göre bu üçgenin en büyük iç açısı kaç derecedir?",
+    "explanation": "Üçgenin iç açıları toplamı 180°'dir. Açılar 2k, 3k, 4k olsun. 2k + 3k + 4k = 9k = 180° -> k = 20°. En büyük açı 4k = 4*20 = 80°'dir.",
+    "options": [
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": false
+      },
+      {
+        "text": "80",
+        "isCorrect": true
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir üçgende iki iç açının ölçüleri 40° ve 70° ise, üçüncü iç açının ölçüsü kaç derecedir?",
+    "explanation": "Bir üçgenin iç açıları toplamı 180°'dir. Verilen iki açının toplamı 40° + 70° = 110°'dir. Üçüncü açı 180° - 110° = 70° olarak bulunur.",
+    "options": [
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": true
+      },
+      {
+        "text": "80",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir düzgün beşgenin bir iç açısının ölçüsü kaç derecedir?",
+    "explanation": "Düzgün bir çokgenin bir iç açısının ölçüsü: (n-2)*180 / n formülü ile bulunur. Beşgen için n=5'tir. (5-2)*180 / 5 = 3*180 / 5 = 540 / 5 = 108°.",
+    "options": [
+      {
+        "text": "90",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "108",
+        "isCorrect": true
+      },
+      {
+        "text": "120",
+        "isCorrect": false
+      },
+      {
+        "text": "135",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Merkezi M(2, -1) ve yarıçapı 5 birim olan çemberin denklemi aşağıdakilerden hangisidir?",
+    "explanation": "Merkezi (a,b) ve yarıçapı r olan çemberin denklemi (x-a)² + (y-b)² = r² formülü ile bulunur. Merkez M(2, -1) ve r=5 olduğuna göre, denklem (x-2)² + (y-(-1))² = 5², yani (x-2)² + (y+1)² = 25 olur.",
+    "options": [
+      {
+        "text": "(x-2)² + (y+1)² = 25",
+        "isCorrect": true
+      },
+      {
+        "text": "(x+2)² + (y-1)² = 25",
+        "isCorrect": false
+      },
+      {
+        "text": "(x-2)² + (y+1)² = 5",
+        "isCorrect": false
+      },
+      {
+        "text": "(x-2)² + (y-1)² = 25",
+        "isCorrect": false
+      },
+      {
+        "text": "(x+2)² + (y+1)² = 25",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çemberin Analitiği",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "x² + y² - 6x + 4y - 12 = 0 çemberinin merkezinin koordinatları nedir?",
+    "explanation": "Çember denklemi x² + y² + Dx + Ey + F = 0 formunda verildiğinde merkezin koordinatları (-D/2, -E/2) şeklinde bulunur. Denklemde D = -6 ve E = 4'tür. Bu durumda merkez (-(-6)/2, -(4)/2) = (3, -2) noktasıdır.",
+    "options": [
+      {
+        "text": "(3, -2)",
+        "isCorrect": true
+      },
+      {
+        "text": "(-3, 2)",
+        "isCorrect": false
+      },
+      {
+        "text": "(6, -4)",
+        "isCorrect": false
+      },
+      {
+        "text": "(-6, 4)",
+        "isCorrect": false
+      },
+      {
+        "text": "(2, -3)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çemberin Analitiği",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Merkezi orijinde ve yarıçapı 4 birim olan çemberin denklemi nedir?",
+    "explanation": "Merkezi orijin (0,0) ve yarıçapı r olan çemberin standart denklemi x² + y² = r²'dir. r=4 olduğu için denklem x² + y² = 16 olur.",
+    "options": [
+      {
+        "text": "x² + y² = 16",
+        "isCorrect": true
+      },
+      {
+        "text": "x² + y² = 4",
+        "isCorrect": false
+      },
+      {
+        "text": "(x-4)² + (y-4)² = 16",
+        "isCorrect": false
+      },
+      {
+        "text": "x² + y² = 8",
+        "isCorrect": false
+      },
+      {
+        "text": "(x+4)² + (y+4)² = 16",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çemberin Analitiği",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  },
+  {
+    "text": "A(1, 2) noktasının x² + y² = 25 çemberine olan uzaklığı kaç birimdir?",
+    "explanation": "Bir noktanın çembere olan uzaklığı, nokta ile çemberin merkezi arasındaki uzaklıktan çemberin yarıçapı çıkarılarak bulunur. Çemberin merkezi (0,0) ve yarıçapı 5 birimdir. A(1,2) noktasının merkeze uzaklığı √((1-0)² + (2-0)²) = √(1+4) = √5 birimdir. Nokta çemberin içinde olduğu için (√5 < 5) uzaklık yarıçap ile noktanın merkeze uzaklığının farkıdır: 5 - √5 birim.",
+    "options": [
+      {
+        "text": "5 - √5",
+        "isCorrect": true
+      },
+      {
+        "text": "√5",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "√5 - 5",
+        "isCorrect": false
+      },
+      {
+        "text": "25 - √5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çemberin Analitiği",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Geometri"
+  }
+]
