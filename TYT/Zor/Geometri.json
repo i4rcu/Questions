@@ -478,5 +478,125 @@
     "exam": "TYT",
     "difficulty": "Zor",
     "subject": "Geometri"
+  },
+  {
+    "text": "Bir doğruya dışındaki bir noktadan çizilen iki paralel doğru ile oluşan açıların ölçüleri toplamı 210 derecedir. Bu iki paralel doğrunun arasında kalan açılardan birinin ölçüsü, diğerinin ölçüsünün 2 katından 30 derece fazladır. Buna göre, bu iki paralel doğru arasında kalan küçük açının ölçüsü kaç derecedir?",
+    "explanation": "Paralel doğrular arasında kalan açılar bütünlerdir, yani toplamları 180 derecedir. Soruda verilen 210 derece, bu iki açının toplamı ile bu açıların dış bölgelerde oluşturduğu iki açının toplamıdır. Ancak, paralel doğrularla oluşan yöndeş, iç ters ve dış ters açılar eşittir. Daha basit bir yaklaşımla, iki paralel doğru arasında kalan açılara x ve y diyelim. Soruda verilen 'aralarında kalan açılardan biri' ifadesi ile bu açılar kastedilmektedir. Bu açılar bütünler olduğu için x + y = 180'dir. Ayrıca, bir açı diğerinin 2 katından 30 fazla ise, küçük açıya a dersek, büyük açı 2a + 30 olur. Denklemi kuralım: a + (2a + 30) = 180 -> 3a + 30 = 180 -> 3a = 150 -> a = 50. Küçük açı 50 derecedir.",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": false
+      },
+      {
+        "text": "80",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir ABC üçgeninde |AB| = 10 cm, |AC| = 8 cm ve |BC| = x cm'dir. m(∠BAC) > 90° olduğuna göre, x'in alabileceği tam sayı değerlerinin toplamı kaçtır?",
+    "explanation": "Bir üçgende bir açı 90°'den büyükse, bu açının karşısındaki kenar en uzun kenardır. A açısı 90°'den büyük olduğuna göre, bu açının karşısındaki kenar |BC| = x en uzun kenar olmalıdır. Ayrıca üçgen eşitsizliğini de sağlamalıdır. Üçgen eşitsizliğine göre: |10 - 8| < x < 10 + 8 => 2 < x < 18. A açısı geniş açı olduğu için x kenarı hem 10'dan hem de 8'den büyük olmalıdır. Bu durumda x > 10 olur. Eşitsizlikleri birleştirirsek: 10 < x < 18. x tam sayı olduğuna göre alabileceği değerler 11, 12, 13, 14, 15, 16, 17'dir. Bu değerlerin toplamı: 11+12+13+14+15+16+17 = 98.",
+    "options": [
+      {
+        "text": "96",
+        "isCorrect": false
+      },
+      {
+        "text": "98",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "102",
+        "isCorrect": false
+      },
+      {
+        "text": "104",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açı-Kenar Bağıntıları",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC ve DBE birer üçgendir. [AB] ⊥ [BC], [DE] ⊥ [BE], |AB| = 6 cm, |BC| = 8 cm ve |DE| = 9 cm'dir. A, D, C noktaları doğrusal ve B, E, C noktaları doğrusaldır. |EC| = 4 cm olduğuna göre, |DB| kaç cm'dir?",
+    "explanation": "ABC üçgeni ile DBE üçgeni benzerdir çünkü m(∠ABC) = m(∠DBE) = 90° ve A, D, C ile B, E, C doğrusal olduğu için m(∠ACB) = m(∠DEB)'dir (iç ters açılar veya ortak açı). Bu durumda üçgenlerin benzerlik oranını bulabiliriz. Önce ABC üçgeninin |AC| kenarını Pisagor teoreminden bulalım: |AC| = √(6² + 8²) = √(36+64) = √100 = 10 cm. |EC| = 4 cm verilmiş. |BC| = 8 cm olduğuna göre, |BE| = |BC| - |EC| = 8 - 4 = 4 cm. Benzerlik oranı, karşılıklı dik kenarların oranıdır. ABC üçgenindeki |BC| = 8 cm kenarının, DBE üçgenindeki karşılığı |BE| = 4 cm'dir. Oran 8/4 = 2'dir. Yani ABC üçgeni DBE üçgeninin 2 katıdır. ABC üçgenindeki |AB| = 6 cm kenarının, DBE üçgenindeki karşılığı |DB|'dir. Bu durumda |AB| / |DB| = 2 => 6 / |DB| = 2 => |DB| = 3 cm.",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Benzerlik",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Geometri"
+  },
+  {
+    "text": "ABC üçgeninde G ağırlık merkezidir. [AG] kenarortayının uzunluğu 12 cm'dir. D ve E noktaları sırasıyla [AB] ve [AC] kenarlarının orta noktalarıdır. [DE] // [BC] ve |DE| = 10 cm olduğuna göre, |BC| kaç cm'dir?",
+    "explanation": "ABC üçgeninde D ve E orta noktalar olduğu için [DE] orta tabandır ve |BC| = 2 * |DE| = 2 * 10 = 20 cm'dir. G ağırlık merkezi olduğu için [AG] kenarortayının uzunluğu verilmiş (12 cm) ancak bu bilgi sorunun çözümü için gereksizdir çünkü |BC|'yi bulmak için sadece orta taban kuralı yeterlidir. |DE| = 10 cm ise, |BC| = 20 cm olur.",
+    "options": [
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": true
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açıortay-Kenarortay",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Geometri"
   }
 ]
