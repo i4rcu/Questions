@@ -1,0 +1,901 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi Halk edebiyatı nazım şekillerinden biri değildir?",
+    "explanation": "Halk edebiyatı nazım şekilleri arasında koşma, mani, türkü, destan, semai, varsağı gibi türler bulunur. Gazel ise Divan edebiyatına özgü bir nazım şeklidir.",
+    "options": [
+      {
+        "text": "Koşma",
+        "isCorrect": false
+      },
+      {
+        "text": "Mani",
+        "isCorrect": false
+      },
+      {
+        "text": "Gazel",
+        "isCorrect": true
+      },
+      {
+        "text": "Türkü",
+        "isCorrect": false
+      },
+      {
+        "text": "Semai",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Halk Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Halk edebiyatının en yaygın türü olan ve genellikle aşk, doğa, ayrılık gibi konuları işleyen nazım şekli aşağıdakilerden hangisidir?",
+    "explanation": "Halk edebiyatında en çok kullanılan nazım şekli koşmadır. Koşmalar genellikle lirik konuları işler ve 11'li hece ölçüsüyle yazılır.",
+    "options": [
+      {
+        "text": "Destan",
+        "isCorrect": false
+      },
+      {
+        "text": "Mani",
+        "isCorrect": false
+      },
+      {
+        "text": "Koşma",
+        "isCorrect": true
+      },
+      {
+        "text": "Varsağı",
+        "isCorrect": false
+      },
+      {
+        "text": "Türkü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Halk Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Âşık edebiyatında, saz eşliğinde söylenen ve kendine özgü bir ezgiyle okunan şiir türü aşağıdakilerden hangisidir?",
+    "explanation": "Âşık edebiyatında, saz eşliğinde söylenen ve kendine özgü bir ezgiyle okunan şiir türü türküdür. Türküler anonimdir veya söyleyeni belli olabilir.",
+    "options": [
+      {
+        "text": "Koşma",
+        "isCorrect": false
+      },
+      {
+        "text": "Semai",
+        "isCorrect": false
+      },
+      {
+        "text": "Varsağı",
+        "isCorrect": false
+      },
+      {
+        "text": "Destan",
+        "isCorrect": false
+      },
+      {
+        "text": "Türkü",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Halk Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki sanatçılardan hangisi Halk edebiyatı geleneği içinde değerlendirilemez?",
+    "explanation": "Karacaoğlan, Dadaloğlu ve Âşık Veysel, Halk edebiyatı geleneğinin önemli temsilcileridir. Yahya Kemal Beyatlı ise Milli Edebiyat ve sonrasında eser vermiş, daha çok modern Türk şiirinin kurucularından biri olarak kabul edilir.",
+    "options": [
+      {
+        "text": "Karacaoğlan",
+        "isCorrect": false
+      },
+      {
+        "text": "Dadaloğlu",
+        "isCorrect": false
+      },
+      {
+        "text": "Âşık Veysel",
+        "isCorrect": false
+      },
+      {
+        "text": "Yahya Kemal Beyatlı",
+        "isCorrect": true
+      },
+      {
+        "text": "Seyrani",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Halk Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Sanatı, güzellik ve hoşa gitme amacına bağlayan; 'Sanat, sanat içindir.' görüşünü benimseyen edebî akım aşağıdakilerden hangisidir?",
+    "explanation": "Sanatı, güzellik ve hoşa gitme amacına bağlayan; 'Sanat, sanat içindir.' (L'art pour l'art) görüşünü benimseyen edebî akım Estetikçilik (Güzellikçilik) olarak da bilinen Parnasizm'dir.",
+    "options": [
+      {
+        "text": "Realizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Romantizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Klasisizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Parnasizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Sembolizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Akımlar",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Akıl ve sağduyuya önem veren, dilde ve anlatımda kusursuzluğu hedefleyen, Yunan ve Latin kaynaklarına yönelen edebî akım aşağıdakilerden hangisidir?",
+    "explanation": "Akıl ve sağduyuya önem veren, dilde ve anlatımda kusursuzluğu hedefleyen, Yunan ve Latin kaynaklarına yönelen edebî akım Klasisizm'dir.",
+    "options": [
+      {
+        "text": "Realizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Romantizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Klasisizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Naturalizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Sürrealizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Akımlar",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Hayali ve duygusal ögelere, bireyin iç dünyasına, doğa ve insan sevgisine yer veren, Klasisizme tepki olarak doğan akım aşağıdakilerden hangisidir?",
+    "explanation": "Hayali ve duygusal ögelere, bireyin iç dünyasına, doğa ve insan sevgisine yer veren, Klasisizme tepki olarak doğan akım Romantizm'dir.",
+    "options": [
+      {
+        "text": "Realizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Romantizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Parnasizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Sembolizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekspresyonizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Akımlar",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Toplumu ve insanı bir bilim adamı gözüyle inceleyen, gözlem ve belgelere dayanan, Realizmi daha da ileri götüren edebî akım aşağıdakilerden hangisidir?",
+    "explanation": "Toplumu ve insanı bir bilim adamı gözüyle inceleyen, gözlem ve belgelere dayanan, Realizmi daha da ileri götüren, determinizm anlayışını benimseyen edebî akım Naturalizm'dir.",
+    "options": [
+      {
+        "text": "Realizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Naturalizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Parnasizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Empresyonizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Klasisizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Akımlar",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki eser-yazar eşleştirmelerinden hangisi Çağdaş Türk Edebiyatı için yanlıştır?",
+    "explanation": "Orhan Veli Kanık, Oktay Rifat ve Melih Cevdet Anday 'Garip' akımının temsilcileridir ve Çağdaş Türk Edebiyatı döneminde eser vermişlerdir. Fuzuli ise 16. yüzyılda yaşamış bir Divan edebiyatı şairidir.",
+    "options": [
+      {
+        "text": "Orhan Veli Kanık - Garip",
+        "isCorrect": false
+      },
+      {
+        "text": "Oktay Rifat - Yaşayıp Ölmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Fuzuli - Leyla ile Mecnun",
+        "isCorrect": true
+      },
+      {
+        "text": "Melih Cevdet Anday - Rahatı Kaçan Ağaç",
+        "isCorrect": false
+      },
+      {
+        "text": "Sait Faik Abasıyanık - Semaver",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çağdaş Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "İkinci Yeni şiir akımının önemli temsilcileri arasında aşağıdakilerden hangisi yer almaz?",
+    "explanation": "İkinci Yeni şiir akımının önemli temsilcileri arasında Edip Cansever, Cemal Süreya, Turgut Uyar, İlhan Berk, Ece Ayhan gibi isimler sayılır. Faruk Nafiz Çamlıbel ise Milli Edebiyat ve Beş Hececiler dönemine ait bir şairdir.",
+    "options": [
+      {
+        "text": "Edip Cansever",
+        "isCorrect": false
+      },
+      {
+        "text": "Cemal Süreya",
+        "isCorrect": false
+      },
+      {
+        "text": "Faruk Nafiz Çamlıbel",
+        "isCorrect": true
+      },
+      {
+        "text": "Turgut Uyar",
+        "isCorrect": false
+      },
+      {
+        "text": "İlhan Berk",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çağdaş Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki yazarlardan hangisi Çağdaş Türk Edebiyatı'nın öykü türündeki önemli temsilcilerinden biri değildir?",
+    "explanation": "Sait Faik Abasıyanık, Memduh Şevket Esendal ve Sabahattin Ali Çağdaş Türk Edebiyatı'nın önemli öykücülerindendir. Nâzım Hikmet ise daha çok şiirleriyle tanınır, öykücü olarak ön plana çıkmamıştır.",
+    "options": [
+      {
+        "text": "Sait Faik Abasıyanık",
+        "isCorrect": false
+      },
+      {
+        "text": "Memduh Şevket Esendal",
+        "isCorrect": false
+      },
+      {
+        "text": "Sabahattin Ali",
+        "isCorrect": false
+      },
+      {
+        "text": "Nâzım Hikmet",
+        "isCorrect": true
+      },
+      {
+        "text": "Haldun Taner",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çağdaş Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Toplumcu gerçekçi anlayışla eserler veren ve 'Memed, my Hawk' (İnce Memed) romanıyla ünlenen yazar aşağıdakilerden hangisidir?",
+    "explanation": "Toplumcu gerçekçi anlayışla eserler veren ve 'İnce Memed' romanıyla ünlenen yazar Yaşar Kemal'dir.",
+    "options": [
+      {
+        "text": "Orhan Kemal",
+        "isCorrect": false
+      },
+      {
+        "text": "Kemal Tahir",
+        "isCorrect": false
+      },
+      {
+        "text": "Yaşar Kemal",
+        "isCorrect": true
+      },
+      {
+        "text": "Attilâ İlhan",
+        "isCorrect": false
+      },
+      {
+        "text": "Rıfat Ilgaz",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çağdaş Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Milli Edebiyat akımının dil anlayışı aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
+    "explanation": "Milli Edebiyat akımının en temel ilkelerinden biri, dilde sadeleşmeyi savunmak ve İstanbul Türkçesini esas almaktır. Arapça ve Farsça tamlamalardan uzak, anlaşılır bir dil kullanımı hedeflenmiştir.",
+    "options": [
+      {
+        "text": "Ağırlıklı olarak Arapça ve Farsça sözcükler kullanılmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dil, Osmanlıcanın karmaşık yapısı korunarak kullanılmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Halkın anlayacağı, sade bir İstanbul Türkçesi kullanılmalıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dilde batı dillerinden alınan sözcükler ön plana çıkarılmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Şiirde aruz ölçüsü, düzyazıda sade dil kullanılmalıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Milli Edebiyat",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki eserlerden hangisi Milli Edebiyat dönemi sanatçılarından Ömer Seyfettin'e aittir?",
+    "explanation": "Ömer Seyfettin, Milli Edebiyat akımının öncülerindendir ve özellikle öyküleriyle tanınır. 'Bomba', 'Falaka', 'Kaşağı', 'Pembe İncili Kaftan' onun ünlü öykülerindendir. 'Sodom ve Gomore' ise Yakup Kadri Karaosmanoğlu'nun romanıdır.",
+    "options": [
+      {
+        "text": "Sodom ve Gomore",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiralık Konak",
+        "isCorrect": false
+      },
+      {
+        "text": "Çalıkuşu",
+        "isCorrect": false
+      },
+      {
+        "text": "Falaka",
+        "isCorrect": true
+      },
+      {
+        "text": "Mai ve Siyah",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Milli Edebiyat",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Milli Edebiyat döneminde 'Türkçülük' ideolojisini sistemleştiren ve bu akımın fikir babası olarak kabul edilen yazar aşağıdakilerden hangisidir?",
+    "explanation": "Milli Edebiyat döneminde 'Türkçülük' ideolojisini sistemleştiren ve bu akımın fikir babası olarak kabul edilen yazar Ziya Gökalp'tir. 'Türkleşmek, İslamlaşmak, Muasırlaşmak' eseri onun bu görüşlerini ortaya koyduğu önemli bir yapıttır.",
+    "options": [
+      {
+        "text": "Mehmet Emin Yurdakul",
+        "isCorrect": false
+      },
+      {
+        "text": "Ömer Seyfettin",
+        "isCorrect": false
+      },
+      {
+        "text": "Ziya Gökalp",
+        "isCorrect": true
+      },
+      {
+        "text": "Ali Canip Yöntem",
+        "isCorrect": false
+      },
+      {
+        "text": "Halide Edip Adıvar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Milli Edebiyat",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Fecr-i Ati topluluğunun yayımladığı bildiride aşağıdaki sanat anlayışlarından hangisi savunulmuştur?",
+    "explanation": "Fecr-i Ati topluluğu, 1910 yılında yayımladığı bildiride 'Sanat şahsi ve muhteremdir.' ilkesini benimsemiştir. Bu, sanatın kişisel ve saygıdeğer olduğu anlamına gelir.",
+    "options": [
+      {
+        "text": "Sanat toplum içindir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanat, halka doğru gitmelidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanat şahsi ve muhteremdir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sanat, ulusal olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanat, didaktik olmalıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fecr-i Ati Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki sanatçılardan hangisi Fecr-i Ati topluluğu içinde yer almıştır?",
+    "explanation": "Ahmet Haşim, Fecr-i Ati topluluğunun en önemli ve tanınmış şairidir. 'Piyale' ve 'Göl Saatleri' eserleriyle bilinir.",
+    "options": [
+      {
+        "text": "Mehmet Akif Ersoy",
+        "isCorrect": false
+      },
+      {
+        "text": "Yahya Kemal Beyatlı",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahmet Haşim",
+        "isCorrect": true
+      },
+      {
+        "text": "Ömer Seyfettin",
+        "isCorrect": false
+      },
+      {
+        "text": "Ziya Gökalp",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fecr-i Ati Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Fecr-i Ati Edebiyatı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Fecr-i Ati topluluğu, Servet-i Fünun edebiyatına bir tepki olarak doğmuştur. Servet-i Fünun'un bireyci ve kapalı anlayışına karşı, daha canlı ve topluluk ruhuyla hareket etmeyi amaçlamışlardır.",
+    "options": [
+      {
+        "text": "Millî Edebiyat akımının devamı niteliğindedir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servet-i Fünun edebiyatına bir tepki olarak doğmuştur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Halkın konuşma dilini kullanmayı esas almıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Topluluğun ömrü uzun sürmüş ve birçok eser vermiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Daha çok tiyatro türünde eserler vermişlerdir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fecr-i Ati Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Fecr-i Ati topluluğunun dağılmasından sonra hangi sanatçı 'Millî Edebiyat' akımına katılmamıştır?",
+    "explanation": "Fecr-i Ati dağıldıktan sonra birçok sanatçı Millî Edebiyat akımına katılmıştır. Ancak Ahmet Haşim, bağımsız bir sanat anlayışını sürdürmüş ve bu akıma dahil olmamıştır.",
+    "options": [
+      {
+        "text": "Yakup Kadri Karaosmanoğlu",
+        "isCorrect": false
+      },
+      {
+        "text": "Refik Halit Karay",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahmet Haşim",
+        "isCorrect": true
+      },
+      {
+        "text": "Fuat Köprülü",
+        "isCorrect": false
+      },
+      {
+        "text": "Hamdullah Suphi Tanrıöver",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fecr-i Ati Edebiyatı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Bir şiirde asıl anlamı dışında kullanılan, okuyucuda güzel çağrışımlar uyandırmak amacıyla yer verilen sözcüklere ne ad verilir?",
+    "explanation": "Mecaz anlam, bir sözcüğün gerçek anlamı dışında, benzetme veya başka bir ilişki kurularak kullanılmasıdır. Şiirde zenginlik ve güzel çağrışımlar yaratmak için kullanılır.",
+    "options": [
+      {
+        "text": "Gerçek anlam",
+        "isCorrect": false
+      },
+      {
+        "text": "Mecaz anlam",
+        "isCorrect": true
+      },
+      {
+        "text": "Terim anlam",
+        "isCorrect": false
+      },
+      {
+        "text": "Yan anlam",
+        "isCorrect": false
+      },
+      {
+        "text": "Somut anlam",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Bilgiler(Şiir Bilgisi)",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Şiirde, aynı ünsüz harflerin tekrarlanmasıyla oluşturulan ahenge ne denir?",
+    "explanation": "Aliterasyon, şiirde ahenk sağlamak amacıyla aynı ünsüz harflerin tekrarlanmasıdır. Örneğin, 'Şakaklarıma kar mı yağdı ne?' dizesindeki 'k' seslerinin tekrarı.",
+    "options": [
+      {
+        "text": "Kafiye",
+        "isCorrect": false
+      },
+      {
+        "text": "Aliterasyon",
+        "isCorrect": true
+      },
+      {
+        "text": "Asonans",
+        "isCorrect": false
+      },
+      {
+        "text": "Ölçü",
+        "isCorrect": false
+      },
+      {
+        "text": "Redif",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Bilgiler(Şiir Bilgisi)",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Dize sonlarındaki yazılışları ve görevleri aynı olan ek veya sözcüklerin tekrarlanmasıyla oluşan ahenk unsuru aşağıdakilerden hangisidir?",
+    "explanation": "Redif, dize sonlarında, görevleri aynı olan eklerin veya anlamları aynı olan sözcüklerin tekrarlanmasıdır. Kafiyeden sonra gelir.",
+    "options": [
+      {
+        "text": "Aliterasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Asonans",
+        "isCorrect": false
+      },
+      {
+        "text": "Kafiye",
+        "isCorrect": false
+      },
+      {
+        "text": "Redif",
+        "isCorrect": true
+      },
+      {
+        "text": "İç kafiye",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Bilgiler(Şiir Bilgisi)",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir şiirin biçimsel özelliklerinden biri değildir?",
+    "explanation": "Tema, bir şiirin konusu veya ana fikridir; içerikle ilgilidir. Nazım birimi, ölçü, kafiye ve redif ise şiirin biçimsel (şekilsel) özellikleridir.",
+    "options": [
+      {
+        "text": "Nazım birimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ölçü",
+        "isCorrect": false
+      },
+      {
+        "text": "Kafiye",
+        "isCorrect": false
+      },
+      {
+        "text": "Redif",
+        "isCorrect": false
+      },
+      {
+        "text": "Tema",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Edebî Bilgiler(Şiir Bilgisi)",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki eserlerden hangisi 'Köy Romanı' türünün önemli örneklerinden biridir?",
+    "explanation": "Mahmut Makal'ın 'Bizim Köy' adlı eseri, Cumhuriyet Dönemi'nde köy ve köylünün gerçekçi bir şekilde anlatıldığı, köy romanı türünün öncü eserlerindendir.",
+    "options": [
+      {
+        "text": "Kiralık Konak",
+        "isCorrect": false
+      },
+      {
+        "text": "Huzur",
+        "isCorrect": false
+      },
+      {
+        "text": "Saatleri Ayarlama Enstitüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Bizim Köy",
+        "isCorrect": true
+      },
+      {
+        "text": "Ağır Roman",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cumhuriyet Romanı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Cumhuriyet Dönemi romanları için aşağıdakilerden hangisi söylenemez?",
+    "explanation": "Cumhuriyet Dönemi romanlarında genellikle sade ve anlaşılır bir Türkçe kullanılmıştır. Ağır, anlaşılması güç, süslü bir dil kullanımı daha çok Servet-i Fünun Dönemi'ne aittir.",
+    "options": [
+      {
+        "text": "Toplumsal konular işlenmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Anadolu ve köy hayatına yönelmişlerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağır ve süslü bir dil kullanılmıştır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Realizm ve natüralizm akımlarının etkisi görülür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireyin iç dünyası da ele alınmıştır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cumhuriyet Romanı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki yazar-eser eşleştirmelerinden hangisi yanlıştır?",
+    "explanation": "Peyami Safa'nın ünlü psikolojik romanı 'Dokuzuncu Hariciye Koğuşu'dur. 'Yalnızız' da onun bir başka romanıdır. 'Anayurt Oteli' ise Yusuf Atılgan'ın romanıdır.",
+    "options": [
+      {
+        "text": "Yakup Kadri Karaosmanoğlu - Yaban",
+        "isCorrect": false
+      },
+      {
+        "text": "Halide Edip Adıvar - Sinekli Bakkal",
+        "isCorrect": false
+      },
+      {
+        "text": "Reşat Nuri Güntekin - Çalıkuşu",
+        "isCorrect": false
+      },
+      {
+        "text": "Peyami Safa - Anayurt Oteli",
+        "isCorrect": true
+      },
+      {
+        "text": "Ahmet Hamdi Tanpınar - Huzur",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cumhuriyet Romanı",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "\"Bu kitabı okuduktan sonra hayata bakışım değişti.\" cümlesinde altı çizili söz grubunun cümleye kattığı anlam aşağıdakilerden hangisidir?",
+    "explanation": "'Hayata bakışım değişti' ifadesi, kişinin dünyayı algılama, yorumlama ve değerlendirme biçiminin farklılaştığını gösterir. Yani dünya görüşü değişmiştir.",
+    "options": [
+      {
+        "text": "Fiziksel görünümün değişmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "İş yerinin değişmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Dünya görüşünün değişmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Göz bozukluğunun ortaya çıkması",
+        "isCorrect": false
+      },
+      {
+        "text": "Günlük rutinlerin değişmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlam Bilgisi (Sözcükte, Cümlede ve Paragrafta Anlam)",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "\"Yazar, bu öyküsünde okuyucuyu sıkmamak için gereksiz ayrıntılara yer vermemiş.\" cümlesinde vurgulanan düşünce nedir?",
+    "explanation": "Cümlede, yazarın öyküyü daha çekici ve akıcı hale getirmek için öz ve yoğun bir anlatımı tercih ettiği, fazladan bilgiler kullanmadığı vurgulanmaktadır. Bu, 'özlü anlatım' ile ilgilidir.",
+    "options": [
+      {
+        "text": "Öykünün uzun olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ayrıntılı betimlemeler yapılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Öykünün sürükleyici olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Özlü anlatıma önem verilmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Okuyucunun sabırsız olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlam Bilgisi (Sözcükte, Cümlede ve Paragrafta Anlam)",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "(1) Sanat, insanın duygularını ve düşüncelerini ifade etme biçimidir. (2) Her sanat eseri, onu yaratan kişinin iç dünyasından bir parça taşır. (3) Bu nedenle sanat eserlerini anlamak, sanatçının ruh halini anlamaya çalışmak demektir. (4) Bazı eleştirmenler ise sanatı sadece teknik açıdan değerlendirmeyi tercih eder. (5) Oysa gerçek bir sanat eseri, hem teknik mükemmellik hem de derin bir anlam taşımalıdır. Bu parçada numaralanmış cümlelerden hangisi ana düşünceyi destekleyen bir yardımcı düşüncedir?",
+    "explanation": "Paragrafın ana düşüncesi, sanat eserlerinin hem teknik hem de anlam derinliği açısından değerlendirilmesi gerektiğidir (5. cümle). 2. cümle, 'Her sanat eseri, onu yaratan kişinin iç dünyasından bir parça taşır.' ifadesiyle, sanatın kişisel bir ifade olduğunu belirterek ana düşünceyi destekleyen bir yardımcı düşüncedir.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlam Bilgisi (Sözcükte, Cümlede ve Paragrafta Anlam)",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  }
+]
