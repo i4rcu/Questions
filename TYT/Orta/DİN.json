@@ -238,5 +238,35 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdaki ifadelerden hangisi insanın doğuştan gelen din duygusu (fıtrat) ile ilgili olarak İslam inancında kabul edilen görüşü yansıtmaktadır?",
+    "explanation": "İslam inancına göre, insan yaratılışı gereği (fıtrat üzere) inanma ihtiyacı ile doğar. Bu, onun yaratıcısını tanıma ve O'na yönelme potansiyelini taşıdığı anlamına gelir. Çevre ve eğitim, bu doğuştan gelen potansiyelin açığa çıkmasında veya körelmesinde etkili olur. Doğru seçenek, bu temel görüşü ifade eden 'İnsan, fıtratı gereği inanma ihtiyacı ile doğar.' ifadesidir.",
+    "options": [
+      {
+        "text": "İnsan, fıtratı gereği inanma ihtiyacı ile doğar.",
+        "isCorrect": true
+      },
+      {
+        "text": "İnanç, tamamen sonradan öğrenilen bir olgudur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Din duygusu, sadece toplumsal bir zorunluluktan kaynaklanır.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsanın inançsız doğduğu ve dinin bir icat olduğu kabul edilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fıtrat, insanın sadece biyolojik yapısını ifade eder.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Din (İnanç)",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Din Kültürü"
   }
 ]
