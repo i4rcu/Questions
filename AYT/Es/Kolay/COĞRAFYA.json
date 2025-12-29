@@ -1,0 +1,188 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi, bir yerleşim yerinin nüfus özelliklerini belirleyen beşeri faktörlerden biri değildir?",
+    "explanation": "Bir yerleşim yerinin nüfus özelliklerini belirleyen beşeri faktörler arasında sanayi, tarım, ticaret, ulaşım ve turizm gibi ekonomik faaliyetler yer alır. Yer şekilleri ise fiziki coğrafyanın bir unsuru olup beşeri bir sistem değildir.",
+    "options": [
+      {
+        "text": "Sanayi tesislerinin varlığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarım alanlarının genişliği",
+        "isCorrect": false
+      },
+      {
+        "text": "Yer şekillerinin engebeliliği",
+        "isCorrect": true
+      },
+      {
+        "text": "Ticaret merkezlerinin yoğunluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Turizm potansiyeli",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'nin aşağıda verilen fiziki coğrafya özelliklerinden hangisi, ülke içindeki ulaşımı doğrudan olumsuz etkileyen bir faktördür?",
+    "explanation": "Türkiye'de dağların genellikle doğu-batı doğrultusunda uzanması, kuzey-güney yönlü ulaşımı zorlaştırarak geçitler ve tüneller inşa etmeyi gerektirir. Bu durum ulaşım maliyetlerini artırır ve seyahat sürelerini uzatır, dolayısıyla doğrudan olumsuz bir etkidir.",
+    "options": [
+      {
+        "text": "Ortalama yükseltinin fazla olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Dağların doğu-batı doğrultusunda uzanması",
+        "isCorrect": true
+      },
+      {
+        "text": "Kıyılarında girinti ve çıkıntının fazla olması",
+        "isCorrect": false
+      },
+      {
+        "text": "İklim çeşitliliğinin görülmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Akarsu ağının sık olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de modern (entansif) tarım yöntemlerinin yaygın olarak uygulandığı tarım ürünü aşağıdakilerden hangisidir?",
+    "explanation": "Modern (entansif) tarım, birim alandan yüksek verim almak için sulama, gübreleme, ilaçlama ve kaliteli tohum kullanımı gibi yöntemlerin yoğun şekilde uygulandığı tarım şeklidir. Türkiye'de şeker pancarı tarımı, belirli bir sanayiye (şeker fabrikaları) dayalı olduğu için bu yöntemlerle yapılır.",
+    "options": [
+      {
+        "text": "Buğday",
+        "isCorrect": false
+      },
+      {
+        "text": "Arpa",
+        "isCorrect": false
+      },
+      {
+        "text": "Şeker pancarı",
+        "isCorrect": true
+      },
+      {
+        "text": "Mercimek",
+        "isCorrect": false
+      },
+      {
+        "text": "Tütün",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki bölgesel kalkınma projelerinden hangisi, temel amacı Doğu Anadolu Bölgesi'nde hayvancılığı geliştirmek ve sanayi yatırımlarını artırmak olan projedir?",
+    "explanation": "Doğu Anadolu Projesi (DAP), Doğu Anadolu Bölgesi'nde hayvancılık, tarım ve sanayiyi geliştirerek bölgenin sosyo-ekonomik kalkınmasını sağlamayı amaçlayan bir bölgesel kalkınma projesidir.",
+    "options": [
+      {
+        "text": "Güneydoğu Anadolu Projesi (GAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Karadeniz Projesi (DOKAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Projesi (DAP)",
+        "isCorrect": true
+      },
+      {
+        "text": "Yeşilırmak Havzası Gelişim Projesi (YHGP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Zonguldak, Bartın, Karabük Projesi (ZBK)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi, hem Avrupa hem de Asya kıtasında toprakları bulunan (çift kıtalı) bir ülkedir?",
+    "explanation": "Rusya Federasyonu, topraklarının büyük bir bölümü Asya kıtasında (Sibirya) yer alırken, batıdaki toprakları Avrupa kıtasındadır. Bu nedenle çift kıtalı bir ülkedir.",
+    "options": [
+      {
+        "text": "Almanya",
+        "isCorrect": false
+      },
+      {
+        "text": "İspanya",
+        "isCorrect": false
+      },
+      {
+        "text": "Mısır",
+        "isCorrect": false
+      },
+      {
+        "text": "Rusya",
+        "isCorrect": true
+      },
+      {
+        "text": "Çin",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülkelerden hangisi, dünyanın en büyük kahve üreticisi ve ihracatçısı olarak bilinmektedir?",
+    "explanation": "Brezilya, geniş tarım alanları ve uygun iklim koşulları sayesinde dünya kahve üretiminde ve ihracatında açık ara lider konumundadır.",
+    "options": [
+      {
+        "text": "Kolombiya",
+        "isCorrect": false
+      },
+      {
+        "text": "Vietnam",
+        "isCorrect": false
+      },
+      {
+        "text": "Endonezya",
+        "isCorrect": false
+      },
+      {
+        "text": "Brezilya",
+        "isCorrect": true
+      },
+      {
+        "text": "Etiyopya",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ülkeler Coğrafyası",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Kolay",
+    "subject": "Coğrafya"
+  }
+]
