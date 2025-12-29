@@ -1,0 +1,498 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi imanın sözlük anlamına en uygun tanımdır?",
+    "explanation": "İman kelimesi sözlükte 'tasdik etmek, inanmak, güvenmek' anlamlarına gelir. Bir şeyi doğrulamak ve kabul etmek imanın temel anlamını oluşturur.",
+    "options": [
+      {
+        "text": "Bir şeyi doğrulamak ve kabul etmek",
+        "isCorrect": true
+      },
+      {
+        "text": "İbadetleri yerine getirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahlaklı bir insan olmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal kurallara uymak",
+        "isCorrect": false
+      },
+      {
+        "text": "Dini ritüelleri öğrenmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnançla İlgili Meseleler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam inancına göre, Allah'ın varlığı ve birliği aşağıdaki kavramlardan hangisi ile ifade edilir?",
+    "explanation": "Allah'ın varlığının ve birliğinin en temel ifadesi 'Tevhid' kavramıdır. Tevhid, Allah'ın zatında, sıfatlarında ve fiillerinde tek olduğunu kabul etmek demektir.",
+    "options": [
+      {
+        "text": "Tevhid",
+        "isCorrect": true
+      },
+      {
+        "text": "Nübüvvet",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahiret",
+        "isCorrect": false
+      },
+      {
+        "text": "Kader",
+        "isCorrect": false
+      },
+      {
+        "text": "İhsan",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnançla İlgili Meseleler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi 'küfür' kavramının tanımıdır?",
+    "explanation": "Küfür, İslam dininin temel prensiplerini, Allah'ın varlığını ve birliğini veya Hz. Muhammed'in peygamberliğini inkâr etmek anlamına gelir.",
+    "options": [
+      {
+        "text": "İslam'ın temel prensiplerini inkâr etmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Günah işlemek",
+        "isCorrect": false
+      },
+      {
+        "text": "İbadetleri terk etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Şüphe duymak",
+        "isCorrect": false
+      },
+      {
+        "text": "Bid'at işlemek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnançla İlgili Meseleler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Peygamberlere iman, İslam inancının temel esaslarından hangisinin bir parçasıdır?",
+    "explanation": "Peygamberlere iman, 'Nübüvvet' inancının bir parçasıdır. Nübüvvet, Allah'ın insanlara rehberlik etmeleri için peygamberler gönderdiğine inanmayı ifade eder.",
+    "options": [
+      {
+        "text": "Nübüvvet",
+        "isCorrect": true
+      },
+      {
+        "text": "Tevhid",
+        "isCorrect": false
+      },
+      {
+        "text": "Kader",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahiret",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıyamet",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnançla İlgili Meseleler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Tasavvufi düşüncede, Allah'tan başka her şeyi kalpten çıkarmak anlamına gelen temel kavram aşağıdakilerden hangisidir?",
+    "explanation": "Tasavvufta 'Tecrid' kavramı, kişinin kalbini Allah'tan başka her şeyden arındırması, dünyevi bağlardan kopması anlamına gelir.",
+    "options": [
+      {
+        "text": "Tecrid",
+        "isCorrect": true
+      },
+      {
+        "text": "Zühd",
+        "isCorrect": false
+      },
+      {
+        "text": "Fenafillah",
+        "isCorrect": false
+      },
+      {
+        "text": "Vahdet-i Vücud",
+        "isCorrect": false
+      },
+      {
+        "text": "Seyr-i süluk",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Düşüncesinde Tasavvufi Yorumlar ve Mezhepler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdaki mezheplerden hangisi itikadi (inanç) mezheplerden biridir?",
+    "explanation": "Maturidilik, itikadi (inançla ilgili) mezheplerden biridir. İmam Maturidi'nin görüşlerini temel alır.",
+    "options": [
+      {
+        "text": "Maturidilik",
+        "isCorrect": true
+      },
+      {
+        "text": "Hanefilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Şafilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Hanbelilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Malikilik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Düşüncesinde Tasavvufi Yorumlar ve Mezhepler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Tasavvuf yolunda bir mürşidin rehberliğinde manevi eğitim alma sürecine ne ad verilir?",
+    "explanation": "Tasavvuf yolunda, bir mürşid (rehber) eşliğinde manevi terbiye ve olgunlaşma sürecine 'Seyr-i süluk' adı verilir.",
+    "options": [
+      {
+        "text": "Seyr-i süluk",
+        "isCorrect": true
+      },
+      {
+        "text": "Riyazet",
+        "isCorrect": false
+      },
+      {
+        "text": "Mücahede",
+        "isCorrect": false
+      },
+      {
+        "text": "Halvet",
+        "isCorrect": false
+      },
+      {
+        "text": "Cem",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Düşüncesinde Tasavvufi Yorumlar ve Mezhepler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi fıkhi (ameli) mezheplerden biri değildir?",
+    "explanation": "Maturidilik, itikadi bir mezheptir. Hanefilik, Şafilik, Malikilik ve Hanbelilik ise fıkhi (ameli, hukuki) mezheplerdir.",
+    "options": [
+      {
+        "text": "Maturidilik",
+        "isCorrect": true
+      },
+      {
+        "text": "Hanefilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Şafilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Malikilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Hanbelilik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Düşüncesinde Tasavvufi Yorumlar ve Mezhepler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Kur'an-ı Kerim'de Hz. Muhammed (s.a.v.) için kullanılan ve 'şefaat edici, aracı' anlamına gelen sıfat aşağıdakilerden hangisidir?",
+    "explanation": "Kur'an'da Hz. Muhammed (s.a.v.) için kullanılan 'Şefî’' sıfatı, onun ahirette ümmeti için şefaat edici olacağını ifade eder.",
+    "options": [
+      {
+        "text": "Şefî’",
+        "isCorrect": true
+      },
+      {
+        "text": "Rahmet",
+        "isCorrect": false
+      },
+      {
+        "text": "Mübeşşir",
+        "isCorrect": false
+      },
+      {
+        "text": "Nezîr",
+        "isCorrect": false
+      },
+      {
+        "text": "Rasul",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kur'an'a Göre Hz. Muhammed",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Kur'an-ı Kerim'de Hz. Muhammed'in (s.a.v.) 'alemlere rahmet' olarak gönderildiği hangi surenin ayetinde belirtilmiştir?",
+    "explanation": "Hz. Muhammed'in (s.a.v.) 'alemlere rahmet' olarak gönderildiği, Enbiya Suresi'nin 107. ayetinde ifade edilmiştir: 'Biz seni ancak alemlere rahmet olarak gönderdik.'",
+    "options": [
+      {
+        "text": "Enbiya Suresi",
+        "isCorrect": true
+      },
+      {
+        "text": "Bakara Suresi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahzab Suresi",
+        "isCorrect": false
+      },
+      {
+        "text": "Fetih Suresi",
+        "isCorrect": false
+      },
+      {
+        "text": "Hucurat Suresi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kur'an'a Göre Hz. Muhammed",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Kur'an-ı Kerim'de Hz. Muhammed'in (s.a.v.) görevi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Kur'an-ı Kerim'de Hz. Muhammed'in (s.a.v.) görevinin 'sadece açıkça tebliğ etmek' olduğu birçok ayette vurgulanır. Örneğin, Ğaşiye Suresi'nde 'Sen sadece bir uyarıcısın' denilmektedir.",
+    "options": [
+      {
+        "text": "O, sadece açıkça tebliğ etmekle görevlidir.",
+        "isCorrect": true
+      },
+      {
+        "text": "O, insanları imana zorlamakla görevlidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "O, sadece Kureyş kabilesine gönderilmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "O, dini kuralları değiştirebilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "O, gaybı bilmekle görevlidir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kur'an'a Göre Hz. Muhammed",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Ahzab Suresi'ndeki bir ayette Hz. Muhammed (s.a.v.) için kullanılan 'üsve-i hasene' ifadesi ne anlama gelir?",
+    "explanation": "Ahzab Suresi 21. ayette geçen 'üsve-i hasene' ifadesi, Hz. Muhammed'in (s.a.v.) Müslümanlar için 'en güzel örnek' olduğunu belirtir.",
+    "options": [
+      {
+        "text": "En güzel örnek",
+        "isCorrect": true
+      },
+      {
+        "text": "Son peygamber",
+        "isCorrect": false
+      },
+      {
+        "text": "Merhametli önder",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğru yol gösterici",
+        "isCorrect": false
+      },
+      {
+        "text": "Müjdeleyici uyarıcı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kur'an'a Göre Hz. Muhammed",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İslam inancına göre, dünya hayatının ahiret hayatına göre en temel özelliği aşağıdakilerden hangisidir?",
+    "explanation": "Dünya hayatının ahiret hayatına kıyasla en temel özelliği 'geçici ve imtihan yeri olması'dır. Ahiret ise ebedi ve kalıcıdır.",
+    "options": [
+      {
+        "text": "Geçici ve imtihan yeridir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ebedi ve kalıcıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece ibadet yeridir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cennet ve cehennem buradadır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ölümden sonra başlar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya ve Ahiret",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Ahiret gününde insanların dünyada yaptıkları her şeyin kaydedildiği deftere ne ad verilir?",
+    "explanation": "Ahirette her insana dünyada yaptığı iyilik ve kötülüklerin yazılı olduğu 'Amel Defteri' (Kitab) verilecektir.",
+    "options": [
+      {
+        "text": "Amel Defteri",
+        "isCorrect": true
+      },
+      {
+        "text": "Mizan",
+        "isCorrect": false
+      },
+      {
+        "text": "Sırat Köprüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Levh-i Mahfuz",
+        "isCorrect": false
+      },
+      {
+        "text": "Hesap Günü",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya ve Ahiret",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Ahiret hayatının aşamaları sırasıyla aşağıdakilerden hangisinde doğru verilmiştir?",
+    "explanation": "Ahiret hayatının temel aşamaları sırasıyla: Ölüm (Kabir Hayatı), Kıyametin Kopması, Yeniden Dirilme, Mahşer (Toplanma Yeri), Hesap, Mizan (Tartı), Sırat (Köprü) ve sonunda Cennet veya Cehennem'e giriştir.",
+    "options": [
+      {
+        "text": "Ölüm, Kıyamet, Dirilme, Hesap",
+        "isCorrect": true
+      },
+      {
+        "text": "Hesap, Dirilme, Kıyamet, Ölüm",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıyamet, Ölüm, Hesap, Dirilme",
+        "isCorrect": false
+      },
+      {
+        "text": "Dirilme, Hesap, Ölüm, Kıyamet",
+        "isCorrect": false
+      },
+      {
+        "text": "Hesap, Kıyamet, Ölüm, Dirilme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya ve Ahiret",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi 'Yaşayan Dinler' kavramını en doğru şekilde tanımlar?",
+    "explanation": "'Yaşayan Dinler' kavramı, günümüzde geçerliliğini koruyan, mensupları bulunan ve toplumsal hayatta aktif bir şekilde uygulanan dinleri ifade eder. Bu dinler, tarihsel kökenleri ne olursa olsun, halen inanç sistemi ve ibadetleriyle varlığını sürdürmektedir. Örneğin, İslam, Hristiyanlık, Yahudilik, Hinduizm ve Budizm gibi dinler yaşayan dinler arasında sayılır.",
+    "options": [
+      {
+        "text": "Günümüzde mensupları bulunan ve aktif olarak uygulanan dinler",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece kitaplarda anlatılan, artık hiçbir takipçisi olmayan dinler",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece belirli bir coğrafyada var olan yerel inanç sistemleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece modern çağda ortaya çıkmış yeni dinî hareketler",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece tek tanrı inancına sahip olan İbrahimi dinler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşayan Dinler",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Din Kültürü"
+  }
+]
