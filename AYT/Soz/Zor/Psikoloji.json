@@ -1,0 +1,281 @@
+[
+  {
+    "text": "Bir psikolog, ergenlik dönemindeki bireylerin sosyal medya kullanımının benlik saygısı üzerindeki etkilerini araştırmak için farklı sosyoekonomik düzeylerden gelen 500 lise öğrencisiyle anket çalışması yapmış ve verileri istatistiksel olarak analiz etmiştir. Bu araştırmada psikoloğun öncelikli olarak kullandığı yöntem aşağıdakilerden hangisidir?",
+    "explanation": "Soruda bahsedilen, büyük bir grupla (500 öğrenci) anket yapılması ve elde edilen nicel verilerin istatistiksel olarak analiz edilmesi, betimsel yöntemlerden olan 'Anket (Survey)' yönteminin temel özellikleridir. Bu yöntem, geniş bir popülasyondan sistematik veri toplamak ve bu verileri sayısal olarak incelemek için kullanılır.",
+    "options": [
+      {
+        "text": "Vaka İncelemesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğal Gözlem",
+        "isCorrect": false
+      },
+      {
+        "text": "Anket",
+        "isCorrect": true
+      },
+      {
+        "text": "Korelasyonel Yöntem",
+        "isCorrect": false
+      },
+      {
+        "text": "Deneysel Yöntem",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Psikolojide, bireyin içsel yaşantılarını ve bu yaşantıların bilinç üzerindeki etkilerini anlamayı amaçlayan, yapısalcılık akımının da temelini oluşturan yöntem aşağıdakilerden hangisidir?",
+    "explanation": "İçebakış (iç gözlem) yöntemi, bireylerin kendi zihinsel süreçlerini (duygu, düşünce, algı) gözlemleyip tanımlamalarını içerir. Wilhelm Wundt'un kurduğu yapısalcılık akımı, bilincin yapıtaşlarını (duyum, imgeler, duygular) analiz etmek için bu yöntemi sistematik bir şekilde kullanmıştır.",
+    "options": [
+      {
+        "text": "İçebakış (İç Gözlem)",
+        "isCorrect": true
+      },
+      {
+        "text": "Davranışçı Yöntem",
+        "isCorrect": false
+      },
+      {
+        "text": "Biyolojik Yöntem",
+        "isCorrect": false
+      },
+      {
+        "text": "Tümevarım",
+        "isCorrect": false
+      },
+      {
+        "text": "Gözlemsel Öğrenme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bilişsel psikoloji, insan zihninin bilgiyi işleme süreçlerine odaklanır. Aşağıdaki psikologlardan hangisi, bilişsel psikolojinin gelişiminde 'Bilişsel Dissonans (Çelişki) Teorisi' gibi önemli katkılar sağlayarak, bireylerin tutarsız inanç ve davranışlar arasında uyum sağlama eğilimlerini incelemiştir?",
+    "explanation": "Leon Festinger, geliştirdiği Bilişsel Çelişki (Dissonans) Teorisi ile bilişsel psikoloji alanına temel katkılarda bulunmuştur. Bu teori, bireylerin birbiriyle çelişen tutum ve davranışlara sahip olduklarında ortaya çıkan rahatsız edici ruh halini (dissonans) azaltmak için çeşitli stratejiler geliştirdiklerini açıklar.",
+    "options": [
+      {
+        "text": "Abraham Maslow",
+        "isCorrect": false
+      },
+      {
+        "text": "Ivan Pavlov",
+        "isCorrect": false
+      },
+      {
+        "text": "Leon Festinger",
+        "isCorrect": true
+      },
+      {
+        "text": "Carl Rogers",
+        "isCorrect": false
+      },
+      {
+        "text": "Jean Piaget",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir kişi, karanlık bir sokakta yürürken aniden önüne çıkan gölgeyi bir saldırgan olarak algılar, kalp atışı hızlanır ve kaçmaya hazır hale gelir. James-Lange Duygu Teorisi'ne göre, bu durumda duygunun oluşum sırası aşağıdakilerden hangisidir?",
+    "explanation": "James-Lange Teorisi'ne göre, önce bir uyaranla karşılaşılır (gölge), bu uyaran fizyolojik bir tepkiye (kalp atışının hızlanması) neden olur, ve ardından beyin bu fizyolojik değişikliği yorumlayarak bir duygu (korku) hissedilir. Yani duygu, fizyolojik tepkinin sonucudur.",
+    "options": [
+      {
+        "text": "Uyaran -> Duygu -> Fizyolojik Tepki",
+        "isCorrect": false
+      },
+      {
+        "text": "Duygu -> Fizyolojik Tepki -> Davranış",
+        "isCorrect": false
+      },
+      {
+        "text": "Uyaran -> Fizyolojik Tepki -> Duygu",
+        "isCorrect": true
+      },
+      {
+        "text": "Fizyolojik Tepki -> Duygu -> Uyaran",
+        "isCorrect": false
+      },
+      {
+        "text": "Duygu -> Uyaran -> Fizyolojik Tepki",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Gestalt psikologları, algının organizasyonunda bazı temel ilkeler olduğunu öne sürmüştür. Aşağıdaki durumların hangisinde 'Şekil-Zemin İlişkisi' ilkesi en belirgin şekilde örneklenmektedir?",
+    "explanation": "Gestalt'ın şekil-zemin ilişkisi ilkesi, algılanan nesnenin (şekil) arka plandan (zemin) net bir şekilde ayrılarak öne çıkmasıdır. Siyah bir zemindeki beyaz kare, zıt renkler sayesinde şeklin (kare) zeminden (siyah alan) çok net ayrılmasını sağlar ve bu ilkeyi tipik olarak örnekler.",
+    "options": [
+      {
+        "text": "Yakın duran üç noktanın bir üçgen olarak algılanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Benzer renkteki şekillerin bir grup olarak görülmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kesintiye uğrayan bir çizginin tamamlanmış olarak algılanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Siyah bir zemindeki beyaz karenin ön planda görülmesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Araları boş olan çizgilerin bir ok yönünde hareket ediyormuş gibi algılanması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir öğrenci, tarih dersindeki önemli olayları hatırlamak için olayları kronolojik bir hikaye şeklinde kurgular ve bu hikayede her olaya abartılı, tuhaf imgeler ekler. Bu öğrenci, belleği güçlendirmek için öncelikle aşağıdaki bellek destekleyici stratejilerden hangisini kullanmaktadır?",
+    "explanation": "Öğrencinin kullandığı yöntem, bilgileri hatırlamayı kolaylaştırmak için anlamlı olmayan bilgileri anlamlı, canlı ve olağandışı imgelerle bir hikayeye dönüştürdüğü 'Zincirleme Yöntemi'dir. Bu yöntem, özellikle sıralı bilgilerin ezberlenmesinde etkilidir.",
+    "options": [
+      {
+        "text": "Kümelerle Gruplama",
+        "isCorrect": false
+      },
+      {
+        "text": "Zincirleme Yöntemi",
+        "isCorrect": true
+      },
+      {
+        "text": "Yerleşim Yöntemi",
+        "isCorrect": false
+      },
+      {
+        "text": "Anahtar Sözcük Yöntemi",
+        "isCorrect": false
+      },
+      {
+        "text": "İlk Harf Yöntemi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Edward Tolman'ın bilişsel davranışçılık alanındaki ünlü 'Gizil (Örtük) Öğrenme' deneyinde, fareler bir labirentte yiyecek olmadan dolaştırılmış, ancak yiyecek konulduğunda labirenti daha hızlı öğrenmişlerdir. Bu durum, aşağıdaki kavramlardan hangisini desteklemektedir?",
+    "explanation": "Tolman'ın deneyi, ödül (yiyecek) olmamasına rağmen farelerin labirentin bilişsel bir haritasını (zihinsel temsilini) oluşturduğunu göstermiştir. Bu, gözlemlenebilir bir davranış değişikliği olmadan gerçekleşen 'Gizil Öğrenme'yi kanıtlar. Ödül sunulduğunda bu zihinsel harita hemen kullanıma geçer.",
+    "options": [
+      {
+        "text": "Klasik Koşullanma",
+        "isCorrect": false
+      },
+      {
+        "text": "Edimsel Koşullanma",
+        "isCorrect": false
+      },
+      {
+        "text": "Gizil Öğrenme",
+        "isCorrect": true
+      },
+      {
+        "text": "Kavrama Yoluyla Öğrenme",
+        "isCorrect": false
+      },
+      {
+        "text": "Model Alarak Öğrenme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "DSM-5 tanı kriterlerine göre, en az iki hafta boyunca süren, hemen her aktivitede ilgi kaybı veya zevk alamama (anhedoni) ve depresif duygudurumdan en az birinin eşlik ettiği, aşağıdaki semptomlardan en az beşinin görüldüğü bozukluk aşağıdakilerden hangisidir?",
+    "explanation": "Tanımda verilen kriterler, Majör Depresif Bozukluk (Major Depresyon) için DSM-5'te belirlenmiş olan temel tanı kriterleridir. Anhedoni ve depresif duygudurum ana belirtiler olup, bunlara ek olarak iştah/uyku değişiklikleri, enerji azlığı, değersizlik hissi, konsantrasyon güçlüğü ve ölüm düşünceleri gibi semptomlardan en az beşinin bulunması gerekmektedir.",
+    "options": [
+      {
+        "text": "Yaygın Anksiyete Bozukluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Bipolar Bozukluk",
+        "isCorrect": false
+      },
+      {
+        "text": "Majör Depresif Bozukluk",
+        "isCorrect": true
+      },
+      {
+        "text": "Obsesif-Kompulsif Bozukluk",
+        "isCorrect": false
+      },
+      {
+        "text": "Travma Sonrası Stres Bozukluğu",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Aaron Beck'in Bilişsel Terapi yaklaşımının temelinde, bireylerin olayları yorumlama biçimlerinde sistematik hatalar içeren kalıplaşmış düşünce kalıpları yer alır. Beck, özellikle depresyondaki bireylerde görülen bu temel olumsuz inanç kalıplarına ne ad vermiştir?",
+    "explanation": "Aaron Beck, depresif bireylerin olumsuz otomatik düşüncelerinin altında yatan, kişinin kendisi, dünya ve gelecek hakkındaki derin, kökleşmiş olumsuz inançları tanımlamak için 'Bilişsel Üçlü' (Cognitive Triad) kavramını geliştirmiştir. Bu üçlü, bireyin kendini değersiz, dünyayı olumsuz ve geleceği umutsuz görmesini içerir.",
+    "options": [
+      {
+        "text": "İrrasyonel İnançlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Şema",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilişsel Çarpıtmalar",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilişsel Üçlü",
+        "isCorrect": true
+      },
+      {
+        "text": "Temel İnançlar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Psikoloji"
+  }
+]
