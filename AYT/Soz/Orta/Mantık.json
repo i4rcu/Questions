@@ -1,0 +1,281 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi mantığın temel konularından biri değildir?",
+    "explanation": "Mantığın temel konuları doğru düşünmenin kurallarını inceler; kavram, önerme, akıl yürütme ve çıkarım bu konular arasındadır. Estetik ise güzellik ve sanat felsefesi ile ilgilenen bir felsefe disiplinidir ve mantığın doğrudan bir konusu değildir.",
+    "options": [
+      {
+        "text": "Kavram",
+        "isCorrect": false
+      },
+      {
+        "text": "Önerme",
+        "isCorrect": false
+      },
+      {
+        "text": "Akıl Yürütme",
+        "isCorrect": false
+      },
+      {
+        "text": "Estetik",
+        "isCorrect": true
+      },
+      {
+        "text": "Çıkarım",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Mantık biliminin amacı aşağıdakilerden hangisidir?",
+    "explanation": "Mantık, düşünmenin doğru ve tutarlı olması için izlenmesi gereken kuralları ve yöntemleri inceler. Temel amacı, geçerli akıl yürütmeyi geçersiz olandan ayırt edebilmek için doğru düşünmenin ilkelerini ortaya koymaktır.",
+    "options": [
+      {
+        "text": "Duyguların ifade edilme biçimlerini incelemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğru düşünmenin ilke ve yöntemlerini belirlemek",
+        "isCorrect": true
+      },
+      {
+        "text": "Toplumsal olayların nedenlerini araştırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatsal yaratım süreçlerini analiz etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihsel olguları kronolojik sıraya koymak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Mantık"
+  },
+  {
+    "text": "\"Mantık, düşüncenin dil ile ifade edilmiş hali olan önermeler arasındaki ilişkileri inceler.\" görüşü mantığın hangi özelliği ile doğrudan ilgilidir?",
+    "explanation": "Bu görüş, mantığın biçimsel (formel) bir disiplin olduğunu vurgular. Mantık, önermelerin içeriğinden (konusundan) bağımsız olarak, onların yapısı (formu) ve birbirleriyle olan mantıksal ilişkileri (çıkarım geçerliliği) ile ilgilenir.",
+    "options": [
+      {
+        "text": "Mantığın normatif olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantığın biçimsel olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Mantığın evrensel olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantığın araç olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantığın deneysel olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Klasik mantıkta, bir kavramın kaplamı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Klasik mantıkta, bir kavramın kaplamı, o kavramın altına giren bireylerin veya türlerin tümüdür. Örneğin, 'kuş' kavramının kaplamı serçe, kartal, penguen gibi tüm kuş türleridir. Kaplam, kavramın 'nicelik' yönünü ifade eder ve kavramın genelliği arttıkça (örneğin 'canlı' kavramı) kaplamı da artar.",
+    "options": [
+      {
+        "text": "Kavramın içerdiği ortak özelliklerin toplamıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kavramın işaret ettiği birey veya türlerin tümüdür.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kavramın anlamını oluşturan sözcüklerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kavramın diğer kavramlarla olan ilişkisidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kavramın zihindeki soyut tasarımıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Klasik mantıkta 'Tümel Olumlu' önerme aşağıdaki sembollerden hangisi ile gösterilir?",
+    "explanation": "Klasik mantıkta dört temel önerme türü vardır ve bunlar geleneksel olarak harflerle sembolize edilir. Tümel Olumlu önerme (Örneğin: 'Bütün insanlar ölümlüdür.') 'A' harfi ile gösterilir.",
+    "options": [
+      {
+        "text": "A",
+        "isCorrect": true
+      },
+      {
+        "text": "E",
+        "isCorrect": false
+      },
+      {
+        "text": "I",
+        "isCorrect": false
+      },
+      {
+        "text": "O",
+        "isCorrect": false
+      },
+      {
+        "text": "U",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdaki cümlelerden hangisi 'öndeyi' ifade etmektedir?",
+    "explanation": "Öndeyi (presupposition), bir ifadenin doğru ya da anlamlı olabilmesi için önceden doğru kabul edilmesi gereken gizli varsayımdır. 'Ahmet artık sigara içmiyor.' cümlesinin doğru olabilmesi için, 'Ahmet'in eskiden sigara içtiği' öndeyisinin doğru olması gerekir. Diğer seçeneklerde böyle bir gizli varsayım yoktur.",
+    "options": [
+      {
+        "text": "Hava bugün çok güzel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahmet artık sigara içmiyor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Su yüz derecede kaynar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu kitabı okudum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın sinemaya gideceğiz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Mantık"
+  },
+  {
+    "text": "\"Anlam\" ve \"gönderim\" kavramları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Frege'ye göre, bir ifadenin (örneğin özel adın) anlamı, onun zihnimizde uyandırdığı kavram, tasım veya açıklamasıdır (örneğin 'Akşam Yıldızı'nın tanımı). Gönderim ise, o ifadenin işaret ettiği, dünyadaki somut nesnenin kendisidir (örneğin Akşam Yıldızı'nın gönderimi Venüs gezegenidir). Aynı gönderime sahip ('Venüs') farklı anlamlara sahip ('Akşam Yıldızı', 'Sabah Yıldızı') ifadeler olabilir.",
+    "options": [
+      {
+        "text": "Bir ifadenin anlamı ve gönderimi her zaman aynıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Anlam, ifadenin işaret ettiği nesne; gönderim ise onun zihinsel tasarımıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Anlam, ifadenin zihinde uyandırdığı tasım; gönderim ise işaret ettiği nesnedir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gönderim, dilin gramer yapısı; anlam ise sözcüğün kökeni ile ilgilidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Anlam ve gönderim arasında mantıksal bir ilişki yoktur.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Sembolik mantıkta, 'p ∧ q' önermesinin değili (olumsuzu) aşağıdakilerden hangisine eşittir?",
+    "explanation": "Sembolik mantıkta, bir bileşik önermenin değili, De Morgan Kuralları ile bulunur. Buna göre, bir konjonksiyonun (∧, ve bağlacı) değili, bileşenlerin ayrı ayrı değillerinin disjunksiyonuna (∨, veya bağlacı) eşittir. Yani, ¬(p ∧ q) ≡ ¬p ∨ ¬q'dur.",
+    "options": [
+      {
+        "text": "¬p ∧ ¬q",
+        "isCorrect": false
+      },
+      {
+        "text": "p ∨ q",
+        "isCorrect": false
+      },
+      {
+        "text": "¬p ∨ ¬q",
+        "isCorrect": true
+      },
+      {
+        "text": "p ∧ ¬q",
+        "isCorrect": false
+      },
+      {
+        "text": "¬p ∧ q",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sembolik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Mantık"
+  },
+  {
+    "text": "\"Eğer yağmur yağarsa, yerler ıslanır.\" önermesinin sembolik mantıktaki karşılığı aşağıdakilerden hangisidir? (p: Yağmur yağar, q: Yerler ıslanır)",
+    "explanation": "Sembolik mantıkta, 'eğer ... ise, ...' şeklindeki koşullu önermeler '→' (koşullu, implication) sembolü ile gösterilir. Öncül (p) koşul, ardıl (q) ise sonuç kısmıdır. Bu nedenle, 'Eğer yağmur yağarsa, yerler ıslanır.' önermesi p → q şeklinde sembolize edilir.",
+    "options": [
+      {
+        "text": "p ∧ q",
+        "isCorrect": false
+      },
+      {
+        "text": "p ∨ q",
+        "isCorrect": false
+      },
+      {
+        "text": "p → q",
+        "isCorrect": true
+      },
+      {
+        "text": "p ↔ q",
+        "isCorrect": false
+      },
+      {
+        "text": "¬p → q",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sembolik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Orta",
+    "subject": "Mantık"
+  }
+]
