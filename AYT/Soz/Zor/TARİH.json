@@ -1,0 +1,405 @@
+[
+  {
+    "text": "Tarih araştırmalarında 'kronoloji' biliminin temel işlevi aşağıdakilerden hangisidir?",
+    "explanation": "Kronoloji, olayların zamanını tespit ederek onları tarihsel bir sıraya koyan ve böylece nedensellik ilişkilerinin anlaşılmasını sağlayan yardımcı tarih bilimidir. Bu, tarih biliminin doğru bir şekilde inşa edilmesi için vazgeçilmez bir unsurdur.",
+    "options": [
+      {
+        "text": "Olayların neden-sonuç ilişkilerini kurmak için olayları zaman sırasına koymak",
+        "isCorrect": true
+      },
+      {
+        "text": "Tarihi olayların coğrafi dağılımını haritalamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Arkeolojik buluntuların yaşını radyokarbon yöntemiyle belirlemek",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihi belgelerin dilini çözümlemek ve yorumlamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumların ekonomik yapılarını istatistiksel verilerle analiz etmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki uygarlık-buluntu eşleştirmelerinden hangisi İlk Çağ Anadolu tarihi için doğru DEĞİLDİR?",
+    "explanation": "Yazılı Kanunlar (Hammurabi Kanunları) Mezopotamya'da, Babil uygarlığına aittir. Hititlerin en önemli yazılı kanun metinleri kendilerine özgüdür ve Hammurabi Kanunları ile karıştırılmamalıdır. Bu nedenle bu eşleştirme yanlıştır.",
+    "options": [
+      {
+        "text": "Hititler - Yazılı Kanunlar (Hammurabi Kanunları)",
+        "isCorrect": true
+      },
+      {
+        "text": "Frigler - Kibele Tapınağı",
+        "isCorrect": false
+      },
+      {
+        "text": "Lidyalılar - İlk metal para",
+        "isCorrect": false
+      },
+      {
+        "text": "İyonyalılar - Doğa filozofları (Thales, Herakleitos)",
+        "isCorrect": false
+      },
+      {
+        "text": "Urartular - Su kanalları ve anıtsal kaya mezarları",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Çağ Medeniyetleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "İslam öncesi Türk devletlerinde hükümdarın oturduğu ve devletin yönetildiği çadıra ne ad verilirdi?",
+    "explanation": "İslam öncesi Türk devletlerinde, hükümdarın oturduğu, devlet işlerinin görüldüğü ve aynı zamanda devletin başkenti anlamına gelen büyük, süslü çadıra 'Otağ' adı verilirdi. Bu, göçebe yaşam tarzının bir yansımasıydı.",
+    "options": [
+      {
+        "text": "Otağ",
+        "isCorrect": true
+      },
+      {
+        "text": "Kurultay",
+        "isCorrect": false
+      },
+      {
+        "text": "Yuğ",
+        "isCorrect": false
+      },
+      {
+        "text": "Balbal",
+        "isCorrect": false
+      },
+      {
+        "text": "Kün",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Öncesi Türk Tarihi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Aşağıdaki halifelerden hangisi döneminde, Kur'an-ı Kerim'in çoğaltılarak önemli merkezlere gönderilmesi ve böylece tek bir metnin korunması sağlanmıştır?",
+    "explanation": "Hz. Osman döneminde, farklı bölgelerde Kur'an'ın farklı şivelerle okunmasından doğan ihtilafları önlemek amacıyla, Hz. Ebubekir döneminde derlenmiş olan Mushaf, çoğaltılarak Kufe, Basra, Şam gibi önemli İslam merkezlerine gönderilmiştir. Bu olay, İslam tarihinde önemli bir standartlaşma adımıdır.",
+    "options": [
+      {
+        "text": "Hz. Osman",
+        "isCorrect": true
+      },
+      {
+        "text": "Hz. Ebubekir",
+        "isCorrect": false
+      },
+      {
+        "text": "Hz. Ömer",
+        "isCorrect": false
+      },
+      {
+        "text": "Hz. Ali",
+        "isCorrect": false
+      },
+      {
+        "text": "Hz. Muaviye",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslam Tarihi ve Medeniyeti",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Büyük Selçuklu Devleti'nde, melik adı verilen şehzadeleri yetiştirmek ve onlara devlet yönetiminde tecrübe kazandırmakla görevli olan devlet adamlarına ne ad verilirdi?",
+    "explanation": "Büyük Selçuklu Devleti'nde, tahtın varisi olan meliklerin (şehzadelerin) eğitiminden, bulundukları eyaletin yönetiminde onlara rehberlik etmekten ve askeri seferlere katılmalarını sağlamaktan sorumlu olan tecrübeli ve güvenilir devlet adamlarına 'Atabey' denirdi. Bu kurum daha sonraki Türk-İslam devletlerinde de görülmüştür.",
+    "options": [
+      {
+        "text": "Atabey",
+        "isCorrect": true
+      },
+      {
+        "text": "Lala",
+        "isCorrect": false
+      },
+      {
+        "text": "Vezir",
+        "isCorrect": false
+      },
+      {
+        "text": "Subaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Şıhne",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İlk Türk İslam Devletleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Anadolu Selçuklu Devleti'nde, ticareti canlandırmak ve güvenliği sağlamak amacıyla inşa edilen, içinde han, hamam, mescit gibi yapıların bulunduğu kervan konaklama tesislerine ne ad verilirdi?",
+    "explanation": "Anadolu Selçuklu Devleti, ticaret yolları üzerinde, özellikle de Konya-Sivas gibi güzergâhlarda, kervanların konaklaması, dinlenmesi ve güvenliğinin sağlanması için büyük kompleksler inşa etmiştir. Bu yapılar genellikle bir kale görünümünde olup, han, hamam, mescit, ambar gibi birimleri içerir ve 'Kervansaray' olarak adlandırılır.",
+    "options": [
+      {
+        "text": "Kervansaray",
+        "isCorrect": true
+      },
+      {
+        "text": "Ribat",
+        "isCorrect": false
+      },
+      {
+        "text": "Medrese",
+        "isCorrect": false
+      },
+      {
+        "text": "Külliye",
+        "isCorrect": false
+      },
+      {
+        "text": "Darüşşifa",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye Tarihi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Orta Çağ Avrupası'nda, bir senyörün koruması altına giren (vasallık bağı kuran) kişinin, senyöre bağlılık yemini ettiği törene ne ad verilirdi?",
+    "explanation": "Feodal sistemde, bir vasal (toprak sahibi soylu), bir senyörün (daha üst düzey soylu veya kral) koruması altına girmek için düzenlenen törende, senyörün önünde diz çökerek ona bağlılık yemini ederdi. Bu törene 'Homage Töreni' adı verilirdi ve feodal hiyerarşinin temelini oluştururdu.",
+    "options": [
+      {
+        "text": "Homage Töreni",
+        "isCorrect": true
+      },
+      {
+        "text": "Şövalyelik Töreni",
+        "isCorrect": false
+      },
+      {
+        "text": "İnfang Töreni",
+        "isCorrect": false
+      },
+      {
+        "text": "Kutsal İttifak Töreni",
+        "isCorrect": false
+      },
+      {
+        "text": "Fidelite Töreni",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Orta Çağ'da Avrupa",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Devleti'nin kuruluş döneminde, uç beyi olan Osman Bey'in Bizans'a karşı kazandığı, Anadolu'daki Türkmen beyliklerinin dikkatini çekmesini ve otoritesinin artmasını sağlayan ilk önemli savaş aşağıdakilerden hangisidir?",
+    "explanation": "Osman Bey, 1302 yılında Koyunhisar (Bapheus) Savaşı'nda Bizans kuvvetlerini yenerek ilk büyük askeri başarısını elde etmiştir. Bu zafer, Osmanlı Beyliği'nin bölgedeki gücünü pekiştirmiş ve diğer Türkmen beylikleri nezdinde itibar kazanmasını sağlamıştır.",
+    "options": [
+      {
+        "text": "Koyunhisar Savaşı",
+        "isCorrect": true
+      },
+      {
+        "text": "Maltepe Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Domaniç Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Sırpsındığı Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "I. Kosova Savaşı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beylikten Devlete",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Kanuni Sultan Süleyman döneminde, 1538'de Haçlı donanmasına karşı kazanılan ve Osmanlı'nın Akdeniz'deki üstünlüğünü pekiştiren deniz savaşı aşağıdakilerden hangisidir?",
+    "explanation": "Preveze Deniz Savaşı, Barbaros Hayrettin Paşa komutasındaki Osmanlı donanmasının, Andrea Doria komutasındaki Haçlı donanmasını 28 Eylül 1538'de büyük bir yenilgiye uğrattığı savaştır. Bu zafer, Osmanlı Devleti'nin Akdeniz'deki hakimiyetinin tartışılmaz bir şekilde kabul edilmesini sağlamıştır.",
+    "options": [
+      {
+        "text": "Preveze Deniz Savaşı",
+        "isCorrect": true
+      },
+      {
+        "text": "İnebahtı Deniz Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Cerbe Deniz Savaşı",
+        "isCorrect": false
+      },
+      {
+        "text": "Rodos'un Fethi",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıbrıs'ın Fethi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dünya Gücü: Osmanlı Devleti",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "17. yüzyılda Osmanlı Devleti'nde, padişah IV. Mehmet döneminde sadrazamlık yapan ve 1656-1661 yılları arasında uyguladığı reformlarla devleti toparlamaya çalışan, 'Köprülüler' dönemini başlatan kişi kimdir?",
+    "explanation": "IV. Mehmet'in annesi Turhan Sultan'ın tavsiyesiyle 1656'da sadrazamlığa getirilen Köprülü Mehmet Paşa, olağanüstü yetkilerle göreve başlamıştır. Maliyeyi düzeltme, iç isyanları bastırma ve orduyu güçlendirme çabalarıyla 'Köprülüler Dönemi'ni başlatmış ve devlette bir toparlanma süreci yaşanmasını sağlamıştır.",
+    "options": [
+      {
+        "text": "Köprülü Mehmet Paşa",
+        "isCorrect": true
+      },
+      {
+        "text": "Köprülü Fazıl Ahmet Paşa",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarhuncu Ahmet Paşa",
+        "isCorrect": false
+      },
+      {
+        "text": "Merzifonlu Kara Mustafa Paşa",
+        "isCorrect": false
+      },
+      {
+        "text": "Sokollu Mehmet Paşa",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Arayış Yılları",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "1789 Fransız İhtilali'nin yaydığı 'milliyetçilik' fikri, aşağıdaki çok uluslu imparatorluklardan hangisini en fazla ve en doğrudan şekilde olumsuz etkilemiştir?",
+    "explanation": "Fransız İhtilali'nin getirdiği milliyetçilik (ulusçuluk) akımı, kendi kaderini tayin hakkı fikriyle birlikte, içinde çok sayıda farklı milleti barındıran çok uluslu imparatorlukları hedef almıştır. Bu imparatorluklar içinde, Avrupa'nın kalbinde yer alan ve birçok Slav, Macar, Romen ve diğer milletleri bünyesinde bulunduran Avusturya-Macaristan İmparatorluğu, bu fikirden en fazla ve en doğrudan etkilenen devlet olmuştur.",
+    "options": [
+      {
+        "text": "Avusturya-Macaristan İmparatorluğu",
+        "isCorrect": true
+      },
+      {
+        "text": "Osmanlı İmparatorluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Rus Çarlığı",
+        "isCorrect": false
+      },
+      {
+        "text": "İngiltere",
+        "isCorrect": false
+      },
+      {
+        "text": "Fransa",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yeni ve Yakın Çağ'da Avrupa",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Devleti, 18. yüzyılda kaybettiği toprakları geri almak ve eski gücüne kavuşmak amacıyla izlediği denge politikasında, aşağıdaki devletlerden hangisini genellikle Rusya'ya karşı bir denge unsuru olarak görmüştür?",
+    "explanation": "18. yüzyılda, özellikle Küçük Kaynarca Antlaşması'ndan (1774) sonra Osmanlı Devleti için en büyük tehdit Rusya olmuştur. Osmanlı, bu tehdidi dengelemek için geleneksel rakibi olmasına rağmen, askeri ve teknolojik üstünlüğünden dolayı İngiltere ve Fransa'yı dengeleyici güçler olarak görmeye başlamış, ancak özellikle Fransa, Napolyon'un Mısır'ı işgaline kadar bu rolde daha belirgin bir şekilde öne çıkmıştır.",
+    "options": [
+      {
+        "text": "Fransa",
+        "isCorrect": true
+      },
+      {
+        "text": "Avusturya",
+        "isCorrect": false
+      },
+      {
+        "text": "Prusya",
+        "isCorrect": false
+      },
+      {
+        "text": "İngiltere",
+        "isCorrect": false
+      },
+      {
+        "text": "Venedik",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yüzyıl Değişim ve Diploması",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  },
+  {
+    "text": "Osmanlı Devleti'nde, 19. yüzyılın sonlarında Jön Türkler olarak bilinen muhalif aydın grubunun, II. Abdülhamid yönetimine karşı yurt dışında örgütlenerek fikirlerini yaydıkları en etkili gazete aşağıdakilerden hangisidir?",
+    "explanation": "Jön Türk muhalefetinin, özellikle Ahmet Rıza Bey'in önderliğinde, Paris merkezli olarak 1895'ten itibaren yayımladığı 'Meşveret' gazetesi, Osmanlıcılık ve pozitivizm düşüncelerini savunarak II. Abdülhamid rejimine karşı önemli bir muhalefet platformu oluşturmuştur. Daha sonra 'Şura-yı Ümmet' gibi gazeteler de çıkarılmış olsa da, Meşveret erken dönemdeki en etkili yayın organlarından biridir.",
+    "options": [
+      {
+        "text": "Meşveret",
+        "isCorrect": true
+      },
+      {
+        "text": "İbret",
+        "isCorrect": false
+      },
+      {
+        "text": "Tasvir-i Efkar",
+        "isCorrect": false
+      },
+      {
+        "text": "Hürriyet",
+        "isCorrect": false
+      },
+      {
+        "text": "Mizan",
+        "isCorrect": false
+      }
+    ],
+    "topic": "En Uzun Yüzyıl",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Zor",
+    "subject": "Tarih"
+  }
+]
