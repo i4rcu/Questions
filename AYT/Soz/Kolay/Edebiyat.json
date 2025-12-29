@@ -1,0 +1,1459 @@
+[
+  {
+    "text": "Aşağıdaki nazım biçimlerinden hangisi dörtlüklerle yazılır ve genellikle aşk, doğa, yiğitlik gibi konuları işler?",
+    "explanation": "Koşma, dörtlükler halinde yazılan ve hece ölçüsü kullanılan bir Halk edebiyatı nazım biçimidir. Aşk, doğa, ayrılık, yiğitlik gibi konuları işler.",
+    "options": [
+      {
+        "text": "Gazel",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaside",
+        "isCorrect": false
+      },
+      {
+        "text": "Koşma",
+        "isCorrect": true
+      },
+      {
+        "text": "Mesnevi",
+        "isCorrect": false
+      },
+      {
+        "text": "Şarkı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Bilgiler(Şiir Bilgisi)",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Bir şiirde aynı ünsüz harflerin tekrarlanmasıyla oluşturulan ahenge ne ad verilir?",
+    "explanation": "Ünsüz harflerin (sessiz harfler) tekrarlanmasıyla oluşan ahenk unsuru aliterasyondur. Örneğin, 'Şakaklarıma kar mı yağdı ne var?' dizesindeki 'k' seslerinin tekrarı.",
+    "options": [
+      {
+        "text": "Aliterasyon",
+        "isCorrect": true
+      },
+      {
+        "text": "Asonans",
+        "isCorrect": false
+      },
+      {
+        "text": "İç Kafiye",
+        "isCorrect": false
+      },
+      {
+        "text": "Redif",
+        "isCorrect": false
+      },
+      {
+        "text": "Uyak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Bilgiler(Şiir Bilgisi)",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi bir şiirin ölçüsünü belirleme yöntemlerinden biridir?",
+    "explanation": "Hece ölçüsü, şiirdeki dizelerin hece sayısının eşitliğine dayanan bir ölçüdür. Türk Halk edebiyatının geleneksel ölçüsüdür.",
+    "options": [
+      {
+        "text": "Sarma Uyak",
+        "isCorrect": false
+      },
+      {
+        "text": "Hece Ölçüsü",
+        "isCorrect": true
+      },
+      {
+        "text": "Zengin Uyak",
+        "isCorrect": false
+      },
+      {
+        "text": "Düz Uyak",
+        "isCorrect": false
+      },
+      {
+        "text": "Çapraz Uyak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Bilgiler(Şiir Bilgisi)",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Kasidenin içinde şairin kendini övdüğü bölüme ne ad verilir?",
+    "explanation": "Kasidenin bölümlerinden biri olan fahriye bölümünde, şair kendi sanatını, başarılarını ve kişiliğini över.",
+    "options": [
+      {
+        "text": "Nesib",
+        "isCorrect": false
+      },
+      {
+        "text": "Girizgah",
+        "isCorrect": false
+      },
+      {
+        "text": "Methiye",
+        "isCorrect": false
+      },
+      {
+        "text": "Fahriye",
+        "isCorrect": true
+      },
+      {
+        "text": "Dua",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Bilgiler(Şiir Bilgisi)",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Fecr-i Ati topluluğu hangi yıl dağılmıştır?",
+    "explanation": "Fecr-i Ati topluluğu, 1912 yılında resmen dağılmıştır. Topluluk, II. Meşrutiyet'ten sonra ortaya çıkmış ancak ömrü uzun sürmemiştir.",
+    "options": [
+      {
+        "text": "1909",
+        "isCorrect": false
+      },
+      {
+        "text": "1910",
+        "isCorrect": false
+      },
+      {
+        "text": "1911",
+        "isCorrect": false
+      },
+      {
+        "text": "1912",
+        "isCorrect": true
+      },
+      {
+        "text": "1914",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fecr-i Ati Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki sanatçılardan hangisi Fecr-i Ati topluluğu içinde yer almıştır?",
+    "explanation": "Ahmet Haşim, Fecr-i Ati topluluğunun en önemli ve tanınmış şairidir. 'Piyale' ve 'Göl Saatleri' onun önemli eserleridir.",
+    "options": [
+      {
+        "text": "Yahya Kemal Beyatlı",
+        "isCorrect": false
+      },
+      {
+        "text": "Mehmet Akif Ersoy",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahmet Haşim",
+        "isCorrect": true
+      },
+      {
+        "text": "Ömer Seyfettin",
+        "isCorrect": false
+      },
+      {
+        "text": "Ziya Gökalp",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fecr-i Ati Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Fecr-i Ati topluluğunun yayımladığı bildiride edebiyatı nasıl tanımladıkları aşağıdakilerden hangisidir?",
+    "explanation": "Fecr-i Ati topluluğu, 1910'da yayımladığı bildiride edebiyatı 'şahsi ve muhterem' bir sanat olarak tanımlamıştır. Bu, onların sanat anlayışının özünü oluşturur.",
+    "options": [
+      {
+        "text": "Toplum için sanat",
+        "isCorrect": false
+      },
+      {
+        "text": "Halk için sanat",
+        "isCorrect": false
+      },
+      {
+        "text": "Şahsi ve muhterem bir sanat",
+        "isCorrect": true
+      },
+      {
+        "text": "Faydalı bir sanat",
+        "isCorrect": false
+      },
+      {
+        "text": "Milli bir sanat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fecr-i Ati Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Fecr-i Ati edebiyatı, aşağıdaki edebi akımlardan hangisinden belirgin şekilde etkilenmiştir?",
+    "explanation": "Fecr-i Ati edebiyatı, özellikle şiirde, Fransız edebiyatındaki Sembolizm (Simgecilik) akımından derin bir şekilde etkilenmiştir. Ahmet Haşim'in şiirleri bu etkinin en güzel örnekleridir.",
+    "options": [
+      {
+        "text": "Klasisizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Romantizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Realizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Sembolizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Fütürizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fecr-i Ati Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "'Gözleri o kadar derin ki, insanın içine işliyor.' cümlesindeki altı çizili sözün cümleye kattığı anlam aşağıdakilerden hangisidir?",
+    "explanation": "'İçine işlemek' deyimi bu cümlede, 'çok etkilemek, derinden duyurmak' anlamında kullanılmıştır. Bakışların kişiyi derinden etkilediğini anlatır.",
+    "options": [
+      {
+        "text": "Çok acıtmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Çok etkilemek",
+        "isCorrect": true
+      },
+      {
+        "text": "İçeri girmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Sıkıntı vermek",
+        "isCorrect": false
+      },
+      {
+        "text": "Üzmek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlam Bilgisi (Sözcükte, Cümlede ve Paragrafta Anlam)",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'neden-sonuç' ilişkisi vardır?",
+    "explanation": "'Hasta olduğu için okula gidemedi.' cümlesinde 'hasta olmak' neden, 'okula gidememek' ise bu nedenin sonucudur.",
+    "options": [
+      {
+        "text": "Yağmur yağdı ve her yer ıslandı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hem ders çalışıyor hem de müzik dinliyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hasta olduğu için okula gidemedi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sabah erkenden kalktı, kahvaltı yaptı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitabı okudu ama beğenmedi.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlam Bilgisi (Sözcükte, Cümlede ve Paragrafta Anlam)",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "'Sanatçı, eserlerinde her zaman toplumun sorunlarına eğilmiş, ------ bir tavır sergilemiştir.' cümlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "explanation": "Cümlede, sanatçının toplum sorunlarına eğildiği belirtildiği için onun tavrının 'toplumcu' olduğu söylenebilir. Bu, sanatını toplum yararına kullandığını gösterir.",
+    "options": [
+      {
+        "text": "bireyci",
+        "isCorrect": false
+      },
+      {
+        "text": "toplumcu",
+        "isCorrect": true
+      },
+      {
+        "text": "karamsar",
+        "isCorrect": false
+      },
+      {
+        "text": "içe dönük",
+        "isCorrect": false
+      },
+      {
+        "text": "özentili",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlam Bilgisi (Sözcükte, Cümlede ve Paragrafta Anlam)",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Paragrafın ana düşüncesi aşağıdakilerden hangisidir? 'İnsan, yaşadığı çevrenin ürünüdür. İçinde bulunduğu toplumun değer yargıları, gelenekleri, inançları onun kişiliğini şekillendirir. Bu nedenle bir insanı anlamak istiyorsak, öncelikle onun yetiştiği ortamı iyi tanımak gerekir.'",
+    "explanation": "Paragraf, insan kişiliğinin oluşumunda çevrenin belirleyici rolünü vurgulamaktadır. Ana düşünce, insanın anlaşılması için yetiştiği ortamın bilinmesi gerektiğidir.",
+    "options": [
+      {
+        "text": "İnsanların değer yargıları zamanla değişir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gelenekler toplumu bir arada tutar.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsanı anlamak için yetiştiği çevreyi tanımak gerekir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Her insanın kişiliği farklıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çevre, insanın inançlarını etkiler.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlam Bilgisi (Sözcükte, Cümlede ve Paragrafta Anlam)",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki eser-yazar eşleştirmelerinden hangisi Cumhuriyet Dönemi Türk edebiyatına aittir?",
+    "explanation": "Yakup Kadri Karaosmanoğlu, Cumhuriyet Dönemi'nin önemli romancılarındandır. 'Kiralık Konak' onun en ünlü romanlarından biridir ve Türk toplumunun geçiş dönemini anlatır.",
+    "options": [
+      {
+        "text": "İntibah - Namık Kemal",
+        "isCorrect": false
+      },
+      {
+        "text": "Sergüzeşt - Samipaşazade Sezai",
+        "isCorrect": false
+      },
+      {
+        "text": "Mai ve Siyah - Halit Ziya Uşaklıgil",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiralık Konak - Yakup Kadri Karaosmanoğlu",
+        "isCorrect": true
+      },
+      {
+        "text": "Araba Sevdası - Recaizade Mahmut Ekrem",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cumhuriyet Dönemi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Cumhuriyet Dönemi Türk edebiyatında 'Memleket Edebiyatı' anlayışı ile eser veren yazarlar, genellikle hangi temayı işlemiştir?",
+    "explanation": "Memleket Edebiyatı, Cumhuriyet'in ilk yıllarında Anadolu'yu ve Anadolu insanının hayatını, sorunlarını, gerçeklerini edebiyatın merkezine alan bir anlayıştır.",
+    "options": [
+      {
+        "text": "Aşk ve macera",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihi olaylar",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireyin iç dünyası",
+        "isCorrect": false
+      },
+      {
+        "text": "Anadolu ve köy hayatı",
+        "isCorrect": true
+      },
+      {
+        "text": "Dini motifler",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cumhuriyet Dönemi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Cumhuriyet Dönemi'nin önemli şairlerinden olan ve 'Ben Sana Mecburum', 'Ne İçindeyim Zamanın' gibi şiirleriyle tanınan sanatçı aşağıdakilerden hangisidir?",
+    "explanation": "Attila İlhan, Cumhuriyet Dönemi Türk edebiyatının özgün ve etkili şairlerindendir. 'Ben Sana Mecburum' ve 'Ne İçindeyim Zamanın' onun en bilinen şiirleridir.",
+    "options": [
+      {
+        "text": "Orhan Veli Kanık",
+        "isCorrect": false
+      },
+      {
+        "text": "Cahit Sıtkı Tarancı",
+        "isCorrect": false
+      },
+      {
+        "text": "Faruk Nafiz Çamlıbel",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahmet Hamdi Tanpınar",
+        "isCorrect": false
+      },
+      {
+        "text": "Attila İlhan",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Cumhuriyet Dönemi",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Milli Edebiyat dönemi sanatçıları aşağıdaki dergilerden hangisi etrafında toplanmıştır?",
+    "explanation": "Milli Edebiyat döneminin önemli sanatçıları, Ziya Gökalp'ın fikirlerinin de yayın organı olan Genç Kalemler dergisi etrafında toplanmış ve 'Yeni Lisan' hareketini başlatmışlardır.",
+    "options": [
+      {
+        "text": "Servet-i Fünun",
+        "isCorrect": false
+      },
+      {
+        "text": "Genç Kalemler",
+        "isCorrect": true
+      },
+      {
+        "text": "Tercüman-ı Ahval",
+        "isCorrect": false
+      },
+      {
+        "text": "Dergah",
+        "isCorrect": false
+      },
+      {
+        "text": "Malumat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Milli Edebiyat",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki eserlerden hangisi Milli Edebiyat dönemi yazarlarından Ömer Seyfettin'e aittir?",
+    "explanation": "Ömer Seyfettin, Milli Edebiyat döneminin önde gelen hikaye yazarlarındandır ve 'Bomba', 'Falaka', 'Kaşağı' gibi hikayeleriyle tanınır. 'Kaşağı' onun en bilinen hikayelerinden biridir.",
+    "options": [
+      {
+        "text": "Sodom ve Gomore",
+        "isCorrect": false
+      },
+      {
+        "text": "Kiralık Konak",
+        "isCorrect": false
+      },
+      {
+        "text": "Diyorlar Ki",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaşağı",
+        "isCorrect": true
+      },
+      {
+        "text": "Mai ve Siyah",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Milli Edebiyat",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Milli Edebiyat döneminin önemli temsilcilerinden olan ve 'Türkçülük' fikrinin sistemleştiricisi kabul edilen düşünür aşağıdakilerden hangisidir?",
+    "explanation": "Ziya Gökalp, Milli Edebiyat döneminin fikir babası olarak kabul edilir. 'Türkleşmek, İslamlaşmak, Muasırlaşmak' düsturu ile Türkçülük fikrini sistemleştirmiştir.",
+    "options": [
+      {
+        "text": "Yahya Kemal Beyatlı",
+        "isCorrect": false
+      },
+      {
+        "text": "Mehmet Emin Yurdakul",
+        "isCorrect": false
+      },
+      {
+        "text": "Ziya Gökalp",
+        "isCorrect": true
+      },
+      {
+        "text": "Halide Edip Adıvar",
+        "isCorrect": false
+      },
+      {
+        "text": "Refik Halit Karay",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Milli Edebiyat",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Milli Edebiyat dönemi romanlarında öne çıkan temel konu aşağıdakilerden hangisidir?",
+    "explanation": "Milli Edebiyat döneminde yazılan romanlarda, toplumsal sorunlar, Kurtuluş Savaşı, yanlış Batılılaşma ve milli bilinci uyandırma gibi konular işlenmiştir. 'Kurtuluş Savaşı' bu dönem romanlarının en belirgin konularından biridir.",
+    "options": [
+      {
+        "text": "Aşk ve macera",
+        "isCorrect": false
+      },
+      {
+        "text": "Bireyin iç dünyası",
+        "isCorrect": false
+      },
+      {
+        "text": "Kurtuluş Savaşı",
+        "isCorrect": true
+      },
+      {
+        "text": "Soyut kavramlar",
+        "isCorrect": false
+      },
+      {
+        "text": "Dini tasavvufi konular",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Milli Edebiyat",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "İslamiyet Öncesi Türk Edebiyatı'na ait en eski ve en önemli eserler aşağıdakilerden hangisidir?",
+    "explanation": "İslamiyet Öncesi Türk Edebiyatı'nın yazılı olarak günümüze ulaşan en önemli eserleri, Göktürk (Orhun) Alfabesi ile yazılmış olan Orhun Abideleri'dir (Göktürk Kitabeleri).",
+    "options": [
+      {
+        "text": "Dede Korkut Hikayeleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Kutadgu Bilig",
+        "isCorrect": false
+      },
+      {
+        "text": "Divan-ı Lügati't-Türk",
+        "isCorrect": false
+      },
+      {
+        "text": "Orhun Abideleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Atabetü'l-Hakayık",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "İslamiyet Öncesi Türk Edebiyatı'ndaki sözlü ürünlerden 'sagu'nun konusu nedir?",
+    "explanation": "İslamiyet öncesi Türk edebiyatında ölen bir kişinin ardından söylenen, onun kahramanlıklarını, iyiliklerini ve ölümünün verdiği acıyı dile getiren şiirlere 'sagu' denir. Yani konusu 'ölüm ve yastır.",
+    "options": [
+      {
+        "text": "Aşk ve doğa",
+        "isCorrect": false
+      },
+      {
+        "text": "Kahramanlık ve savaş",
+        "isCorrect": false
+      },
+      {
+        "text": "Ölüm ve yas",
+        "isCorrect": true
+      },
+      {
+        "text": "Tanrıya yakarış",
+        "isCorrect": false
+      },
+      {
+        "text": "Günlük hayat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi İslamiyet Öncesi Türk Edebiyatı'nın sözlü dönem ürünlerinden biridir?",
+    "explanation": "İslamiyet öncesi Türk edebiyatının sözlü döneminde ortaya çıkan ürünler 'koşuk', 'sagu', 'destan' ve 'sav'dır. 'Sav' ise atasözü niteliğindeki kısa, özlü sözlerdir.",
+    "options": [
+      {
+        "text": "Gazel",
+        "isCorrect": false
+      },
+      {
+        "text": "Kaside",
+        "isCorrect": false
+      },
+      {
+        "text": "Mesnevi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sav",
+        "isCorrect": true
+      },
+      {
+        "text": "İlahi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "İslamiyet Öncesi Türk Destanları ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "explanation": "İslamiyet öncesi Türk destanları şunlardır: Altay - Yaratılış Destanı, Saka - Alp Er Tunga ve Şu Destanı, Hun - Oğuz Kağan Destanı, Göktürk - Ergenekon ve Bozkurt Destanı, Uygur - Türeyiş ve Göç Destanı. 'Manas Destanı' ise Kırgız Türklerine ait olup İslamiyet'in kabulünden sonra oluşmuş bir destandır, bu nedenle İslamiyet öncesi döneme ait değildir.",
+    "options": [
+      {
+        "text": "Saka Türkleri - Alp Er Tunga Destanı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hun Türkleri - Oğuz Kağan Destanı",
+        "isCorrect": false
+      },
+      {
+        "text": "Göktürkler - Ergenekon Destanı",
+        "isCorrect": false
+      },
+      {
+        "text": "Uygur Türkleri - Manas Destanı",
+        "isCorrect": true
+      },
+      {
+        "text": "Uygur Türkleri - Türeyiş Destanı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Servetifünun Edebiyatı aşağıdaki padişahların hangisi döneminde baskılar nedeniyle sona ermiştir?",
+    "explanation": "Servetifünun Edebiyatı, 1901 yılında dergide yayımlanan bir yazı nedeniyle II. Abdülhamid'in sansür ve baskı politikaları sonucu dağılmış ve etkinliğini kaybetmiştir.",
+    "options": [
+      {
+        "text": "II. Mahmut",
+        "isCorrect": false
+      },
+      {
+        "text": "II. Abdülhamid",
+        "isCorrect": true
+      },
+      {
+        "text": "V. Mehmet Reşat",
+        "isCorrect": false
+      },
+      {
+        "text": "I. Meşrutiyet",
+        "isCorrect": false
+      },
+      {
+        "text": "III. Selim",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Servetifûnun Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki eserlerden hangisi Servetifünun dönemi sanatçılarından Halit Ziya Uşaklıgil'e aittir?",
+    "explanation": "Halit Ziya Uşaklıgil, Servetifünun döneminin en önemli romancısıdır. 'Mai ve Siyah', 'Aşk-ı Memnu' ve 'Kırık Hayatlar' onun başyapıtları arasındadır. 'Mai ve Siyah' romanı, Servetifünun kuşağının idealizm ile hayal kırıklığı arasındaki bocalamasını anlatır.",
+    "options": [
+      {
+        "text": "Sergüzeşt",
+        "isCorrect": false
+      },
+      {
+        "text": "İntibah",
+        "isCorrect": false
+      },
+      {
+        "text": "Araba Sevdası",
+        "isCorrect": false
+      },
+      {
+        "text": "Mai ve Siyah",
+        "isCorrect": true
+      },
+      {
+        "text": "Zavallı Çocuk",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Servetifûnun Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Servetifünun Edebiyatı'nda şiir türünde en başarılı isim olarak kabul edilen, 'Sis' ve 'Elhan-ı Şita' gibi şiirleriyle tanınan sanatçı kimdir?",
+    "explanation": "Servetifünun Edebiyatı'nın ve Türk edebiyatının önemli şairlerinden Tevfik Fikret, 'Sis', 'Haluk'un Defteri', 'Rübab-ı Şikeste' ve 'Elhan-ı Şita' gibi şiirleriyle tanınır. Döneminin en etkili şairidir.",
+    "options": [
+      {
+        "text": "Cenap Şahabettin",
+        "isCorrect": false
+      },
+      {
+        "text": "Tevfik Fikret",
+        "isCorrect": true
+      },
+      {
+        "text": "Mehmet Rauf",
+        "isCorrect": false
+      },
+      {
+        "text": "Süleyman Nazif",
+        "isCorrect": false
+      },
+      {
+        "text": "Hüseyin Cahit Yalçın",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Servetifûnun Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Servetifünun Edebiyatı'nın önemli bir özelliği aşağıdakilerden hangisidir?",
+    "explanation": "Servetifünun Edebiyatı, sanat için sanat anlayışını benimsemiştir. Eserlerinde toplumsal konulardan çok, bireyin iç dünyası, aşk, tabiat, karamsarlık gibi kişisel temalar işlenmiştir.",
+    "options": [
+      {
+        "text": "Toplum için sanat anlayışını benimsemeleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Sade bir dil kullanmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Halk edebiyatı nazım biçimlerini kullanmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanat için sanat anlayışını benimsemeleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Dini-tasavvufi konulara ağırlık vermeleri",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Servetifûnun Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Tanzimat Edebiyatı'nın birinci dönem sanatçıları aşağıdaki gazetelerden hangisini çıkararak halkı eğitmeyi amaçlamışlardır?",
+    "explanation": "Tanzimat Edebiyatı'nın birinci dönem sanatçıları Şinasi ve Agah Efendi, 1860 yılında ilk özel gazete olan Tercüman-ı Ahval'i çıkarmışlardır. Bu gazete, halkı eğitmek ve batılı fikirleri yaymak için bir araç olmuştur.",
+    "options": [
+      {
+        "text": "Takvim-i Vakayi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ceride-i Havadis",
+        "isCorrect": false
+      },
+      {
+        "text": "Tasvir-i Efkar",
+        "isCorrect": false
+      },
+      {
+        "text": "Tercüman-ı Ahval",
+        "isCorrect": true
+      },
+      {
+        "text": "İbret",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tanzimant Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki eser-yazar eşleştirmelerinden hangisi Tanzimat Edebiyatı'na aittir ve doğrudur?",
+    "explanation": "Namık Kemal, Tanzimat Edebiyatı'nın en önemli vatan şairi ve yazarıdır. 'Vatan yahut Silistre' onun vatanseverlik duygularını coşkulu bir şekilde işlediği, sahnelendiğinde büyük olaylara yol açan ünlü tiyatro eseridir.",
+    "options": [
+      {
+        "text": "Zavallı Çocuk - Ahmet Mithat Efendi",
+        "isCorrect": false
+      },
+      {
+        "text": "Şair Evlenmesi - Şinasi",
+        "isCorrect": false
+      },
+      {
+        "text": "İntibah - Ziya Paşa",
+        "isCorrect": false
+      },
+      {
+        "text": "Vatan yahut Silistre - Namık Kemal",
+        "isCorrect": true
+      },
+      {
+        "text": "Sergüzeşt - Recaizade Mahmut Ekrem",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tanzimant Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Tanzimat Edebiyatı'nın ikinci dönem sanatçıları için aşağıdakilerden hangisi söylenebilir?",
+    "explanation": "Tanzimat Edebiyatı'nın ikinci dönem sanatçıları (Recaizade Mahmut Ekrem, Abdülhak Hamit Tarhan, Samipaşazade Sezai) daha bireyci davranmış, 'sanat için sanat' anlayışını benimsemişlerdir. Dil ve üslup bakımından birinci döneme göre daha ağır bir dil kullanmışlardır.",
+    "options": [
+      {
+        "text": "Toplum için sanat anlayışını sürdürmüşlerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dilleri birinci döneme göre daha sadeleşmiştir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanat için sanat anlayışını benimsemişlerdir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Siyasi konulara daha fazla yer vermişlerdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Halk edebiyatı nazım biçimlerini tercih etmişlerdir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tanzimant Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki eserlerden hangisi, Peyami Safa'nın bir çocuğun hastalıkla ve yalnızlıkla geçen zorlu çocukluğunu ve eğitim sürecini anlattığı otobiyografik romanıdır?",
+    "explanation": "Peyami Safa'nın 'Dokuzuncu Hariciye Koğuşu' adlı eseri, dizindeki bir hastalık nedeniyle tedavi gören genç bir çocuğun psikolojisini ve yaşadığı zorlukları anlatan yarı otobiyografik bir romandır.",
+    "options": [
+      {
+        "text": "Dokuzuncu Hariciye Koğuşu",
+        "isCorrect": true
+      },
+      {
+        "text": "Kiralık Konak",
+        "isCorrect": false
+      },
+      {
+        "text": "Araba Sevdası",
+        "isCorrect": false
+      },
+      {
+        "text": "Yaprak Dökümü",
+        "isCorrect": false
+      },
+      {
+        "text": "Sodom ve Gomore",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Eser Özetleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Recaizade Mahmut Ekrem'in, alafranga özentisi içindeki Bihruz Bey'in komik ve hüzünlü hikâyesini anlatan, Tanzimat Dönemi'nin önemli romanı aşağıdakilerden hangisidir?",
+    "explanation": "Recaizade Mahmut Ekrem'in 'Araba Sevdası', Batılılaşmanın yanlış anlaşılmasını eleştirdiği, mirasyedi Bihruz Bey'in yaşadığı komik ve trajik olayları konu alan bir romandır.",
+    "options": [
+      {
+        "text": "Araba Sevdası",
+        "isCorrect": true
+      },
+      {
+        "text": "İntibah",
+        "isCorrect": false
+      },
+      {
+        "text": "Felatun Bey ile Rakım Efendi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sergüzeşt",
+        "isCorrect": false
+      },
+      {
+        "text": "Zavallı Çocuk",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Eser Özetleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Yakup Kadri Karaosmanoğlu'nun, II. Meşrutiyet döneminde İstanbul'da yaşanan sosyal değişimi ve üç kuşağın çatışmasını konu alan romanı aşağıdakilerden hangisidir?",
+    "explanation": "Yakup Kadri Karaosmanoğlu'nun 'Kiralık Konak' adlı romanı, II. Meşrutiyet döneminde bir konak etrafında gelişen olaylar üzerinden, değişen toplum yapısını ve nesiller arası çatışmayı anlatır.",
+    "options": [
+      {
+        "text": "Kiralık Konak",
+        "isCorrect": true
+      },
+      {
+        "text": "Yaban",
+        "isCorrect": false
+      },
+      {
+        "text": "Ankara",
+        "isCorrect": false
+      },
+      {
+        "text": "Sinekli Bakkal",
+        "isCorrect": false
+      },
+      {
+        "text": "Hüküm Gecesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Eser Özetleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Halide Edib Adıvar'ın, Kurtuluş Savaşı yıllarında bir Anadolu kasabasında geçen ve aydın-halk çatışmasını işleyen ünlü romanı aşağıdakilerden hangisidir?",
+    "explanation": "Halide Edib Adıvar'ın 'Vurun Kahpeye' adlı romanı, Kurtuluş Savaşı sırasında Anadolu'ya öğretmen olarak giden idealist Aliye'nin, yerel güçlerle mücadelesini ve halkın cehaletiyle savaşını anlatır.",
+    "options": [
+      {
+        "text": "Vurun Kahpeye",
+        "isCorrect": true
+      },
+      {
+        "text": "Ateşten Gömlek",
+        "isCorrect": false
+      },
+      {
+        "text": "Handan",
+        "isCorrect": false
+      },
+      {
+        "text": "Mor Salkımlı Ev",
+        "isCorrect": false
+      },
+      {
+        "text": "Tatarcık",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Eser Özetleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, Halk edebiyatının en yaygın nazım biçimlerinden biri olup genellikle 11'li hece ölçüsüyle ve dörtlükler halinde yazılan, sevgi, doğa, yiğitlik gibi konuları işleyen bir türdür?",
+    "explanation": "Koşma, Halk edebiyatının en temel nazım biçimlerindendir. Genellikle 11'li hece ölçüsüyle yazılır, dörtlüklerden oluşur ve lirik konuları işler.",
+    "options": [
+      {
+        "text": "Koşma",
+        "isCorrect": true
+      },
+      {
+        "text": "Semai",
+        "isCorrect": false
+      },
+      {
+        "text": "Varsağı",
+        "isCorrect": false
+      },
+      {
+        "text": "Destan",
+        "isCorrect": false
+      },
+      {
+        "text": "Mani",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Halk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Halk edebiyatında, genellikle 7'li hece ölçüsüyle söylenen, uyak düzeni aaxa şeklinde olan ve tek dörtlükten ibaret kısa, ezgili şiirlere ne ad verilir?",
+    "explanation": "Mani, Halk edebiyatında genellikle yedi heceli, dört dizeden oluşan, aaxa uyak düzenine sahip kısa ve etkili bir nazım biçimidir.",
+    "options": [
+      {
+        "text": "Mani",
+        "isCorrect": true
+      },
+      {
+        "text": "Türkü",
+        "isCorrect": false
+      },
+      {
+        "text": "Ninni",
+        "isCorrect": false
+      },
+      {
+        "text": "Ağıt",
+        "isCorrect": false
+      },
+      {
+        "text": "Koşma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Halk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Âşık edebiyatında, kahramanlık konularını işleyen, savaş, deprem, yangın gibi toplumsal olayları anlatan uzun şiirlere ne ad verilir?",
+    "explanation": "Destan, Halk edebiyatında toplumu derinden etkileyen olayları (savaş, göç, doğal afet) veya bir kahramanın maceralarını anlatan uzun, koşma biçiminde yazılmış şiirlerdir.",
+    "options": [
+      {
+        "text": "Destan",
+        "isCorrect": true
+      },
+      {
+        "text": "Varsağı",
+        "isCorrect": false
+      },
+      {
+        "text": "Semai",
+        "isCorrect": false
+      },
+      {
+        "text": "Güzelleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Taşlama",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Halk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Halk edebiyatında, bir kişinin veya olayın eleştirildiği, toplumdaki aksaklıkların taşlandığı yergi türündeki şiirlere ne ad verilir?",
+    "explanation": "Taşlama, Halk edebiyatında bir kimseyi, bir olayı veya toplumdaki düzensizlikleri eleştirmek, yermek amacıyla yazılan şiir türüdür. Divan edebiyatındaki karşılığı 'hicviye'dir.",
+    "options": [
+      {
+        "text": "Taşlama",
+        "isCorrect": true
+      },
+      {
+        "text": "Ağıt",
+        "isCorrect": false
+      },
+      {
+        "text": "Güzelleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Koçaklama",
+        "isCorrect": false
+      },
+      {
+        "text": "Semai",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Halk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Divan edebiyatında, din ve tasavvuf dışındaki konularda (aşk, şarap, tabiat) yazılan ve genellikle 5-15 beyitten oluşan nazım biçimi aşağıdakilerden hangisidir?",
+    "explanation": "Gazel, Divan edebiyatının en yaygın nazım biçimidir. Aşk, şarap, güzellik gibi lirik konuları işler ve genellikle 5 ile 15 beyit arasında değişen bir uzunluğa sahiptir.",
+    "options": [
+      {
+        "text": "Gazel",
+        "isCorrect": true
+      },
+      {
+        "text": "Kaside",
+        "isCorrect": false
+      },
+      {
+        "text": "Mesnevi",
+        "isCorrect": false
+      },
+      {
+        "text": "Murabba",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıta",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Divan Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Divan edebiyatında, din ve devlet büyüklerini övmek amacıyla yazılan, en az 33 en çok 99 beyitten oluşan nazım biçimi aşağıdakilerden hangisidir?",
+    "explanation": "Kaside, birini övmek veya yermek için yazılan, belli bir kafiye düzeni olan, en az 33 beyitten oluşan uzun şiirlerdir. Nesib, girizgah, methiye, fahriye, dua gibi bölümleri vardır.",
+    "options": [
+      {
+        "text": "Kaside",
+        "isCorrect": true
+      },
+      {
+        "text": "Gazel",
+        "isCorrect": false
+      },
+      {
+        "text": "Mersiye",
+        "isCorrect": false
+      },
+      {
+        "text": "Mesnevi",
+        "isCorrect": false
+      },
+      {
+        "text": "Muhammes",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Divan Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Divan edebiyatında, her beyti kendi arasında kafiyeli olan ve uzun hikâyeler, destanlar yazmaya elverişli nazım biçimi aşağıdakilerden hangisidir?",
+    "explanation": "Mesnevi, her beyti kendi arasında kafiyeli (aa, bb, cc, ...) olduğu için çok uzun metinlerin yazılmasına imkan veren bir nazım biçimidir. Leyla ile Mecnun, Hüsrev ü Şirin gibi eserler bu biçimde yazılmıştır.",
+    "options": [
+      {
+        "text": "Mesnevi",
+        "isCorrect": true
+      },
+      {
+        "text": "Kaside",
+        "isCorrect": false
+      },
+      {
+        "text": "Kıta",
+        "isCorrect": false
+      },
+      {
+        "text": "Terkib-i Bend",
+        "isCorrect": false
+      },
+      {
+        "text": "Müstezat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Divan Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Divan edebiyatında, ölen bir kişinin ardından duyulan acıyı ve onun erdemlerini anlatmak için yazılan şiir türüne ne ad verilir?",
+    "explanation": "Mersiye, bir kimsenin ölümü üzerine duyulan üzüntüyü, acıyı dile getirmek ve ölen kişiyi övmek için yazılan şiir türüdür. Halk edebiyatındaki karşılığı 'ağıt'dır.",
+    "options": [
+      {
+        "text": "Mersiye",
+        "isCorrect": true
+      },
+      {
+        "text": "Hicviye",
+        "isCorrect": false
+      },
+      {
+        "text": "Medhiye",
+        "isCorrect": false
+      },
+      {
+        "text": "Fahriye",
+        "isCorrect": false
+      },
+      {
+        "text": "Münacat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Divan Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Sanatçının, eserde kendi kişiliğini gizleyerek olayları tarafsız bir gözlemci gibi aktardığı, 'sanat için sanat' anlayışını benimseyen edebî akım aşağıdakilerden hangisidir?",
+    "explanation": "Realizm (Gerçekçilik) akımında, sanatçı olayları ve karakterleri bir bilim adamı tarafsızlığıyla, kendi duygularını katmadan gözlemleyerek anlatır. 'Sanat için sanat' ilkesini benimser.",
+    "options": [
+      {
+        "text": "Realizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Romantizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Klasisizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Natüralizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Sembolizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Akımlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Akıl ve sağduyuya önem veren, insanın dış dünyasından çok iç dünyasına yönelen, dilde süslemeden kaçınan ve Antik Yunan-Latin kaynaklarına dayanan edebî akım aşağıdakilerden hangisidir?",
+    "explanation": "Klasisizm akımı, akıl, mantık ve sağduyuya büyük önem verir. İdeal insan tipini işler, dilde sade ve ölçülü olmayı savunur. Eserlerde Antik Yunan ve Latin edebiyatı örnek alınır.",
+    "options": [
+      {
+        "text": "Klasisizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Romantizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Parnasizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Sürrealizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Empresyonizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Akımlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aklın ve mantığın baskısına karşı çıkarak hayal, duygu ve coşkuya öncelik veren, doğaya ve bireye dönük, 'sanat toplum içindir' anlayışını benimseyen edebî akım aşağıdakilerden hangisidir?",
+    "explanation": "Romantizm akımı, Klasisizme bir tepki olarak doğmuştur. Duyguları, hayali, bireyselliği ve doğayı ön plana çıkarır. 'Sanat toplum içindir' anlayışıyla toplumsal konulara da eğilir.",
+    "options": [
+      {
+        "text": "Romantizm",
+        "isCorrect": true
+      },
+      {
+        "text": "Realizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Natüralizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Egzistansiyalizm",
+        "isCorrect": false
+      },
+      {
+        "text": "Fütürizm",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Edebî Akımlar",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki eser-yazar eşleştirmelerinden hangisi yanlıştır?",
+    "explanation": "Çağdaş Türk Edebiyatı'nda önemli bir isim olan Oğuz Atay'ın en bilinen eseri, bir modernizm örneği ve bireyin iç dünyasını anlatan \"Tutunamayanlar\" romanıdır. \"Kürk Mantolu Madonna\" ise Sabahattin Ali'ye aittir. Bu nedenle Oğuz Atay ile \"Kürk Mantolu Madonna\" eserinin eşleştirilmesi yanlıştır.",
+    "options": [
+      {
+        "text": "Orhan Pamuk - Kara Kitap",
+        "isCorrect": false
+      },
+      {
+        "text": "Latife Tekin - Sevgili Arsız Ölüm",
+        "isCorrect": false
+      },
+      {
+        "text": "Oğuz Atay - Kürk Mantolu Madonna",
+        "isCorrect": true
+      },
+      {
+        "text": "Adalet Ağaoğlu - Ölmeye Yatmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Yaşar Kemal - İnce Memed",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çağdaş Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  },
+  {
+    "text": "Aşağıdaki yazarlardan hangisi \"İkinci Yeni\" şiir akımının önemli temsilcileri arasında yer alır?",
+    "explanation": "\"İkinci Yeni\", 1950'lerde Türk şiirinde ortaya çıkan, anlamı ikinci plana atıp söyleyiş güzelliğine, imgeye ve soyutlamaya önem veren bir akımdır. Bu akımın en önemli ve tipik temsilcilerinden biri, şiirlerinde kapalı bir anlatım ve yoğun imgeler kullanan Edip Cansever'dir.",
+    "options": [
+      {
+        "text": "Orhan Veli Kanık",
+        "isCorrect": false
+      },
+      {
+        "text": "Cahit Sıtkı Tarancı",
+        "isCorrect": false
+      },
+      {
+        "text": "Edip Cansever",
+        "isCorrect": true
+      },
+      {
+        "text": "Nazım Hikmet",
+        "isCorrect": false
+      },
+      {
+        "text": "Ahmet Hamdi Tanpınar",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çağdaş Türk Edebiyatı",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Edebiyat"
+  }
+]
