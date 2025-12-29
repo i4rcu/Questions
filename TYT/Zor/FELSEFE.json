@@ -148,5 +148,35 @@
     "exam": "TYT",
     "difficulty": "Zor",
     "subject": "Felsefe"
+  },
+  {
+    "text": "Felsefe tarihinde, felsefenin ne olduğuna ve diğer disiplinlerden nasıl ayrıldığına dair farklı görüşler vardır. Bu bağlamda, felsefenin temel özelliği ile ilgili aşağıdaki yargılardan hangisi, onu bilimsel yöntemlerden kesin olarak ayıran bir nitelik olarak kabul edilir?",
+    "explanation": "Felsefe, bilimlerden farklı olarak, önermelerini kesin ve nihai bir şekilde doğrulama veya yanlışlama olanağına sahip değildir. Bilimler, hipotezlerini deney ve gözlem yoluyla test edebilir ve yanlışlanabilir ilkeler üzerine kuruludur. Felsefe ise daha çok akıl yürütme, mantıksal çözümleme ve eleştirel düşünme ile ilerler; ulaştığı sonuçlar tartışmaya açıktır ve nihai bir doğruluk iddiasında bulunmaz. Bu, onun bilimsel yöntemlerden en kesin ayrım noktalarından biridir.",
+    "options": [
+      {
+        "text": "Olgulara dayalı genel geçer yasalar ortaya koyması",
+        "isCorrect": false
+      },
+      {
+        "text": "Eleştirel ve sorgulayıcı bir tavır benimsemesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Önermelerini kesin bir şekilde doğrulama veya yanlışlama olanağının bulunmaması",
+        "isCorrect": true
+      },
+      {
+        "text": "Akıl yürütme ve mantık ilkelerini temel alması",
+        "isCorrect": false
+      },
+      {
+        "text": "Evrensel ve sistematik bir bilgi bütünü oluşturma çabası",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Felsefe'nin Alanı",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Felsefe"
   }
 ]
