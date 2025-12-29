@@ -478,5 +478,65 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Geometri"
+  },
+  {
+    "text": "Bir doğruya dışındaki bir noktadan çizilen paralel iki doğru arasında kalan açıların ölçüleri toplamı 140° dir. Bu iki paralel doğrunun, ilk doğru ile yaptığı dar açılardan birinin ölçüsü 50° olduğuna göre, diğer dar açının ölçüsü kaç derecedir?",
+    "explanation": "Paralel doğrular arasında kalan açılar, yöndeş, iç ters ve dış ters açı özelliklerini gösterir. Toplamları 140° olan açılar, birbirini 180°'ye tamamlayan açı çiftleridir. Dar açılardan biri 50° ise, bu açının bütünleri 130° olur. 140° toplamından 130° çıkarılırsa, diğer dar açı 10° bulunur.",
+    "options": [
+      {
+        "text": "10°",
+        "isCorrect": true
+      },
+      {
+        "text": "20°",
+        "isCorrect": false
+      },
+      {
+        "text": "30°",
+        "isCorrect": false
+      },
+      {
+        "text": "40°",
+        "isCorrect": false
+      },
+      {
+        "text": "50°",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir ABC üçgeninde |AB| = 8 cm, |AC| = 10 cm ve |BC| = 7 cm'dir. Buna göre, aşağıdaki açılardan hangisinin ölçüsü kesinlikle diğerlerinden büyüktür?",
+    "explanation": "Bir üçgende bir kenarın karşısındaki açı, kenar uzunluğu ile doğru orantılıdır. En uzun kenar en büyük açının karşısındadır. Kenar uzunlukları 10 cm, 8 cm ve 7 cm'dir. En uzun kenar |AC| = 10 cm olduğu için, karşısındaki ∠B açısı en büyük açıdır.",
+    "options": [
+      {
+        "text": "∠A",
+        "isCorrect": false
+      },
+      {
+        "text": "∠B",
+        "isCorrect": true
+      },
+      {
+        "text": "∠C",
+        "isCorrect": false
+      },
+      {
+        "text": "∠A ve ∠C eşittir",
+        "isCorrect": false
+      },
+      {
+        "text": "∠B ve ∠C eşittir",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgende Açı-Kenar Bağıntıları",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Geometri"
   }
 ]
