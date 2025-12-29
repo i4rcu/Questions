@@ -208,5 +208,35 @@
     "exam": "TYT",
     "difficulty": "Zor",
     "subject": "Tarih"
+  },
+  {
+    "text": "Tarih biliminde, bir olayın gerçekleştiği dönemin koşulları, inançları ve değer yargıları göz önünde bulundurularak değerlendirilmesi gerektiğini savunan ve tarihçinin kendi döneminin bakış açısıyla yargıda bulunmaması gerektiğini öne süren ilke aşağıdakilerden hangisidir?",
+    "explanation": "Tarih biliminde 'Objektiflik' ilkesi, geçmiş olayları incelerken, o dönemin şartlarına, düşünce yapısına ve değerlerine göre değerlendirme yapmayı, tarihçinin kendi çağının önyargılarından ve değer yargılarından sıyrılmasını gerektirir. Bu, olayları olduğu gibi anlamaya çalışmak ve günümüzün standartlarıyla yargılamamak anlamına gelir. Doğru cevap 'Objektiflik' ilkesidir.",
+    "options": [
+      {
+        "text": "Objektiflik",
+        "isCorrect": true
+      },
+      {
+        "text": "Yer-Zaman İlkesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Neden-Sonuç İlişkisi",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihi Kritik",
+        "isCorrect": false
+      },
+      {
+        "text": "Kronoloji",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Tarih"
   }
 ]
