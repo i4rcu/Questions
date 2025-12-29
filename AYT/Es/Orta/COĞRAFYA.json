@@ -1,0 +1,188 @@
+[
+  {
+    "text": "Aşağıdakilerden hangisi, bir yerleşim yerinin fonksiyonel özelliklerinden biri değildir?",
+    "explanation": "Bir yerleşim yerinin fonksiyonel özellikleri, o yerleşimin ekonomik ve sosyal hayatını şekillendiren temel işlevlerini ifade eder. Tarım, sanayi, ticaret, turizm, ulaşım, idari ve askeri fonksiyonlar bu kapsamdadır. Yerleşimin kurulduğu arazinin eğim değeri ise fiziki coğrafya özelliğidir ve yerleşimin fonksiyonunu doğrudan belirleyen bir özellik olarak kabul edilmez; daha çok yerleşim modeli ve yapılaşma üzerinde etkilidir.",
+    "options": [
+      {
+        "text": "Tarım şehri olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Liman şehri olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Turizm şehri olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Kurulduğu arazinin eğim değeri",
+        "isCorrect": true
+      },
+      {
+        "text": "İdari merkez olması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Beşeri Sistemler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'nin aşağıda verilen özelliklerinden hangisi, ülkemizin jeopolitik önemini artıran temel faktörlerden biri olarak gösterilemez?",
+    "explanation": "Türkiye'nin jeopolitik önemi, coğrafi konumundan kaynaklanır. Asya ve Avrupa kıtalarını birbirine bağlaması (köprü görevi), önemli enerji koridorları üzerinde bulunması, üç tarafının denizlerle çevrili olması ve tarihi İpek Yolu güzergahında yer alması bu önemi pekiştirir. Ancak, yıllık ortalama sıcaklık değerlerinin yüksek olması iklimsel bir özelliktir ve doğrudan jeopolitik önemle ilişkilendirilmez.",
+    "options": [
+      {
+        "text": "Asya ve Avrupa kıtaları arasında köprü görevi görmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Önemli enerji nakil hatlarına ev sahipliği yapması",
+        "isCorrect": false
+      },
+      {
+        "text": "Yıllık ortalama sıcaklık değerlerinin yüksek olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Üç tarafının denizlerle çevrili olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihi İpek Yolu güzergahında bulunması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mekansal Bir Sentez: Türkiye",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Türkiye'de tarım ürünleri çeşitliliğinin fazla olmasında aşağıdaki faktörlerden hangisinin etkisi diğerlerine göre daha azdır?",
+    "explanation": "Türkiye'de farklı iklim tiplerinin görülmesi, yükselti ve yer şekillerinin çeşitlilik göstermesi ve toprak çeşitliliği, farklı ekolojik koşullar yaratarak tarım ürünleri çeşitliliğini artıran temel faktörlerdir. Sulama olanaklarının artması verimliliği ve üretim miktarını etkilese de, ürün çeşitliliğinin temel belirleyicisi doğal çevre faktörleridir (iklim, yer şekilleri, toprak). Bu nedenle, sulama olanaklarının etkisi diğerlerine göre daha azdır.",
+    "options": [
+      {
+        "text": "Farklı iklim tiplerinin görülmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Yükselti ve yer şekillerinin çeşitlilik göstermesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Sulama olanaklarının giderek artması",
+        "isCorrect": true
+      },
+      {
+        "text": "Toprak çeşitliliğinin fazla olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Farklı mevsim özelliklerinin yaşanması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Türkiye'de Tarım ve Hayvancılık",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki bölgesel kalkınma projelerinden hangisi, temel hedefi ve etki alanı bakımından diğer dördünden farklıdır?",
+    "explanation": "Doğu Anadolu Projesi (DAP), Güneydoğu Anadolu Projesi (GAP), Doğu Karadeniz Projesi (DOKAP) ve Zonguldak-Bartın-Karabük Projesi (ZBK) belirli bir coğrafi bölgeyi veya alt bölgeyi kalkındırmayı hedefleyen projelerdir. Konya Ovası Projesi (KOP) ise bir bölgeyi değil, daha çok tarımsal verimlilik ve su kaynaklarının etkin kullanımına odaklanan, İç Anadolu Bölgesi'ndeki belirli bir ovanın kalkınmasını amaçlayan bir projedir. Diğerleri geniş coğrafi bölgeleri kapsarken, KOP daha spesifik bir alanı hedef alır, bu nedenle temel hedef ve etki alanı bakımından farklılık gösterir.",
+    "options": [
+      {
+        "text": "Güneydoğu Anadolu Projesi (GAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Anadolu Projesi (DAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğu Karadeniz Projesi (DOKAP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Zonguldak-Bartın-Karabük Projesi (ZBK)",
+        "isCorrect": false
+      },
+      {
+        "text": "Konya Ovası Projesi (KOP)",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Türkiye'nin Bölgeleri ve Bölgesel Kalkınma Projeleri",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Küresel ticaret ve ulaşım ağları düşünüldüğünde, aşağıdaki boğazlardan hangisi diğerlerine göre farklı bir kıtayı sınırlar?",
+    "explanation": "Cebelitarık Boğazı, Avrupa (İber Yarımadası) ile Afrika (Fas) kıtalarını birbirinden ayırır. Diğer boğazlar ise (İstanbul ve Çanakkale Boğazları Asya ve Avrupa'yı ayırır, Macellan Boğazı Güney Amerika kıtasının güney ucunda yer alır, Hürmüz Boğazı ise Asya kıtası içinde, Basra Körfezi'ni Umman Denizi'ne bağlar) aynı kıtadaki karaları ayırır veya bir kıta içindeki su yollarıdır. Bu nedenle, Cebelitarık Boğazı iki farklı kıtayı (Avrupa ve Afrika) sınırlaması bakımından diğerlerinden farklıdır.",
+    "options": [
+      {
+        "text": "İstanbul Boğazı",
+        "isCorrect": false
+      },
+      {
+        "text": "Çanakkale Boğazı",
+        "isCorrect": false
+      },
+      {
+        "text": "Cebelitarık Boğazı",
+        "isCorrect": true
+      },
+      {
+        "text": "Macellan Boğazı",
+        "isCorrect": false
+      },
+      {
+        "text": "Hürmüz Boğazı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdaki ülke-ekonomik faaliyet eşleştirmelerinden hangisi yanlıştır?",
+    "explanation": "Japonya, doğal kaynaklar bakımından fakir bir ülke olmasına rağmen, yüksek teknoloji, mühendislik ve nitelikli insan gücüne dayalı olarak dünyanın önde gelen sanayi ve otomotiv üreticilerinden biridir. Bu nedenle 'Tarım ürünleri ihracatı' Japonya'nın başlıca ekonomik faaliyeti olarak gösterilemez. Diğer seçeneklerdeki eşleştirmeler doğrudur: Kanada ormancılık, Suudi Arabistan petrole, Brezilya tarıma (kahve) ve Güney Afrika Cumhuriyeti maden çıkarımına (altın, elmas) dayalı bir ekonomiye sahiptir.",
+    "options": [
+      {
+        "text": "Kanada - Ormancılık ve kereste ürünleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Suudi Arabistan - Ham petrol ihracatı",
+        "isCorrect": false
+      },
+      {
+        "text": "Japonya - Tarım ürünleri ihracatı",
+        "isCorrect": true
+      },
+      {
+        "text": "Brezilya - Kahve üretimi ve ihracatı",
+        "isCorrect": false
+      },
+      {
+        "text": "Güney Afrika Cumhuriyeti - Altın ve elmas madenleri",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ülkeler Coğrafyası",
+    "exam": "AYT",
+    "section": "Es",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
+  }
+]
