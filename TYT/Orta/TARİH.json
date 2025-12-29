@@ -178,5 +178,35 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Tarih"
+  },
+  {
+    "text": "Tarih bilimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Tarih bilimi, geçmişteki insan topluluklarının faaliyetlerini, yer ve zaman göstererek, neden-sonuç ilişkisi içinde, belgelere dayanarak ve objektif (tarafsız) bir şekilde inceleyen bir bilim dalıdır. Bu tanım, tarihin bilimsel metodolojisini en kapsamlı şekilde ifade eder ve diğer seçeneklerdeki eksik veya yanlış bilgileri düzeltir.",
+    "options": [
+      {
+        "text": "Geçmişteki olayları yalnızca hikaye anlatımı yoluyla aktarır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece siyasi olayları ve savaşları konu alır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Geçmişteki insan topluluklarının faaliyetlerini, yer ve zaman göstererek, neden-sonuç ilişkisi içinde, belgelere dayanarak inceler.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kesin ve değişmez yargılara ulaşmayı hedefler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Olayları incelerken yalnızca birincil kaynakları kullanır, ikincil kaynakları dikkate almaz.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Tarih Bilimine Giriş",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Tarih"
   }
 ]
