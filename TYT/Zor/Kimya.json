@@ -328,5 +328,65 @@
     "exam": "TYT",
     "difficulty": "Zor",
     "subject": "Kimya"
+  },
+  {
+    "text": "Kimya biliminin temel amaçlarından biri, maddelerin yapısını, özelliklerini ve dönüşümlerini incelemektir. Bu bağlamda, aşağıdaki ifadelerden hangisi kimya biliminin doğrudan bir uygulama alanına örnek olarak gösterilemez?",
+    "explanation": "Kimya bilimi, maddelerin yapısı, özellikleri ve birbirleriyle etkileşimleri ile ilgilenir. 'Bir gezegenin yörünge hızının hesaplanması' ise fizik biliminin, özellikle astronomi ve mekanik dallarının konusudur. Bu nedenle bu ifade kimyanın doğrudan bir uygulama alanı değildir.",
+    "options": [
+      {
+        "text": "Yeni bir polimer malzemenin sentezlenmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "İlaç moleküllerinin etkinliğinin araştırılması",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir gezegenin yörünge hızının hesaplanması",
+        "isCorrect": true
+      },
+      {
+        "text": "Petrol rafinasyonu ile farklı ürünler elde edilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Atık sulardaki ağır metal iyonlarının arıtılması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kimya Bilimi",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Periyodik sistemde elementler artan atom numaralarına göre dizilir ve benzer kimyasal özellikler periyotlar boyunca tekrarlanır. Aşağıdaki element çiftlerinden hangisi, periyodik cetvelde birbirine en uzak konumda bulunmalarına rağmen, kimyasal özellikleri bakımından birbirine en çok benzer?",
+    "explanation": "Lityum (Li) ve Sodyum (Na) her ikisi de 1A grubunda (alkali metaller) bulunur. Aynı grupta bulunan elementler değerlik elektron sayıları aynı olduğu için benzer kimyasal özellikler gösterir. Periyodik cetvelde birinci ve üçüncü periyotta yer almalarına rağmen, grup benzerliği kimyasal benzerliği belirler.",
+    "options": [
+      {
+        "text": "Flor (F) ve Klor (Cl)",
+        "isCorrect": false
+      },
+      {
+        "text": "Berilyum (Be) ve Magnezyum (Mg)",
+        "isCorrect": false
+      },
+      {
+        "text": "Lityum (Li) ve Sodyum (Na)",
+        "isCorrect": true
+      },
+      {
+        "text": "Oksijen (O) ve Kükürt (S)",
+        "isCorrect": false
+      },
+      {
+        "text": "Helyum (He) ve Neon (Ne)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Atom ve Periyodik Sistem",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Kimya"
   }
 ]
