@@ -148,5 +148,35 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Felsefe"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi felsefenin temel özelliklerinden biri olarak kabul edilir?",
+    "explanation": "Felsefe, eleştirel bir düşünce etkinliğidir. Herhangi bir ön kabulü, inancı veya bilgiyi sorgulamadan, eleştirmeden ve akıl süzgecinden geçirmeden kabul etmez. Bu nedenle, felsefenin en temel özelliği eleştirel olmasıdır.",
+    "options": [
+      {
+        "text": "Eleştirel bir düşünce etkinliği olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Kesin ve değişmez yargılar üretmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Deneysel yöntemlere dayanması",
+        "isCorrect": false
+      },
+      {
+        "text": "Pratik faydayı ön planda tutması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ortak ve genel geçer sonuçlara ulaşması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Felsefe'nin Alanı",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Felsefe"
   }
 ]
