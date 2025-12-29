@@ -148,5 +148,35 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Coğrafya"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, insanın doğal çevre üzerinde en uzun süreli ve kalıcı etkiye sahip olan faaliyetidir?",
+    "explanation": "Tarım faaliyetleri, insanın doğal çevreyi en temelden ve en uzun süreli olarak değiştirdiği faaliyettir. Ormanların yok edilerek tarlalara dönüştürülmesi, su kaynaklarının yönünün değiştirilmesi, toprağın işlenmesi ve kimyasal gübre/pestisit kullanımı gibi uygulamalar, doğal çevrede yüzyıllar boyunca sürecek kalıcı değişikliklere yol açar. Diğer seçeneklerdeki faaliyetler de etkili olsa da, tarımın yaygınlığı ve sürekliliği onun etkisini daha kalıcı kılar.",
+    "options": [
+      {
+        "text": "Tarım faaliyetleri",
+        "isCorrect": true
+      },
+      {
+        "text": "Sanayi faaliyetleri",
+        "isCorrect": false
+      },
+      {
+        "text": "Madencilik çalışmaları",
+        "isCorrect": false
+      },
+      {
+        "text": "Kentsel yerleşmelerin kurulması",
+        "isCorrect": false
+      },
+      {
+        "text": "Ulaşım ağlarının geliştirilmesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Doğa",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Coğrafya"
   }
 ]
