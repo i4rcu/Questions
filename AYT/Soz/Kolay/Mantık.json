@@ -1,0 +1,281 @@
+[
+  {
+    "text": "Mantığın temel amacı aşağıdakilerden hangisidir?",
+    "explanation": "Mantık, doğru düşünmenin kurallarını inceleyen bir disiplindir. Temel amacı, akıl yürütmelerin geçerliliğini ve tutarlılığını kontrol ederek doğru düşünmeyi sağlamaktır.",
+    "options": [
+      {
+        "text": "Doğru düşünmenin kurallarını belirlemek",
+        "isCorrect": true
+      },
+      {
+        "text": "Duyguların ifade edilmesini sağlamak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanatsal yaratıcılığı geliştirmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarihsel olayları analiz etmek",
+        "isCorrect": false
+      },
+      {
+        "text": "Dilin gramer kurallarını incelemek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi mantığın temel kavramlarından biri değildir?",
+    "explanation": "Mantığın temel kavramları önerme, çıkarım, geçerlilik, tutarlılık ve doğruluk gibi kavramlardır. 'Estetik' ise güzellik ve sanat felsefesi ile ilgili bir kavram olup mantığın doğrudan konusu değildir.",
+    "options": [
+      {
+        "text": "Önerme",
+        "isCorrect": false
+      },
+      {
+        "text": "Çıkarım",
+        "isCorrect": false
+      },
+      {
+        "text": "Geçerlilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Estetik",
+        "isCorrect": true
+      },
+      {
+        "text": "Tutarlılık",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Bir akıl yürütmenin geçerli olması ne anlama gelir?",
+    "explanation": "Bir akıl yürütmenin geçerli olması, öncüller doğru kabul edildiğinde sonucun zorunlu olarak doğru olması anlamına gelir. Geçerlilik, öncüllerin gerçekte doğru olup olmamasıyla değil, çıkarımın yapısıyla ilgilidir.",
+    "options": [
+      {
+        "text": "Öncüllerin ve sonucun gerçekte doğru olması",
+        "isCorrect": false
+      },
+      {
+        "text": "Öncüller doğru kabul edildiğinde sonucun zorunlu olarak doğru olması",
+        "isCorrect": true
+      },
+      {
+        "text": "Sonucun herkes tarafından kabul edilmesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Akıl yürütmede duygulara yer verilmemesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Akıl yürütmenin karmaşık olmaması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantığa Giriş",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Klasik mantıkta, 'Bazı insanlar ölümlüdür' önermesinin karesi (karşıtlık ilişkisi) nedir?",
+    "explanation": "Klasik mantıkta, önermeler arasında kare adı verilen karşıtlık ilişkileri vardır. 'Bazı insanlar ölümlüdür' (Özel Olumlu - I) önermesinin karesi, karşıtı olan 'Bazı insanlar ölümlü değildir' (Özel Olumsuz - O) önermesidir.",
+    "options": [
+      {
+        "text": "Hiçbir insan ölümlü değildir",
+        "isCorrect": false
+      },
+      {
+        "text": "Tüm insanlar ölümlüdür",
+        "isCorrect": false
+      },
+      {
+        "text": "Bazı insanlar ölümlü değildir",
+        "isCorrect": true
+      },
+      {
+        "text": "Tüm insanlar ölümlü değildir",
+        "isCorrect": false
+      },
+      {
+        "text": "Ölümlü olan bazı varlıklar insandır",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Klasik mantıkta 'Tüm kuşlar uçar' önermesinin altığı (düz döndürme) aşağıdakilerden hangisidir?",
+    "explanation": "Klasik mantıkta altık (düz döndürme), bir önermenin hem niteliğinin hem de yükleminin olumsuzlanarak yeniden ifade edilmesidir. 'Tüm kuşlar uçar' (A) önermesinin altığı 'Uçmayan hiçbir şey kuş değildir' şeklindedir. Bu, 'Uçan her şey kuştur' anlamına gelmez.",
+    "options": [
+      {
+        "text": "Uçan her şey kuştur",
+        "isCorrect": false
+      },
+      {
+        "text": "Bazı kuşlar uçar",
+        "isCorrect": false
+      },
+      {
+        "text": "Uçmayan hiçbir şey kuş değildir",
+        "isCorrect": true
+      },
+      {
+        "text": "Bazı uçan şeyler kuştur",
+        "isCorrect": false
+      },
+      {
+        "text": "Kuş olmayan hiçbir şey uçmaz",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Klasik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi dilin mantıksal açıdan işlevlerinden biri değildir?",
+    "explanation": "Dilin mantıksal işlevleri arasında bildirme (önerme oluşturma), gösterme (nesneleri işaret etme) ve düşünme (kavram oluşturma) yer alır. 'Duyguları ifade etmek' ise dilin daha çok edebi veya duygusal işlevi kapsamındadır ve mantıksal analizin birincil odağı değildir.",
+    "options": [
+      {
+        "text": "Bildirme",
+        "isCorrect": false
+      },
+      {
+        "text": "Gösterme",
+        "isCorrect": false
+      },
+      {
+        "text": "Düşünme",
+        "isCorrect": false
+      },
+      {
+        "text": "Duyguları ifade etmek",
+        "isCorrect": true
+      },
+      {
+        "text": "Kavram oluşturma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Bir terimin kaplamı neyi ifade eder?",
+    "explanation": "Mantık ve dil ilişkisinde, bir terimin kaplamı, o terimin işaret ettiği, kapsadığı nesnelerin veya bireylerin tümünü ifade eder. Örneğin, 'şehir' teriminin kaplamı İstanbul, Ankara, Paris gibi tüm şehirlerdir.",
+    "options": [
+      {
+        "text": "Terimin anlamını",
+        "isCorrect": false
+      },
+      {
+        "text": "Terimin işaret ettiği nesnelerin tümünü",
+        "isCorrect": true
+      },
+      {
+        "text": "Terimin diğer terimlerle ilişkisini",
+        "isCorrect": false
+      },
+      {
+        "text": "Terimin olumsuzunu",
+        "isCorrect": false
+      },
+      {
+        "text": "Terimin tarihsel kökenini",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık ve Dil",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Sembolik mantıkta, 'p ∧ q' önermesi aşağıdaki hangi bağlaç ile ifade edilir?",
+    "explanation": "Sembolik mantıkta, semboller kullanılarak önermeler formüle edilir. '∧' sembolü 've' bağlacını temsil eder. 'p ∧ q' önermesi, 'p ve q' olarak okunur ve her iki bileşenin de doğru olması durumunda doğrudur.",
+    "options": [
+      {
+        "text": "Ve",
+        "isCorrect": true
+      },
+      {
+        "text": "Veya",
+        "isCorrect": false
+      },
+      {
+        "text": "İse",
+        "isCorrect": false
+      },
+      {
+        "text": "Ancak ve ancak",
+        "isCorrect": false
+      },
+      {
+        "text": "Değil",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sembolik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  },
+  {
+    "text": "Sembolik mantıkta 'p → q' önermesi hangi durumda yanlıştır?",
+    "explanation": "Sembolik mantıkta, 'p → q' koşullu önermesi (eğer p ise q), yalnızca öncül (p) doğru ve sonuç (q) yanlış olduğunda yanlış değerini alır. Diğer tüm durumlarda (p yanlış veya q doğru) doğrudur.",
+    "options": [
+      {
+        "text": "p doğru ve q yanlışken",
+        "isCorrect": true
+      },
+      {
+        "text": "p yanlış ve q doğruken",
+        "isCorrect": false
+      },
+      {
+        "text": "p yanlış ve q yanlışken",
+        "isCorrect": false
+      },
+      {
+        "text": "p doğru ve q doğruken",
+        "isCorrect": false
+      },
+      {
+        "text": "p ve q aynı değerdeyken",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sembolik Mantık",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Mantık"
+  }
+]
