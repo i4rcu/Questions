@@ -1,0 +1,281 @@
+[
+  {
+    "text": "Psikolojinin tanımı aşağıdakilerden hangisidir?",
+    "explanation": "Psikoloji, insan ve hayvan davranışlarını ve bu davranışların altında yatan zihinsel süreçleri inceleyen bir bilim dalıdır. Bu tanım, psikolojinin hem gözlemlenebilir davranışları hem de düşünce, duygu gibi içsel süreçleri kapsayan bilimsel yönünü vurgular.",
+    "options": [
+      {
+        "text": "İnsan ve hayvan davranışlarını ve zihinsel süreçlerini inceleyen bilim dalıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece anormal davranışları inceleyen bir bilimdir.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsanın sadece düşünme süreçleriyle ilgilenen felsefi bir disiplindir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Beynin biyolojik yapısını inceleyen bir tıp bilimidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal ilişkileri inceleyen bir sosyal bilimdir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi psikolojinin amaçlarından biri değildir?",
+    "explanation": "Psikolojinin temel amaçları betimleme, açıklama, öngörme ve kontrol etmedir. Yargılama, psikolojinin bilimsel bir disiplin olarak temel amaçları arasında yer almaz; bu daha çok hukuk veya etik alanlarının işlevidir.",
+    "options": [
+      {
+        "text": "Betimleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Açıklama",
+        "isCorrect": false
+      },
+      {
+        "text": "Öngörme",
+        "isCorrect": false
+      },
+      {
+        "text": "Kontrol Etme",
+        "isCorrect": false
+      },
+      {
+        "text": "Yargılama",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir psikolog, insan davranışlarını doğal ortamlarında gözlemleyerek veri toplamaktadır. Bu psikolog hangi araştırma yöntemini kullanmaktadır?",
+    "explanation": "Doğal gözlem, araştırmacının davranışları, bireylerin kendi doğal ortamlarında, herhangi bir müdahalede bulunmadan sistematik olarak gözlemlemesi yöntemidir. Bu yöntem, davranışların gerçekçi bir şekilde incelenmesini sağlar.",
+    "options": [
+      {
+        "text": "Korelasyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Deney",
+        "isCorrect": false
+      },
+      {
+        "text": "Doğal Gözlem",
+        "isCorrect": true
+      },
+      {
+        "text": "Vaka İncelemesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Anket",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikoloji Bilimini Tanıyalım",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bir organizmanın, fiziksel bir uyarıcıyı duyumsayabilme yeteneğine ne ad verilir?",
+    "explanation": "Duyum, duyu organlarının fiziksel enerjiyi (ışık, ses vb.) yakalayıp sinir sistemine iletebilmesi için gerekli olan en düşük enerji düzeyini ifade eden mutlak eşik ile ilgilidir. Bu, bir uyarıcının varlığını algılayabilmenin en temel basamağıdır.",
+    "options": [
+      {
+        "text": "Algı",
+        "isCorrect": false
+      },
+      {
+        "text": "Duyum",
+        "isCorrect": true
+      },
+      {
+        "text": "Dikkat",
+        "isCorrect": false
+      },
+      {
+        "text": "Güdü",
+        "isCorrect": false
+      },
+      {
+        "text": "Öğrenme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi birincil (fizyolojik) güdülerden biridir?",
+    "explanation": "Birincil güdüler, organizmanın fizyolojik dengesini (homeostaz) korumak ve hayatta kalmasını sağlamak için doğuştan gelen güdülerdir. Susuzluk, vücudun sıvı dengesini sağlamaya yönelik temel bir fizyolojik ihtiyaçtır.",
+    "options": [
+      {
+        "text": "Başarı Güdüsü",
+        "isCorrect": false
+      },
+      {
+        "text": "Susuzluk",
+        "isCorrect": true
+      },
+      {
+        "text": "Sosyal Onay Gereksinimi",
+        "isCorrect": false
+      },
+      {
+        "text": "Estetik İhtiyaç",
+        "isCorrect": false
+      },
+      {
+        "text": "Özgürlük İhtiyacı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Psikolojinin Temel Süreçleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Pavlov'un köpeklerle yaptığı klasik koşullanma deneyinde, zil sesi başlangıçta nasıl bir uyarıcıdır?",
+    "explanation": "Klasik koşullanmada, nötr uyarıcı, başlangıçta koşulsuz tepkiyi (salya salgılama) ortaya çıkarmayan uyarıcıdır. Pavlov'un deneyinde, zil sesi başlangıçta nötr bir uyarıcıdır; köpekler bu sese karşı salya salgılamazlar.",
+    "options": [
+      {
+        "text": "Koşulsuz Uyarıcı",
+        "isCorrect": false
+      },
+      {
+        "text": "Koşullu Uyarıcı",
+        "isCorrect": false
+      },
+      {
+        "text": "Koşulsuz Tepki",
+        "isCorrect": false
+      },
+      {
+        "text": "Nötr Uyarıcı",
+        "isCorrect": true
+      },
+      {
+        "text": "Koşullu Tepki",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bilginin işlenip depolandığı ve gerektiğinde geri getirilebildiği zihinsel süreçlerin tümüne ne ad verilir?",
+    "explanation": "Bellek (hafıza), bilginin kodlanması, depolanması ve gerektiğinde geri getirilmesi (hatırlama) süreçlerini içeren bilişsel bir işlevdir. Bu, öğrenilmiş olanı saklama ve kullanma kapasitesidir.",
+    "options": [
+      {
+        "text": "Öğrenme",
+        "isCorrect": false
+      },
+      {
+        "text": "Düşünme",
+        "isCorrect": false
+      },
+      {
+        "text": "Bellek",
+        "isCorrect": true
+      },
+      {
+        "text": "Algı",
+        "isCorrect": false
+      },
+      {
+        "text": "Dikkat",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Öğrenme Bellek Düşünme",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Bireyin kendi potansiyelini gerçekleştirebilmesi, kendisi ve çevresiyle uyum içinde olması durumu aşağıdaki kavramlardan hangisi ile ifade edilir?",
+    "explanation": "Ruh sağlığı, sadece hastalığın olmaması değil, aynı zamanda bireyin kendi yeteneklerini gerçekleştirebilmesi, yaşamın normal stresleriyle başa çıkabilmesi, verimli çalışabilmesi ve toplumuna katkıda bulunabilmesi durumudur. Bu, olumlu bir iyilik halini tanımlar.",
+    "options": [
+      {
+        "text": "Ruh Hastalığı",
+        "isCorrect": false
+      },
+      {
+        "text": "Psikoterapi",
+        "isCorrect": false
+      },
+      {
+        "text": "Ruh Sağlığı",
+        "isCorrect": true
+      },
+      {
+        "text": "Uyum Bozukluğu",
+        "isCorrect": false
+      },
+      {
+        "text": "Savunma Mekanizması",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  },
+  {
+    "text": "Stresli bir durumla karşılaşıldığında, kişinin bilinçsiz olarak başvurduğu ve kaygıyı azaltmaya yönelik zihinsel stratejilere ne ad verilir?",
+    "explanation": "Savunma mekanizmaları, egonun (benlik) kaygıyı ve iç çatışmaları azaltmak için bilinçsizce kullandığı psikolojik stratejilerdir. Bastırma, yansıtma, bahane bulma gibi mekanizmalar bu kapsamdadır.",
+    "options": [
+      {
+        "text": "Başa Çıkma Stratejileri",
+        "isCorrect": false
+      },
+      {
+        "text": "Bilişsel Çarpıtmalar",
+        "isCorrect": false
+      },
+      {
+        "text": "Savunma Mekanizmaları",
+        "isCorrect": true
+      },
+      {
+        "text": "Davranış Kalıpları",
+        "isCorrect": false
+      },
+      {
+        "text": "İletişim Becerileri",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Ruh Sağlığının Temelleri",
+    "exam": "AYT",
+    "section": "Soz",
+    "difficulty": "Kolay",
+    "subject": "Psikoloji"
+  }
+]
