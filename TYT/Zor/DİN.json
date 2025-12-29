@@ -238,5 +238,65 @@
     "exam": "TYT",
     "difficulty": "Zor",
     "subject": "Din Kültürü"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi, 'fıtrat' kavramının insanın dini yönelimi bağlamındaki en doğru açıklamasıdır?",
+    "explanation": "İslam inancına göre fıtrat, insanın yaratılıştan getirdiği, Allah'ı tanıma ve O'na inanma potansiyelidir. Bu, insanın doğuştan dini kabiliyet ve eğilimle yaratıldığını ifade eder. Çevresel faktörler bu potansiyelin açığa çıkmasını veya bastırılmasını etkileyebilir, ancak fıtratın özü, yaratılışta var olan bu temel yönelimdir.",
+    "options": [
+      {
+        "text": "İnsanın doğuştan dini kabiliyet ve eğilimle yaratılmasıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "İnsanın aklıyla ulaştığı sonuçlarla din seçmesidir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplumsal baskılar sonucu kazanılan dini kimliktir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece peygamberlerde bulunan özel bir yetenektir.",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsanın tamamen boş bir levha (tabula rasa) olarak doğmasıdır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İnsan ve Din (İnanç)",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
+  },
+  {
+    "text": "İbadetlerin 'niyet' ile başlaması aşağıdaki kavramlardan hangisiyle en doğru şekilde ilişkilendirilebilir?",
+    "explanation": "İbadetlerde niyet, yapılan eylemin sırf Allah rızası için ve O'nun emri olduğu bilinciyle yapılmasıdır. Bu, ibadetin sadece dış görünüşteki şekil şartlarını değil, asıl anlam ve değerini oluşturan içsel bir eylemdir. Bu nedenle, niyet ibadetin ruhu ve temel şartı olarak kabul edilir; ibadeti gösterişten (riya) ayıran en önemli unsurdur.",
+    "options": [
+      {
+        "text": "Niyet, ibadetin ruhu ve temel şartıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Niyet, ibadetin sadece sünnet kısmını oluşturur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Niyet, toplumsal bir ritüelin parçasıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Niyet, ibadetin farz olması için yeterli bir koşuldur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Niyet, ibadetin fiziksel olarak eksiksiz yapılmasını sağlar.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "İbadet",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Din Kültürü"
   }
 ]
