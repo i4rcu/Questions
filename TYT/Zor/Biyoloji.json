@@ -388,5 +388,95 @@
     "exam": "TYT",
     "difficulty": "Zor",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "Biyolojik bilgi birikiminin artması ve teknolojik gelişmeler, biyoloji biliminin alt dallarının ortaya çıkmasına neden olmuştur. Bu alt dallardan hangisi, canlıların birbirleriyle ve çevreleriyle olan ilişkilerini, populasyon dinamiğini ve ekosistemleri inceler?",
+    "explanation": "Ekoloji, canlıların (organizmaların) birbirleriyle ve fiziksel çevreleriyle olan ilişkilerini inceleyen bilim dalıdır. Populasyonların büyüklüğü, dağılımı, komünite yapısı, enerji akışı ve besin döngüleri gibi konular ekoloji biliminin kapsamına girer. Diğer seçeneklerdeki bilim dalları farklı konuları inceler: Moleküler biyoloji canlıların yapısını moleküler düzeyde, genetik kalıtımı, fizyoloji canlıların fiziksel ve kimyasal işlevlerini, taksonomi canlıları sınıflandırmayı ele alır.",
+    "options": [
+      {
+        "text": "Moleküler Biyoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Genetik",
+        "isCorrect": false
+      },
+      {
+        "text": "Ekoloji",
+        "isCorrect": true
+      },
+      {
+        "text": "Fizyoloji",
+        "isCorrect": false
+      },
+      {
+        "text": "Taksonomi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Yaşam Bilimi Biyoloji",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Ökaryot bir hücrede, hücre iskeleti elemanları olan mikrofilament, ara filament ve mikrotübüller ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Mikrofilamentler aktin proteinlerinden oluşur ve hücre hareketi (örneğin amiboid hareket, kas kasılması), hücre bölünmesi sırasında boğumlanma ve hücre şeklinin korunmasında görev alırlar. Mikrotübüller ise tübulin proteinlerinden oluşur ve hücre bölünmesi sırasında iğ ipliklerini oluşturma, hücre içi organel taşınması ve siller ile kamçıların yapısına katılma gibi görevleri vardır. Ara filamentler ise hücreye mekanik dayanıklılık sağlar ve hücrenin bulunduğu dokunun tipine göre farklı proteinlerden (keratin, vimentin vb.) oluşabilir. Mikrotübüllerin aktinden oluştuğu bilgisi yanlıştır.",
+    "options": [
+      {
+        "text": "Mikrofilamentler, hücre zarının iç yüzeyine bağlanarak hücre şeklinin korunmasını sağlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ara filamentler, hücreye mekanik dayanıklılık sağlayan ve farklı protein tiplerinden oluşabilen yapılardır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mikrotübüller, hücre bölünmesi sırasında kromozomların ayrılmasını sağlayan iğ ipliklerini oluşturur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mikrotübüller, aktin proteinlerinden oluşur ve hücre hareketinden sorumludur.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hücre iskeleti elemanları, hücre içi organellerin ve veziküllerin taşınmasında görev alır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Hücre",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki canlı grupları ve özellikleri eşleştirmelerinden hangisi yanlıştır?",
+    "explanation": "Mantarlar (Fungi alemindeki canlılar) heterotrof organizmalardır, yani kendi besinlerini üretemezler. Besinlerini hazır olarak alırlar; çürükçül (saprofit), parazit veya mutualist olabilirler. Hücre duvarları kitin adı verilen bir polisakkaritten yapılmıştır. Diğer seçeneklerdeki bilgiler doğrudur: Algler (Protista aleminde incelenen fotosentetik olanları) hücre duvarında selüloz bulundurabilir. Bakterilerin hücre duvarı yapısı Gram boyamasına göre farklılık gösterir (peptidoglikan). Arkeler zorlu çevre koşullarına dayanıklıdır. Bitkilerin hücre duvarı selülozdan yapılmıştır.",
+    "options": [
+      {
+        "text": "Algler - Hücre duvarlarında selüloz bulunabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bakteriler - Hücre duvarlarının yapısı peptidoglikan içerir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantarlar - Hücre duvarları selülozdan yapılmıştır ve fotosentez yaparlar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Arkeler - Aşırı tuzlu, sıcak veya asidik ortamlarda yaşayabilirler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitkiler - Hücre duvarları selülozdan yapılmıştır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Canlılar Dünyası",
+    "exam": "TYT",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
   }
 ]
