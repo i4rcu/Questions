@@ -773,5 +773,67 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Geometri"
+  },
+  {
+    "text": "Bir doğruya dışındaki bir noktadan çizilen paralel iki doğru arasında kalan açılar toplamı 130 derecedir. Bu iki paralel doğrunun arasında kalan ve aynı noktadan çizilen diğer bir doğrunun oluşturduğu dar açılardan birinin ölçüsü 40 derece olduğuna göre, diğer dar açının ölçüsü kaç derecedir?",
+    "explanation": "Paralel doğrular arasında kalan açıların toplamı 130 derece ise, bu iki açıyı tamamlayan diğer iki açının toplamı 180 - 130 = 50 derece olur. Bu 50 derece, aynı noktadan çizilen diğer doğrunun oluşturduğu iki dar açıdır. Bu dar açılardan biri 40 derece ise, diğeri 50 - 40 = 10 derecedir.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dik üçgenin dik kenarlarından birinin uzunluğu 6 cm ve hipotenüsü 10 cm'dir. Bu üçgenin alanı kaç santimetrekaredir?",
+    "explanation": "Dik üçgende hipotenüs 10 cm ve bir dik kenar 6 cm ise, Pisagor teoremine göre diğer dik kenarın uzunluğu √(10² - 6²) = √(100 - 36) = √64 = 8 cm'dir. Dik üçgenin alanı, dik kenarların çarpımının yarısıdır. Alan = (6 * 8) / 2 = 48 / 2 = 24 cm²'dir.",
+    "options": [
+      {
+        "text": "24",
+        "isCorrect": true
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "isCorrect": false
+      },
+      {
+        "text": "48",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
   }
 ]
