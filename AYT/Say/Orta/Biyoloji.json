@@ -618,5 +618,67 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi merkezi sinir sisteminin (MSS) bir parçası değildir?",
+    "explanation": "Merkezi sinir sistemi (MSS) beyin ve omurilikten oluşur. Periferik (çevresel) sinir sistemi ise MSS'nin dışında kalan ve vücuda yayılmış olan sinirlerden oluşur. Otonom sinir sistemi, periferik sinir sisteminin bir bölümüdür ve istemsiz çalışan organları kontrol eder. Dolayısıyla, otonom sinir sistemi MSS'nin bir parçası değildir.",
+    "options": [
+      {
+        "text": "Beyin",
+        "isCorrect": false
+      },
+      {
+        "text": "Omurilik",
+        "isCorrect": false
+      },
+      {
+        "text": "Otonom sinir sistemi",
+        "isCorrect": true
+      },
+      {
+        "text": "Beyincik",
+        "isCorrect": false
+      },
+      {
+        "text": "Omurilik soğanı",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki hormonlardan hangisi pankreastan salgılanır ve kan şekerini düşürücü etki gösterir?",
+    "explanation": "Pankreas hem sindirim enzimleri hem de hormonlar salgılayan karma bir bezdir. Langerhans adacıklarından salgılanan insülin hormonu, kan şekeri (glikoz) seviyesi yükseldiğinde salgılanır ve hücrelerin glikozu almasını sağlayarak kan şekerini düşürür. Glukagon ise kan şekerini yükselten hormondur.",
+    "options": [
+      {
+        "text": "Glukagon",
+        "isCorrect": false
+      },
+      {
+        "text": "Adrenalin",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsülin",
+        "isCorrect": true
+      },
+      {
+        "text": "Tiroksin",
+        "isCorrect": false
+      },
+      {
+        "text": "Kortizol",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
   }
 ]
