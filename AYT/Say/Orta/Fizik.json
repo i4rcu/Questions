@@ -1052,5 +1052,67 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Fizik"
+  },
+  {
+    "text": "Aynı düzlemde bulunan şekildeki K, L ve M vektörlerinin büyüklükleri sırasıyla 3, 4 ve 5 birimdir. Buna göre, bu üç vektörün bileşkesinin büyüklüğü en fazla kaç birim olabilir?",
+    "explanation": "Vektörlerin bileşkesinin maksimum büyüklüğü, vektörlerin aynı yönde ve aynı doğrultuda olması durumunda elde edilir. Bu durumda bileşke, vektörlerin büyüklüklerinin skaler toplamına eşittir. Büyüklükler 3, 4 ve 5 birim olduğuna göre, bileşkenin maksimum büyüklüğü 3 + 4 + 5 = 12 birim olur.",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Ağırlığı önemsiz, 2 metre uzunluğundaki homojen bir çubuk, bir ucundan geçen eksen etrafında serbestçe dönebilmektedir. Çubuğun serbest ucuna 30 N'luk bir kuvvet, çubukla 60° açı yapacak şekilde uygulanıyor. Buna göre, bu kuvvetin çubuğun dönme eksenine göre torkunun büyüklüğü kaç N·m'dir? (sin60° = √3/2)",
+    "explanation": "Tork formülü τ = F * d * sinθ'dır. Burada F kuvvet (30 N), d kuvvetin dönme eksenine olan dik uzaklığıdır. Kuvvet çubuğun ucuna uygulandığı için d, çubuğun uzunluğuna eşittir (2 m). θ ise kuvvet vektörü ile çubuğun (konum vektörünün) arasındaki açıdır (60°). Bu değerleri formülde yerine koyarsak: τ = 30 * 2 * sin60° = 30 * 2 * (√3/2) = 30√3 N·m olur. Sin60° = √3/2 olduğundan, 2'ler sadeleşir ve sonuç 30√3 N·m bulunur.",
+    "options": [
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "30√3",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "60√3",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Fizik"
   }
 ]
