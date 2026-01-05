@@ -556,5 +556,67 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir nöronun aksonundaki miyelin kılıfın temel işlevi nedir?",
+    "explanation": "Miyelin kılıf, bir nöronun aksonu etrafında bulunan ve Schwann hücreleri (periferik sinir sisteminde) veya oligodendrositler (merkezi sinir sisteminde) tarafından oluşturulan yalıtkan bir tabakadır. Bu yalıtkan tabaka, akson boyunca ilerleyen impulsun (aksiyon potansiyeli) daha hızlı iletilmesini sağlar. İmpuls, miyelin kılıfın bulunduğu bölgelerde atlamalı olarak iletilir (Ranvier boğumları), bu da iletim hızını önemli ölçüde artırır. Dolayısıyla miyelin kılıfın temel işlevi impuls iletim hızını artırmaktır.",
+    "options": [
+      {
+        "text": "Nörotransmitter sentezini hızlandırmak",
+        "isCorrect": false
+      },
+      {
+        "text": "Nöronun beslenmesini sağlamak",
+        "isCorrect": false
+      },
+      {
+        "text": "İmpuls iletim hızını artırmak",
+        "isCorrect": true
+      },
+      {
+        "text": "Dinlenim potansiyelini korumak",
+        "isCorrect": false
+      },
+      {
+        "text": "Sinaps oluşumunu kolaylaştırmak",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Aşağıdaki hormonlardan hangisi pankreastan salgılanır ve kan şeker seviyesini düşürücü etki gösterir?",
+    "explanation": "Pankreas, hem endokrin hem de ekzokrin bir bezdir. Endokrin kısmı olan Langerhans adacıklarından insülin ve glukagon hormonları salgılanır. İnsülin hormonunun temel görevi, kandaki şeker (glikoz) seviyesini düşürmektir. İnsülin, hücrelerin glikozu almasını teşvik eder ve karaciğerde glikojen sentezini (glikojenez) artırarak kan şekerini düşürür. Bu nedenle kan şekerini düşürücü etki gösteren pankreas hormonu insülindir.",
+    "options": [
+      {
+        "text": "Glukagon",
+        "isCorrect": false
+      },
+      {
+        "text": "Adrenalin",
+        "isCorrect": false
+      },
+      {
+        "text": "İnsülin",
+        "isCorrect": true
+      },
+      {
+        "text": "Tiroksin",
+        "isCorrect": false
+      },
+      {
+        "text": "Kortizol",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Biyoloji"
   }
 ]
