@@ -1588,5 +1588,545 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Matematik"
+  },
+  {
+    "text": "Aşağıdakilerden hangisi birinci dereceden bir bilinmeyenli denklemdir?",
+    "explanation": "Birinci dereceden bir bilinmeyenli denklem, bilinmeyenin üssünün 1 olduğu ve sadece bir bilinmeyen içeren denklemdir.",
+    "options": [
+      {
+        "text": "2x + 3 = 7",
+        "isCorrect": true
+      },
+      {
+        "text": "x² + 2x - 3 = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "2x + 3y = 5",
+        "isCorrect": false
+      },
+      {
+        "text": "x³ - 2x + 1 = 0",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Denklemler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir sayının 3 katının 5 eksiği 16 ise bu sayı kaçtır?",
+    "explanation": "Sayıya x diyelim. 3x - 5 = 16 denklemini çözersek x = 7 bulunur.",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Denklemler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Hangi denklemin çözüm kümesi boş kümedir?",
+    "explanation": "2x + 3 = 2x + 5 denklemi çözülemez çünkü her iki taraf da 2x içerir ve 3 = 5 yanlış bir ifadedir.",
+    "options": [
+      {
+        "text": "2x + 3 = 7",
+        "isCorrect": false
+      },
+      {
+        "text": "x - 5 = 0",
+        "isCorrect": false
+      },
+      {
+        "text": "2x + 3 = 2x + 5",
+        "isCorrect": true
+      },
+      {
+        "text": "3x - 2 = x + 4",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Denklemler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "3(x - 2) + 5 = 2(x + 1) denklemini sağlayan x değeri kaçtır?",
+    "explanation": "Denklemi çözelim: 3x - 6 + 5 = 2x + 2 → 3x - 1 = 2x + 2 → x = 3",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Denklemler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Aşağıdaki sayılardan hangisi asal sayıdır?",
+    "explanation": "Asal sayılar sadece 1 ve kendisine bölünebilen 1'den büyük doğal sayılardır. 17 sadece 1 ve 17'ye bölünebilir.",
+    "options": [
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "17",
+        "isCorrect": true
+      },
+      {
+        "text": "21",
+        "isCorrect": false
+      },
+      {
+        "text": "27",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sayılar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "36 sayısının asal çarpanlarına ayrılmış şekli hangisidir?",
+    "explanation": "36 = 6 × 6 = 2² × 3² şeklinde asal çarpanlarına ayrılır.",
+    "options": [
+      {
+        "text": "2 × 18",
+        "isCorrect": false
+      },
+      {
+        "text": "2² × 3²",
+        "isCorrect": true
+      },
+      {
+        "text": "3 × 12",
+        "isCorrect": false
+      },
+      {
+        "text": "4 × 9",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sayılar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Hangi sayı hem 4 hem de 6 ile kalansız bölünebilir?",
+    "explanation": "Hem 4 hem de 6 ile bölünebilen sayılar 12'nin katlarıdır. 48 ÷ 12 = 4 olduğundan 48 bu koşulu sağlar.",
+    "options": [
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      },
+      {
+        "text": "48",
+        "isCorrect": true
+      },
+      {
+        "text": "54",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sayılar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Aşağıdaki sayı çiftlerinden hangisi aralarında asaldır?",
+    "explanation": "Aralarında asal sayılar, 1'den başka ortak böleni olmayan sayılardır. 15 ve 16'nın 1'den başka ortak böleni yoktur.",
+    "options": [
+      {
+        "text": "12 ve 18",
+        "isCorrect": false
+      },
+      {
+        "text": "15 ve 25",
+        "isCorrect": false
+      },
+      {
+        "text": "15 ve 16",
+        "isCorrect": true
+      },
+      {
+        "text": "20 ve 30",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sayılar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir üçgenin iç açılarından ikisi 40° ve 60° ise üçüncü açı kaç derecedir?",
+    "explanation": "Üçgenin iç açıları toplamı 180°'dir. 180 - (40 + 60) = 80°",
+    "options": [
+      {
+        "text": "60°",
+        "isCorrect": false
+      },
+      {
+        "text": "70°",
+        "isCorrect": false
+      },
+      {
+        "text": "80°",
+        "isCorrect": true
+      },
+      {
+        "text": "90°",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgenler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir dik üçgenin dik açılarından biri 30° ise diğer açı kaç derecedir?",
+    "explanation": "Dik üçgende bir açı 90°'dir. Diğer açı 180 - (90 + 30) = 60° olur.",
+    "options": [
+      {
+        "text": "30°",
+        "isCorrect": false
+      },
+      {
+        "text": "45°",
+        "isCorrect": false
+      },
+      {
+        "text": "60°",
+        "isCorrect": true
+      },
+      {
+        "text": "90°",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgenler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Eşkenar üçgenin bir iç açısı kaç derecedir?",
+    "explanation": "Eşkenar üçgenin tüm iç açıları eşittir ve 180 ÷ 3 = 60°'dir.",
+    "options": [
+      {
+        "text": "45°",
+        "isCorrect": false
+      },
+      {
+        "text": "60°",
+        "isCorrect": true
+      },
+      {
+        "text": "90°",
+        "isCorrect": false
+      },
+      {
+        "text": "120°",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgenler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir üçgenin kenar uzunlukları 5 cm, 12 cm ve 13 cm ise bu üçgenin türü nedir?",
+    "explanation": "5² + 12² = 25 + 144 = 169 = 13² olduğundan bu bir dik üçgendir (Pisagor teoremi).",
+    "options": [
+      {
+        "text": "Dar açılı üçgen",
+        "isCorrect": false
+      },
+      {
+        "text": "Dik açılı üçgen",
+        "isCorrect": true
+      },
+      {
+        "text": "Geniş açılı üçgen",
+        "isCorrect": false
+      },
+      {
+        "text": "Eşkenar üçgen",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Üçgenler",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Bir fonksiyonun tanım kümesi hangi kümedir?",
+    "explanation": "Bir fonksiyonun tanım kümesi, fonksiyonun girdi değerlerini (x değerlerini) içeren kümedir.",
+    "options": [
+      {
+        "text": "Girdi değerlerinin kümesi",
+        "isCorrect": true
+      },
+      {
+        "text": "Çıktı değerlerinin kümesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Değer kümesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Görüntü kümesi",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fonksiyonlar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "f(x) = 2x + 3 fonksiyonu için f(2) değeri kaçtır?",
+    "explanation": "f(2) = 2×2 + 3 = 4 + 3 = 7",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fonksiyonlar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Hangi ifade bir fonksiyon belirtir?",
+    "explanation": "Bir bağıntının fonksiyon olması için tanım kümesindeki her elemanın değer kümesinde yalnız bir görüntüsü olmalıdır.",
+    "options": [
+      {
+        "text": "Her x değeri için tek bir y değeri",
+        "isCorrect": true
+      },
+      {
+        "text": "Bir x değeri için birden fazla y değeri",
+        "isCorrect": false
+      },
+      {
+        "text": "Bazı x değerleri için y değeri olmaması",
+        "isCorrect": false
+      },
+      {
+        "text": "Her y değeri için tek bir x değeri",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fonksiyonlar",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "x² - 4y² ifadesinin çarpanlarına ayrılmış hali aşağıdakilerden hangisidir?",
+    "explanation": "x² - 4y² ifadesi iki kare farkıdır. İki kare farkı formülü: a² - b² = (a - b)(a + b)'dir. Burada a=x ve b=2y'dir. Bu nedenle, x² - (2y)² = (x - 2y)(x + 2y) şeklinde çarpanlarına ayrılır.",
+    "options": [
+      {
+        "text": "(x - 2y)(x + 2y)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x - y)(x + 4y)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x - 4y)(x + y)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x - 2y)²",
+        "isCorrect": false
+      },
+      {
+        "text": "(2x - y)(2x + y)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çarpanlara Ayırma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "x² + 5x + 6 ifadesinin çarpanlarına ayrılmış hali aşağıdakilerden hangisidir?",
+    "explanation": "x² + 5x + 6 ifadesini çarpanlarına ayırmak için toplamları 5, çarpımları 6 olan iki sayı aranır. Bu sayılar 2 ve 3'tür çünkü 2+3=5 ve 2*3=6'dır. Bu nedenle ifadenin çarpanlara ayrılmış hali (x + 2)(x + 3) olur.",
+    "options": [
+      {
+        "text": "(x + 2)(x + 3)",
+        "isCorrect": true
+      },
+      {
+        "text": "(x + 1)(x + 6)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x + 5)(x + 1)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x - 2)(x - 3)",
+        "isCorrect": false
+      },
+      {
+        "text": "(x + 2)(x + 4)",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çarpanlara Ayırma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "a² - b² = 24 ve a - b = 4 olduğuna göre, a + b toplamı kaçtır?",
+    "explanation": "İki kare farkı formülünden a² - b² = (a - b)(a + b) şeklinde yazılır. Verilen değerler yerine konulursa: 24 = 4 * (a + b) olur. Bu denklem a + b'ye göre çözülürse: a + b = 24 / 4 = 6 bulunur.",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Çarpanlara Ayırma",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Aşağıdaki önermelerden hangisinin doğruluk değeri diğerlerinden farklıdır?",
+    "explanation": "p ve q önermeleri için: p ⇒ q (koşullu önerme) ancak ve ancak p doğru ve q yanlış iken yanlıştır, diğer durumlarda doğrudur. p ≡ 1 (doğru) ve q ≡ 0 (yanlış) alalım. p ⇒ q: 1 ⇒ 0 ≡ 0 (YANLIŞ). p' ∨ q: 0 ∨ 0 ≡ 0 (YANLIŞ). q' ⇒ p': 1 ⇒ 0 ≡ 0 (YANLIŞ). p' ∨ q: 0 ∨ 0 ≡ 0 (YANLIŞ). p ∧ q': 1 ∧ 1 ≡ 1 (DOĞRU). Görüldüğü gibi p ∧ q' önermesi doğru iken diğerleri yanlıştır. Bu nedenle doğruluk değeri farklı olan p ∧ q' dur.",
+    "options": [
+      {
+        "text": "p ∧ q'",
+        "isCorrect": true
+      },
+      {
+        "text": "p ⇒ q",
+        "isCorrect": false
+      },
+      {
+        "text": "p' ∨ q",
+        "isCorrect": false
+      },
+      {
+        "text": "q' ⇒ p'",
+        "isCorrect": false
+      },
+      {
+        "text": "p ∨ q'",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "\"Ayşe çalışkandır ve matematikten yüksek not almıştır.\" önermesinin olumsuzu (değili) aşağıdakilerden hangisidir?",
+    "explanation": "Bir bileşik önermenin değili (olumsuzu), bileşenlerin ayrı ayrı değillerinin veya bağlacı ile birleştirilmesiyle bulunur. Yani, (p ∧ q)' ≡ p' ∨ q' kuralı uygulanır. Burada p: \"Ayşe çalışkandır\", q: \"Ayşe matematikten yüksek not almıştır\" önermeleridir. Buna göre önermenin değili: \"Ayşe çalışkan değildir veya matematikten yüksek not almamıştır.\" olur.",
+    "options": [
+      {
+        "text": "Ayşe çalışkan değildir veya matematikten yüksek not almamıştır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ayşe çalışkan değildir ve matematikten yüksek not almamıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ayşe çalışkandır veya matematikten yüksek not almamıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ayşe çalışkan değildir ancak matematikten yüksek not almıştır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ayşe'nin matematik notu yüksek değildir.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mantık",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Matematik"
   }
 ]
