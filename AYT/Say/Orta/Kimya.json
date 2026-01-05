@@ -556,5 +556,67 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Kimya"
+  },
+  {
+    "text": "Modern atom teorisine göre, bir atomun elektronları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Modern atom teorisi (Kuantum Mekaniği) atom modelinde, elektronların belirli enerji seviyelerinde bulunduğu ve bu seviyelerin alt kabuklara (orbital türlerine: s, p, d, f) ayrıldığı kabul edilir. Elektronların kesin yörüngeleri yoktur, bulunma olasılıklarının yüksek olduğu bölgeler (orbitaller) vardır. Bu nedenle, elektronların belirli bir yörüngede döndüğü ifadesi eski Bohr modeline aittir ve modern atom teorisi için geçerli değildir. Doğru ifade, elektronların enerji seviyeleri ve orbitallerle tanımlandığıdır.",
+    "options": [
+      {
+        "text": "Elektronlar çekirdek etrafında belirli bir yörüngede döner.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronların yeri ve hızı aynı anda kesin olarak bilinebilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elektronlar enerji seviyeleri ve orbitallerle tanımlanır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tüm elektronlar çekirdekten aynı uzaklıkta bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bir orbitalde en fazla 2 elektron bulunabilir yargısı yanlıştır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "İdeal gaz denklemi (PV = nRT) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "İdeal gaz denkleminde R evrensel gaz sabitidir ve tüm ideal gazlar için aynı değere sahiptir. Gazın cinsine (örneğin He, O₂, N₂) bağlı değildir. Denklem, basınç (P), hacim (V), mol sayısı (n) ve mutlak sıcaklık (T) arasındaki ilişkiyi gösterir. Gazın cinsine bağlı olan, gazın mol kütlesidir, gaz sabiti R değildir. Bu nedenle 'R gaz sabiti gazın cinsine bağlıdır' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "P basıncı, V hacmi ile ters orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "n mol sayısı, P basıncı ile doğru orantılıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "T sıcaklığı mutlak sıcaklık (Kelvin) cinsinden olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "R gaz sabiti gazın cinsine bağlıdır.",
+        "isCorrect": true
+      },
+      {
+        "text": "Denklem, gazların davranışını tahmin etmek için kullanılır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
   }
 ]
