@@ -2323,5 +2323,160 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Matematik"
+  },
+  {
+    "text": "a ve b birer pozitif tam sayı olmak üzere, a.b = 24 ve a + b toplamı en az kaçtır?",
+    "explanation": "Çarpımları 24 olan pozitif tam sayı çiftlerini düşünelim: (1,24) toplamı 25, (2,12) toplamı 14, (3,8) toplamı 11, (4,6) toplamı 10'dur. Bu durumda a + b toplamının en küçük değeri 10'dur.",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Temel Kavramlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Beş basamaklı 23a4b sayısı 6 ile tam bölünebildiğine göre, a + b toplamı en fazla kaçtır?",
+    "explanation": "Bir sayının 6 ile tam bölünebilmesi için 2 ve 3 ile tam bölünmesi gerekir. Sayının son basamağı b çift olmalıdır (2 ile bölünebilme). Ayrıca rakamları toplamı 3'ün katı olmalıdır: 2 + 3 + a + 4 + b = 9 + a + b üçün katı olmalı. b çift rakamlar (0,2,4,6,8) olabilir. a + b toplamını en fazla yapmak için b'yi en büyük çift rakam 8 seçeriz. Rakamlar toplamı 9 + a + 8 = 17 + a üçün katı olmalı. 17'ye en yakın 3'ün katları 15, 18, 21'dir. 17+a ifadesini 18 yapmak için a=1 olur (toplam 18). 21 yapmak için a=4 olur (toplam 21). 24 yapmak için a=7 olur (toplam 24). a ve b rakam olduğuna göre, a=7 ve b=8 için a+b=15 en büyük değerdir. Kontrol: 23748 sayısı, çift olduğu için 2'ye bölünür. Rakamlar toplamı 2+3+7+4+8=24, 3'ün katıdır. Dolayısıyla 6'ya bölünür.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Bölme ve Bölünebilme",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Boyutları 12 cm, 18 cm ve 30 cm olan dikdörtgenler prizması şeklindeki tuğlalar kullanılarak bir küp yapılacaktır. En az kaç tuğla gereklidir?",
+    "explanation": "Küpün bir kenar uzunluğu, tuğlaların boyutlarının ortak katı olmalıdır. En küçük küpü yapmak için EKOK(12, 18, 30) hesaplanır. 12=2^2*3, 18=2*3^2, 30=2*3*5. EKOK = 2^2 * 3^2 * 5 = 4*9*5=180 cm. Küpün hacmi 180^3 cm³'tür. Bir tuğlanın hacmi 12*18*30=6480 cm³'tür. Gereken tuğla sayısı = Küpün Hacmi / Bir Tuğlanın Hacmi = (180^3) / (12*18*30). Bu işlem şu şekilde sadeleşir: (180*180*180) / (12*18*30) = (180/12) * (180/18) * (180/30) = 15 * 10 * 6 = 900.",
+    "options": [
+      {
+        "text": "450",
+        "isCorrect": false
+      },
+      {
+        "text": "600",
+        "isCorrect": false
+      },
+      {
+        "text": "750",
+        "isCorrect": false
+      },
+      {
+        "text": "900",
+        "isCorrect": true
+      },
+      {
+        "text": "1050",
+        "isCorrect": false
+      }
+    ],
+    "topic": "EBOB – EKOK",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "a, b, c birer pozitif tam sayıdır. a/b = 3/4 ve b/c = 5/6 olduğuna göre, a+b+c toplamı en az kaçtır?",
+    "explanation": "a/b = 3/4 ise a=3k, b=4k olur. b/c = 5/6 ise 4k/c = 5/6 -> c = (4k * 6)/5 = 24k/5. a, b, c tam sayı olması için k, 5'in katı olmalıdır. k'nin en küçük değeri 5'tir. O zaman a=15, b=20, c=24 olur. a+b+c = 15+20+24 = 59.",
+    "options": [
+      {
+        "text": "55",
+        "isCorrect": false
+      },
+      {
+        "text": "57",
+        "isCorrect": false
+      },
+      {
+        "text": "59",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "62",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Rasyonel Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Matematik"
+  },
+  {
+    "text": "-3 < x < 2 ve -4 < y < 3 olduğuna göre, x² - y² ifadesinin alabileceği en büyük tam sayı değeri kaçtır?",
+    "explanation": "x² - y² = (x-y)(x+y). x'in aralığı [0, 9) (x² en az 0, en fazla 9'a yakın, ama 9 olamaz çünkü x=±3 olamaz). y²'nin aralığı [0, 16) (y² en az 0, en fazla 16'ya yakın, ama 16 olamaz çünkü y=±4 olamaz). x² - y² ifadesini maksimum yapmak için x²'yi mümkün olduğunca büyük, y²'yi mümkün olduğunca küçük seçmeliyiz. x² en fazla 3'e çok yakın bir değerden biraz küçük olabilir (x=2'ye yakın, x=1.9 için x²=3.61, x=-2.9 için x²=8.41. Dikkat: x -3 ile 2 arasında. Mutlak değerce en büyük x değeri -3'e yakın olanlardır, çünkü |-3|=3, |2|=2. x=-2.99 için x²≈8.94). y² en az 0 olabilir. O halde maksimum değer ~8.94 - 0 = ~8.94'tür. Bu ifadenin alabileceği en büyük tam sayı değeri 8'dir. 9 olamaz çünkü x² hiçbir zaman 9 veya daha büyük olamaz ve y² hiçbir zaman negatif olamaz. x=-2.999 için x²=8.994001, y=0 için ifade ~8.99 olur, yani 9'dan küçüktür. Bu nedenle en büyük tam sayı değeri 8'dir.",
+    "options": [
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Eşitsizlikler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Matematik"
   }
 ]
