@@ -494,5 +494,67 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Kimya"
+  },
+  {
+    "text": "Modern atom teorisine göre, bir atomun elektronlarının bulunma olasılığının yüksek olduğu bölgelere ne ad verilir?",
+    "explanation": "Modern atom teorisi (Kuantum Mekaniği) modelinde, elektronlar çekirdek etrafındaki belirli enerji seviyelerinde bulunur ve kesin yörüngeler izlemezler. Elektronların bulunma olasılığının yüksek olduğu bu üç boyutlu bölgelere 'orbital' adı verilir. Orbitaller, elektron bulutları olarak da düşünülebilir.",
+    "options": [
+      {
+        "text": "Orbital",
+        "isCorrect": true
+      },
+      {
+        "text": "Yörünge",
+        "isCorrect": false
+      },
+      {
+        "text": "Enerji seviyesi",
+        "isCorrect": false
+      },
+      {
+        "text": "Değerlik elektronu",
+        "isCorrect": false
+      },
+      {
+        "text": "Çekirdek",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Aynı sıcaklık ve basınç altında eşit hacimdeki farklı gazların molekül sayılarının eşit olduğunu ifade eden temel gaz yasası aşağıdakilerden hangisidir?",
+    "explanation": "Avogadro Yasası'na göre, aynı sıcaklık ve basınç koşullarında, farklı gazların eşit hacimlerinde eşit sayıda molekül bulunur. Bu yasa, gazların davranışlarını açıklamada ve mol kavramı ile gaz hacmi arasında ilişki kurmada temel bir prensiptir.",
+    "options": [
+      {
+        "text": "Boyle Yasası",
+        "isCorrect": false
+      },
+      {
+        "text": "Charles Yasası",
+        "isCorrect": false
+      },
+      {
+        "text": "Avogadro Yasası",
+        "isCorrect": true
+      },
+      {
+        "text": "Gay-Lussac Yasası",
+        "isCorrect": false
+      },
+      {
+        "text": "İdeal Gaz Yasası",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Kimya"
   }
 ]
