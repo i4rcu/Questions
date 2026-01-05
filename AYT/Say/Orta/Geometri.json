@@ -711,5 +711,67 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Geometri"
+  },
+  {
+    "text": "Bir düzlemde, kesişen iki doğru oluşturduğu açılardan biri diğerinin 2 katından 30° fazladır. Buna göre, bu açılardan büyük olanı kaç derecedir?",
+    "explanation": "Kesişen iki doğru birbirini ikişer ikişer tamamlayan dört açı oluşturur. Komşu olmayan açılar eşittir. Küçük açıya x dersek, büyük açı 2x + 30 olur. Kesişen doğrularda ardışık açıların toplamı 180° olduğundan, x + (2x + 30) = 180 denklemi kurulur. 3x + 30 = 180 -> 3x = 150 -> x = 50° bulunur. Büyük açı ise 2*50 + 30 = 130° olur.",
+    "options": [
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": false
+      },
+      {
+        "text": "110",
+        "isCorrect": false
+      },
+      {
+        "text": "130",
+        "isCorrect": true
+      },
+      {
+        "text": "150",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Doğruda ve Üçgende Açılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
+  },
+  {
+    "text": "Bir dik üçgenin dik kenar uzunlukları 6 cm ve 8 cm'dir. Bu üçgenin çevrel çemberinin yarıçapı kaç cm'dir?",
+    "explanation": "Bir dik üçgende hipotenüs, çevrel çemberin çapına eşittir. Dik kenarları 6 cm ve 8 cm olan üçgenin hipotenüsü Pisagor teoremine göre √(6² + 8²) = √(36 + 64) = √100 = 10 cm'dir. Çap 10 cm olduğuna göre, çevrel çemberin yarıçapı 10 / 2 = 5 cm olur.",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Dik ve Özel Üçgenler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Geometri"
   }
 ]
