@@ -1648,5 +1648,605 @@
     "exam": "TYT",
     "difficulty": "Orta",
     "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde bir 'gereksiz sözcük kullanımı' anlatım bozukluğu vardır?",
+    "explanation": "B şıkkındaki 'mutlu ve sevinçli' ifadesinde anlamca aynı olan iki sözcük birlikte kullanılmıştır. 'Mutlu' olmak zaten 'sevinçli' olmayı içerdiği için 'sevinçli' sözcüğü gereksizdir ve anlatım bozukluğuna neden olur.",
+    "options": [
+      {
+        "text": "Bu soruyu çözmek için biraz daha zaman gerekiyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sınav sonucunu öğrenince çok mutlu ve sevinçli oldu.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yeni proje için gerekli tüm evrakları topladı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplantıda alınan kararları herkese duyurdu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yağmur yağınca maç iptal edilmek zorunda kaldı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Bozuklukları",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde bir 'özne-yüklem uyuşmazlığı' anlatım bozukluğu vardır?",
+    "explanation": "C şıkkındaki cümlenin öznesi 'Herkes' zamiridir ve tekil olarak kabul edilir. Yüklem ise çoğul eki almıştır ('geldiler'). 'Herkes' tekil bir özne olduğu için yüklem de tekil olmalıydı: 'Herkes bahçede toplandı.' Bu durum bir özne-yüklem uyuşmazlığıdır.",
+    "options": [
+      {
+        "text": "Kitap ve defterler masanın üzerinde duruyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "O, bu konuda herkesten daha deneyimliydi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Herkes bahçede toplanıp yemek yiyeceklermiş.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sen ve ben bu işi birlikte halletmeliyiz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Arabayla şehir merkezine gittik.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Bozuklukları",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'tamlayan eki eksikliğinden' kaynaklanan bir anlatım bozukluğu vardır?",
+    "explanation": "D şıkkındaki cümlede 'senin fikir ve önerilerin' ifadesinde tamlayan eki eksikliği vardır. Doğru kullanım 'senin fikirlerin ve önerilerin' şeklinde olmalıdır. 'Fikir' sözcüğünden sonra tamlanan eki (-lerin) gelmemiş, bu da anlam karışıklığına yol açmıştır.",
+    "options": [
+      {
+        "text": "Ev ve araba almak için para biriktiriyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mavi ve kırmızı kalemlerimi kaybettim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ankara ve İstanbul'un nüfusu oldukça kalabalık.",
+        "isCorrect": false
+      },
+      {
+        "text": "Senin fikir ve önerilerin çok değerliydi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ağaçların yaprakları sararmaya başladı.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Bozuklukları",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'yanlış anlamda sözcük kullanımı'ndan kaynaklanan bir anlatım bozukluğu vardır?",
+    "explanation": "E şıkkındaki cümlede 'etken' sözcüğü yanlış anlamda kullanılmıştır. 'Etken', 'bir sonucun ortaya çıkmasına sebep olan şey' anlamına gelir. Cümlede kastedilen anlam 'etkili' olmalıydı, yani 'tesirli, etkisi olan' anlamında. Doğrusu 'Çok etkili bir sunum yaptı.' olmalıdır.",
+    "options": [
+      {
+        "text": "Bu kadar yorgunken araba kullanmak tehlikeli olabilir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeni aldığım bilgisayar çok hızlı çalışıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Söylediklerim onu çok üzmüş olmalı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Toplantıda eleştirilerimiz yapıcı olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çok etken bir sunum yaptı, herkesi ikna etti.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Anlatım Bozuklukları",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Bir olayı, oluşu veya durumu; nedenleri ve sonuçlarıyla birlikte, zaman ve yer göstererek anlatan anlatım biçimi aşağıdakilerden hangisidir?",
+    "explanation": "Bir olayın, oluşun veya durumun nedenleri ve sonuçlarıyla birlikte, zaman ve yer göstererek anlatılması 'Öyküleme' (Hikaye Etme) anlatım biçiminin temel özelliğidir. Bu anlatım biçimi olay ağırlıklıdır ve hareket bildiren fiiller sıkça kullanılır.",
+    "options": [
+      {
+        "text": "Açıklama",
+        "isCorrect": false
+      },
+      {
+        "text": "Betimleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Öyküleme",
+        "isCorrect": true
+      },
+      {
+        "text": "Tartışma",
+        "isCorrect": false
+      },
+      {
+        "text": "Örnekleme",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Biçimleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Bir varlığın, yerin, kişinin veya olayın okuyucunun zihninde canlanacak şekilde ayırt edici özellikleriyle anlatılmasına ne denir?",
+    "explanation": "Bir varlığın, yerin, kişinin veya olayın, okuyucunun gözünde canlanacak şekilde, ayırt edici özellikleriyle anlatılması 'Betimleme' (Tasvir Etme) anlatım biçimidir. Bu anlatımda görsel öğeler ağır basar ve sıfatlar sıkça kullanılır.",
+    "options": [
+      {
+        "text": "Öyküleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Betimleme",
+        "isCorrect": true
+      },
+      {
+        "text": "Açıklama",
+        "isCorrect": false
+      },
+      {
+        "text": "Tartışma",
+        "isCorrect": false
+      },
+      {
+        "text": "Kanıtlama",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Biçimleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Herhangi bir konu hakkında bilgi vermek, bir şeyi öğretmek amacıyla kullanılan; nesnel ve açık bir dilin hâkim olduğu anlatım biçimi aşağıdakilerden hangisidir?",
+    "explanation": "Herhangi bir konu hakkında bilgi vermek, bir şeyi öğretmek amacıyla kullanılan; nesnel, açık ve sade bir dilin hâkim olduğu anlatım biçimi 'Açıklama'dır. Bu anlatım biçiminde tanımlara, örneklere ve karşılaştırmalara sıkça başvurulur.",
+    "options": [
+      {
+        "text": "Betimleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Öyküleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Açıklama",
+        "isCorrect": true
+      },
+      {
+        "text": "Tartışma",
+        "isCorrect": false
+      },
+      {
+        "text": "Anlatma",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Biçimleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Yazarın, okuyucuyu veya bir düşünceyi kendi düşüncesine inandırmak amacıyla kullandığı, iki farklı görüşün çatıştığı anlatım biçimi aşağıdakilerden hangisidir?",
+    "explanation": "Yazarın, okuyucuyu veya bir düşünceyi kendi düşüncesine inandırmak amacıyla kullandığı, iki farklı görüşün çatıştığı anlatım biçimi 'Tartışma'dır. Bu anlatım biçiminde 'kanıt, soru, eleştiri' gibi öğeler öne çıkar ve yazar genellikle kendi tezini savunur.",
+    "options": [
+      {
+        "text": "Açıklama",
+        "isCorrect": false
+      },
+      {
+        "text": "Betimleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Öyküleme",
+        "isCorrect": false
+      },
+      {
+        "text": "Tartışma",
+        "isCorrect": true
+      },
+      {
+        "text": "İspatlama",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Anlatım Biçimleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde '-mış, -miş, -muş, -müş' eki birleşik zamanlı fiil oluşturmak için kullanılmıştır? (Ek-fiil göreviyle kullanılmıştır)",
+    "explanation": "Ek-fiil, isim soylu sözcüklere gelerek onları yüklem yapan veya basit zamanlı fiillere gelerek birleşik zamanlı fiil oluşturan '-i(mek)' fiilidir. B şıkkında 'anlatıyormuş' fiili, şimdiki zaman eki (-yor) üzerine ek-fiilin duyulan geçmiş zaman eki (-muş) getirilerek oluşturulmuş birleşik zamanlı bir fiildir.",
+    "options": [
+      {
+        "text": "Dün akşam çok güzel bir rüya görmüş.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu konuyu daha önce sana anlatıyormuş.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yarın sınav olduğunu unutmuş.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evden çıkalı epey zaman olmuş.",
+        "isCorrect": false
+      },
+      {
+        "text": "Seni arayan arkadaşın gelmiş.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fill-Ek Fiil",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ek-fiil (ek eylem) düşmüştür?",
+    "explanation": "Ek-fiil, özellikle üçüncü tekil şahıs (o) için bazen düşebilir. C şıkkındaki 'O, sınıfımızın en çalışkan öğrencisi.' cümlesinde, yüklem olan 'öğrencisi' isim soylu sözcüğüdür. Aslında bu cümlenin yüklemi 'öğrencisiydi' veya 'öğrencisi(dir)' şeklinde olmalıydı. Burada ek-fiil (i-di veya i-dir) düşmüştür.",
+    "options": [
+      {
+        "text": "Bu ev daha yeni yapıldı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın bizim için çok önemli.",
+        "isCorrect": false
+      },
+      {
+        "text": "O, sınıfımızın en çalışkan öğrencisi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Seninle konuşmak istiyorum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Soru çok kolaymış.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fill-Ek Fiil",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ek-fiil (ek eylem) bir isme gelerek onu yüklem yapmıştır?",
+    "explanation": "Ek-fiilin temel görevlerinden biri, isim soylu sözcüklere gelerek onları yüklem yapmaktır. E şıkkındaki 'Yarın hava güzel olacak.' cümlesinde, 'güzel' sözcüğü bir sıfattır (isim soylu). Bu sıfat, ek-fiilin gelecek zaman eki (-acak) ile birleşerek 'güzel olacak' şeklinde yüklem olmuştur.",
+    "options": [
+      {
+        "text": "Bu kitabı daha önce okumuştum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Her şey planladığımız gibi gidiyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sana söylediklerimi unutma.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yeni bir araba almışlar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın hava güzel olacak.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Fill-Ek Fiil",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde ek-fiil (ek eylem) birleşik zamanlı fiil oluşturmamıştır?",
+    "explanation": "Ek-fiil, basit zamanlı bir fiile gelerek o fiili birleşik zamanlı yapar. A şıkkındaki 'O, dün buradaydı.' cümlesinde yüklem 'buradaydı'dır. 'Burada' bir zamirdir (isim soylu). Ek-fiilin görülen geçmiş zaman eki (-di) bu isme eklenerek onu yüklem yapmıştır. Burada ek-fiil, bir fiille değil, bir isimle birleştiği için birleşik zamanlı fiil oluşturma söz konusu değildir. Ek-fiil sadece yüklem görevi üstlenmiştir.",
+    "options": [
+      {
+        "text": "O, dün buradaydı.",
+        "isCorrect": true
+      },
+      {
+        "text": "Seni aramalıymışsın.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu işi bitirecekmiş.",
+        "isCorrect": false
+      },
+      {
+        "text": "Her gün aynı yoldan yürüyordum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Söylediklerimi anlıyor musun?",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Fill-Ek Fiil",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisi yapısına göre 'basit cümle'dir?",
+    "explanation": "Yapısına göre cümleler, basit, birleşik, sıralı ve bağlı olarak ayrılır. Basit cümle, tek yargı bildiren, tek bir yüklemi olan cümledir. C şıkkındaki 'Çocuklar bahçede top oynuyor.' cümlesi tek bir yüklem ('oynuyor') içerir ve tek bir yargı bildirir. Bu nedenle yapısına göre basit cümledir.",
+    "options": [
+      {
+        "text": "Yağmur yağdı ve her yer ıslandı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitabı okudum ama anlayamadım.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çocuklar bahçede top oynuyor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Biraz yürüdükten sonra dinlendik.",
+        "isCorrect": false
+      },
+      {
+        "text": "O geldiği zaman biz çoktan gitmiştik.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümle Türleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisi yükleminin türüne göre 'isim cümlesi'dir?",
+    "explanation": "Yükleminin türüne göre cümleler, fiil cümlesi ve isim cümlesi olarak ikiye ayrılır. Yüklemi isim soylu bir sözcük (isim, sıfat, zamir, zarf) olan cümlelere isim cümlesi denir. D şıkkındaki 'Bu sorunun cevabı çok basit.' cümlesinin yüklemi 'basit' sözcüğüdür. 'Basit' bir sıfattır (isim soylu). Bu nedenle bu cümle bir isim cümlesidir.",
+    "options": [
+      {
+        "text": "Yarın erken saatlerde yola çıkacağız.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu konuyu daha önce konuşmuştuk.",
+        "isCorrect": false
+      },
+      {
+        "text": "Telefonunu sessize almış.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu sorunun cevabı çok basit.",
+        "isCorrect": true
+      },
+      {
+        "text": "Misafirler henüz gelmedi.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Cümle Türleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisi anlamına göre 'soru cümlesi'dir?",
+    "explanation": "Anlamına göre cümle türlerinden biri olan soru cümlesi, bir şey öğrenmek veya şüpheyi gidermek amacıyla soru anlamı taşıyan cümledir. E şıkkındaki 'Bu kitabı daha önce okudun mu?' cümlesi, bir eylemin yapılıp yapılmadığını öğrenmek amacıyla sorulmuş, cevap bekleyen bir soru cümlesidir.",
+    "options": [
+      {
+        "text": "Lütfen sessiz olur musunuz?",
+        "isCorrect": false
+      },
+      {
+        "text": "Ne kadar güzel bir gün, değil mi?",
+        "isCorrect": false
+      },
+      {
+        "text": "Kimse gelmeyecek galiba.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nerede o eski günler?",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu kitabı daha önce okudun mu?",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Cümle Türleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'sıfat tamlaması' kullanılmıştır?",
+    "explanation": "Bir sıfat tamlaması, bir ismi niteleyen veya belirten bir sıfat ile o isimden oluşur. 'Eski ev' ifadesinde 'eski' sıfatı, 'ev' ismini nitelediği için bir sıfat tamlamasıdır.",
+    "options": [
+      {
+        "text": "O, çok hızlı koşuyordu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eski evin bahçesi çok büyüktü.",
+        "isCorrect": true
+      },
+      {
+        "text": "Kitabı sessizce okudum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın okula gideceğim.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu soruyu anlamadım.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'bağlaç' kullanılmıştır?",
+    "explanation": "Bağlaçlar, sözcükleri veya cümleleri birbirine bağlayan kelimelerdir. 'Ancak' kelimesi, bu cümlede iki cümleyi birbirine bağlayan bir bağlaç görevi görmektedir.",
+    "options": [
+      {
+        "text": "Ev ile okul arası yürümekle geçiyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Seni aradım fakat evde yoktun.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çok yorgundum ancak işi bitirmek zorundaydım.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sadece seni dinliyorum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Buraya kadar gelmiş.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde 'zarf' (belirteç) kullanılmamıştır?",
+    "explanation": "Zarf (belirteç), fiilleri, sıfatları veya başka zarfları niteler. 'Çok güzel şarkı söylüyor.' cümlesinde 'çok' zarfı 'güzel' sıfatını, 'güzel' zarfı ise 'söylüyor' fiilini niteler. 'Dün akşam erken yattım.' cümlesinde 'erken' zarfı 'yattım' fiilini niteler. 'Olanları sabırla bekledi.' cümlesinde 'sabırla' zarfı 'bekledi' fiilini niteler. 'Yarın görüşürüz.' cümlesinde 'yarın' zarfı 'görüşürüz' fiilini niteler. 'Bu kitabı okumalısın.' cümlesinde ise fiili, sıfatı veya başka bir zarfı niteleyen bir zarf bulunmamaktadır.",
+    "options": [
+      {
+        "text": "Çok güzel şarkı söylüyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dün akşam erken yattım.",
+        "isCorrect": false
+      },
+      {
+        "text": "Olanları sabırla bekledi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Yarın görüşürüz.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bu kitabı okumalısın.",
+        "isCorrect": true
+      }
+    ],
+    "topic": "Sözcük Türleri",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde fiil 'geçişli' dir?",
+    "explanation": "Geçişli fiiller, nesne alabilen fiillerdir. 'Okudum' fiili, 'kitabı' nesnesini aldığı için geçişlidir.",
+    "options": [
+      {
+        "text": "Kuşlar cıvıldaşıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dün akşam uyudum.",
+        "isCorrect": false
+      },
+      {
+        "text": "Kitabı bir solukta okudum.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yağmur yağıyor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Çocuklar bahçede koşuyor.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Filde Çatı",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
+  },
+  {
+    "text": "Aşağıdaki cümlelerin hangisinde fiil 'ettirgen' çatılıdır?",
+    "explanation": "Ettirgen çatı, fiilin '-dir, -t, -r' gibi eklerle başkasına yaptırıldığını gösterir. 'Yıkatmak' fiili, 'yıka-' köküne '-t-' ettirgenlik eki ve '-mak' mastar eki getirilerek oluşturulmuştur ve 'çamaşırları (birine) yıkatmak' anlamına gelir.",
+    "options": [
+      {
+        "text": "Çocuk yemek yedi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Misafirler geldi.",
+        "isCorrect": false
+      },
+      {
+        "text": "Müdür öğretmeni çağırdı.",
+        "isCorrect": false
+      },
+      {
+        "text": "Annem çamaşırları yıkatmak için çamaşırhaneye götürdü.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ödevlerimi bitirdim.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Filde Çatı",
+    "exam": "TYT",
+    "difficulty": "Orta",
+    "subject": "Türkçe"
   }
 ]
