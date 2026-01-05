@@ -1114,5 +1114,67 @@
     "section": "Say",
     "difficulty": "Orta",
     "subject": "Fizik"
+  },
+  {
+    "text": "Aynı düzlemde bulunan şekildeki K, L ve M vektörlerinin büyüklükleri sırasıyla 3, 4 ve 5 birimdir. Buna göre, K + L + M vektörünün büyüklüğü kaç birimdir? (Not: Şekil olmadan, vektörlerin yönleri şu şekilde verilmiştir: K vektörü +x yönünde, L vektörü +y yönünde, M vektörü -x yönündedir.)",
+    "explanation": "K vektörü +x yönünde 3 birim, L vektörü +y yönünde 4 birim, M vektörü ise -x yönünde 5 birimdir. Önce x bileşenlerini toplayalım: K_x + M_x = 3 + (-5) = -2 birim. Y bileşeni sadece L vektöründen gelir ve +4 birimdir. Bileşke vektörün büyüklüğü R = √((-2)^2 + (4)^2) = √(4 + 16) = √20 = 2√5 birim olur.",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "2√5",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Ağırlığı önemsiz, 10 m uzunluğundaki homojen bir çubuk, bir ucu destek üzerinde olacak şekilde yatay olarak dengelenmiştir. Çubuğun bir ucuna 30 N, diğer ucuna 20 N luk kuvvetler aşağı yönde uygulanıyor. Buna göre, desteğin çubuğa uyguladığı tepki kuvveti kaç N'dur?",
+    "explanation": "Çubuk yatay dengede olduğuna göre, hem kuvvetlerin dengesi hem de tork dengesi sağlanır. Destek noktasına göre tork alalım. Destek çubuğun tam ortasında (5. metrede) olsun. 30 N'luk kuvvetin desteğe uzaklığı 5 m, torku 30 N * 5 m = 150 Nm (saat yönünde). 20 N'luk kuvvetin desteğe uzaklığı 5 m, torku 20 N * 5 m = 100 Nm (saat yönünün tersinde). Net tork sıfır olmalıdır, bu durumda destek ortada olamaz. Destek noktasını, 30 N'luk kuvvetin uygulandığı uçtan x metre uzakta kabul edelim. Tork dengesi: 30*x = 20*(10-x) => 30x = 200 - 20x => 50x = 200 => x=4 m. Yani destek, 30 N'luk kuvvetin olduğu uçtan 4 m, diğer uçtan 6 m uzaktadır. Şimdi kuvvet dengesini yazalım: Yukarı yöndeki tepki kuvveti (N) aşağı yöndeki kuvvetlere eşit olmalıdır. N = 30 N + 20 N = 50 N.",
+    "options": [
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Orta",
+    "subject": "Fizik"
   }
 ]
