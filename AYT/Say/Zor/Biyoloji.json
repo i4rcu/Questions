@@ -649,5 +649,67 @@
     "section": "Say",
     "difficulty": "Zor",
     "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir nöronda aksiyon potansiyelinin oluşumu ve iletilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Aksiyon potansiyeli, hücre zarındaki voltaj kapılı sodyum ve potasyum kanallarının sırayla açılıp kapanmasıyla oluşan 'hepsi ya da hiç' kuralına uyan bir elektriksel sinyaldir. Miyelin kılıf, aksiyon potansiyelinin oluşmasını engellemez; aksiyon potansiyeli hala Ranvier boğumlarında oluşur. Akson boyunca atlamalı iletim (saltatuvar ileti) sayesinde impuls daha hızlı iletilir. Bu nedenle 'Miyelin kılıf, aksiyon potansiyelinin oluşmasını engeller' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "Aksiyon potansiyeli 'hepsi ya da hiç' kuralına göre oluşur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dinlenim potansiyeli sırasında hücre içi negatif, hücre dışı pozitif yüklüdür.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aksiyon potansiyeli oluşurken voltaj kapılı sodyum kanalları açılır ve Na+ iyonları hücre içine girer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Miyelin kılıf, aksiyon potansiyelinin oluşmasını engeller.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ranvier boğumlarında atlamalı iletim görülür, bu da impuls iletim hızını artırır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sinir Sistemi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
+  },
+  {
+    "text": "Bir hormonun hedef hücre üzerindeki etkisini tamamladıktan sonra ortamdan uzaklaştırılması veya inaktif hale getirilmesi süreciyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Hormonların etkilerinin kontrolü ve aşırı uyarının önlenmesi için aktiviteleri sonlandırılmalıdır. Bu süreç, hormonun yapısına göre değişir. Peptit yapılı hormonlar (örneğin insülin) genellikle hedef hücrede veya karaciğerde enzimatik olarak parçalanır. Steroid hormonlar ise genellikle karaciğerde kimyasal olarak modifiye edilip (konjugasyon) safra yoluyla veya böbreklerden idrarla atılır. Bu nedenle 'Karaciğerde parçalanarak veya böbreklerden atılarak gerçekleşir' ifadesi hormonların inaktivasyonu için genel ve doğru bir açıklamadır.",
+    "options": [
+      {
+        "text": "Sadece böbreklerden süzülerek idrarla atılır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hormonlar geri dönüştürülerek tekrar kullanılır, bu nedenle inaktive edilmez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sadece salgılandıkları endokrin bezdeki geri besleme mekanizmasıyla durdurulur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Karaciğerde parçalanarak veya böbreklerden atılarak gerçekleşir.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hedef hücre zarında bulunan özel pompalar tarafından aktif olarak hücre dışına atılır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Endokrin Sistem",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Biyoloji"
   }
 ]
