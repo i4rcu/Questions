@@ -2385,5 +2385,191 @@
     "section": "Say",
     "difficulty": "Zor",
     "subject": "Matematik"
+  },
+  {
+    "text": "a, b ve c birbirinden farklı pozitif tam sayılardır. a + b + c = 12 olduğuna göre, a.b.c çarpımının alabileceği en büyük değer ile en küçük değerin toplamı kaçtır?",
+    "explanation": "Çarpımın en büyük olması için sayılar birbirine yakın seçilir. 12/3=4 olduğundan, sayılar 3, 4, 5 seçilirse çarpım 3*4*5=60 olur. En küçük çarpım için sayılar birbirinden uzak seçilir. Pozitif ve farklı olma koşuluyla 1, 2 ve 9 seçilirse çarpım 1*2*9=18 olur. Ancak 1, 3 ve 8 seçilirse çarpım 1*3*8=24 olur ki bu daha büyüktür. En küçük çarpım için 1, 2 ve 9 seçilmelidir. Toplamları 1+2+9=12'dir ve çarpımları 18'dir. Dolayısıyla en büyük ve en küçük değerlerin toplamı 60 + 18 = 78'dir.",
+    "options": [
+      {
+        "text": "78",
+        "isCorrect": true
+      },
+      {
+        "text": "82",
+        "isCorrect": false
+      },
+      {
+        "text": "75",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": false
+      },
+      {
+        "text": "85",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Temel Kavramlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Matematik"
+  },
+  {
+    "text": "İki basamaklı AB doğal sayısı, rakamları toplamının 6 katına eşittir. Buna göre, bu koşulu sağlayan kaç farklı AB sayısı vardır?",
+    "explanation": "AB sayısı 10A + B şeklindedir. Rakamları toplamı A + B'dir. Soruda verilen koşula göre: 10A + B = 6(A + B). Denklemi düzenlersek: 10A + B = 6A + 6B => 4A = 5B => A/B = 5/4. A ve B rakam olduğundan ve A sıfır olamayacağından (iki basamaklı sayı), A=5 ve B=4 olabilir. Bu durumu sağlayan tek sayı 54'tür. Kontrol: 54 / (5+4) = 54/9 = 6. Yani koşulu sağlayan sadece 1 sayı vardır.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Sayı Basamakları",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Beş basamaklı 17A3B sayısı 45 ile tam bölünebildiğine göre, A + B toplamının alabileceği en büyük değer kaçtır?",
+    "explanation": "45 ile bölünebilme kuralı, sayının 5 ve 9 ile tam bölünmesini gerektirir (45=5*9). 5 ile bölünebilme kuralı: Son rakam 0 veya 5 olmalı. Bu durumda B=0 veya B=5 olabilir. 9 ile bölünebilme kuralı: Rakamları toplamı 9'un katı olmalı. Rakamlar toplamı: 1+7+A+3+B = 11 + A + B. Durum 1: B=0 ise, rakamlar toplamı 11+A olur. Bu toplamın 9'un katı olması için A=7 olmalı (11+7=18). Bu durumda A+B=7+0=7. Durum 2: B=5 ise, rakamlar toplamı 11+A+5=16+A olur. Bu toplamın 9'un katı olması için A=2 olmalı (16+2=18). Bu durumda A+B=2+5=7. Ayrıca A=11 de 9'un katı yapar ama A bir rakam olduğu için bu mümkün değil. Görüldüğü gibi her iki durumda da A+B toplamı 7'ye eşit çıkıyor. Soru en büyük değeri sorduğu için cevap 7'dir. Ancak kontrol ettiğimizde başka bir kombinasyon yok. Cevap 7'dir.",
+    "options": [
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Bölme ve Bölünebilme",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Matematik"
+  },
+  {
+    "text": "Boyutları 48 cm, 60 cm ve 72 cm olan dikdörtgenler prizması şeklindeki tuğlalar, hiç boşluk kalmayacak şekilde bir küp oluşturmak için kullanılacaktır. En az kaç tuğla gereklidir?",
+    "explanation": "Küpün bir kenar uzunluğu, tuğlaların boyutlarının ortak katı olmalıdır. En küçük küpü elde etmek için EKOK kullanılır. EKOK(48, 60, 72) hesaplanır. 48=2^4 * 3, 60=2^2 * 3 * 5, 72=2^3 * 3^2. EKOK = 2^4 * 3^2 * 5 = 16 * 9 * 5 = 720 cm. Küpün hacmi = 720^3. Bir tuğlanın hacmi = 48 * 60 * 72. Gerekli tuğla sayısı = Küpün Hacmi / Bir Tuğlanın Hacmi = (720^3) / (48 * 60 * 72). Bu ifade sadeleştirilebilir: (720/48) * (720/60) * (720/72) = 15 * 12 * 10 = 1800. Dolayısıyla en az 1800 tuğla gereklidir.",
+    "options": [
+      {
+        "text": "1800",
+        "isCorrect": true
+      },
+      {
+        "text": "1440",
+        "isCorrect": false
+      },
+      {
+        "text": "1200",
+        "isCorrect": false
+      },
+      {
+        "text": "900",
+        "isCorrect": false
+      },
+      {
+        "text": "720",
+        "isCorrect": false
+      }
+    ],
+    "topic": "EBOB – EKOK",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Matematik"
+  },
+  {
+    "text": "(1/2 + 1/3 + 1/4) / (1/6 + 1/8 + 1/12) işleminin sonucu kaçtır?",
+    "explanation": "Pay ve paydadaki kesirlerin paydalarını ortak paydada toplayalım. Pay için ortak payda 12'dir: (1/2)=6/12, (1/3)=4/12, (1/4)=3/12. Toplam: (6+4+3)/12 = 13/12. Payda için ortak payda 24'tür: (1/6)=4/24, (1/8)=3/24, (1/12)=2/24. Toplam: (4+3+2)/24 = 9/24 = 3/8. Sonuç: (13/12) / (3/8) = (13/12) * (8/3) = (13*8)/(12*3) = 104 / 36. Bu kesir 4 ile sadeleşir: 26/9.",
+    "options": [
+      {
+        "text": "26/9",
+        "isCorrect": true
+      },
+      {
+        "text": "13/6",
+        "isCorrect": false
+      },
+      {
+        "text": "3/2",
+        "isCorrect": false
+      },
+      {
+        "text": "9/4",
+        "isCorrect": false
+      },
+      {
+        "text": "7/3",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Rasyonel Sayılar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Matematik"
+  },
+  {
+    "text": "x ve y gerçel sayıları -2 < x < 5 ve 1 < y < 4 eşitsizliklerini sağlamaktadır. Buna göre, (3x - 2y) ifadesinin alabileceği tam sayı değerlerinin toplamı kaçtır?",
+    "explanation": "Önce x ve y'nin aralıklarını kullanarak 3x ve -2y'nin aralıklarını bulalım. -2 < x < 5 => -6 < 3x < 15. 1 < y < 4 => -8 < -2y < -2 (Eşitsizlik yön değiştirir). Şimdi bu iki aralığı toplayalım: (3x - 2y) = 3x + (-2y). Alt sınır: -6 + (-8) = -14. Üst sınır: 15 + (-2) = 13. Ancak bu toplamın tam değerini bulmak için sınırların kesin olup olmadığına dikkat etmek gerekir. x ve y sürekli değişken olduğundan, -14 ve 13 değerlerine ulaşılamaz (çünkü x ve y eşitsizliklerde kesin küçüktür/büyüktür). Bu nedenle (3x - 2y) ifadesi -14'ten büyük, 13'ten küçük değerler alabilir. Yani alabileceği değerler -13, -12, ..., 12 aralığındaki tam sayılardır. Bu bir aritmetik dizidir: İlk terim -13, son terim 12, terim sayısı = 12 - (-13) + 1 = 26. Toplam = (Terim Sayısı) * (İlk Terim + Son Terim) / 2 = 26 * (-13 + 12) / 2 = 26 * (-1) / 2 = -13.",
+    "options": [
+      {
+        "text": "-13",
+        "isCorrect": true
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "26",
+        "isCorrect": false
+      },
+      {
+        "text": "-26",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Basit Eşitsizlikler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Matematik"
   }
 ]
