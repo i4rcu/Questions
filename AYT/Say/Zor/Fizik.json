@@ -1176,5 +1176,67 @@
     "section": "Say",
     "difficulty": "Zor",
     "subject": "Fizik"
+  },
+  {
+    "text": "Aynı düzlemde bulunan üç vektörün büyüklükleri sırasıyla 3, 4 ve 5 birimdir. Bu vektörlerin bileşkesinin alabileceği minimum değer kaç birimdir?",
+    "explanation": "Üç vektörün bileşkesinin minimum değeri, vektörlerin uygun şekilde düzenlenerek birbirlerini maksimum düzeyde sönümlemesiyle bulunur. Büyüklükleri 3, 4 ve 5 birim olan vektörlerden herhangi ikisinin bileşkesinin alabileceği minimum değer, aralarındaki açı 180° olduğunda |3-4|=1 birimdir. Bu 1 birimlik bileşke vektörü ile üçüncü vektör (5 birim) arasındaki açı 180° olduğunda toplam bileşke |1-5|=4 birim olur. Ancak, 3 ve 4 birimlik vektörlerin bileşkesi 5 birim olacak şekilde (3-4-5 üçgeni) aralarındaki açı 90°'dir. Bu durumda, 5 birimlik bileşke vektörü ile diğer 5 birimlik vektör arasındaki açı 180° yapılırsa, bileşke sıfır olur. Bu nedenle minimum değer 0 birimdir.",
+    "options": [
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Vektörler",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
+  },
+  {
+    "text": "Ağırlığı önemsiz, 2 metre uzunluğundaki homojen bir çubuk, bir ucundan geçen eksen etrafında dönebilecek şekilde sabitlenmiştir. Çubuğun serbest ucuna 30 N'luk düşey bir kuvvet uygulanıyor. Çubuğa, serbest uçtan 0.5 metre uzaklıkta ve çubuğa dik olarak etki eden kaç N'luk bir kuvvet, uygulandığı noktadan geçen eksene göre torku, 30 N'luk kuvvetin torkuna eşit ve zıt yönde olacak şekilde uygulanmalıdır ki çubuk dengede kalsın?",
+    "explanation": "Çubuk dengede olduğu için eksene göre net tork sıfır olmalıdır. İlk kuvvet (30 N) eksenden 2 m uzakta etki eder ve torku 30 N * 2 m = 60 Nm'dir (yönü saat yönünde kabul edelim). İkinci kuvvet (F), eksenden 1.5 m uzakta etki etmelidir çünkü serbest uçtan 0.5 m uzakta olduğu belirtilmiş, serbest uç eksenden 2 m uzakta, dolayısıyla F kuvvetinin eksene uzaklığı 2 m - 0.5 m = 1.5 m'dir. Bu kuvvetin torku, ilk torku dengeleyecek yönde (saat yönünün tersi) ve büyüklükte olmalıdır. Tork denklemi: F * 1.5 m = 60 Nm. Buradan F = 60 / 1.5 = 40 N bulunur.",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Kuvvet, Tork ve Denge",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Fizik"
   }
 ]
