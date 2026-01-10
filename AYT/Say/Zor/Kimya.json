@@ -556,5 +556,67 @@
     "section": "Say",
     "difficulty": "Zor",
     "subject": "Kimya"
+  },
+  {
+    "text": "Bir elementin atomunun temel hal elektron dağılımı 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵ şeklindedir. Bu element ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "explanation": "Elektron dağılımı 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵ olan atom, toplam 35 elektrona sahiptir (2+2+6+2+6+2+10+5=35). Atom numarası 35 olan element Brom'dur (Br). Brom, 4. periyot, 7A grubunda (halojenler) bulunur. Değerlik elektronları 4s ve 4p alt kabuğundadır (4s² 4p⁵), bu nedenle değerlik elektron sayısı 7'dir. Atom çapı, aynı periyotta soldan sağa doğru azalma eğilimindedir. 4. periyottaki elementlerden Potasyum (K, 19) en büyük, Kripton (Kr, 36) en küçük atoma sahiptir. Brom (35), Kripton'dan (36) daha solda olduğu için atom çapı Kripton'dan büyüktür. Dolayısıyla 'Atom çapı, aynı periyottaki soy gazdan daha küçüktür' ifadesi yanlıştır.",
+    "options": [
+      {
+        "text": "Değerlik elektronları 4s ve 4p orbitallerinde bulunur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Periyodik sistemde 7A grubunda yer alır.",
+        "isCorrect": false
+      },
+      {
+        "text": "Atom çapı, aynı periyottaki soy gazdan daha küçüktür.",
+        "isCorrect": true
+      },
+      {
+        "text": "Klor elementine göre daha büyük atom yarıçapına sahiptir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Temel halde 2 tane bağlanmamış elektronu vardır.",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Modern Atom Teorisi",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
+  },
+  {
+    "text": "Sabit sıcaklıkta 2 litrelik kapta bulunan X gazının basıncı 3 atm'dir. Aynı sıcaklıkta kaba, kaptaki gazlarla tepkime vermeyen Y gazı eklenerek toplam basınç 7 atm'ye çıkarılıyor. Buna göre, son durumda kaptaki Y gazının kısmi basıncı kaç atm'dir?",
+    "explanation": "İlk durumda kapta sadece X gazı vardır ve basıncı (P_X) 3 atm'dir. Kaba Y gazı eklendikten sonra toplam basınç (P_toplam) 7 atm olmuştur. Kaptaki gazlar birbiriyle tepkime vermediğine göre, Dalton'un Kısmi Basınçlar Yasası'na göre toplam basınç, gazların kısmi basınçlarının toplamına eşittir: P_toplam = P_X + P_Y. Kapta X gazının miktarı değişmediği ve sıcaklık sabit kaldığı için X gazının kısmi basıncı yine 3 atm'dir. Bu durumda Y gazının kısmi basıncı (P_Y) = P_toplam - P_X = 7 atm - 3 atm = 4 atm olur.",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Gazlar",
+    "exam": "AYT",
+    "section": "Say",
+    "difficulty": "Zor",
+    "subject": "Kimya"
   }
 ]
